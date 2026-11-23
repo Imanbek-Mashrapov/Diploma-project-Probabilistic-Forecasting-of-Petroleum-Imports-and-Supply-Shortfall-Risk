@@ -1,0 +1,25 @@
+database,theme,query,search_date,total_hits,retrieved,status
+openalex_citations,snowball_forward,cites 10.1016/j.ijforecast.2021.03.004 | forecasting,2026-11-07,229,25,ok
+openalex_citations,snowball_backward,references of 10.1016/j.ijforecast.2021.03.004,2026-11-07,48,43,ok
+openalex_citations,snowball_forward,cites 10.1016/j.ijforecast.2020.11.009 | forecasting,2026-11-07,76,25,ok
+openalex_citations,snowball_backward,references of 10.1016/j.ijforecast.2020.11.009,2026-11-07,63,60,ok
+openalex_citations,snowball_forward,cites 10.1016/j.patcog.2021.108441 | forecasting,2026-11-07,86,25,ok
+openalex_citations,snowball_backward,references of 10.1016/j.patcog.2021.108441,2026-11-07,87,81,ok
+openalex_citations,snowball_forward,cites 10.1257/aer.20191823 | oil OR petroleum OR energy import,2026-11-07,819,25,ok
+openalex_citations,snowball_backward,references of 10.1257/aer.20191823,2026-11-07,34,33,ok
+openalex_citations,snowball_forward,cites 10.1016/j.enpol.2011.06.034 | oil OR petroleum OR import,2026-11-07,162,25,ok
+openalex_citations,snowball_backward,references of 10.1016/j.enpol.2011.06.034,2026-11-07,14,12,ok
+openalex_citations,snowball_forward,cites 10.1016/j.enpol.2009.05.069 | oil OR petroleum OR import,2026-11-07,216,25,ok
+openalex_citations,snowball_backward,references of 10.1016/j.enpol.2009.05.069,2026-11-07,11,8,ok
+openalex_citations,snowball_forward,cites 10.1016/j.rser.2014.10.064 | oil OR petroleum OR import,2026-11-07,530,25,ok
+openalex_citations,snowball_backward,references of 10.1016/j.rser.2014.10.064,2026-11-07,100,96,ok
+openalex_citations,snowball_forward,cites 10.1016/j.knosys.2022.108687 | import OR oil,2026-11-07,12,12,ok
+openalex_citations,snowball_backward,references of 10.1016/j.knosys.2022.108687,2026-11-07,41,41,ok
+openalex_citations,snowball_forward,cites 10.1016/j.physa.2024.129977 | trade OR import,2026-11-07,31,25,ok
+openalex_citations,snowball_backward,references of 10.1016/j.physa.2024.129977,2026-11-07,56,56,ok
+openalex_citations,snowball_forward,cites 10.1016/j.ijforecast.2021.11.013 | gradient boosting OR LightGBM OR probabilistic,2026-11-07,349,25,ok
+openalex_citations,snowball_backward,references of 10.1016/j.ijforecast.2021.11.013,2026-11-07,80,77,ok
+openalex_citations,snowball_forward,cites 10.1016/j.ijforecast.2019.07.001 | energy OR trade OR demand,2026-11-07,1740,25,ok
+openalex_citations,snowball_backward,references of 10.1016/j.ijforecast.2019.07.001,2026-11-07,57,55,ok
+openalex_citations,snowball_forward,cites 10.3390/en15217822 | energy OR fuel,2026-11-07,10,10,ok
+openalex_citations,snowball_backward,references of 10.3390/en15217822,2026-11-07,43,42,ok

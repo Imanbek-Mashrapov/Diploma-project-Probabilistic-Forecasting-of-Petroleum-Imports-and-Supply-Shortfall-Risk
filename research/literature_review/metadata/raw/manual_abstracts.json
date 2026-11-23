@@ -1,0 +1,92 @@
+{
+ "_note": "Abstracts read on public publisher landing pages in the Claude desktop browser pane on 2026-11-07 (no login, no paywall bypass). ScienceDirect pages returned a CAPTCHA and were not used. Text below is a close paraphrase or short extract for screening and extraction only.",
+ "10.1007/s10553-026-02011-4": {
+  "source": "https://link.springer.com/article/10.1007/s10553-026-02011-4",
+  "authors": "Yi Qin; Yanrong Huang; ...; Bo Wei",
+  "venue": "Chemistry and Technology of Fuels and Oils 61, 1602-1611 (2026)",
+  "summary": "Explores how growth of new-energy supply (wind, solar, hydro, nuclear) affects China's oil import demand. Uses China statistical yearbook data; selects key indicator combinations with grey relational analysis and machine learning; compares models and proposes the method with the highest accuracy and stability."
+ },
+ "10.1007/978-3-032-09945-7_39": {
+  "source": "https://link.springer.com/chapter/10.1007/978-3-032-09945-7_39",
+  "authors": "Suppanunta Romprasert; Tanapat Romprasert; Danai Tanamee",
+  "venue": "CCIS vol. 2729 (conference chapter)",
+  "summary": "Despite the 'AI-based forecasting' title, the abstract reports a multiple regression and elasticity analysis of Thailand's crude oil import demand: GDP and OPEC production positive; domestic energy production and Dubai price negative; short-run and long-run price elasticities -0.011 and -0.015; income elasticities 0.212 and 0.298."
+ },
+ "10.1007/978-981-97-8031-0_81": {
+  "source": "https://link.springer.com/chapter/10.1007/978-981-97-8031-0_81",
+  "authors": "N. Chandan Babu; Chakravadhanula Naga Pranav; ...; Pasupuleti Triveni Nagamani",
+  "venue": "LNEE vol. 1273 (conference chapter)",
+  "summary": "ARIMA models for India's crude oil and petroleum products/lubricants production and imports, 1987-2022, with five-year forecasts: crude production falling, product output and imports of both rising."
+ },
+ "10.1007/s11135-025-02268-7": {
+  "source": "https://link.springer.com/article/10.1007/s11135-025-02268-7",
+  "authors": "Husna Sizza; Anthony Nyangarika; Thomas Kivevele",
+  "venue": "Quality & Quantity 60, 995-1021 (2026; online 2025)",
+  "summary": "Determinants of total and product-specific petroleum import demand in Tanzania (gasoline/diesel, kerosene, jet fuel via the Bulk Procurement System), 1990-2021, ARDL bounds test and ECM with structural breaks. Exchange rate, global oil prices, growth and demographics matter; Brent and exchange rate are long-run determinants; demand is price-inelastic; structural breaks change cointegration conclusions."
+ },
+ "10.1007/s41060-025-00781-4": {
+  "source": "https://link.springer.com/article/10.1007/s41060-025-00781-4",
+  "authors": "Djihad Arrar; Chahinez Ounoughi; ...; Sadok Ben Yahia",
+  "venue": "International Journal of Data Science and Analytics 20, 5631-5651 (2025)",
+  "summary": "TFT for multi-horizon forecasting of international raw-material trade flows using UN Comtrade, CEPII Gravity and World Bank data; reports a 17% increase in R2 over random forest and graph attention baselines and robustness during COVID-19 and the Ukraine conflict."
+ },
+ "10.5040/9798881888824.ch-6": {
+  "source": "https://www.bloomsburycollections.com/monograph-detail?docid=b-9798881888824&tocid=b-9798881888824-chapter6",
+  "authors": "Almaz Akhmetov (chapter author per extract)",
+  "venue": "In Karabayeva & Qoraboyev (eds.), Russia-Ukraine War and Its Implications on Central Asia, Lexington Books, 2024, pp. 131-150",
+  "summary": "Book chapter on how the Russia-Ukraine war and sanctions affected Russia-Central Asia trade; only an extract was visible (introduction), so findings are not extracted."
+ },
+ "_note_repec": "Entries with source ideas.repec.org were read as abstract summaries on RePEc/IDEAS pages on 2026-11-07 (Elsevier pages blocked automated access with HTTP 403/CAPTCHA).",
+ "10.1016/j.ijforecast.2020.11.009": {
+  "source": "https://ideas.repec.org/a/eee/intfor/v37y2021i3p1072-1084.html",
+  "summary": "Cross-learning NN models trained on many series vs series-by-series models on M4 monthly data; cross-learning is promising if suitable strategies extract information from large diverse datasets; combinations of traditional and cross-learning methods explored."
+ },
+ "10.1016/s0304-4076(96)01802-7": {
+  "source": "https://ideas.repec.org/a/eee/econom/v77y1997i2p303-327.html",
+  "summary": "RePEc: no abstract available. Only the title is known: comparison of pooled and heterogeneous estimators for dynamic gasoline demand. Findings NOT extracted."
+ },
+ "10.1016/j.ijforecast.2016.02.001": {
+  "source": "https://ideas.repec.org/a/eee/intfor/v32y2016i3p896-913.html",
+  "summary": "Introduces GEFCom2014, a probabilistic forecasting competition with load, price, wind and solar tracks; 581 participants from 61 countries; reviews progress in probabilistic energy forecasting and gives 12 predictions for the next decade."
+ },
+ "10.1016/j.ijforecast.2018.09.001": {
+  "source": "https://ideas.repec.org/a/eee/intfor/v35y2019i2p502-520.html",
+  "summary": "Simulation-based long-term forecasting of fuel demand at a military theatre entry point aggregating war-fighter demand through the supply network; produces an empirical demand distribution (peak amplitude, timing, lead time); forecasts are sensitive to demand pattern, network configuration and constraints."
+ },
+ "10.1016/j.enpol.2009.05.069": {
+  "source": "https://ideas.repec.org/a/eee/enepol/v37y2009i11p4474-4481.html",
+  "summary": "Short-term supply risk index for EU Member States combining import diversification, supplier political risk, transit risk and economic impact of disruption; separate indices for oil, gas and coal; exposure differs by fuel and aggregate indices can mislead."
+ },
+ "10.1016/j.enpol.2007.11.011": {
+  "source": "https://ideas.repec.org/a/eee/enepol/v36y2008i3p1195-1211.html",
+  "summary": "Oil vulnerability index for 26 net oil importers (2004) from nine indicators (oil import share in GDP, intensity, GDP per capita, oil share in TPES, reserves-to-consumption, import dependence, supplier diversification, supplier political risk, market liquidity) combined by PCA; large differences across and within regions."
+ },
+ "10.1016/j.rser.2014.10.064": {
+  "source": "https://ideas.repec.org/a/eee/rensus/v42y2015icp1077-1093.html",
+  "summary": "Review of 104 studies (2001-June 2014) on energy-security definitions and indexes; the concept is contextual and dynamic and has broadened; index construction differs widely, hampering comparison; guidance for index design."
+ },
+ "10.1016/j.econmod.2021.02.013": {
+  "source": "https://ideas.repec.org/a/eee/ecmode/v98y2021icp109-117.html",
+  "summary": "'Import Climate': leading indicator of import growth built from export expectations of a country's main trading partners (business surveys); tested for six advanced economies; outperforms standard domestic business-cycle indicators."
+ },
+ "10.1016/j.energy.2018.08.127": {
+  "source": "https://ideas.repec.org/a/eee/energy/v163y2018icp151-167.html",
+  "summary": "Nonlinear metabolic grey model combined with ARIMA on residuals to forecast China's foreign oil dependence 2017-2030 in two dimensions (demand-supply gap and dependence directly); reported MAE 2.1-2.3%; dependence projected to exceed 80% by 2030."
+ },
+ "10.1016/j.energy.2014.02.091": {
+  "source": "https://ideas.repec.org/a/eee/energy/v68y2014icp930-938.html",
+  "summary": "Modified diversification index of external oil supply risk adding supplier country risk and potential oil-export capacity; applied to China, Japan, US and EU."
+ },
+ "10.1016/j.physa.2024.129977": {
+  "source": "https://ideas.repec.org/a/eee/phsmap/v649y2024ics0378437124004862.html",
+  "summary": "Section-level trade networks for 200+ countries 2010-2022; network topology descriptors added to ML growth forecasts; RF, XGBoost and LightGBM beat linear models; about half of the most important features are network descriptors (SHAP)."
+ },
+ "10.1016/j.energy.2025.137996": {
+  "source": "https://ideas.repec.org/a/eee/energy/v335y2025ics0360544225036382.html",
+  "summary": "Local projections on monthly data Jan 2008-Dec 2024: GPR shocks reduce China's energy import volumes in the short term and raise them later; values fall; crude oil adjusts most; renewables modify responses."
+ },
+ "10.1016/j.eneco.2025.108595": {
+  "source": "https://ideas.repec.org/a/eee/eneeco/v147y2025ics0140988325004190.html",
+  "summary": "Survival analysis of 300,971 HS6 energy-import trade spells 1995-2022; mean spell 3.3 years; first-year hazard about 0.57; higher exporter GPR raises the hazard of import disruption, more for petroleum than coal or gas, less for OECD exporters."
+ }
+}

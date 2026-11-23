@@ -1,0 +1,18 @@
+database,theme,query,search_date,total_hits,retrieved,status
+semanticscholar,A_petroleum_import,petroleum import forecasting,2026-11-07,,0,failed
+semanticscholar,A_petroleum_import,petroleum import forecasting,2026-11-07,14827,20,ok
+semanticscholar,A_petroleum_import,energy imports forecasting,2026-11-07,121991,20,ok
+semanticscholar,A_petroleum_import,fuel import dependency,2026-11-07,,0,failed
+semanticscholar,B_supply_disruption,energy supply disruption prediction,2026-11-07,,0,failed
+semanticscholar,B_supply_disruption,oil supply disruption risk,2026-11-07,,0,failed
+semanticscholar,C_probabilistic,probabilistic energy forecasting,2026-11-07,,0,failed
+semanticscholar,D_global_dl,local versus global forecasting models,2026-11-07,11476,20,ok
+semanticscholar,D_global_dl,cross-learning time series forecasting,2026-11-07,,0,failed
+semanticscholar,E_boosting_ml,gradient boosting international trade forecasting,2026-11-07,,0,failed
+semanticscholar,F_geopolitical_trade,geopolitical risk petroleum imports,2026-11-07,1360,20,ok
+semanticscholar,F_geopolitical_trade,supplier concentration energy security,2026-11-07,,0,failed
+semanticscholar,F_geopolitical_trade,forecasting trade flows machine learning,2026-11-07,,0,failed
+semanticscholar,G_landlocked_kyrgyz,energy security landlocked developing countries,2026-11-07,,0,failed
+semanticscholar,G_landlocked_kyrgyz,petroleum import dependency Central Asia,2026-11-07,,0,failed
+semanticscholar,G_landlocked_kyrgyz,energy security Kyrgyzstan,2026-11-07,133815,20,ok
+semanticscholar,H_related,publication lag forecasting nowcasting ragged edge,2026-11-07,,0,failed

@@ -1,0 +1,9 @@
+database,theme,query,search_date,total_hits,retrieved,status
+crossref_gapcheck,A_global_landlocked,landlocked oil petroleum fuel import forecasting,2026-11-07,,200,ok
+crossref_gapcheck,A2_cross_country_fuel_import_forecast,cross-country panel petroleum fuel import forecasting,2026-11-07,,200,ok
+crossref_gapcheck,B_dl_vs_gbm,gradient boosting LightGBM XGBoost LSTM deep learning trade import oil forecasting,2026-11-07,,200,ok
+crossref_gapcheck,C_probabilistic_fuel,probabilistic quantile prediction interval oil fuel import demand forecasting,2026-11-07,,200,ok
+crossref_gapcheck,D_publication_lag,real-time data vintages publication lag trade import forecasting,2026-11-07,,200,ok
+crossref_gapcheck,E_supplier_gpr_features,geopolitical risk supplier concentration oil imports forecasting,2026-11-07,,200,ok
+crossref_gapcheck,F_early_warning,early warning fuel oil supply shortage disruption,2026-11-07,,200,ok
+crossref_gapcheck,G_landlocked_energy,landlocked countries energy security fuel imports,2026-11-07,,200,ok

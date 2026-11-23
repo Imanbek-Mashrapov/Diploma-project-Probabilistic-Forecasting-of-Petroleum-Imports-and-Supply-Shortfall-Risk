@@ -1,0 +1,152 @@
+{
+ "10.5281/zenodo.18467170": {
+  "datacite_status": "resolved",
+  "datacite_title": "MACHINE LEARNING FORECASTS OF BILATERAL TRADE FLOWS: OUT-OF-TIME EVIDENCE FROM A GLOBAL DYAD PANEL (1991–2021)",
+  "datacite_publisher": "Zenodo",
+  "datacite_year": 2026,
+  "datacite_type": "Text",
+  "datacite_related": []
+ },
+ "10.48550/arxiv.2407.16739": {
+  "datacite_status": "resolved",
+  "datacite_title": "Forecasting Automotive Supply Chain Shortfalls with Heterogeneous Time Series",
+  "datacite_publisher": "arXiv",
+  "datacite_year": 2024,
+  "datacite_type": "Preprint",
+  "datacite_related": []
+ },
+ "10.34989/swp-2011-16": {
+  "datacite_status": "resolved",
+  "datacite_title": "Real-Time Forecasts of the Real Price of Oil",
+  "datacite_publisher": "Bank of Canada",
+  "datacite_year": 2011,
+  "datacite_type": "Text",
+  "datacite_related": []
+ },
+ "10.48550/arxiv.2411.06394": {
+  "datacite_status": "resolved",
+  "datacite_title": "Local vs. Global Models for Hierarchical Forecasting",
+  "datacite_publisher": "arXiv",
+  "datacite_year": 2024,
+  "datacite_type": "Preprint",
+  "datacite_related": []
+ },
+ "10.48550/arxiv.2601.14031": {
+  "datacite_status": "resolved",
+  "datacite_title": "Intermittent time series forecasting: local vs global models",
+  "datacite_publisher": "arXiv",
+  "datacite_year": 2026,
+  "datacite_type": "Preprint",
+  "datacite_related": []
+ },
+ "10.48550/arxiv.2105.06643": {
+  "datacite_status": "resolved",
+  "datacite_title": "Monash Time Series Forecasting Archive",
+  "datacite_publisher": "arXiv",
+  "datacite_year": 2021,
+  "datacite_type": "Text",
+  "datacite_related": []
+ },
+ "10.48550/arxiv.2404.06198": {
+  "datacite_status": "resolved",
+  "datacite_title": "The impact of data set similarity and diversity on transfer learning success in time series forecasting",
+  "datacite_publisher": "arXiv",
+  "datacite_year": 2024,
+  "datacite_type": "Preprint",
+  "datacite_related": []
+ },
+ "10.48550/arxiv.2608.09033": {
+  "datacite_status": "resolved",
+  "datacite_title": "Forecasting in the Fog: Real-Time versus Revised-Data Evidence on Machine Learning's Edge over the Phillips Curve",
+  "datacite_publisher": "arXiv",
+  "datacite_year": 2026,
+  "datacite_type": "Preprint",
+  "datacite_related": []
+ },
+ "10.48550/arxiv.1905.10437": {
+  "datacite_status": "resolved",
+  "datacite_title": "N-BEATS: Neural basis expansion analysis for interpretable time series forecasting",
+  "datacite_publisher": "arXiv",
+  "datacite_year": 2019,
+  "datacite_type": "Preprint",
+  "datacite_related": []
+ },
+ "10.48550/arxiv.2202.07282": {
+  "datacite_status": "resolved",
+  "datacite_title": "Adaptive Conformal Predictions for Time Series",
+  "datacite_publisher": "arXiv",
+  "datacite_year": 2022,
+  "datacite_type": "Preprint",
+  "datacite_related": []
+ },
+ "10.48550/arxiv.1711.11053": {
+  "datacite_status": "resolved",
+  "datacite_title": "A Multi-Horizon Quantile Recurrent Forecaster",
+  "datacite_publisher": "arXiv",
+  "datacite_year": 2017,
+  "datacite_type": "Preprint",
+  "datacite_related": []
+ },
+ "10.48550/arxiv.2605.08422": {
+  "datacite_status": "resolved",
+  "datacite_title": "Rolling-Origin Conformal Prediction under Local Stationarity and Weak Dependence",
+  "datacite_publisher": "arXiv",
+  "datacite_year": 2026,
+  "datacite_type": "Preprint",
+  "datacite_related": []
+ },
+ "10.48550/arxiv.1910.07325": {
+  "datacite_status": "resolved",
+  "datacite_title": "Multivariate Forecasting Evaluation: On Sensitive and Strictly Proper Scoring Rules",
+  "datacite_publisher": "arXiv",
+  "datacite_year": 2019,
+  "datacite_type": "Preprint",
+  "datacite_related": []
+ },
+ "10.34382/00004671": {
+  "datacite_status": "http_404"
+ },
+ "10.26740/ijss.v4n2.p40-48": {
+  "datacite_status": "http_404"
+ },
+ "10.48550/arxiv.2402.01648": {
+  "datacite_status": "resolved",
+  "datacite_title": "Forecasting Imports in OECD Member Countries and Iran by Using Neural Network Algorithms of LSTM",
+  "datacite_publisher": "arXiv",
+  "datacite_year": 2024,
+  "datacite_type": "Preprint",
+  "datacite_related": []
+ },
+ "10.48550/arxiv.1905.03222": {
+  "datacite_status": "resolved",
+  "datacite_title": "Conformalized Quantile Regression",
+  "datacite_publisher": "arXiv",
+  "datacite_year": 2019,
+  "datacite_type": "Preprint",
+  "datacite_related": []
+ },
+ "10.48550/arxiv.2101.02118": {
+  "datacite_status": "resolved",
+  "datacite_title": "Do We Really Need Deep Learning Models for Time Series Forecasting?",
+  "datacite_publisher": "arXiv",
+  "datacite_year": 2021,
+  "datacite_type": "Preprint",
+  "datacite_related": []
+ },
+ "10.48550/arxiv.2207.08815": {
+  "datacite_status": "resolved",
+  "datacite_title": "Why do tree-based models still outperform deep learning on tabular data?",
+  "datacite_publisher": "arXiv",
+  "datacite_year": 2022,
+  "datacite_type": "Preprint",
+  "datacite_related": []
+ },
+ "10.71889/5fylantbak.29865743": {
+  "datacite_status": "resolved",
+  "datacite_title": "Revisions In United Nations Energy Statistics Data: Can Changes To The Past Improve Our Understanding Of The Present?",
+  "datacite_publisher": "Appalachian State University",
+  "datacite_year": 2025,
+  "datacite_type": "Dissertation",
+  "datacite_related": []
+ }
+}

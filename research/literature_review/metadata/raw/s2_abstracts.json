@@ -1,0 +1,101 @@
+{
+ "10.1007/s10553-026-02011-4": {
+  "title": "Oil Import Demand Forecasting Based on Machine Learning Technology Under Energy Transformation Background",
+  "abstract": "",
+  "tldr": "",
+  "oa_pdf": ""
+ },
+ "10.1007/978-3-032-09945-7_39": {
+  "title": null,
+  "abstract": "",
+  "tldr": "",
+  "oa_pdf": "",
+  "status": "not_found"
+ },
+ "10.1007/978-981-97-8031-0_81": {
+  "title": null,
+  "abstract": "",
+  "tldr": "",
+  "oa_pdf": "",
+  "status": "not_found"
+ },
+ "10.1016/j.energy.2018.08.127": {
+  "title": "China's dependency on foreign oil will exceed 80% by 2030: Developing a novel NMGM-ARIMA to forecast China's foreign oil dependence from two dimensions",
+  "abstract": "Abstract China is the world's largest net importer of oil and the second largest oil consumer; consequently, changes of China's foreign oil dependence significantly impact both the Chinese and the international oil market. To enhance the forecasting ability of China's foreign oil dependence, this study combines the nonlinear metabolic grey model (NMGM) with the linear autoregressive integrated moving average model (ARIMA), thus obtaining the combined NMGM-ARIMA model. The proposed technique uses the linear ARIMA to correct NMGM forecasting residuals, thus improving forecasting accuracy. The proposed technique achieves a mean absolute error of 2.1–2.3%, reflecting its high reliability. The proposed NMGM-ARIMA was used to forecast China's foreign oil dependence for the period of 2017–2030 from two dimensions. For the first dimension, the gap between China's oil demand and supply was forecast. To fill this gap, China has to import oil; therefore, this gap is responsible for China's foreign oil dependence. For the second dimension, the change of China's foreign oil dependence level was directly forecast. Both dimensions indicate a similar conclusion, namely that the Chinese foreign oil dependence level will increase from 65% in 2016 to over 80% in 2030. A high level of 80% dependence on foreign oil would bring major concern to China. The policy recommendations given at the end of the paper will help China's decision makers respond appropriately.",
+  "tldr": "",
+  "oa_pdf": ""
+ },
+ "10.1016/j.jclepro.2019.05.314": {
+  "title": "India's dependence on foreign oil will exceed 90% around 2025 - The forecasting results based on two hybridized NMGM-ARIMA and NMGM-BP models",
+  "abstract": "Abstract Few study has been conducted to forecast India's dependence on foreign oil, although India is the world's third-largest oil consumer and exporter, making it a key player in the oil market. This work is aimed to accurately forecast India's dependence on foreign oil. To develop better forecasting techniques, this study used linear Auto Regressive Integrated Moving Average (ARIMA), and nonlinear Back Propagation (BP) to correct nonlinear metabolic grey model (NMGM) forecasting residuals in three steps: (i) integrating the metabolic idea with a nonlinear grey model to develop NMGM, (ii) integrating the proposed NMGM with ARIMA to develop NMGM-ARIMA, and (iii) integrating the proposed NMGM with BP to develop NMGM-BP. To further improve forecasting accuracy, this work forecasted the India's dependence on foreign oil from two perspectives: (i) direct forecasting the change of ratio of imports oil to total oil consumption in India, (ii) indirect forecasting, i.e., the difference between the forecasted oil consumption and production was divided by the forecasted oil production. The proposed NMGM-ARIMA and NMGM-BP were used to fit the India's dependence on foreign oil for 1995–2017 and forecast the data for 2018–2030. The mean relative error of the proposed forecasting models was around 1.5%, which could produce a convincing forecasting results. Our forecasting results show that India's dependence on foreign oil will reach 90% around 2025, which poses serious challenge to Indian oil security and the global oil market.",
+  "tldr": "",
+  "oa_pdf": ""
+ },
+ "10.1007/s11135-025-02268-7": {
+  "title": "Determinants of petroleum product import demand in Tanzania: a time series analysis using ARDL and ECM approaches",
+  "abstract": "",
+  "tldr": "",
+  "oa_pdf": ""
+ },
+ "10.1016/j.energy.2021.122312": {
+  "title": "Forecasting automobile gasoline demand in Australia using machine learning-based regression",
+  "abstract": "Abstract We use a variant of machine learning (ML) to forecast Australia's automobile gasoline demand within an autoregressive and structural model. By comparing the outputs of various model specifications, we find that training set selection plays an important role in forecasting accuracy. More specifically, however, the performance of training sets starting within identified systematic patterns is relatively worse, and the impact on forecast errors is substantial. We explain these systematic variations in machine learning performance, and explore the intuition behind the ‘black-box’ with the support of economic theory. An important finding is that these time points coincide with structural changes in Australia's economy. By examining the out-of-sample forecasts, the model's external validity can be demonstrated under normal situations; however, its forecasting performance is somewhat unsatisfactory under event-driven uncertainty, which calls on future research to develop alternative models to depict the characteristics of rare and extreme events in an ex-ante manner.",
+  "tldr": "It is found that training set selection plays an important role in forecasting accuracy, but the performance of training sets starting within identified systematic patterns is relatively worse, and the impact on forecast errors is substantial.",
+  "oa_pdf": ""
+ },
+ "10.1016/s0304-4076(96)01802-7": {
+  "title": "Pooled estimators vs. their heterogeneous counterparts in the context of dynamic demand for gasoline",
+  "abstract": "",
+  "tldr": "",
+  "oa_pdf": ""
+ },
+ "10.1007/s41060-025-00781-4": {
+  "title": "High-accuracy prediction of international raw material trade flows using temporal fusion transformer",
+  "abstract": "",
+  "tldr": "",
+  "oa_pdf": ""
+ },
+ "10.1016/j.physa.2024.129977": {
+  "title": null,
+  "abstract": "",
+  "tldr": "",
+  "oa_pdf": "",
+  "status": "not_found"
+ },
+ "10.1016/j.econmod.2021.02.013": {
+  "title": "Forecasting imports with information from abroad",
+  "abstract": "Globalization has led to huge increases in import volumes, increasing the importance of imports for total output. Since imports are a volatile component, they are difficult to forecast and strongly influence the forecast accuracy of gross domestic product. We introduce the first leading indicator constructed to forecast import growth, the Import Climate. It builds on the idea that the import demand of the domestic country should be reflected in the expected export developments of its main trading partners. A foreign country’s expected exports are, in turn, determined by its trading partners’ business and consumer confidence and its own price competitiveness. In a real-time forecasting experiment, the Import Climate outperforms standard business cycle indicators at short horizons for France, Germany, Italy, and the United States for the first release of data. For Spain and the United Kingdom, our indicator works particularly well with the latest vintage of data.",
+  "tldr": "",
+  "oa_pdf": "https://doi.org/10.2139/ssrn.3214400"
+ },
+ "10.1016/j.enpol.2009.05.069": {
+  "title": "Measuring the Security of External Energy Supply in the European Union",
+  "abstract": "",
+  "tldr": "",
+  "oa_pdf": ""
+ },
+ "10.1016/j.rser.2014.10.064": {
+  "title": "Energy security: Definitions, dimensions and indexes",
+  "abstract": "",
+  "tldr": "It is found that the definition of energy security is contextual and dynamic in nature and significant differences among studies are observed in the way in which energy security indexes are framed and constructed.",
+  "oa_pdf": ""
+ },
+ "10.1016/j.energy.2014.02.091": {
+  "title": "Measuring external oil supply risk: A modified diversification index with country risk and potential oil exports",
+  "abstract": "",
+  "tldr": "",
+  "oa_pdf": ""
+ },
+ "10.1016/j.enpol.2007.11.011": {
+  "title": "Oil vulnerability index of oil-importing countries",
+  "abstract": "",
+  "tldr": "",
+  "oa_pdf": ""
+ },
+ "10.1016/j.esr.2025.101695": {
+  "title": "How do economic policy uncertainty and geopolitical risk affect oil imports? Evidence from China and India",
+  "abstract": "",
+  "tldr": "",
+  "oa_pdf": "https://doi.org/10.1016/j.esr.2025.101695"
+ }
+}

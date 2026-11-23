@@ -1,0 +1,97 @@
+raw (5831, 6) 24
+zero months set to missing {"('Armenia', 'gasoline')": 2, "('Azerbaijan', 'gasoline')": 3, "('Azerbaijan', 'middle_heavy')": 13, "('Bolivia', 'gasoline')": 37, "('Bolivia', 'middle_heavy')": 29, "('Botswana', 'gasoline')": 1, "('Czechia', 'gasoline')": 25, "('Czechia', 'middle_heavy')": 37, "('Hungary', 'gasoline')": 2, "('Hungary', 'middle_heavy')": 15, "('Kazakhstan', 'gasoline')": 13, "('Kazakhstan', 'middle_heavy')": 8, "('Lao PDR', 'gasoline')": 12, "('Luxembourg', 'gasoline')": 39, "('Luxembourg', 'middle_heavy')": 6, "('Moldova', 'gasoline')": 1, "('Moldova', 'middle_heavy')": 6, "('Mongolia', 'middle_heavy')": 1, "('North Macedonia', 'gasoline')": 1, "('Rwanda', 'gasoline')": 3, "('Serbia', 'gasoline')": 14, "('Serbia', 'middle_heavy')": 10, "('Switzerland', 'gasoline')": 2, "('Switzerland', 'middle_heavy')": 22, "('Uzbekistan', 'gasoline')": 2, "('Uzbekistan', 'middle_heavy')": 1, "('Zimbabwe', 'middle_heavy')": 4}
+                              obs       last  zero         mean_t
+North Macedonia middle_heavy  140 2026-08-01     0   71980.993607
+Armenia         middle_heavy  138 2026-08-01     0   20538.487409
+Switzerland     gasoline      138 2026-08-01     0  128228.271710
+North Macedonia gasoline      137 2026-08-01     0    9018.746576
+Hungary         gasoline      137 2026-08-01     0   69959.911356
+Armenia         gasoline      137 2026-08-01     0   15720.857347
+Kyrgyzstan      middle_heavy  136 2026-08-01     0   63265.913035
+Moldova         gasoline      136 2026-06-01     0   18655.724696
+Kyrgyzstan      gasoline      136 2026-08-01     0   42629.817214
+Paraguay        gasoline      135 2026-03-01     0   52648.410552
+                middle_heavy  134 2026-03-01     0  122112.749186
+Moldova         middle_heavy  132 2026-06-01     0   63788.066150
+Serbia          middle_heavy  129 2026-08-01     0   56166.667157
+Luxembourg      middle_heavy  128 2026-07-01     0  116148.583368
+Serbia          gasoline      126 2026-08-01     0    8647.771776
+Hungary         middle_heavy  125 2026-08-01     0   67803.458083
+Azerbaijan      gasoline      125 2026-08-01     0   14590.612886
+Burkina Faso    gasoline      120 2024-12-01     0   39538.421808
+                middle_heavy  120 2024-12-01     0   82565.506646
+Zimbabwe        gasoline      119 2025-01-01     0   32163.763757
+Azerbaijan      middle_heavy  119 2026-08-01     0   22574.198438
+Slovakia        middle_heavy  118 2026-05-01     0   43299.870966
+Switzerland     middle_heavy  116 2026-08-01     0  409485.519678
+Zimbabwe        middle_heavy  115 2025-01-01     0   77037.603422
+Kazakhstan      middle_heavy  114 2026-04-01     0   63237.258437
+Bolivia         middle_heavy  111 2026-08-01     0   82756.249340
+Kazakhstan      gasoline      108 2026-04-01     0   38960.980218
+Bolivia         gasoline      102 2026-08-01     0   63989.431046
+Burundi         middle_heavy  101 2025-04-01     0    9837.910353
+                gasoline      101 2025-04-01     0    7554.429098
+Czechia         gasoline      100 2026-07-01     0   62048.772239
+Slovakia        gasoline      100 2026-04-01     0   23438.223971
+Malawi          middle_heavy   98 2024-02-01     0     521.074846
+                gasoline       98 2024-02-01     0   20867.516175
+Czechia         middle_heavy   97 2026-07-01     0  209485.287026
+Lao PDR         middle_heavy   96 2023-12-01     0   54488.179774
+Rwanda          middle_heavy   95 2022-12-01     0   33956.970819
+                gasoline       93 2022-12-01     0   18816.114971
+Botswana        gasoline       90 2023-12-01     0  187925.723627
+Uzbekistan      gasoline       86 2026-07-01     0   52970.710788
+                middle_heavy   86 2026-07-01     0   90476.744079
+Luxembourg      gasoline       86 2026-07-01     0   39374.037100
+Lao PDR         gasoline       84 2023-12-01     0   18532.639716
+Botswana        middle_heavy   82 2023-12-01     0     186.436489
+Zambia          gasoline       76 2023-12-01     0   23707.712968
+Mongolia        gasoline       72 2021-12-01     0   41601.366838
+                middle_heavy   71 2021-12-01     0   89151.181848
+Zambia          middle_heavy   70 2023-12-01     0   50665.023047
+kept series 43 countries 22 obs 4942
+h 1 rows 4633
+ nn refit 2024-09-01 00:00:00 3641
+ nn refit 2025-03-01 00:00:00 3820
+ nn refit 2025-09-01 00:00:00 3975
+ nn refit 2026-03-01 00:00:00 4138
+h 3 rows 4577
+ nn refit 2024-09-01 00:00:00 3481
+ nn refit 2025-03-01 00:00:00 3666
+ nn refit 2025-09-01 00:00:00 3825
+ nn refit 2026-03-01 00:00:00 3982
+h c3 rows 4577
+ nn refit 2024-09-01 00:00:00 3243
+ nn refit 2025-03-01 00:00:00 3409
+ nn refit 2025-09-01 00:00:00 3556
+ nn refit 2026-03-01 00:00:00 3700
+                        naive_wape  snaive_wape  mean12_wape  lgb_wape  lgbx_wape  lgb_local_wape  gru_wape  mlp_wape
+h  group           n                                                                                                 
+1  KG gasoline     22        31.34        49.65        38.90     30.63      31.68           30.39     33.55     35.32
+   KG middle/heavy 22        32.55        32.98        25.31     24.69      25.95           29.79     24.15     25.13
+   All series      626       23.64        29.08        21.06     20.28      20.57           29.99     20.11     20.14
+3  KG gasoline     22        49.24        49.65        39.50     34.76      36.60           32.04     42.88     42.21
+   KG middle/heavy 22        37.00        32.98        27.59     30.76      30.43           32.82     29.17     29.12
+   All series      624       26.55        28.98        21.49     22.56      22.38           32.55     21.64     21.80
+c3 KG gasoline     21        38.01        29.18        28.39     23.56      25.02           20.71     28.54     27.62
+   KG middle/heavy 21        26.20        27.58        21.46     23.78      23.11           29.14     21.52     23.28
+   All series      568       19.67        19.99        16.23     16.06      16.10           26.27     16.35     16.25
+                        naive_mase  snaive_mase  mean12_mase  lgb_mase  lgbx_mase  lgb_local_mase  gru_mase  mlp_mase
+h  group           n                                                                                                 
+1  KG gasoline     22         0.75         1.16         0.91      0.72       0.74            0.71      0.79      0.83
+   KG middle/heavy 22         0.99         1.02         0.78      0.76       0.80            0.92      0.75      0.78
+   All series      626        1.01         1.19         0.93      0.87       0.88            0.82      0.87      0.87
+3  KG gasoline     22         1.15         1.16         0.92      0.81       0.86            0.75      1.00      0.99
+   KG middle/heavy 22         1.14         1.02         0.85      0.95       0.94            1.01      0.90      0.90
+   All series      624        1.16         1.18         0.96      0.97       0.96            0.88      0.95      0.96
+c3 KG gasoline     21         1.30         1.00         0.97      0.80       0.85            0.71      0.97      0.94
+   KG middle/heavy 21         1.11         1.17         0.91      1.01       0.98            1.23      0.91      0.98
+   All series      568        1.19         1.08         0.95      0.92       0.93            0.97      0.93      0.92
+    naive_mase  snaive_mase  mean12_mase  lgb_mase  lgbx_mase  lgb_local_mase  gru_mase  mlp_mase
+h                                                                                                
+1        0.859        1.117        0.869     0.792      0.798           0.816     0.806     0.775
+3        1.034        1.117        0.888     0.872      0.898           0.882     0.978     0.928
+c3       0.994        1.018        0.860     0.836      0.834           0.970     0.923     0.874
+h 1 KG 80% interval coverage 0.75 44 panel 0.752 626
+h 3 KG 80% interval coverage 0.682 44 panel 0.729 624
+h c3 KG 80% interval coverage 0.619 42 panel 0.731 568

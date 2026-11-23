@@ -1,0 +1,142 @@
+openalex ok 25 supply shortfall prediction
+openalex ok 25 energy supply vulnerability
+openalex ok 25 petroleum supply chain risk assessment
+openalex ok 25 oil supply shock early warning indicators
+openalex ok 25 probabilistic energy forecasting
+openalex ok 25 probabilistic time series forecasting
+openalex ok 25 uncertainty quantification energy forecasting
+openalex ok 25 quantile regression energy forecasting
+openalex ok 25 conformal prediction time series
+openalex ok 25 probabilistic demand forecasting
+openalex ok 25 prediction intervals forecasting evaluation
+openalex ok 25 proper scoring rules probabilistic forecasts calibration
+openalex ok 25 global time series forecasting
+openalex ok 25 local versus global forecasting models
+openalex ok 25 deep learning time series forecasting
+openalex ok 25 cross-learning time series forecasting
+openalex ok 25 GRU energy forecasting
+openalex ok 25 temporal convolutional network energy forecasting
+openalex ok 25 N-BEATS forecasting
+openalex ok 25 temporal fusion transformer energy
+openalex ok 25 transfer learning time series forecasting
+openalex ok 25 forecasting competition M4 M5 results
+openalex ok 25 DeepAR probabilistic forecasting
+openalex ok 25 XGBoost energy forecasting
+openalex ok 25 LightGBM forecasting time series
+openalex ok 25 gradient boosting international trade forecasting
+openalex ok 25 machine learning energy imports
+openalex ok 25 random forest energy demand forecasting
+openalex ok 25 machine learning supply chain disruption prediction
+openalex ok 25 tree-based models versus deep learning
+openalex ok 25 geopolitical risk petroleum imports
+openalex ok 25 geopolitical uncertainty energy trade
+openalex ok 25 sanctions petroleum trade flows
+openalex ok 25 geopolitical risk energy supply disruption
+openalex ok 25 international trade disruption prediction
+openalex ok 25 supplier concentration energy security
+openalex ok 25 Herfindahl Hirschman index energy imports
+openalex ok 25 trade dependency supply chain resilience
+openalex ok 25 geopolitical risk index oil
+openalex ok 25 oil trade network resilience shocks
+openalex ok 25 forecasting trade flows machine learning
+openalex ok 25 nowcasting international trade
+openalex ok 25 energy security landlocked developing countries
+openalex ok 25 petroleum import dependency Central Asia
+openalex ok 25 energy security Kyrgyzstan
+openalex ok 25 oil product imports Kyrgyz Republic
+openalex ok 25 fuel supply vulnerability Central Asia
+openalex ok 25 landlocked countries trade costs energy
+openalex ok 25 energy trade dependence developing countries
+openalex ok 25 Central Asia Russia energy trade dependence
+openalex ok 25 Kyrgyzstan fuel
+openalex ok 25 real-time data vintages forecasting evaluation
+openalex ok 25 data revisions trade statistics
+openalex ok 25 publication lag forecasting nowcasting ragged edge
+openalex ok 25 mirror trade statistics discrepancies
+openalex ok 25 UN Comtrade data quality
+openalex ok 25 petroleum import demand elasticity
+openalex ok 25 comparing predictive accuracy test forecasts
+openalex ok 25 rolling origin evaluation time series
+openalex ok 25 energy security index diversification
+openalex ok 25 fuel export ban impact neighbouring countries
+openalex ok 25 oil price shock import volumes
+openalex ok 25 anomaly detection trade flows
+crossref ok 20 petroleum import forecasting
+crossref ok 20 refined petroleum products import prediction
+crossref ok 20 oil product demand forecasting
+crossref ok 20 energy imports forecasting
+crossref ok 20 international petroleum trade prediction
+crossref ok 20 fuel import dependency
+crossref ok 20 petroleum trade flows forecasting
+crossref ok 20 energy trade forecasting machine learning
+crossref ok 20 oil import demand forecasting
+crossref ok 20 gasoline demand forecasting
+crossref ok 20 diesel consumption forecasting
+crossref ok 20 energy supply disruption prediction
+crossref ok 20 petroleum supply chain resilience
+crossref ok 20 oil supply disruption risk
+crossref ok 20 energy security forecasting
+crossref ok 20 fuel shortage early warning system
+crossref ok 20 supply shortfall prediction
+crossref ok 20 energy supply vulnerability
+crossref ok 20 petroleum supply chain risk assessment
+crossref ok 20 oil supply shock early warning indicators
+crossref ok 20 probabilistic energy forecasting
+crossref ok 20 probabilistic time series forecasting
+crossref ok 20 uncertainty quantification energy forecasting
+crossref ok 20 quantile regression energy forecasting
+crossref ok 20 conformal prediction time series
+crossref ok 20 probabilistic demand forecasting
+crossref ok 20 prediction intervals forecasting evaluation
+crossref ok 20 proper scoring rules probabilistic forecasts calibration
+crossref ok 20 global time series forecasting
+crossref ok 20 local versus global forecasting models
+crossref ok 20 deep learning time series forecasting
+crossref ok 20 cross-learning time series forecasting
+crossref ok 20 GRU energy forecasting
+crossref ok 20 temporal convolutional network energy forecasting
+crossref ok 20 N-BEATS forecasting
+crossref ok 20 temporal fusion transformer energy
+crossref ok 20 transfer learning time series forecasting
+crossref ok 20 forecasting competition M4 M5 results
+crossref ok 20 DeepAR probabilistic forecasting
+crossref ok 20 XGBoost energy forecasting
+crossref ok 20 LightGBM forecasting time series
+crossref ok 20 gradient boosting international trade forecasting
+crossref ok 20 machine learning energy imports
+crossref ok 20 random forest energy demand forecasting
+crossref ok 20 machine learning supply chain disruption prediction
+crossref ok 20 tree-based models versus deep learning
+crossref ok 20 geopolitical risk petroleum imports
+crossref ok 20 geopolitical uncertainty energy trade
+crossref ok 20 sanctions petroleum trade flows
+crossref ok 20 geopolitical risk energy supply disruption
+crossref ok 20 international trade disruption prediction
+crossref ok 20 supplier concentration energy security
+crossref ok 20 Herfindahl Hirschman index energy imports
+crossref ok 20 trade dependency supply chain resilience
+crossref ok 20 geopolitical risk index oil
+crossref ok 20 oil trade network resilience shocks
+crossref ok 20 forecasting trade flows machine learning
+crossref ok 20 nowcasting international trade
+crossref ok 20 energy security landlocked developing countries
+crossref ok 20 petroleum import dependency Central Asia
+crossref ok 20 energy security Kyrgyzstan
+crossref ok 20 oil product imports Kyrgyz Republic
+crossref ok 20 fuel supply vulnerability Central Asia
+crossref ok 20 landlocked countries trade costs energy
+crossref ok 20 energy trade dependence developing countries
+crossref ok 20 Central Asia Russia energy trade dependence
+crossref ok 20 Kyrgyzstan fuel
+crossref ok 20 real-time data vintages forecasting evaluation
+crossref ok 20 data revisions trade statistics
+crossref ok 20 publication lag forecasting nowcasting ragged edge
+crossref ok 20 mirror trade statistics discrepancies
+crossref ok 20 UN Comtrade data quality
+crossref ok 20 petroleum import demand elasticity
+crossref ok 20 comparing predictive accuracy test forecasts
+crossref ok 20 rolling origin evaluation time series
+crossref ok 20 energy security index diversification
+crossref ok 20 fuel export ban impact neighbouring countries
+crossref ok 20 oil price shock import volumes
+crossref ok 20 anomaly detection trade flows

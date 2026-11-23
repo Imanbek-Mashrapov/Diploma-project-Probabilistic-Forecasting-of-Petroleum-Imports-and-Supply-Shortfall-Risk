@@ -1,0 +1,14 @@
+{
+  "raw_records_by_source": {
+    "openalex": 1975,
+    "crossref": 1577,
+    "semanticscholar": 35,
+    "arxiv": 398,
+    "snowball": 876,
+    "seedrecords": 66,
+    "gapcheck_crossref": 1599
+  },
+  "raw_records_total": 6526,
+  "unique_works": 5230,
+  "multi_version_groups": 243
+}

@@ -1,0 +1,80 @@
+database,theme,query,search_date,total_hits,retrieved,status
+arxiv,A_petroleum_import,petroleum import forecasting,2026-11-07,6,6,ok
+arxiv,A_petroleum_import,refined petroleum products import prediction,2026-11-07,1,1,ok
+arxiv,A_petroleum_import,oil product demand forecasting,2026-11-07,6,6,ok
+arxiv,A_petroleum_import,energy imports forecasting,2026-11-07,512,10,ok
+arxiv,A_petroleum_import,international petroleum trade prediction,2026-11-07,0,0,ok
+arxiv,A_petroleum_import,fuel import dependency,2026-11-07,150,10,ok
+arxiv,A_petroleum_import,petroleum trade flows forecasting,2026-11-07,0,0,ok
+arxiv,A_petroleum_import,energy trade forecasting machine learning,2026-11-07,87,10,ok
+arxiv,A_petroleum_import,oil import demand forecasting,2026-11-07,4,4,ok
+arxiv,A_petroleum_import,gasoline demand forecasting,2026-11-07,1,1,ok
+arxiv,A_petroleum_import,diesel consumption forecasting,2026-11-07,3,3,ok
+arxiv,B_supply_disruption,energy supply disruption prediction,2026-11-07,8,8,ok
+arxiv,B_supply_disruption,petroleum supply chain resilience,2026-11-07,0,0,ok
+arxiv,B_supply_disruption,oil supply disruption risk,2026-11-07,1,1,ok
+arxiv,B_supply_disruption,energy security forecasting,2026-11-07,114,10,ok
+arxiv,B_supply_disruption,fuel shortage early warning system,2026-11-07,0,0,ok
+arxiv,B_supply_disruption,supply shortfall prediction,2026-11-07,7,7,ok
+arxiv,B_supply_disruption,energy supply vulnerability,2026-11-07,52,10,ok
+arxiv,B_supply_disruption,petroleum supply chain risk assessment,2026-11-07,0,0,ok
+arxiv,B_supply_disruption,oil supply shock early warning indicators,2026-11-07,0,0,ok
+arxiv,C_probabilistic,probabilistic energy forecasting,2026-11-07,309,10,ok
+arxiv,C_probabilistic,probabilistic time series forecasting,2026-11-07,473,10,ok
+arxiv,C_probabilistic,uncertainty quantification energy forecasting,2026-11-07,56,10,ok
+arxiv,C_probabilistic,quantile regression energy forecasting,2026-11-07,41,10,ok
+arxiv,C_probabilistic,conformal prediction time series,2026-11-07,169,10,ok
+arxiv,C_probabilistic,probabilistic demand forecasting,2026-11-07,183,10,ok
+arxiv,C_probabilistic,prediction intervals forecasting evaluation,2026-11-07,246,10,ok
+arxiv,C_probabilistic,proper scoring rules probabilistic forecasts calibration,2026-11-07,25,10,ok
+arxiv,D_global_dl,global time series forecasting,2026-11-07,572,10,ok
+arxiv,D_global_dl,local versus global forecasting models,2026-11-07,2,2,ok
+arxiv,D_global_dl,deep learning time series forecasting,2026-11-07,1195,10,ok
+arxiv,D_global_dl,cross-learning time series forecasting,2026-11-07,298,10,ok
+arxiv,D_global_dl,GRU energy forecasting,2026-11-07,34,10,ok
+arxiv,D_global_dl,temporal convolutional network energy forecasting,2026-11-07,50,10,ok
+arxiv,D_global_dl,N-BEATS forecasting,2026-11-07,44,10,ok
+arxiv,D_global_dl,temporal fusion transformer energy,2026-11-07,54,10,ok
+arxiv,D_global_dl,transfer learning time series forecasting,2026-11-07,255,10,ok
+arxiv,D_global_dl,forecasting competition M4 M5 results,2026-11-07,615,10,ok
+arxiv,D_global_dl,DeepAR probabilistic forecasting,2026-11-07,13,10,ok
+arxiv,E_boosting_ml,XGBoost energy forecasting,2026-11-07,31,10,ok
+arxiv,E_boosting_ml,LightGBM forecasting time series,2026-11-07,23,10,ok
+arxiv,E_boosting_ml,gradient boosting international trade forecasting,2026-11-07,3,3,ok
+arxiv,E_boosting_ml,machine learning energy imports,2026-11-07,2207,10,ok
+arxiv,E_boosting_ml,random forest energy demand forecasting,2026-11-07,13,10,ok
+arxiv,E_boosting_ml,machine learning supply chain disruption prediction,2026-11-07,20,10,ok
+arxiv,E_boosting_ml,tree-based models versus deep learning,2026-11-07,7,7,ok
+arxiv,F_geopolitical_trade,geopolitical risk petroleum imports,2026-11-07,0,0,ok
+arxiv,F_geopolitical_trade,geopolitical uncertainty energy trade,2026-11-07,3,3,ok
+arxiv,F_geopolitical_trade,sanctions petroleum trade flows,2026-11-07,0,0,ok
+arxiv,F_geopolitical_trade,geopolitical risk energy supply disruption,2026-11-07,0,0,ok
+arxiv,F_geopolitical_trade,international trade disruption prediction,2026-11-07,2,2,ok
+arxiv,F_geopolitical_trade,supplier concentration energy security,2026-11-07,0,0,ok
+arxiv,F_geopolitical_trade,Herfindahl Hirschman index energy imports,2026-11-07,0,0,ok
+arxiv,F_geopolitical_trade,trade dependency supply chain resilience,2026-11-07,6,6,ok
+arxiv,F_geopolitical_trade,geopolitical risk index oil,2026-11-07,1,1,ok
+arxiv,F_geopolitical_trade,oil trade network resilience shocks,2026-11-07,1,1,ok
+arxiv,F_geopolitical_trade,forecasting trade flows machine learning,2026-11-07,37,10,ok
+arxiv,F_geopolitical_trade,nowcasting international trade,2026-11-07,0,0,ok
+arxiv,G_landlocked_kyrgyz,energy security landlocked developing countries,2026-11-07,0,0,ok
+arxiv,G_landlocked_kyrgyz,petroleum import dependency Central Asia,2026-11-07,0,0,ok
+arxiv,G_landlocked_kyrgyz,energy security Kyrgyzstan,2026-11-07,0,0,ok
+arxiv,G_landlocked_kyrgyz,oil product imports Kyrgyz Republic,2026-11-07,0,0,ok
+arxiv,G_landlocked_kyrgyz,fuel supply vulnerability Central Asia,2026-11-07,0,0,ok
+arxiv,G_landlocked_kyrgyz,landlocked countries trade costs energy,2026-11-07,0,0,ok
+arxiv,G_landlocked_kyrgyz,energy trade dependence developing countries,2026-11-07,1,1,ok
+arxiv,G_landlocked_kyrgyz,Central Asia Russia energy trade dependence,2026-11-07,0,0,ok
+arxiv,G_landlocked_kyrgyz,Kyrgyzstan fuel,2026-11-07,0,0,ok
+arxiv,H_related,real-time data vintages forecasting evaluation,2026-11-07,4,4,ok
+arxiv,H_related,data revisions trade statistics,2026-11-07,13,10,ok
+arxiv,H_related,publication lag forecasting nowcasting ragged edge,2026-11-07,0,0,ok
+arxiv,H_related,mirror trade statistics discrepancies,2026-11-07,0,0,ok
+arxiv,H_related,UN Comtrade data quality,2026-11-07,2,2,ok
+arxiv,H_related,petroleum import demand elasticity,2026-11-07,0,0,ok
+arxiv,H_related,comparing predictive accuracy test forecasts,2026-11-07,186,10,ok
+arxiv,H_related,rolling origin evaluation time series,2026-11-07,16,10,ok
+arxiv,H_related,energy security index diversification,2026-11-07,0,0,ok
+arxiv,H_related,fuel export ban impact neighbouring countries,2026-11-07,0,0,ok
+arxiv,H_related,oil price shock import volumes,2026-11-07,0,0,ok
+arxiv,H_related,anomaly detection trade flows,2026-11-07,9,9,ok

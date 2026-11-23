@@ -1,0 +1,1290 @@
+[
+ {
+  "key": "10.1007/s10553-026-02011-4",
+  "title": "Oil Import Demand Forecasting Based on Machine Learning Technology Under Energy Transformation Background",
+  "doi": "10.1007/s10553-026-02011-4",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 926
+ },
+ {
+  "key": "10.1007/978-3-032-09945-7_39",
+  "title": "Enhancing Energy Policy Planning in Thailand Through AI-Based Forecasting of Crude Oil Imports",
+  "doi": "10.1007/978-3-032-09945-7_39",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 941
+ },
+ {
+  "key": "10.21203/rs.3.rs-9995316/v1",
+  "title": "VP-OilEx-STFN: Structural-Gated Mixed-Frequency Nowcasting for Oil Export Prediction in Norway and Thailand",
+  "doi": "10.21203/rs.3.rs-9995316/v1",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 28
+ },
+ {
+  "key": "10.1088/1742-6596/1255/1/012016",
+  "title": "Forecasting the Export and Import Volume of Crude Oil, Oil Products and Gas Using ANN",
+  "doi": "10.1088/1742-6596/1255/1/012016",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 214
+ },
+ {
+  "key": "10.34148/teknika.v13i2.861",
+  "title": "Forecasting Model of Export and Import Value of Oil and Gas Using Gated Recurrent Unit Method",
+  "doi": "10.34148/teknika.v13i2.861",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 608
+ },
+ {
+  "key": "10.30598/barekengvol17iss4pp2047-2058",
+  "title": "FORECASTING THE VALUE OF INDONESIA'S OIL AND GAS IMPORTS USING SEASONAL AUTOREGRESSIVE INTEGRATED MOVING AVERAGE MODEL",
+  "doi": "10.30598/barekengvol17iss4pp2047-2058",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 212
+ },
+ {
+  "key": "10.1007/978-981-97-8031-0_81",
+  "title": "Forecasting Crude Oil and Petroleum Oil and Lubricants Production and Imports Using ARIMA Model",
+  "doi": "10.1007/978-981-97-8031-0_81",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 224
+ },
+ {
+  "key": "10.1155/2014/257947",
+  "title": "Hybrid Soft Computing Schemes for the Prediction of Import Demand of Crude Oil in Taiwan",
+  "doi": "10.1155/2014/257947",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 607
+ },
+ {
+  "key": "10.1016/j.energy.2018.08.127",
+  "title": "China's dependency on foreign oil will exceed 80% by 2030: Developing a novel NMGM-ARIMA to forecast China's foreign oil dependence from two dimensions",
+  "doi": "10.1016/j.energy.2018.08.127",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 2456
+ },
+ {
+  "key": "10.1016/j.jclepro.2019.05.314",
+  "title": "India's dependence on foreign oil will exceed 90% around 2025 - The forecasting results based on two hybridized NMGM-ARIMA and NMGM-BP models",
+  "doi": "10.1016/j.jclepro.2019.05.314",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 2459
+ },
+ {
+  "key": "10.1007/s11135-025-02268-7",
+  "title": "Determinants of petroleum product import demand in Tanzania: a time series analysis using ARDL and ECM approaches",
+  "doi": "10.1007/s11135-025-02268-7",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 1327
+ },
+ {
+  "key": "10.3126/jsdpj.v1i1.52602",
+  "title": "An Econometric Analysis of Imported Petroleum Products of Nepal",
+  "doi": "10.3126/jsdpj.v1i1.52602",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 189
+ },
+ {
+  "key": "10.3390/su151813592",
+  "title": "Oil Demand Forecasting in Importing and Exporting Countries: AI-Based Analysis of Endogenous and Exogenous Factors",
+  "doi": "10.3390/su151813592",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 119
+ },
+ {
+  "key": "10.32479/ijeep.15572",
+  "title": "Forecasting High Speed Diesel Demand in India with Econometric and Machine Learning Methods",
+  "doi": "10.32479/ijeep.15572",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 10
+ },
+ {
+  "key": "10.21203/rs.3.rs-2257631/v1",
+  "title": "Modeling of consumption of Gasoline (MS) and Diesel (HSD) in India using SARIMA and Neural Network",
+  "doi": "10.21203/rs.3.rs-2257631/v1",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 953
+ },
+ {
+  "key": "10.3390/en15134885",
+  "title": "Forecasting Crude Oil Consumption in Poland Based on LSTM Recurrent Neural Network",
+  "doi": "10.3390/en15134885",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 3
+ },
+ {
+  "key": "10.1016/j.energy.2021.122312",
+  "title": "Forecasting automobile gasoline demand in Australia using machine learning-based regression",
+  "doi": "10.1016/j.energy.2021.122312",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 1300
+ },
+ {
+  "key": "10.3390/en15103553",
+  "title": "Trend- and Periodicity-Trait-Driven Gasoline Demand Forecasting",
+  "doi": "10.3390/en15103553",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 1297
+ },
+ {
+  "key": "10.1080/01605682.2024.2333321",
+  "title": "Forecasting retail fuel demand in Chinese gasoline stations: a structural (double) damped trend approach",
+  "doi": "10.1080/01605682.2024.2333321",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 340
+ },
+ {
+  "key": "10.1109/eespe68405.2026.11649074",
+  "title": "Study on a multi-model framework for refined oil product sales forecasting",
+  "doi": "10.1109/eespe68405.2026.11649074",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 497
+ },
+ {
+  "key": "10.1016/s0304-4076(96)01802-7",
+  "title": "Pooled estimators vs. their heterogeneous counterparts in the context of dynamic demand for gasoline",
+  "doi": "10.1016/s0304-4076(96)01802-7",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 2791
+ },
+ {
+  "key": "10.1596/0-8213-3891-9",
+  "title": "The Demand for Oil Products in Developing Countries",
+  "doi": "10.1596/0-8213-3891-9",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 213
+ },
+ {
+  "key": "10.2139/ssrn.7203258",
+  "title": "Renewable Energy Transition and Fuel Import Vulnerability in South Asia: Panel Evidence from Five Economies, 2001-2025",
+  "doi": "10.2139/ssrn.7203258",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 9
+ },
+ {
+  "key": "10.2139/ssrn.6308961",
+  "title": "Time-Varying Elasticities in Brazil's Petroleum Trade: The Pre-Salt Paradox and Its Policy Implications",
+  "doi": "10.2139/ssrn.6308961",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 1418
+ },
+ {
+  "key": "10.2139/ssrn.6106328",
+  "title": "Jet Fuel Consumption Forecasting Using Hybrid Deep Learning Models: A Multivariate Analysis of Mexican Airports",
+  "doi": "10.2139/ssrn.6075818",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 1296
+ },
+ {
+  "key": "10.32479/ijeep.9982",
+  "title": "FORECASTING GASOLINE DEMAND IN INDONESIA USING TIME SERIES",
+  "doi": "10.32479/ijeep.9982",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 930
+ },
+ {
+  "key": "10.1016/j.enpol.2016.03.018",
+  "title": "An estimation of crude oil import demand in Turkey: Evidence from time-varying parameters approach",
+  "doi": "10.1016/j.enpol.2016.03.018",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 2461
+ },
+ {
+  "key": "10.1016/j.apm.2024.115907",
+  "title": "A seasonal grey model for forecasting energy imports demand from information differences perspective",
+  "doi": "10.1016/j.apm.2024.115907",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 925
+ },
+ {
+  "key": "10.5281/zenodo.18467170",
+  "title": "MACHINE LEARNING FORECASTS OF BILATERAL TRADE FLOWS: OUT-OF-TIME EVIDENCE FROM A GLOBAL DYAD PANEL (1991–2021)",
+  "doi": "10.5281/zenodo.18467170",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 534
+ },
+ {
+  "key": "10.1002/for.70165",
+  "title": "Nowcasting World Trade With Machine Learning: A Three‐Step Approach",
+  "doi": "10.1002/for.70165",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 138
+ },
+ {
+  "key": "10.2139/ssrn.3523148",
+  "title": "Big Data on Vessel Traffic: Nowcasting Trade Flows in Real Time",
+  "doi": "10.2139/ssrn.3523148",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 1557
+ },
+ {
+  "key": "10.1007/s41060-025-00781-4",
+  "title": "High-accuracy prediction of international raw material trade flows using temporal fusion transformer",
+  "doi": "10.1007/s41060-025-00781-4",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 1079
+ },
+ {
+  "key": "10.1080/01605682.2026.2757161",
+  "title": "Forecasting global trade networks under partial disruption: a network-attack framework and machine learning benchmark",
+  "doi": "10.1080/01605682.2026.2757161",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 319
+ },
+ {
+  "key": "10.1016/j.physa.2024.129977",
+  "title": "Machine learning and economic forecasting: The role of international trade networks",
+  "doi": "10.1016/j.physa.2024.129977",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 1552
+ },
+ {
+  "key": "10.21203/rs.3.rs-6691034/v1",
+  "title": "Forecasting Indonesian Goods and Services Imports Using Machine Learning: A Comparative Evaluation of Model Performance",
+  "doi": "10.21203/rs.3.rs-6691034/v1",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 1085
+ },
+ {
+  "key": "10.55065/intraders.1905139",
+  "title": "Forecasting Turkish Exports: A Comparative Study of Statistical, Machine Learning, and Deep Learning Methods",
+  "doi": "10.55065/intraders.1905139",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 300
+ },
+ {
+  "key": "10.1016/j.ijforecast.2023.11.007",
+  "title": "Thinking outside the container: A sparse partial least squares approach to forecasting trade flows",
+  "doi": "10.1016/j.ijforecast.2023.11.007",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 1567
+ },
+ {
+  "key": "10.1109/ismsit67332.2025.11268240",
+  "title": "Graph Neural Network Approach for HS6-Level Bilateral Trade Flow Prediction",
+  "doi": "10.1109/ismsit67332.2025.11268240",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 1265
+ },
+ {
+  "key": "10.2139/ssrn.3214400",
+  "title": "Forecasting Imports with Information from Abroad",
+  "doi": "10.1016/j.econmod.2021.02.013",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 1565
+ },
+ {
+  "key": "10.3390/su14031431",
+  "title": "Spatiotemporal Statistical Imbalance: A Long-Term Neglected Defect in UN Comtrade Dataset",
+  "doi": "10.3390/su14031431",
+  "theme": "petroleum_forecasting",
+  "tier": "core",
+  "row_round1": 1326
+ },
+ {
+  "key": "10.62432/appe.cc.2026.9.36",
+  "title": "Imputed Weights and Unit Values in Public UN Comtrade Evidence on the Cost of Friend-Shoring",
+  "doi": "10.62432/appe.cc.2026.9.36",
+  "theme": "petroleum_forecasting",
+  "tier": "support",
+  "row_round1": 366
+ },
+ {
+  "key": "10.12783/dtssehs/seme2017/18039",
+  "title": "Mirror Statistics on Foreign Trade of Kyrgyzstan with China",
+  "doi": "10.12783/dtssehs/seme2017/18039",
+  "theme": "landlocked_economies",
+  "tier": "support",
+  "row_round1": 1325
+ },
+ {
+  "key": "10.33514/1694-7851-2026-1/1-582-590",
+  "title": "ANALYSIS OF \"MIRROR\" STATISTICS OF BILATERAL TRADE BETWEEN THE KYRGYZ REPUBLIC AND THE PEOPLE'S REPUBLIC OF CHINA",
+  "doi": "10.33514/1694-7851-2026-1/1-582-590",
+  "theme": "landlocked_economies",
+  "tier": "support",
+  "row_round1": 1413
+ },
+ {
+  "key": "10.29105/trendinomics.v2i2.19",
+  "title": "Forecasting trade flows under geopolitical uncertainty: A hybrid econometric–LSTM approach",
+  "doi": "10.29105/trendinomics.v2i2.19",
+  "theme": "geopolitical_risk",
+  "tier": "core",
+  "row_round1": 152
+ },
+ {
+  "key": "10.3389/fmars.2026.1956773",
+  "title": "Dynamic trade flow indicators outperform import concentration in supply disruption early warning for a maritime-dependent economy",
+  "doi": "10.3389/fmars.2026.1956773",
+  "theme": "energy_security",
+  "tier": "core",
+  "row_round1": 6
+ },
+ {
+  "key": "10.3390/su16062284",
+  "title": "Early Warning Systems for World Energy Crises",
+  "doi": "10.3390/su16062284",
+  "theme": "energy_security",
+  "tier": "core",
+  "row_round1": 20
+ },
+ {
+  "key": "10.3390/su10010283",
+  "title": "An Early Warning System for Oil Security in China",
+  "doi": "10.3390/su10010283",
+  "theme": "energy_security",
+  "tier": "core",
+  "row_round1": 70
+ },
+ {
+  "key": "10.1109/icrera66237.2025.11283745",
+  "title": "An Early Warning System for Renewable Energy Supply Shortfalls in Europe Using Integrated Machine Learning and Spatiotemporal Energy Data",
+  "doi": "10.1109/icrera66237.2025.11283745",
+  "theme": "energy_security",
+  "tier": "core",
+  "row_round1": 512
+ },
+ {
+  "key": "10.1049/itr2.12083",
+  "title": "Predictive modelling of fuel shortages during hurricane evacuation: An epidemiological approach",
+  "doi": "10.1049/itr2.12083",
+  "theme": "energy_security",
+  "tier": "core",
+  "row_round1": 613
+ },
+ {
+  "key": "10.1371/journal.pone.0229957",
+  "title": "Fuel shortages during hurricanes: Epidemiological modeling and optimal control",
+  "doi": "10.1371/journal.pone.0229957",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 1597
+ },
+ {
+  "key": "10.5089/9781455217878.001",
+  "title": "Measuring Energy Security: Trends in the Diversification of Oil and Natural Gas Supplies",
+  "doi": "10.1016/j.enpol.2011.06.034",
+  "theme": "energy_security",
+  "tier": "core",
+  "row_round1": 928
+ },
+ {
+  "key": "10.1016/j.enpol.2009.05.069",
+  "title": "Measuring the security of external energy supply in the European Union",
+  "doi": "10.1016/j.enpol.2009.05.069",
+  "theme": "energy_security",
+  "tier": "core",
+  "row_round1": 3687
+ },
+ {
+  "key": "10.1016/j.rser.2014.10.064",
+  "title": "Energy security: Definitions, dimensions and indexes",
+  "doi": "10.1016/j.rser.2014.10.064",
+  "theme": "energy_security",
+  "tier": "core",
+  "row_round1": 2467
+ },
+ {
+  "key": "10.1016/j.energy.2014.02.091",
+  "title": "Measuring external oil supply risk: A modified diversification index with country risk and potential oil exports",
+  "doi": "10.1016/j.energy.2014.02.091",
+  "theme": "energy_security",
+  "tier": "core",
+  "row_round1": 409
+ },
+ {
+  "key": "10.1016/j.enpol.2007.11.011",
+  "title": "Oil vulnerability index of oil-importing countries",
+  "doi": "10.1016/j.enpol.2007.11.011",
+  "theme": "energy_security",
+  "tier": "core",
+  "row_round1": 1063
+ },
+ {
+  "key": "10.1016/j.energy.2017.01.018",
+  "title": "Modeling systemic risk of crude oil imports: Case of China’s global oil supply chain",
+  "doi": "10.1016/j.energy.2017.01.018",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 2195
+ },
+ {
+  "key": "10.1016/j.eneco.2013.06.009",
+  "title": "Quantifying the risk to crude oil imports in China: An improved portfolio approach",
+  "doi": "10.1016/j.eneco.2013.06.009",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 2449
+ },
+ {
+  "key": "10.1016/j.eneco.2013.03.014",
+  "title": "An evaluation framework for oil import security based on the supply chain with a case study focused on China",
+  "doi": "10.1016/j.eneco.2013.03.014",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 2216
+ },
+ {
+  "key": "10.1080/02664763.2013.827160",
+  "title": "Modelling oil and gas supply disruption risks using extreme-value theory and copula",
+  "doi": "10.1080/02664763.2013.827160",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 2538
+ },
+ {
+  "key": "10.1016/j.enpol.2017.12.013",
+  "title": "An updated assessment of oil market disruption risks",
+  "doi": "10.1016/j.enpol.2017.12.013",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 2540
+ },
+ {
+  "key": "10.1016/j.eneco.2024.108013",
+  "title": "Modelling and assessing dynamic energy supply resilience to disruption events: An oil supply disruption case in China",
+  "doi": "10.1016/j.eneco.2024.108013",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 2483
+ },
+ {
+  "key": "10.1787/5k9h0wd2ghlv-en",
+  "title": "The IEA Model of Short-Term Energy Security (MOSES)",
+  "doi": "10.1787/5k9h0wd2ghlv-en",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 111
+ },
+ {
+  "key": "10.3390/en11071687",
+  "title": "A New Hybrid Method for China’s Energy Supply Security Forecasting Based on ARIMA and XGBoost",
+  "doi": "10.3390/en11071687",
+  "theme": "energy_security",
+  "tier": "core",
+  "row_round1": 1512
+ },
+ {
+  "key": "10.70729/se241113181517",
+  "title": "Application of Neural Networks for Forecasting Energy Security Indicators",
+  "doi": "10.70729/se241113181517",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 588
+ },
+ {
+  "key": "10.48550/arxiv.2407.16739",
+  "title": "Forecasting Automotive Supply Chain Shortfalls with Heterogeneous Time Series",
+  "doi": "10.48550/arxiv.2407.16739",
+  "theme": "energy_security",
+  "tier": "core",
+  "row_round1": 491
+ },
+ {
+  "key": "10.1016/j.energy.2018.04.116",
+  "title": "Assessing oil supply security of South Asia",
+  "doi": "10.1016/j.energy.2018.04.116",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 3691
+ },
+ {
+  "key": "10.22190/fueo201005025v",
+  "title": "MEASURING SUPPLY CONCENTRATION ON THE SERBIAN OIL AND OIL DERIVATES MARKET BY HERFINDAHL-HIRSCHMAN INDEX",
+  "doi": "10.22190/fueo201005025v",
+  "theme": "energy_security",
+  "tier": "core",
+  "row_round1": 2280
+ },
+ {
+  "key": "10.1007/978-3-642-41596-8_7",
+  "title": "Geopolitical Market Concentration (GMC) Risk of Turkish Crude Oil and Natural Gas Imports",
+  "doi": "10.1007/978-3-642-41596-8_7",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 1015
+ },
+ {
+  "key": "10.1016/j.esr.2025.101921",
+  "title": "Adaptive strategies to enhance resilience in the global oil trade network",
+  "doi": "10.1016/j.esr.2025.101921",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 449
+ },
+ {
+  "key": "10.1016/j.esr.2026.102331",
+  "title": "Resilience of oil product trade networks along the global oil industry chain: A risk propagation approach",
+  "doi": "10.1016/j.esr.2026.102331",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 95
+ },
+ {
+  "key": "10.1016/j.energy.2024.134174",
+  "title": "Resilience of international oil trade networks under extreme event shock-recovery simulations",
+  "doi": "10.1016/j.energy.2024.134174",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 390
+ },
+ {
+  "key": "10.2139/ssrn.7380029",
+  "title": "Assessing the resistance of international oil trade networks to external shocks: A scenario-based graph neural network framework",
+  "doi": "10.2139/ssrn.7380029",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 56
+ },
+ {
+  "key": "10.1016/j.esr.2023.101053",
+  "title": "Petroleum dependence in developing countries with an emphasis on Nepal and potential keys",
+  "doi": "10.1016/j.esr.2023.101053",
+  "theme": "energy_security",
+  "tier": "support",
+  "row_round1": 181
+ },
+ {
+  "key": "10.2139/ssrn.4041666",
+  "title": "Evaluating the Effectiveness of Early Warning Indicators: An Application of Receiver Operating Characteristic Curve Approach to Panel Data",
+  "doi": "10.2139/ssrn.4041666",
+  "theme": "energy_security",
+  "tier": "core",
+  "row_round1": 769
+ },
+ {
+  "key": "10.17016/ifdp.2018.1222",
+  "title": "Measuring Geopolitical Risk",
+  "doi": "10.17016/ifdp.2018.1222",
+  "theme": "geopolitical_risk",
+  "tier": "core",
+  "row_round1": 2925
+ },
+ {
+  "key": "10.1016/j.esr.2025.101695",
+  "title": "How do economic policy uncertainty and geopolitical risk affect oil imports? Evidence from China and India",
+  "doi": "10.1016/j.esr.2025.101695",
+  "theme": "geopolitical_risk",
+  "tier": "core",
+  "row_round1": 460
+ },
+ {
+  "key": "10.1016/j.energy.2025.137996",
+  "title": "Anchoring security in uncertainty: The dynamic responses of China's energy imports to geopolitical risk shocks",
+  "doi": "10.1016/j.energy.2025.137996",
+  "theme": "geopolitical_risk",
+  "tier": "core",
+  "row_round1": 161
+ },
+ {
+  "key": "10.1016/j.eneco.2025.108595",
+  "title": "The survival of global energy imports and the impact of geopolitical risks",
+  "doi": "10.1016/j.eneco.2025.108595",
+  "theme": "geopolitical_risk",
+  "tier": "core",
+  "row_round1": 975
+ },
+ {
+  "key": "10.1016/j.eneco.2025.108717",
+  "title": "Are geopolitical risks reshaping the global energy trade networks? A global perspective",
+  "doi": "10.1016/j.eneco.2025.108717",
+  "theme": "geopolitical_risk",
+  "tier": "support",
+  "row_round1": 978
+ },
+ {
+  "key": "10.1016/j.eneco.2023.107245",
+  "title": "Do geopolitical risks always harm energy security? Their non-linear effects and mechanism",
+  "doi": "10.1016/j.eneco.2023.107245",
+  "theme": "geopolitical_risk",
+  "tier": "support",
+  "row_round1": 2214
+ },
+ {
+  "key": "10.1016/j.enpol.2022.112856",
+  "title": "Geopolitical risk and China's oil security",
+  "doi": "10.1016/j.enpol.2022.112856",
+  "theme": "geopolitical_risk",
+  "tier": "support",
+  "row_round1": 2409
+ },
+ {
+  "key": "10.1016/j.resourpol.2023.103555",
+  "title": "Relationships among geopolitical risk, trade policy uncertainty, and crude oil import prices: Evidence from China",
+  "doi": "10.1016/j.resourpol.2023.103555",
+  "theme": "geopolitical_risk",
+  "tier": "support",
+  "row_round1": 436
+ },
+ {
+  "key": "10.3390/en19184379",
+  "title": "Middle East Geopolitical Risk and China’s Crude-Oil Import Security: Divergent Responses of Supplier Concentration and Hormuz-Origin Exposure",
+  "doi": "10.3390/en19184379",
+  "theme": "geopolitical_risk",
+  "tier": "support",
+  "row_round1": 1019
+ },
+ {
+  "key": "10.2139/ssrn.7679879",
+  "title": "Geopolitical Shocks in Vertically Linked Petroleum Products Supply Chains",
+  "doi": "10.2139/ssrn.7679879",
+  "theme": "geopolitical_risk",
+  "tier": "core",
+  "row_round1": 23
+ },
+ {
+  "key": "10.5040/9798881888824.ch-6",
+  "title": "The Evolution of Central Asian Trade with Russia and the Impact of the Russian Invasion of Ukraine",
+  "doi": "10.5040/9798881888824.ch-6",
+  "theme": "geopolitical_risk",
+  "tier": "core",
+  "row_round1": 1468
+ },
+ {
+  "key": "10.2139/ssrn.4368618",
+  "title": "The Eurasian Roundabout: Trade Flows Into Russia Through the Caucasus and Central Asia",
+  "doi": "10.2139/ssrn.4368618",
+  "theme": "geopolitical_risk",
+  "tier": "core",
+  "row_round1": 504
+ },
+ {
+  "key": "10.2139/ssrn.6052355",
+  "title": "Venezuela: How Sanctions Redraw Oil Trade Flows (2022-2025)",
+  "doi": "10.2139/ssrn.6052355",
+  "theme": "geopolitical_risk",
+  "tier": "support",
+  "row_round1": 1016
+ },
+ {
+  "key": "10.1111/caje.12754",
+  "title": "On the heterogeneous effects of sanctions on trade",
+  "doi": "10.1111/caje.12754",
+  "theme": "geopolitical_risk",
+  "tier": "support",
+  "row_round1": 1674
+ },
+ {
+  "key": "10.1111/ecpo.70046",
+  "title": "Discrepancies in Trade Statistics in 2003–2024: The Impact of Sanctions",
+  "doi": "10.1111/ecpo.70046",
+  "theme": "geopolitical_risk",
+  "tier": "core",
+  "row_round1": 715
+ },
+ {
+  "key": "10.34989/swp-2011-16",
+  "title": "Real-Time Forecasts of the Real Price of Oil",
+  "doi": "10.34989/swp-2011-16",
+  "theme": "geopolitical_risk",
+  "tier": "core",
+  "row_round1": 1001
+ },
+ {
+  "key": "10.1016/j.ijforecast.2021.03.004",
+  "title": "Principles and algorithms for forecasting groups of time series: Locality and globality",
+  "doi": "10.1016/j.ijforecast.2021.03.004",
+  "theme": "global_time_series",
+  "tier": "core",
+  "row_round1": 582
+ },
+ {
+  "key": "10.1016/j.ijforecast.2020.11.009",
+  "title": "Investigating the accuracy of cross-learning time series forecasting methods",
+  "doi": "10.1016/j.ijforecast.2020.11.009",
+  "theme": "global_time_series",
+  "tier": "core",
+  "row_round1": 1517
+ },
+ {
+  "key": "10.1016/j.patcog.2021.108441",
+  "title": "Global models for time series forecasting: A Simulation study",
+  "doi": "10.1016/j.patcog.2021.108441",
+  "theme": "global_time_series",
+  "tier": "core",
+  "row_round1": 1059
+ },
+ {
+  "key": "10.3390/forecast8050089",
+  "title": "Pooling Beats Structure on Short Annual Panels: Parameter Sharing and the Forecast Accuracy of Evolutionary Models for Compositional Time Series",
+  "doi": "10.3390/forecast8050089",
+  "theme": "global_time_series",
+  "tier": "core",
+  "row_round1": 2342
+ },
+ {
+  "key": "10.2139/ssrn.6559399",
+  "title": "Global Persistence, Local Residual Structure: Forecasting Heterogeneous Investment Panels",
+  "doi": "10.2139/ssrn.6559399",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 1730
+ },
+ {
+  "key": "10.1002/for.3224",
+  "title": "Cross‐Learning With Panel Data Modeling for Stacking and Forecast Time Series Employment in Europe",
+  "doi": "10.1002/for.3224",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 2915
+ },
+ {
+  "key": "10.48550/arxiv.2411.06394",
+  "title": "Local vs. Global Models for Hierarchical Forecasting",
+  "doi": "10.48550/arxiv.2411.06394",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 1245
+ },
+ {
+  "key": "10.48550/arxiv.2601.14031",
+  "title": "Intermittent time series forecasting: local vs global models",
+  "doi": "10.48550/arxiv.2601.14031",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 500
+ },
+ {
+  "key": "10.2139/ssrn.5287415",
+  "title": "On the Stability of Global Forecasting Models",
+  "doi": "10.2139/ssrn.5287415",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 3238
+ },
+ {
+  "key": "10.2139/ssrn.5236651",
+  "title": "Do Global Forecasting Models Require Frequent Retraining?",
+  "doi": "10.2139/ssrn.5236651",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 131
+ },
+ {
+  "key": "10.1609/aaai.v35i10.17115",
+  "title": "Meta-Learning Framework with Applications to Zero-Shot Time-Series Forecasting",
+  "doi": "10.1609/aaai.v35i10.17115",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 1101
+ },
+ {
+  "key": "10.48550/arxiv.2105.06643",
+  "title": "Monash Time Series Forecasting Archive",
+  "doi": "10.48550/arxiv.2105.06643",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 1579
+ },
+ {
+  "key": "10.48550/arxiv.2404.06198",
+  "title": "The impact of data set similarity and diversity on transfer learning success in time series forecasting",
+  "doi": "10.48550/arxiv.2404.06198",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 1314
+ },
+ {
+  "key": "10.1080/01605682.2022.2118629",
+  "title": "Statistical, machine learning and deep learning forecasting methods: Comparisons and ways forward",
+  "doi": "10.1080/01605682.2022.2118629",
+  "theme": "global_time_series",
+  "tier": "core",
+  "row_round1": 2974
+ },
+ {
+  "key": "10.1016/j.ijforecast.2019.04.014",
+  "title": "The M4 Competition: 100,000 time series and 61 forecasting methods",
+  "doi": "10.1016/j.ijforecast.2019.04.014",
+  "theme": "global_time_series",
+  "tier": "core",
+  "row_round1": 1851
+ },
+ {
+  "key": "10.1016/j.ijforecast.2021.11.013",
+  "title": "M5 accuracy competition: Results, findings, and conclusions",
+  "doi": "10.1016/j.ijforecast.2021.11.013",
+  "theme": "global_time_series",
+  "tier": "core",
+  "row_round1": 2893
+ },
+ {
+  "key": "10.1080/07350015.1995.10524599",
+  "title": "Comparing Predictive Accuracy",
+  "doi": "10.1080/07350015.1995.10524599",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 2892
+ },
+ {
+  "key": "10.2139/ssrn.2893180",
+  "title": "Comparing Predictive Accuracy in Small Samples Using Fixed-Smoothing Asymptotics",
+  "doi": "10.2139/ssrn.2893180",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 3366
+ },
+ {
+  "key": "10.1080/07350015.2014.983236",
+  "title": "Comparing Predictive Accuracy, Twenty Years Later: A Personal Perspective on the Use and Abuse of Diebold–Mariano Tests",
+  "doi": "10.1080/07350015.2014.983236",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 3151
+ },
+ {
+  "key": "10.1016/j.csda.2017.11.003",
+  "title": "A note on the validity of cross-validation for evaluating autoregressive time series prediction",
+  "doi": "10.1016/j.csda.2017.11.003",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 2905
+ },
+ {
+  "key": "10.1016/j.ijforecast.2006.03.001",
+  "title": "Another look at measures of forecast accuracy",
+  "doi": "10.1016/j.ijforecast.2006.03.001",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 2909
+ },
+ {
+  "key": "10.1016/s0169-2070(00)00065-0",
+  "title": "Out-of-sample tests of forecasting accuracy: an analysis and review",
+  "doi": "10.1016/s0169-2070(00)00065-0",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 2979
+ },
+ {
+  "key": "10.32614/cran.package.pepa",
+  "title": "pEPA: Tests of Equal Predictive Accuracy for Panels of Forecasts",
+  "doi": "10.32614/cran.package.pepa",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 3362
+ },
+ {
+  "key": "10.1007/s10618-022-00894-5",
+  "title": "Forecast evaluation for data scientists: common pitfalls and best practices",
+  "doi": "10.1007/s10618-022-00894-5",
+  "theme": "global_time_series",
+  "tier": "core",
+  "row_round1": 3536
+ },
+ {
+  "key": "10.1016/s0164-0704(02)00062-9",
+  "title": "Forecasting with a Real-Time Data Set for Macroeconomists",
+  "doi": "10.1016/s0164-0704(02)00062-9",
+  "theme": "global_time_series",
+  "tier": "core",
+  "row_round1": 584
+ },
+ {
+  "key": "10.1016/s1574-0706(05)01017-7",
+  "title": "Chapter 17 Forecasting with Real-Time Macroeconomic Data",
+  "doi": "10.1016/s1574-0706(05)01017-7",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 2929
+ },
+ {
+  "key": "10.48550/arxiv.2608.09033",
+  "title": "Forecasting in the Fog: Real-Time versus Revised-Data Evidence on Machine Learning's Edge over the Phillips Curve",
+  "doi": "10.48550/arxiv.2608.09033",
+  "theme": "global_time_series",
+  "tier": "core",
+  "row_round1": 476
+ },
+ {
+  "key": "10.48550/arxiv.2606.28670",
+  "title": "MACROCAST: A Vintage-Consistent Time Series Foundation Model for Real-Time Macroeconomic Forecasting",
+  "doi": "10.2139/ssrn.7004218",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 1523
+ },
+ {
+  "key": "10.1016/j.ijforecast.2020.10.005",
+  "title": "Nowcasting GDP using machine-learning algorithms: A real-time assessment",
+  "doi": "10.1016/j.ijforecast.2020.10.005",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 3499
+ },
+ {
+  "key": "10.1111/1468-0084.00071",
+  "title": "United States Trade Balance Announcements: The Nature of its Data Revisions",
+  "doi": "10.1111/1468-0084.00071",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 659
+ },
+ {
+  "key": "10.1002/for.3980050102",
+  "title": "Forecasting with an econometric model: The ‘ragged edge’ problem",
+  "doi": "10.1002/for.3980050102",
+  "theme": "global_time_series",
+  "tier": "support",
+  "row_round1": 1575
+ },
+ {
+  "key": "10.1016/j.ijforecast.2021.10.004",
+  "title": "Forecasting with trees",
+  "doi": "10.1016/j.ijforecast.2021.10.004",
+  "theme": "deep_learning",
+  "tier": "core",
+  "row_round1": 2509
+ },
+ {
+  "key": "10.1609/aaai.v37i9.26317",
+  "title": "Are Transformers Effective for Time Series Forecasting?",
+  "doi": "10.1609/aaai.v37i9.26317",
+  "theme": "deep_learning",
+  "tier": "core",
+  "row_round1": 2760
+ },
+ {
+  "key": "10.1016/j.ijforecast.2021.03.012",
+  "title": "Temporal Fusion Transformers for interpretable multi-horizon time series forecasting",
+  "doi": "10.1016/j.ijforecast.2021.03.012",
+  "theme": "deep_learning",
+  "tier": "core",
+  "row_round1": 2761
+ },
+ {
+  "key": "10.48550/arxiv.1905.10437",
+  "title": "N-BEATS: Neural basis expansion analysis for interpretable time series forecasting",
+  "doi": "10.48550/arxiv.1905.10437",
+  "theme": "deep_learning",
+  "tier": "core",
+  "row_round1": 2476
+ },
+ {
+  "key": "10.1016/j.ijforecast.2019.07.001",
+  "title": "DeepAR: Probabilistic forecasting with autoregressive recurrent networks",
+  "doi": "10.1016/j.ijforecast.2019.07.001",
+  "theme": "deep_learning",
+  "tier": "core",
+  "row_round1": 1283
+ },
+ {
+  "key": "10.1016/j.ijforecast.2020.06.008",
+  "title": "Recurrent Neural Networks for Time Series Forecasting: Current status and future directions",
+  "doi": "10.1016/j.ijforecast.2020.06.008",
+  "theme": "deep_learning",
+  "tier": "support",
+  "row_round1": 2492
+ },
+ {
+  "key": "10.3390/en18071685",
+  "title": "Deep Learning vs. Gradient Boosting: Optimizing Transport Energy Forecasts in Thailand Through LSTM and XGBoost",
+  "doi": "10.3390/en18071685",
+  "theme": "deep_learning",
+  "tier": "core",
+  "row_round1": 630
+ },
+ {
+  "key": "10.2478/picbe-2025-0118",
+  "title": "Time Series Forecasting with LightGBM under Data Scarcity: An Application to Romania’s Inland Gas Consumption",
+  "doi": "10.2478/picbe-2025-0118",
+  "theme": "deep_learning",
+  "tier": "support",
+  "row_round1": 1550
+ },
+ {
+  "key": "10.1145/2939672.2939785",
+  "title": "XGBoost",
+  "doi": "10.1145/2939672.2939785",
+  "theme": "deep_learning",
+  "tier": "support",
+  "row_round1": 1342
+ },
+ {
+  "key": "lightgbmahighlyefficientgradientboostingdecisiontree",
+  "title": "LightGBM: A Highly Efficient Gradient Boosting Decision Tree",
+  "doi": "",
+  "theme": "deep_learning",
+  "tier": "support",
+  "row_round1": 2495
+ },
+ {
+  "key": "10.1016/j.ijforecast.2022.01.009",
+  "title": "A solution for M5 Forecasting - Uncertainty: Hybrid gradient boosting and autoregressive recurrent neural network for quantile estimation",
+  "doi": "10.1016/j.ijforecast.2022.01.009",
+  "theme": "deep_learning",
+  "tier": "support",
+  "row_round1": 1444
+ },
+ {
+  "key": "10.1111/j.1467-9868.2007.00587.x",
+  "title": "Probabilistic Forecasts, Calibration and Sharpness",
+  "doi": "10.1111/j.1467-9868.2007.00587.x",
+  "theme": "probabilistic_forecasting",
+  "tier": "core",
+  "row_round1": 1075
+ },
+ {
+  "key": "10.1016/j.ijforecast.2016.02.001",
+  "title": "Probabilistic energy forecasting: Global Energy Forecasting Competition 2014 and beyond",
+  "doi": "10.1016/j.ijforecast.2016.02.001",
+  "theme": "probabilistic_forecasting",
+  "tier": "core",
+  "row_round1": 1068
+ },
+ {
+  "key": "10.1109/tnnls.2022.3217694",
+  "title": "Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting",
+  "doi": "10.1109/tnnls.2022.3217694",
+  "theme": "probabilistic_forecasting",
+  "tier": "core",
+  "row_round1": 1934
+ },
+ {
+  "key": "10.48550/arxiv.2202.07282",
+  "title": "Adaptive Conformal Predictions for Time Series",
+  "doi": "10.48550/arxiv.2202.07282",
+  "theme": "probabilistic_forecasting",
+  "tier": "support",
+  "row_round1": 1946
+ },
+ {
+  "key": "10.1109/tpami.2023.3272339",
+  "title": "Conformal Prediction for Time Series",
+  "doi": "10.1109/tpami.2023.3272339",
+  "theme": "probabilistic_forecasting",
+  "tier": "support",
+  "row_round1": 1850
+ },
+ {
+  "key": "10.32614/cran.package.xpect",
+  "title": "xpect: Probabilistic Time Series Forecasting with XGBoost and Conformal Inference",
+  "doi": "10.32614/cran.package.xpect",
+  "theme": "probabilistic_forecasting",
+  "tier": "support",
+  "row_round1": 1432
+ },
+ {
+  "key": "10.14778/3137765.3137775",
+  "title": "Probabilistic demand forecasting at scale",
+  "doi": "10.14778/3137765.3137775",
+  "theme": "probabilistic_forecasting",
+  "tier": "support",
+  "row_round1": 1959
+ },
+ {
+  "key": "10.48550/arxiv.1711.11053",
+  "title": "A Multi-Horizon Quantile Recurrent Forecaster",
+  "doi": "10.48550/arxiv.1711.11053",
+  "theme": "probabilistic_forecasting",
+  "tier": "support",
+  "row_round1": 1287
+ },
+ {
+  "key": "10.1016/j.ijforecast.2016.02.002",
+  "title": "Probabilistic gradient boosting machines for GEFCom2014 wind forecasting",
+  "doi": "10.1016/j.ijforecast.2016.02.002",
+  "theme": "probabilistic_forecasting",
+  "tier": "support",
+  "row_round1": 1337
+ },
+ {
+  "key": "10.1007/s10687-023-00473-x",
+  "title": "Gradient boosting for extreme quantile regression",
+  "doi": "10.1007/s10687-023-00473-x",
+  "theme": "probabilistic_forecasting",
+  "tier": "support",
+  "row_round1": 522
+ },
+ {
+  "key": "10.48550/arxiv.2605.08422",
+  "title": "Rolling-Origin Conformal Prediction under Local Stationarity and Weak Dependence",
+  "doi": "10.48550/arxiv.2605.08422",
+  "theme": "probabilistic_forecasting",
+  "tier": "support",
+  "row_round1": 2021
+ },
+ {
+  "key": "10.1214/21-ejs1808",
+  "title": "Forecast evaluation of quantiles, prediction intervals, and other set-valued functionals",
+  "doi": "10.1214/21-ejs1808",
+  "theme": "probabilistic_forecasting",
+  "tier": "support",
+  "row_round1": 1866
+ },
+ {
+  "key": "10.1016/j.ijforecast.2021.10.009",
+  "title": "The M5 uncertainty competition: Results, findings and conclusions",
+  "doi": "10.1016/j.ijforecast.2021.10.009",
+  "theme": "probabilistic_forecasting",
+  "tier": "core",
+  "row_round1": 1849
+ },
+ {
+  "key": "10.48550/arxiv.1910.07325",
+  "title": "Multivariate Forecasting Evaluation: On Sensitive and Strictly Proper Scoring Rules",
+  "doi": "10.48550/arxiv.1910.07325",
+  "theme": "probabilistic_forecasting",
+  "tier": "support",
+  "row_round1": 1149
+ },
+ {
+  "key": "10.3390/en15217822",
+  "title": "Energy Security of Hydropower Producing Countries—The Cases of Tajikistan and Kyrgyzstan",
+  "doi": "10.3390/en15217822",
+  "theme": "landlocked_economies",
+  "tier": "core",
+  "row_round1": 209
+ },
+ {
+  "key": "measuringthesecurityofexternalenergysupplyandenergyexportsdemandincentralasia",
+  "title": "Measuring the Security of External Energy Supply and Energy Exports Demand in Central Asia",
+  "doi": "",
+  "theme": "landlocked_economies",
+  "tier": "core",
+  "row_round1": 13
+ },
+ {
+  "key": "10.5814/j.issn.1674-764x.2018.04.011",
+  "title": "Quantitative Analysis of Central Asian Countries' Energy Security and Its Political Influence Factors",
+  "doi": "10.5814/j.issn.1674-764x.2018.04.011",
+  "theme": "landlocked_economies",
+  "tier": "support",
+  "row_round1": 285
+ },
+ {
+  "key": "10.1111/twec.13416",
+  "title": "Trade policy in a ‘double‐landlocked’ transition economy: Kyrgyzstan",
+  "doi": "10.1111/twec.13416",
+  "theme": "landlocked_economies",
+  "tier": "core",
+  "row_round1": 1402
+ },
+ {
+  "key": "10.11610/connections.02.1.06",
+  "title": "Regional Aspects of Kyrgyzstan Energy Security",
+  "doi": "10.11610/connections.02.1.06",
+  "theme": "landlocked_economies",
+  "tier": "support",
+  "row_round1": 39
+ },
+ {
+  "key": "10.22363/2313-0660-2018-18-2-284-291",
+  "title": "THE ROLE OF CENTRAL ASIAN COUNTRIES IN THE FUEL AND ENERGY COMPLEX OF KYRGYZSTAN: THE STATE, PROBLEMS AND PROSPECTS",
+  "doi": "10.22363/2313-0660-2018-18-2-284-291",
+  "theme": "landlocked_economies",
+  "tier": "support",
+  "row_round1": 185
+ },
+ {
+  "key": "10.17223/15617793/422/11",
+  "title": "THE COOPERATION OF KYRGYZSTAN AND RUSSIA IN THE FUEL AND ENERGY SECTOR: STATE, PROBLEMS AND PROSPECTS",
+  "doi": "10.17223/15617793/422/11",
+  "theme": "landlocked_economies",
+  "tier": "support",
+  "row_round1": 598
+ },
+ {
+  "key": "10.17223/19988613/50/7",
+  "title": "Problems of fuel and energy cooperation between Kyrgyzstan and Kazakhstan in the Eurasian space",
+  "doi": "10.17223/19988613/50/7",
+  "theme": "landlocked_economies",
+  "tier": "support",
+  "row_round1": 640
+ },
+ {
+  "key": "10.2139/ssrn.1527023",
+  "title": "Energy Security, Poverty and Vulnerability in Central Asia and the Wider European Neighbourhood",
+  "doi": "10.2139/ssrn.1527023",
+  "theme": "landlocked_economies",
+  "tier": "support",
+  "row_round1": 337
+ },
+ {
+  "key": "10.34382/00004671",
+  "title": "Without Sea, Can Landlocked Countries Hope Economic Security?",
+  "doi": "10.34382/00004671",
+  "theme": "landlocked_economies",
+  "tier": "support",
+  "row_round1": 713
+ },
+ {
+  "key": "10.30875/9789287054227c003",
+  "title": "Landlocked developing countries and trade bottlenecks",
+  "doi": "10.30875/9789287053305-003.zhtml",
+  "theme": "landlocked_economies",
+  "tier": "support",
+  "row_round1": 1284
+ },
+ {
+  "key": "10.1596/29045",
+  "title": "Analysis of the Kyrgyz Republic's Energy Sector",
+  "doi": "10.1596/29045",
+  "theme": "landlocked_economies",
+  "tier": "support",
+  "row_round1": 320
+ },
+ {
+  "key": "10.26740/ijss.v4n2.p40-48",
+  "title": "Energy Security in Mongolia: Current Trajectory and Future Prospects",
+  "doi": "10.26740/ijss.v4n2.p40-48",
+  "theme": "landlocked_economies",
+  "tier": "support",
+  "row_round1": 277
+ },
+ {
+  "key": "10.22363/2313-2329-2022-30-3-343-357",
+  "title": "Cross-border trade in energy resources: Features of the Central Asian region",
+  "doi": "10.22363/2313-2329-2022-30-3-343-357",
+  "theme": "landlocked_economies",
+  "tier": "support",
+  "row_round1": 289
+ },
+ {
+  "key": "10.59425/eabc.1790349584",
+  "title": "Kyrgyzstan faces hard choices on a half-empty fuel tank",
+  "doi": "10.59425/eabc.1790349584",
+  "theme": "landlocked_economies",
+  "tier": "support",
+  "row_round1": 1083
+ }
+]

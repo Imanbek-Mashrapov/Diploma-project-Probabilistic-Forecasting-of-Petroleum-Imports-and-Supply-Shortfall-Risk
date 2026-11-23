@@ -1,0 +1,29 @@
+title	authors_short	year	cp_citations	cp_similarity
+Principles and Algorithms for Forecasting Groups of Time Series: Locality and Globality	Montero-Manso; Hyndman	2020	241	100
+Criteria for Classifying Forecasting Methods	Januschowski et al.	2020	247	27.8
+Global Models for Time Series Forecasting: A Simulation Study	Hewamalage; Bergmeir; Bandara	2020	92	27.6
+Ensembles of Localised Models for Time Series Forecasting	Godahewa et al.	2020	61	22.3
+Recurrent Neural Networks for Time Series Forecasting: Current Status and Future Directions	Hewamalage; Bergmeir; Bandara	2019	1374	20.2
+Monash Time Series Forecasting Archive	Godahewa et al.	2021	349	18.4
+An accurate and fully-automated ensemble model for weekly time series forecasting	Godahewa et al.	2020	20	18
+Investigating the accuracy of cross-learning time series forecasting methods	Semenoglou et al.	2020	82	17.2
+Forecasting across time series databases using recurrent neural networks on groups of similar series: A clustering approach	Bandara; Bergmeir; Smyl	2017	466	16.8
+GluonTS: Probabilistic Time Series Models in Python	Alexandrov et al.	2019	137	16.7
+The Effectiveness of Discretization in Forecasting: An Empirical Study on Neural Time Series Models	Rabanser et al.	2020	37	15.7
+Forecasting Across Time Series Databases using Long Short-Term Memory Networks on Groups of Similar Series	Bandara; Bergmeir; Smyl	2017	32	15.3
+Improving the Accuracy of Global Forecasting Models using Time Series Data Augmentation	Bandara et al.	2020	159	15.2
+The M5 Accuracy competition: Results, findings and conclusions	Makridakis	2020	262	14.8
+LoMEF: A Framework to Produce Local Explanations for Global Model Time Series Forecasts	Rajapaksha; Bergmeir; Hyndman	2021	18	14.5
+Probabilistic Forecasting with Temporal Convolutional Neural Network	Chen et al.	2019	427	14
+SETAR-Tree: a novel and accurate tree algorithm for global time series forecasting	Godahewa et al.	2022	16	13.9
+Deep Factors for Forecasting	Wang et al.	2019	208	13.4
+Statistical, machine learning and deep learning forecasting methods: Comparisons and ways forward	Makridakis et al.	2022	132	12.7
+Deep Learning for Time Series Forecasting: Tutorial and Literature Survey	Benidis et al.	2020	468	12.3
+Deep State Space Models for Time Series Forecasting	Rangapuram et al.	2018	955	12.3
+N-BEATS: Neural basis expansion analysis for interpretable time series forecasting	Oreshkin et al.	2019	1893	12.3
+Forecasting with trees	Januschowski et al.	2021	128	12.2
+DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks	Salinas et al.	2017	3430	11.9
+The M4 Competition: 100,000 time series and 61 forecasting methods	Makridakis; Spiliotis; Assimakopoulos	2020	1145	11.5
+A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting	Smyl	2020	815	13
+A decoder-only foundation model for time-series forecasting	Das et al.	2023	1067	11.3
+Unified Training of Universal Time Series Forecasting Transformers	Woo et al.	2024	889	12

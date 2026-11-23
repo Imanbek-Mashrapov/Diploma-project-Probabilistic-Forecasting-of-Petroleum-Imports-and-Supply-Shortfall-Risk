@@ -1,0 +1,314 @@
+﻿database,theme,query,search_date,total_hits_reported,records_retrieved,status,unique_records_mapped,screened_title_abstract,included
+arXiv API,A_petroleum_import,petroleum import forecasting,2026-11-07,6,6,ok,6,1,0
+arXiv API,A_petroleum_import,refined petroleum products import prediction,2026-11-07,1,1,ok,1,0,0
+arXiv API,A_petroleum_import,oil product demand forecasting,2026-11-07,6,6,ok,6,0,0
+arXiv API,A_petroleum_import,energy imports forecasting,2026-11-07,512,10,ok,10,4,0
+arXiv API,A_petroleum_import,international petroleum trade prediction,2026-11-07,0,0,ok,0,0,0
+arXiv API,A_petroleum_import,fuel import dependency,2026-11-07,150,10,ok,10,3,0
+arXiv API,A_petroleum_import,petroleum trade flows forecasting,2026-11-07,0,0,ok,0,0,0
+arXiv API,A_petroleum_import,energy trade forecasting machine learning,2026-11-07,87,10,ok,10,1,0
+arXiv API,A_petroleum_import,oil import demand forecasting,2026-11-07,4,4,ok,4,0,0
+arXiv API,A_petroleum_import,gasoline demand forecasting,2026-11-07,1,1,ok,1,0,0
+arXiv API,A_petroleum_import,diesel consumption forecasting,2026-11-07,3,3,ok,3,0,0
+arXiv API,B_supply_disruption,energy supply disruption prediction,2026-11-07,8,8,ok,8,0,0
+arXiv API,B_supply_disruption,petroleum supply chain resilience,2026-11-07,0,0,ok,0,0,0
+arXiv API,B_supply_disruption,oil supply disruption risk,2026-11-07,1,1,ok,1,0,0
+arXiv API,B_supply_disruption,energy security forecasting,2026-11-07,114,10,ok,10,2,0
+arXiv API,B_supply_disruption,fuel shortage early warning system,2026-11-07,0,0,ok,0,0,0
+arXiv API,B_supply_disruption,supply shortfall prediction,2026-11-07,7,7,ok,7,0,1
+arXiv API,B_supply_disruption,energy supply vulnerability,2026-11-07,52,10,ok,10,0,0
+arXiv API,B_supply_disruption,petroleum supply chain risk assessment,2026-11-07,0,0,ok,0,0,0
+arXiv API,B_supply_disruption,oil supply shock early warning indicators,2026-11-07,0,0,ok,0,0,0
+arXiv API,C_probabilistic,probabilistic energy forecasting,2026-11-07,309,10,ok,10,1,0
+arXiv API,C_probabilistic,probabilistic time series forecasting,2026-11-07,473,10,ok,10,7,0
+arXiv API,C_probabilistic,uncertainty quantification energy forecasting,2026-11-07,56,10,ok,10,1,0
+arXiv API,C_probabilistic,quantile regression energy forecasting,2026-11-07,41,10,ok,10,2,0
+arXiv API,C_probabilistic,conformal prediction time series,2026-11-07,169,10,ok,10,9,1
+arXiv API,C_probabilistic,probabilistic demand forecasting,2026-11-07,183,10,ok,10,7,0
+arXiv API,C_probabilistic,prediction intervals forecasting evaluation,2026-11-07,246,10,ok,10,7,1
+arXiv API,C_probabilistic,proper scoring rules probabilistic forecasts calibration,2026-11-07,25,10,ok,10,9,0
+arXiv API,D_global_dl,global time series forecasting,2026-11-07,572,10,ok,10,8,4
+arXiv API,D_global_dl,local versus global forecasting models,2026-11-07,2,2,ok,2,1,0
+arXiv API,D_global_dl,deep learning time series forecasting,2026-11-07,1195,10,ok,10,1,0
+arXiv API,D_global_dl,cross-learning time series forecasting,2026-11-07,298,10,ok,10,3,0
+arXiv API,D_global_dl,GRU energy forecasting,2026-11-07,34,10,ok,10,0,0
+arXiv API,D_global_dl,temporal convolutional network energy forecasting,2026-11-07,50,10,ok,10,1,0
+arXiv API,D_global_dl,N-BEATS forecasting,2026-11-07,44,10,ok,10,1,1
+arXiv API,D_global_dl,temporal fusion transformer energy,2026-11-07,54,10,ok,10,0,0
+arXiv API,D_global_dl,transfer learning time series forecasting,2026-11-07,255,10,ok,10,4,1
+arXiv API,D_global_dl,forecasting competition M4 M5 results,2026-11-07,615,10,ok,10,5,0
+arXiv API,D_global_dl,DeepAR probabilistic forecasting,2026-11-07,13,10,ok,10,7,1
+arXiv API,E_boosting_ml,XGBoost energy forecasting,2026-11-07,31,10,ok,10,3,0
+arXiv API,E_boosting_ml,LightGBM forecasting time series,2026-11-07,23,10,ok,10,3,1
+arXiv API,E_boosting_ml,gradient boosting international trade forecasting,2026-11-07,3,3,ok,3,0,0
+arXiv API,E_boosting_ml,machine learning energy imports,2026-11-07,2207,10,ok,10,0,0
+arXiv API,E_boosting_ml,random forest energy demand forecasting,2026-11-07,13,10,ok,10,1,0
+arXiv API,E_boosting_ml,machine learning supply chain disruption prediction,2026-11-07,20,10,ok,10,0,1
+arXiv API,E_boosting_ml,tree-based models versus deep learning,2026-11-07,7,7,ok,7,0,0
+arXiv API,F_geopolitical_trade,geopolitical risk petroleum imports,2026-11-07,0,0,ok,0,0,0
+arXiv API,F_geopolitical_trade,geopolitical uncertainty energy trade,2026-11-07,3,3,ok,3,0,0
+arXiv API,F_geopolitical_trade,sanctions petroleum trade flows,2026-11-07,0,0,ok,0,0,0
+arXiv API,F_geopolitical_trade,geopolitical risk energy supply disruption,2026-11-07,0,0,ok,0,0,0
+arXiv API,F_geopolitical_trade,international trade disruption prediction,2026-11-07,2,2,ok,2,0,0
+arXiv API,F_geopolitical_trade,supplier concentration energy security,2026-11-07,0,0,ok,0,0,0
+arXiv API,F_geopolitical_trade,Herfindahl Hirschman index energy imports,2026-11-07,0,0,ok,0,0,0
+arXiv API,F_geopolitical_trade,trade dependency supply chain resilience,2026-11-07,6,6,ok,6,0,0
+arXiv API,F_geopolitical_trade,geopolitical risk index oil,2026-11-07,1,1,ok,1,0,0
+arXiv API,F_geopolitical_trade,oil trade network resilience shocks,2026-11-07,1,1,ok,1,1,1
+arXiv API,F_geopolitical_trade,forecasting trade flows machine learning,2026-11-07,37,10,ok,10,5,0
+arXiv API,F_geopolitical_trade,nowcasting international trade,2026-11-07,0,0,ok,0,0,0
+arXiv API,G_landlocked_kyrgyz,energy security landlocked developing countries,2026-11-07,0,0,ok,0,0,0
+arXiv API,G_landlocked_kyrgyz,petroleum import dependency Central Asia,2026-11-07,0,0,ok,0,0,0
+arXiv API,G_landlocked_kyrgyz,energy security Kyrgyzstan,2026-11-07,0,0,ok,0,0,0
+arXiv API,G_landlocked_kyrgyz,oil product imports Kyrgyz Republic,2026-11-07,0,0,ok,0,0,0
+arXiv API,G_landlocked_kyrgyz,fuel supply vulnerability Central Asia,2026-11-07,0,0,ok,0,0,0
+arXiv API,G_landlocked_kyrgyz,landlocked countries trade costs energy,2026-11-07,0,0,ok,0,0,0
+arXiv API,G_landlocked_kyrgyz,energy trade dependence developing countries,2026-11-07,1,1,ok,1,0,0
+arXiv API,G_landlocked_kyrgyz,Central Asia Russia energy trade dependence,2026-11-07,0,0,ok,0,0,0
+arXiv API,G_landlocked_kyrgyz,Kyrgyzstan fuel,2026-11-07,0,0,ok,0,0,0
+arXiv API,H_related,real-time data vintages forecasting evaluation,2026-11-07,4,4,ok,4,3,2
+arXiv API,H_related,data revisions trade statistics,2026-11-07,13,10,ok,10,0,0
+arXiv API,H_related,publication lag forecasting nowcasting ragged edge,2026-11-07,0,0,ok,0,0,0
+arXiv API,H_related,mirror trade statistics discrepancies,2026-11-07,0,0,ok,0,0,0
+arXiv API,H_related,UN Comtrade data quality,2026-11-07,2,2,ok,2,1,0
+arXiv API,H_related,petroleum import demand elasticity,2026-11-07,0,0,ok,0,0,0
+arXiv API,H_related,comparing predictive accuracy test forecasts,2026-11-07,186,10,ok,10,4,0
+arXiv API,H_related,rolling origin evaluation time series,2026-11-07,16,10,ok,10,5,0
+arXiv API,H_related,energy security index diversification,2026-11-07,0,0,ok,0,0,0
+arXiv API,H_related,fuel export ban impact neighbouring countries,2026-11-07,0,0,ok,0,0,0
+arXiv API,H_related,oil price shock import volumes,2026-11-07,0,0,ok,0,0,0
+arXiv API,H_related,anomaly detection trade flows,2026-11-07,9,9,ok,9,0,0
+Crossref REST API,A_petroleum_import,petroleum import forecasting,2026-11-07,407194,20,ok,18,15,0
+Crossref REST API,A_petroleum_import,refined petroleum products import prediction,2026-11-07,1485593,20,ok,18,7,0
+Crossref REST API,A_petroleum_import,oil product demand forecasting,2026-11-07,1371463,20,ok,20,9,0
+Crossref REST API,A_petroleum_import,energy imports forecasting,2026-11-07,2867701,20,ok,19,19,3
+Crossref REST API,A_petroleum_import,international petroleum trade prediction,2026-11-07,15160069,20,ok,18,9,0
+Crossref REST API,A_petroleum_import,fuel import dependency,2026-11-07,473852,20,ok,15,15,0
+Crossref REST API,A_petroleum_import,petroleum trade flows forecasting,2026-11-07,962835,20,ok,17,8,1
+Crossref REST API,A_petroleum_import,energy trade forecasting machine learning,2026-11-07,6261602,20,ok,20,13,1
+Crossref REST API,A_petroleum_import,oil import demand forecasting,2026-11-07,1022492,20,ok,19,17,1
+Crossref REST API,A_petroleum_import,gasoline demand forecasting,2026-11-07,382339,20,ok,20,11,3
+Crossref REST API,A_petroleum_import,diesel consumption forecasting,2026-11-07,538384,20,ok,15,9,0
+Crossref REST API,B_supply_disruption,energy supply disruption prediction,2026-11-07,3774520,20,ok,18,8,1
+Crossref REST API,B_supply_disruption,petroleum supply chain resilience,2026-11-07,1015858,20,ok,19,1,0
+Crossref REST API,B_supply_disruption,oil supply disruption risk,2026-11-07,2746869,20,ok,19,4,1
+Crossref REST API,B_supply_disruption,energy security forecasting,2026-11-07,3639501,20,ok,20,10,1
+Crossref REST API,B_supply_disruption,fuel shortage early warning system,2026-11-07,5417844,20,ok,20,0,0
+Crossref REST API,B_supply_disruption,supply shortfall prediction,2026-11-07,1075537,20,ok,18,1,0
+Crossref REST API,B_supply_disruption,energy supply vulnerability,2026-11-07,3085010,20,ok,19,11,0
+Crossref REST API,B_supply_disruption,petroleum supply chain risk assessment,2026-11-07,3973452,20,ok,19,0,0
+Crossref REST API,B_supply_disruption,oil supply shock early warning indicators,2026-11-07,2791497,20,ok,19,1,1
+Crossref REST API,C_probabilistic,probabilistic energy forecasting,2026-11-07,2955855,20,ok,19,6,1
+Crossref REST API,C_probabilistic,probabilistic time series forecasting,2026-11-07,4042883,20,ok,20,18,1
+Crossref REST API,C_probabilistic,uncertainty quantification energy forecasting,2026-11-07,3209214,20,ok,18,6,0
+Crossref REST API,C_probabilistic,quantile regression energy forecasting,2026-11-07,3055692,20,ok,18,6,0
+Crossref REST API,C_probabilistic,conformal prediction time series,2026-11-07,4523167,20,ok,19,19,1
+Crossref REST API,C_probabilistic,probabilistic demand forecasting,2026-11-07,458235,20,ok,20,10,0
+Crossref REST API,C_probabilistic,prediction intervals forecasting evaluation,2026-11-07,3022859,20,ok,20,19,0
+Crossref REST API,C_probabilistic,proper scoring rules probabilistic forecasts calibration,2026-11-07,470197,20,ok,20,19,0
+Crossref REST API,D_global_dl,global time series forecasting,2026-11-07,5385718,20,ok,20,1,0
+Crossref REST API,D_global_dl,local versus global forecasting models,2026-11-07,4048531,20,ok,19,3,3
+Crossref REST API,D_global_dl,deep learning time series forecasting,2026-11-07,7014335,20,ok,20,2,0
+Crossref REST API,D_global_dl,cross-learning time series forecasting,2026-11-07,7488934,20,ok,20,5,2
+Crossref REST API,D_global_dl,GRU energy forecasting,2026-11-07,2866365,20,ok,20,4,0
+Crossref REST API,D_global_dl,temporal convolutional network energy forecasting,2026-11-07,4529846,20,ok,20,0,0
+Crossref REST API,D_global_dl,N-BEATS forecasting,2026-11-07,196508,20,ok,17,3,1
+Crossref REST API,D_global_dl,temporal fusion transformer energy,2026-11-07,3485282,20,ok,20,4,0
+Crossref REST API,D_global_dl,transfer learning time series forecasting,2026-11-07,7356620,20,ok,20,8,0
+Crossref REST API,D_global_dl,forecasting competition M4 M5 results,2026-11-07,1163901,20,ok,20,18,2
+Crossref REST API,D_global_dl,DeepAR probabilistic forecasting,2026-11-07,289438,20,ok,20,4,1
+Crossref REST API,E_boosting_ml,XGBoost energy forecasting,2026-11-07,2869923,20,ok,19,7,1
+Crossref REST API,E_boosting_ml,LightGBM forecasting time series,2026-11-07,3950091,20,ok,18,2,1
+Crossref REST API,E_boosting_ml,gradient boosting international trade forecasting,2026-11-07,14711755,20,ok,20,4,2
+Crossref REST API,E_boosting_ml,machine learning energy imports,2026-11-07,5708570,20,ok,17,10,1
+Crossref REST API,E_boosting_ml,random forest energy demand forecasting,2026-11-07,3617764,20,ok,15,1,0
+Crossref REST API,E_boosting_ml,machine learning supply chain disruption prediction,2026-11-07,4354281,20,ok,7,0,0
+Crossref REST API,E_boosting_ml,tree-based models versus deep learning,2026-11-07,11135479,20,ok,15,0,0
+Crossref REST API,F_geopolitical_trade,geopolitical risk petroleum imports,2026-11-07,1950617,20,ok,19,16,4
+Crossref REST API,F_geopolitical_trade,geopolitical uncertainty energy trade,2026-11-07,3324574,20,ok,19,10,0
+Crossref REST API,F_geopolitical_trade,sanctions petroleum trade flows,2026-11-07,792388,20,ok,17,15,1
+Crossref REST API,F_geopolitical_trade,geopolitical risk energy supply disruption,2026-11-07,4774188,20,ok,18,6,0
+Crossref REST API,F_geopolitical_trade,international trade disruption prediction,2026-11-07,15052316,20,ok,20,12,0
+Crossref REST API,F_geopolitical_trade,supplier concentration energy security,2026-11-07,3751186,20,ok,15,4,1
+Crossref REST API,F_geopolitical_trade,Herfindahl Hirschman index energy imports,2026-11-07,3869711,20,ok,19,2,0
+Crossref REST API,F_geopolitical_trade,trade dependency supply chain resilience,2026-11-07,1275307,20,ok,18,16,0
+Crossref REST API,F_geopolitical_trade,geopolitical risk index oil,2026-11-07,3547614,20,ok,20,3,1
+Crossref REST API,F_geopolitical_trade,oil trade network resilience shocks,2026-11-07,2654618,20,ok,19,17,1
+Crossref REST API,F_geopolitical_trade,forecasting trade flows machine learning,2026-11-07,3803621,20,ok,19,9,3
+Crossref REST API,F_geopolitical_trade,nowcasting international trade,2026-11-07,14392213,20,ok,16,12,2
+Crossref REST API,G_landlocked_kyrgyz,energy security landlocked developing countries,2026-11-07,4168591,20,ok,17,13,1
+Crossref REST API,G_landlocked_kyrgyz,petroleum import dependency Central Asia,2026-11-07,1544544,20,ok,17,10,0
+Crossref REST API,G_landlocked_kyrgyz,energy security Kyrgyzstan,2026-11-07,3475327,20,ok,20,3,2
+Crossref REST API,G_landlocked_kyrgyz,oil product imports Kyrgyz Republic,2026-11-07,1278297,20,ok,20,0,0
+Crossref REST API,G_landlocked_kyrgyz,fuel supply vulnerability Central Asia,2026-11-07,2113412,20,ok,19,3,2
+Crossref REST API,G_landlocked_kyrgyz,landlocked countries trade costs energy,2026-11-07,3551070,20,ok,14,11,1
+Crossref REST API,G_landlocked_kyrgyz,energy trade dependence developing countries,2026-11-07,4013235,20,ok,17,5,1
+Crossref REST API,G_landlocked_kyrgyz,Central Asia Russia energy trade dependence,2026-11-07,4877360,20,ok,19,15,2
+Crossref REST API,G_landlocked_kyrgyz,Kyrgyzstan fuel,2026-11-07,419877,20,ok,19,3,2
+Crossref REST API,H_related,real-time data vintages forecasting evaluation,2026-11-07,7339531,20,ok,20,15,2
+Crossref REST API,H_related,data revisions trade statistics,2026-11-07,3867638,20,ok,17,3,1
+Crossref REST API,H_related,publication lag forecasting nowcasting ragged edge,2026-11-07,863580,20,ok,18,7,1
+Crossref REST API,H_related,mirror trade statistics discrepancies,2026-11-07,936731,20,ok,19,8,2
+Crossref REST API,H_related,UN Comtrade data quality,2026-11-07,5175002,20,ok,17,1,1
+Crossref REST API,H_related,petroleum import demand elasticity,2026-11-07,435519,20,ok,18,18,0
+Crossref REST API,H_related,comparing predictive accuracy test forecasts,2026-11-07,1407940,20,ok,17,13,3
+Crossref REST API,H_related,rolling origin evaluation time series,2026-11-07,6095148,20,ok,18,3,0
+Crossref REST API,H_related,energy security index diversification,2026-11-07,4672714,20,ok,19,18,0
+Crossref REST API,H_related,fuel export ban impact neighbouring countries,2026-11-07,2660498,20,ok,20,1,0
+Crossref REST API,H_related,oil price shock import volumes,2026-11-07,1393308,20,ok,18,7,0
+Crossref REST API,H_related,anomaly detection trade flows,2026-11-07,2183004,20,ok,20,1,0
+openalex_gapcheck,A_global_landlocked,landlocked AND (oil OR petroleum OR fuel) AND (forecast OR forecasting OR prediction),2026-11-07,,0,failed,0,0,0
+openalex_gapcheck,A_global_landlocked,"(petroleum OR ""oil products"" OR ""refined products"" OR gasoline OR diesel OR fuel) AND (import OR imports) AND (forecast OR forecasting) AND (""cross-country"" OR panel OR ""global model"" OR ""multiple countries"")",2026-11-07,,0,failed,0,0,0
+openalex_gapcheck,A_global_landlocked,(Comtrade) AND (forecast OR forecasting OR prediction),2026-11-07,,0,failed,0,0,0
+openalex_gapcheck,B_dl_vs_gbm,"(LightGBM OR XGBoost OR ""gradient boosting"") AND (LSTM OR GRU OR ""N-BEATS"" OR ""deep learning"") AND (import OR imports OR ""international trade"") AND (forecast OR forecasting)",2026-11-07,,0,failed,0,0,0
+openalex_gapcheck,B_dl_vs_gbm,"(LightGBM OR XGBoost OR ""gradient boosting"") AND (LSTM OR GRU OR ""deep learning"") AND (oil OR petroleum OR fuel OR gasoline) AND (demand OR consumption OR import) AND forecasting",2026-11-07,,0,failed,0,0,0
+openalex_gapcheck,C_probabilistic_imports,"(probabilistic OR quantile OR ""prediction interval"" OR ""prediction intervals"" OR conformal OR ""density forecast"") AND (oil OR petroleum OR fuel OR gasoline OR diesel) AND (import OR imports OR demand OR consumption) AND forecasting",2026-11-07,,0,failed,0,0,0
+openalex_gapcheck,C_probabilistic_imports,"(probabilistic OR quantile OR ""prediction interval"" OR conformal) AND (import OR imports OR ""trade flows"") AND forecasting",2026-11-07,,0,failed,0,0,0
+openalex_gapcheck,D_publication_lag,"(""publication lag"" OR ""publication delay"" OR ""release lag"" OR ""real-time data"" OR ""data vintages"" OR ""data revisions"" OR ""ragged edge"") AND (trade OR imports OR exports) AND (forecast OR forecasting OR nowcasting)",2026-11-07,,0,failed,0,0,0
+openalex_gapcheck,D_publication_lag,"(""publication lag"" OR ""release lag"" OR ""real-time"" OR vintage) AND (oil OR petroleum OR energy) AND (forecast OR forecasting OR nowcasting)",2026-11-07,,0,failed,0,0,0
+openalex_gapcheck,E_supplier_gpr_features,"""geopolitical risk"" AND (import OR imports OR trade) AND (forecast OR forecasting OR prediction)",2026-11-07,,0,failed,0,0,0
+openalex_gapcheck,E_supplier_gpr_features,"(""supplier concentration"" OR Herfindahl OR HHI OR ""supplier diversification"") AND (oil OR petroleum OR fuel OR energy) AND (import OR imports)",2026-11-07,,0,failed,0,0,0
+openalex_gapcheck,E_supplier_gpr_features,"""geopolitical risk"" AND (oil OR petroleum) AND (import OR imports)",2026-11-07,,0,failed,0,0,0
+openalex_gapcheck,F_early_warning,"""early warning"" AND (fuel OR oil OR petroleum OR energy) AND (supply OR shortage OR disruption OR security)",2026-11-07,,0,failed,0,0,0
+openalex_gapcheck,F_early_warning,"(shortage OR shortfall OR ""supply disruption"") AND (fuel OR petroleum OR ""oil products"") AND (prediction OR forecasting OR ""early warning"")",2026-11-07,,0,failed,0,0,0
+openalex_gapcheck,G_landlocked_group,"landlocked AND (""energy security"" OR ""oil import"" OR ""fuel import"" OR ""petroleum import"" OR ""energy import"")",2026-11-07,,0,failed,0,0,0
+openalex_gapcheck,G_landlocked_group,"(Kyrgyzstan OR Kyrgyz OR ""Central Asia"") AND (fuel OR petroleum OR ""oil products"" OR gasoline) AND (import OR imports OR supply)",2026-11-07,,0,failed,0,0,0
+Crossref REST API (gap check),A_global_landlocked,landlocked oil petroleum fuel import forecasting,2026-11-07,,200,ok,183,9,0
+Crossref REST API (gap check),A2_cross_country_fuel_import_forecast,cross-country panel petroleum fuel import forecasting,2026-11-07,,200,ok,185,6,2
+Crossref REST API (gap check),B_dl_vs_gbm,gradient boosting LightGBM XGBoost LSTM deep learning trade import oil forecasting,2026-11-07,,200,ok,191,21,1
+Crossref REST API (gap check),C_probabilistic_fuel,probabilistic quantile prediction interval oil fuel import demand forecasting,2026-11-07,,200,ok,193,32,3
+Crossref REST API (gap check),D_publication_lag,real-time data vintages publication lag trade import forecasting,2026-11-07,,200,ok,188,27,3
+Crossref REST API (gap check),E_supplier_gpr_features,geopolitical risk supplier concentration oil imports forecasting,2026-11-07,,200,ok,180,32,12
+Crossref REST API (gap check),F_early_warning,early warning fuel oil supply shortage disruption,2026-11-07,,200,ok,186,8,2
+Crossref REST API (gap check),G_landlocked_energy,landlocked countries energy security fuel imports,2026-11-07,,200,ok,180,22,2
+OpenAlex API,A_petroleum_import,petroleum import forecasting,2026-11-07,45900,25,ok,25,19,2
+OpenAlex API,A_petroleum_import,refined petroleum products import prediction,2026-11-07,7285,25,ok,25,9,0
+OpenAlex API,A_petroleum_import,oil product demand forecasting,2026-11-07,209287,25,ok,24,22,4
+OpenAlex API,A_petroleum_import,energy imports forecasting,2026-11-07,191014,25,ok,25,13,3
+OpenAlex API,A_petroleum_import,international petroleum trade prediction,2026-11-07,50895,25,ok,23,4,0
+OpenAlex API,A_petroleum_import,fuel import dependency,2026-11-07,94301,25,ok,22,20,1
+OpenAlex API,A_petroleum_import,petroleum trade flows forecasting,2026-11-07,44878,25,ok,25,15,0
+OpenAlex API,A_petroleum_import,energy trade forecasting machine learning,2026-11-07,155996,25,ok,25,5,0
+OpenAlex API,A_petroleum_import,oil import demand forecasting,2026-11-07,109716,25,ok,25,20,7
+OpenAlex API,A_petroleum_import,gasoline demand forecasting,2026-11-07,39631,25,ok,25,24,5
+OpenAlex API,A_petroleum_import,diesel consumption forecasting,2026-11-07,54666,25,ok,25,15,2
+OpenAlex API,B_supply_disruption,energy supply disruption prediction,2026-11-07,223634,25,ok,25,9,0
+OpenAlex API,B_supply_disruption,petroleum supply chain resilience,2026-11-07,26352,25,ok,24,10,0
+OpenAlex API,B_supply_disruption,oil supply disruption risk,2026-11-07,235086,25,ok,25,16,3
+OpenAlex API,B_supply_disruption,energy security forecasting,2026-11-07,407082,25,ok,24,20,2
+OpenAlex API,B_supply_disruption,fuel shortage early warning system,2026-11-07,39408,25,ok,25,5,3
+OpenAlex API,B_supply_disruption,supply shortfall prediction,2026-11-07,32700,25,ok,25,2,2
+OpenAlex API,B_supply_disruption,energy supply vulnerability,2026-11-07,629685,25,ok,25,24,0
+OpenAlex API,B_supply_disruption,petroleum supply chain risk assessment,2026-11-07,72332,25,ok,25,1,0
+OpenAlex API,B_supply_disruption,oil supply shock early warning indicators,2026-11-07,17875,25,ok,25,5,3
+OpenAlex API,C_probabilistic,probabilistic energy forecasting,2026-11-07,145414,25,ok,25,14,1
+OpenAlex API,C_probabilistic,probabilistic time series forecasting,2026-11-07,177203,25,ok,25,24,1
+OpenAlex API,C_probabilistic,uncertainty quantification energy forecasting,2026-11-07,231118,25,ok,24,12,0
+OpenAlex API,C_probabilistic,quantile regression energy forecasting,2026-11-07,37426,25,ok,25,10,1
+OpenAlex API,C_probabilistic,conformal prediction time series,2026-11-07,270638,25,ok,24,23,2
+OpenAlex API,C_probabilistic,probabilistic demand forecasting,2026-11-07,135441,25,ok,25,17,1
+OpenAlex API,C_probabilistic,prediction intervals forecasting evaluation,2026-11-07,384748,25,ok,25,12,1
+OpenAlex API,C_probabilistic,proper scoring rules probabilistic forecasts calibration,2026-11-07,7302,25,ok,22,20,2
+OpenAlex API,D_global_dl,global time series forecasting,2026-11-07,851237,25,ok,25,9,3
+OpenAlex API,D_global_dl,local versus global forecasting models,2026-11-07,293348,25,ok,25,1,0
+OpenAlex API,D_global_dl,deep learning time series forecasting,2026-11-07,412603,25,ok,24,2,0
+OpenAlex API,D_global_dl,cross-learning time series forecasting,2026-11-07,357728,25,ok,23,11,2
+OpenAlex API,D_global_dl,GRU energy forecasting,2026-11-07,30070,25,ok,25,11,0
+OpenAlex API,D_global_dl,temporal convolutional network energy forecasting,2026-11-07,69470,25,ok,25,2,0
+OpenAlex API,D_global_dl,N-BEATS forecasting,2026-11-07,60788,25,ok,25,2,1
+OpenAlex API,D_global_dl,temporal fusion transformer energy,2026-11-07,48296,25,ok,24,15,0
+OpenAlex API,D_global_dl,transfer learning time series forecasting,2026-11-07,289657,25,ok,25,23,1
+OpenAlex API,D_global_dl,forecasting competition M4 M5 results,2026-11-07,1656,25,ok,25,23,3
+OpenAlex API,D_global_dl,DeepAR probabilistic forecasting,2026-11-07,2387,25,ok,25,9,1
+OpenAlex API,E_boosting_ml,XGBoost energy forecasting,2026-11-07,35152,25,ok,25,18,2
+OpenAlex API,E_boosting_ml,LightGBM forecasting time series,2026-11-07,14466,25,ok,23,2,1
+OpenAlex API,E_boosting_ml,gradient boosting international trade forecasting,2026-11-07,46357,25,ok,25,6,2
+OpenAlex API,E_boosting_ml,machine learning energy imports,2026-11-07,147895,25,ok,25,5,1
+OpenAlex API,E_boosting_ml,random forest energy demand forecasting,2026-11-07,83858,25,ok,25,6,0
+OpenAlex API,E_boosting_ml,machine learning supply chain disruption prediction,2026-11-07,78143,25,ok,24,2,0
+OpenAlex API,E_boosting_ml,tree-based models versus deep learning,2026-11-07,945259,25,ok,24,0,0
+OpenAlex API,F_geopolitical_trade,geopolitical risk petroleum imports,2026-11-07,16372,25,ok,23,12,1
+OpenAlex API,F_geopolitical_trade,geopolitical uncertainty energy trade,2026-11-07,65843,25,ok,25,17,3
+OpenAlex API,F_geopolitical_trade,sanctions petroleum trade flows,2026-11-07,20052,25,ok,25,22,1
+OpenAlex API,F_geopolitical_trade,geopolitical risk energy supply disruption,2026-11-07,56234,25,ok,24,5,1
+OpenAlex API,F_geopolitical_trade,international trade disruption prediction,2026-11-07,215604,25,ok,23,6,1
+OpenAlex API,F_geopolitical_trade,supplier concentration energy security,2026-11-07,67545,25,ok,25,18,0
+OpenAlex API,F_geopolitical_trade,Herfindahl Hirschman index energy imports,2026-11-07,2637,25,ok,25,15,1
+OpenAlex API,F_geopolitical_trade,trade dependency supply chain resilience,2026-11-07,63178,25,ok,25,11,0
+OpenAlex API,F_geopolitical_trade,geopolitical risk index oil,2026-11-07,40364,25,ok,25,4,1
+OpenAlex API,F_geopolitical_trade,oil trade network resilience shocks,2026-11-07,34564,25,ok,23,20,4
+OpenAlex API,F_geopolitical_trade,forecasting trade flows machine learning,2026-11-07,152825,25,ok,25,12,2
+OpenAlex API,F_geopolitical_trade,nowcasting international trade,2026-11-07,9104,25,ok,22,7,1
+OpenAlex API,G_landlocked_kyrgyz,energy security landlocked developing countries,2026-11-07,12355,25,ok,25,20,3
+OpenAlex API,G_landlocked_kyrgyz,petroleum import dependency Central Asia,2026-11-07,15156,25,ok,25,13,0
+OpenAlex API,G_landlocked_kyrgyz,energy security Kyrgyzstan,2026-11-07,16593,25,ok,25,9,4
+OpenAlex API,G_landlocked_kyrgyz,oil product imports Kyrgyz Republic,2026-11-07,4348,25,ok,2,0,0
+OpenAlex API,G_landlocked_kyrgyz,fuel supply vulnerability Central Asia,2026-11-07,112490,25,ok,25,10,1
+OpenAlex API,G_landlocked_kyrgyz,landlocked countries trade costs energy,2026-11-07,10198,25,ok,25,16,2
+OpenAlex API,G_landlocked_kyrgyz,energy trade dependence developing countries,2026-11-07,282465,25,ok,25,12,1
+OpenAlex API,G_landlocked_kyrgyz,Central Asia Russia energy trade dependence,2026-11-07,52093,25,ok,25,17,1
+OpenAlex API,G_landlocked_kyrgyz,Kyrgyzstan fuel,2026-11-07,12747,25,ok,24,9,5
+OpenAlex API,H_related,real-time data vintages forecasting evaluation,2026-11-07,12072,25,ok,22,15,4
+OpenAlex API,H_related,data revisions trade statistics,2026-11-07,207997,25,ok,25,0,1
+OpenAlex API,H_related,publication lag forecasting nowcasting ragged edge,2026-11-07,292,25,ok,23,8,0
+OpenAlex API,H_related,mirror trade statistics discrepancies,2026-11-07,45648,25,ok,22,15,3
+OpenAlex API,H_related,UN Comtrade data quality,2026-11-07,8478,25,ok,23,2,2
+OpenAlex API,H_related,petroleum import demand elasticity,2026-11-07,18653,25,ok,25,23,3
+OpenAlex API,H_related,comparing predictive accuracy test forecasts,2026-11-07,620754,25,ok,20,16,2
+OpenAlex API,H_related,rolling origin evaluation time series,2026-11-07,89070,25,ok,25,6,1
+OpenAlex API,H_related,energy security index diversification,2026-11-07,139190,25,ok,24,21,1
+OpenAlex API,H_related,fuel export ban impact neighbouring countries,2026-11-07,9053,25,ok,25,4,0
+OpenAlex API,H_related,oil price shock import volumes,2026-11-07,26664,25,ok,23,8,0
+OpenAlex API,H_related,anomaly detection trade flows,2026-11-07,88219,25,ok,25,1,0
+Semantic Scholar Graph API,A_petroleum_import,petroleum import forecasting,2026-11-07,,0,failed,20,9,2
+Semantic Scholar Graph API,A_petroleum_import,petroleum import forecasting,2026-11-07,14827,20,ok,20,9,2
+Semantic Scholar Graph API,A_petroleum_import,energy imports forecasting,2026-11-07,121991,20,ok,20,5,3
+Semantic Scholar Graph API,A_petroleum_import,fuel import dependency,2026-11-07,,0,failed,0,0,0
+Semantic Scholar Graph API,B_supply_disruption,energy supply disruption prediction,2026-11-07,,0,failed,0,0,0
+Semantic Scholar Graph API,B_supply_disruption,oil supply disruption risk,2026-11-07,,0,failed,0,0,0
+Semantic Scholar Graph API,C_probabilistic,probabilistic energy forecasting,2026-11-07,,0,failed,0,0,0
+Semantic Scholar Graph API,D_global_dl,local versus global forecasting models,2026-11-07,11476,20,ok,18,0,0
+Semantic Scholar Graph API,D_global_dl,cross-learning time series forecasting,2026-11-07,,0,failed,0,0,0
+Semantic Scholar Graph API,E_boosting_ml,gradient boosting international trade forecasting,2026-11-07,,0,failed,0,0,0
+Semantic Scholar Graph API,F_geopolitical_trade,geopolitical risk petroleum imports,2026-11-07,1360,20,ok,13,5,2
+Semantic Scholar Graph API,F_geopolitical_trade,supplier concentration energy security,2026-11-07,,0,failed,0,0,0
+Semantic Scholar Graph API,F_geopolitical_trade,forecasting trade flows machine learning,2026-11-07,,0,failed,0,0,0
+OpenAlex citation graph,snowball_forward,cites 10.1016/j.ijforecast.2021.03.004 | forecasting,2026-11-07,229,25,ok,25,11,4
+OpenAlex citation graph,snowball_backward,references of 10.1016/j.ijforecast.2021.03.004,2026-11-07,48,43,ok,40,14,7
+OpenAlex citation graph,snowball_forward,cites 10.1016/j.ijforecast.2020.11.009 | forecasting,2026-11-07,76,25,ok,25,9,3
+OpenAlex citation graph,snowball_backward,references of 10.1016/j.ijforecast.2020.11.009,2026-11-07,63,60,ok,58,15,6
+OpenAlex citation graph,snowball_forward,cites 10.1016/j.patcog.2021.108441 | forecasting,2026-11-07,86,25,ok,25,6,0
+OpenAlex citation graph,snowball_backward,references of 10.1016/j.patcog.2021.108441,2026-11-07,87,81,ok,78,18,8
+OpenAlex citation graph,snowball_forward,cites 10.1257/aer.20191823 | oil OR petroleum OR energy import,2026-11-07,819,25,ok,25,3,1
+OpenAlex citation graph,snowball_backward,references of 10.1257/aer.20191823,2026-11-07,34,33,ok,32,1,0
+OpenAlex citation graph,snowball_forward,cites 10.1016/j.enpol.2011.06.034 | oil OR petroleum OR import,2026-11-07,162,25,ok,25,21,5
+OpenAlex citation graph,snowball_backward,references of 10.1016/j.enpol.2011.06.034,2026-11-07,14,12,ok,12,9,3
+OpenAlex citation graph,snowball_forward,cites 10.1016/j.enpol.2009.05.069 | oil OR petroleum OR import,2026-11-07,216,25,ok,25,21,5
+OpenAlex citation graph,snowball_backward,references of 10.1016/j.enpol.2009.05.069,2026-11-07,11,8,ok,8,4,1
+OpenAlex citation graph,snowball_forward,cites 10.1016/j.rser.2014.10.064 | oil OR petroleum OR import,2026-11-07,530,25,ok,25,18,2
+OpenAlex citation graph,snowball_backward,references of 10.1016/j.rser.2014.10.064,2026-11-07,100,96,ok,95,65,6
+OpenAlex citation graph,snowball_forward,cites 10.1016/j.knosys.2022.108687 | import OR oil,2026-11-07,12,12,ok,12,3,1
+OpenAlex citation graph,snowball_backward,references of 10.1016/j.knosys.2022.108687,2026-11-07,41,41,ok,41,10,3
+OpenAlex citation graph,snowball_forward,cites 10.1016/j.physa.2024.129977 | trade OR import,2026-11-07,31,25,ok,25,10,1
+OpenAlex citation graph,snowball_backward,references of 10.1016/j.physa.2024.129977,2026-11-07,56,56,ok,56,6,3
+OpenAlex citation graph,snowball_forward,cites 10.1016/j.ijforecast.2021.11.013 | gradient boosting OR LightGBM OR probabilistic,2026-11-07,349,25,ok,25,6,2
+OpenAlex citation graph,snowball_backward,references of 10.1016/j.ijforecast.2021.11.013,2026-11-07,80,77,ok,76,22,9
+OpenAlex citation graph,snowball_forward,cites 10.1016/j.ijforecast.2019.07.001 | energy OR trade OR demand,2026-11-07,1740,25,ok,25,10,7
+OpenAlex citation graph,snowball_backward,references of 10.1016/j.ijforecast.2019.07.001,2026-11-07,57,55,ok,51,10,2
+OpenAlex citation graph,snowball_forward,cites 10.3390/en15217822 | energy OR fuel,2026-11-07,10,10,ok,10,1,0
+OpenAlex citation graph,snowball_backward,references of 10.3390/en15217822,2026-11-07,43,42,ok,42,14,2
+"OpenAlex API (Boolean gap check, run 1)",A_global_landlocked,landlocked AND (oil OR petroleum OR fuel) AND (forecast OR forecasting OR prediction),2026-11-07,12,12,ok; raw file overwritten on rerun; count recorded in session notes; 0 on-target,,,
+"OpenAlex API (Boolean gap check, run 1)",A_global_landlocked,"(petroleum OR ""oil products"" OR ... fuel) AND import* AND forecast* AND (cross-country OR panel OR ""global model"" OR ""multiple countries"")",2026-11-07,30,30,ok; raw overwritten; 0 forecasting physical imports across countries,,,
+"OpenAlex API (Boolean gap check, run 1)",A_global_landlocked,(Comtrade) AND (forecast OR forecasting OR prediction),2026-11-07,>=50,50,ok; raw overwritten,,,
+"OpenAlex API (Boolean gap check, run 1)",B_dl_vs_gbm,(LightGBM OR XGBoost OR gradient boosting) AND (LSTM OR GRU OR N-BEATS OR deep learning) AND (import OR imports OR international trade) AND forecast*,2026-11-07,36,36,ok; raw overwritten,,,
+"OpenAlex API (Boolean gap check, run 1)",B_dl_vs_gbm,(LightGBM OR XGBoost OR gradient boosting) AND (LSTM OR GRU OR deep learning) AND (oil OR petroleum OR fuel OR gasoline) AND (demand OR consumption OR import) AND forecasting,2026-11-07,49,49,ok; raw overwritten,,,
+Google Scholar (browser),all,"""petroleum import"" forecasting",2026-11-07,,0,blocked: 'unusual traffic' CAPTCHA page (HTTP 429); not bypassed; platform not used,,,
+Connected Papers (browser),D_global_dl,Principles and algorithms for forecasting groups of time series (Montero-Manso & Hyndman),2026-11-07,,28,ok; 28-record related-paper list saved,,,
+Connected Papers (browser),B_supply_disruption,Measuring energy security: diversification of oil and gas supplies (Cohen et al.),2026-11-07,,0,free monthly graph limit reached; list not retrievable,,,
+ScienceDirect (browser),abstract retrieval,doi.org/10.1016/j.ijforecast.2020.11.009,2026-11-07,,0,CAPTCHA; not bypassed; Elsevier records covered through Crossref/OpenAlex metadata and RePEc abstracts,,,
+SpringerLink (browser),abstract retrieval,6 Springer/Bloomsbury landing pages,2026-11-07,,6,abstracts read on public pages,,,
+RePEc/IDEAS (web),abstract retrieval,15 Elsevier article pages,2026-11-07,,13,13 abstracts; 1 without abstract; 1 page not found,,,
+CORE,all,-,2026-11-07,,0,not used: API requires a key; open-access copies located through OpenAlex/Semantic Scholar instead,,,
+SSRN / Wiley / IEEE Xplore / SpringerLink,all,covered through Crossref and OpenAlex indexing,2026-11-07,,,no separate platform searches; records appear via DOI registries,,,
+Web search (institutional),institutional,IEA oil security; World Bank Kyrgyz energy; UNCTAD LLDC energy; IMF oil import bill; IEA Central Asia; Comtrade release timing,2026-11-07,,6 queries,institutional reports listed separately,,,
+Semantic Scholar Graph API,all,remaining 66 queries and batch abstract lookups,2026-11-07,,,HTTP 429 for most requests; 16 core queries attempted slowly,,,

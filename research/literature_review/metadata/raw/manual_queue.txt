@@ -1,0 +1,1699 @@
+0|2026|Impact of Oil Price Volatility on Oil Importing and Exporting Countries: A Case of Asian Countr
+1|2026|Brain Drain, Financial Development and Economic Growth in Pakistan: The Moderating Role of Poli
+2|2026|Data supporting "Solar and Wind Expansion and Uneven Fossil-Generation Displacement Across 29 E
+3|2022|Forecasting Crude Oil Consumption in Poland Based on LSTM Recurrent Neural Network
+4|2026|Commentary: Going beyond frontiers in household energy transition in Poland—a perspective
+5|2021|Infrastructure, Finance, and Economic Transformation in Africa: Contributions to the Debate
+6|2026|Dynamic trade flow indicators outperform import concentration in supply disruption early warnin
+7|2026|ECONOMIC RECESSIONS: TRIGGERS, TRANSMISSION MECHANISMS, AND STRATEGY FRAMEWORKS OF RESILIENT RE
+8|2025|Harnessing AI for smart demand forecasting in renewable-powered grids
+9|2026|Renewable Energy Transition and Fuel Import Vulnerability in South Asia: Panel Evidence from Fi
+10|2024|Forecasting High Speed Diesel Demand in India with Econometric and Machine Learning Methods
+11|2011|The Development of Biofuel Capacities - Strengthining the Position of African Countries through
+12|2012|The U.S. Role and Policy in Central Asia: Energy and Beyond
+13|2015|Measuring the Security of External Energy Supply and Energy Exports Demand in Central Asia
+14|2025|China's Global Energy Strategy: A Case Study on its Power Dynamics with Central Asian States"
+15|2004|China and the competition for oil and gas in Asia
+16|2009|Russia, Central Asia, and the Caspian: How Important is the Energy and Security Trade-Off?
+17|2022|Do Oil Price Shocks Affect Exchange Rates in Oil-importing Countries: A Case of the Zambian Eco
+18|1979|FORECAST OF WORLDWIDE SUPPLIES: DEMAND FOR PETROLEUM
+19|2023|Modeling and Forecasting of Provision of Energy Security of Ukraine with Energy Resources
+21|2012|Chinese strategy toward Central and South Asia: energy interests and energy security
+23|2026|Geopolitical Shocks in Vertically Linked Petroleum Products Supply Chains
+26|2026|The effect of renewable energy consumption on price stability in developing countries
+27|2025|Strategic Decision-Making and SME Development under Monetary Policy Shocks: Evidence from Azerb
+28|2026|VP-OilEx-STFN: Structural-Gated Mixed-Frequency Nowcasting for Oil Export Prediction in Norway 
+29|2026|Replication Data for "Geopolitical Risk, Coal Price Uncertainty, and Energy Corridor Resilience
+32|2013|Renewables and the future of energy meteorology
+33|2021|The impact of COVID‐19 on African economies: An introduction
+34|2017|European Public Health News
+36|2025|Geopolitical fragmentation and energy transition inequalities: Climate policy uncertainty, sanc
+38|2014|From the Editors
+39|2003|Regional Aspects of Kyrgyzstan Energy Security
+40|1974|Petroleum product short term forecasting at FEA. (CC-74-80)
+41|2023|Forecasting India's Gasoline Consumption to Predict Future Ethanol Demand for Meeting Ethanol B
+42|2002|Caspian Sea: Offshore Exploration, Discoveries, And Strategy
+43|2024|Inga Heiland discussion of: trade sanctions on Russia
+44|2025|The Impact of Sanctions Imposed in Connection with the War in Ukraine on World Trade Relations
+46|2018|Investigating Economic Growth, Trade Issues and Future Energy Strategies for Central Asian Coun
+47|2021|Energy; Alkahest of The Third Millennium
+48|2026|Cargo Revenue Prediction in Nigeria Using Machine Learning: An Ensemble Regression Approach
+49|2012|Essays on the volatility and spillover effects of oil and food price shocks
+50|2026|GLOBAL TRADE IN DRINKING WATERS (HS 2201) AND BEVERAGES DERIVED THEREFROM: MARKET CONCENTRATION
+51|2024|Time Series Analysis for Commodity Price Forecasting
+52|2026|BENCHMARKING STATISTICAL, MACHINE LEARNING, DEEP LEARNING, AND HYBRID FORECASTING MODELS FOR GL
+53|2024|Streamlining clinical pipelines for cardiovascular imaging with deep learning
+54|2025|An Econometric Analysis of Import and Export Performance of the Indian Petroleum Industry
+56|2026|Assessing the resistance of international oil trade networks to external shocks: A scenario-bas
+61|2021|Threats and prospects for the development of operators in the market of light petroleum product
+62|2025|Critical metals and minerals of Kazakhstan and other central Asian countries: institutional bar
+63|2025|Integrating Sentiment Analysis & Historical Data for Predicting Crude Oil Prices
+64|2026|XGBoost-Driven Forecasting of Crude Oil Prices: A Comparative Machine Learning and Stochastic E
+65|1991|Navy mobility fuels forecasting system report: World petroleum trade forecasts for the year 200
+66|2022|Diversification, concentration and renewability of the energy supply in the European Union
+68|2022|Import and Export Resilience of the Global Oil Trade Network
+69|2016|Imperatives for Modelling and Forecasting Petroleum Products Demand for Nigeria
+70|2018|An Early Warning System for Oil Security in China
+71|2021|Geopolitical Risk and the LNG-LPG Trade
+72|2026|A Threshold Dynamic-Programming Rule For India&amp;#39;s Strategic Petroleum Reserve: Releasing
+73|2026|Energy security index towards net-zero emissions in Nigeria
+74|2021|European Energy Security: Diversification, Concentration and Renewability of Energy Supply
+75|2015|Do Crude Petroleum Imports Affect GDP of Turkey
+76|2026|Forecasting downstream petroleum production in South Africa using Bayesian SARIMA
+77|2024|Reducing Dependency on Imported Electricity: Utilizing Renewable Energy and Minimizing Fossil F
+78|2026|Structural Drivers of Energy Import Dependency and Fiscal Resilience: Evidence from the Europea
+79|2007|Peak Oil and the Evolving Strategies of Oil Importing and Exporting Countries
+80|2018|Economic consequences of and resilience to a disruption of petroleum trade: The role of seaport
+81|2018|Assessment of disruption risk in supply chain : the case of Nigeria's oil industry
+82|2023|Energy Security Forecast in ISO New England
+83|2008|Vulnerability Analysis of Regional Energy Security Supply in China
+85|2023|The role and importance of logistics in diversifying the risk of import dependence of the Repub
+88|2026|Trade disruption and supply chain vulnerability in Bangladesh amid Iran and Israel geopolitical
+90|2026|The impact of Russia-Ukraine war on international maritime petroleum trade and tanker fleet pro
+91|2026|The Geopolitics of Bypassing: How Trade Corridors Shape Iran's Sanctioned Economy
+94|2025|A comprehensive assessment of Ghana’s energy security dimensions and environmental sustainabili
+95|2026|Resilience of oil product trade networks along the global oil industry chain: A risk propagatio
+96|2024|Analysis of Fossil Fuel Trade Networks in the RCEP Region:Characteristics, Evolution, and Resil
+97|2026|ENERGY SECURITY AND MACROECONOMIC STABILITY: THE ROLE OF SUPPLY RELIABILITY, AFFORDABILITY, AND
+98|2018|Finland’s Dependence on Russian Energy—Mutually Beneficial Trade Relations or an Energy Securit
+100|2018|Central Asian Gas Exports Dependency
+103|2025|AI-Powered Disruption Prediction and Response Framework for Global Supply Chain Networks Under 
+106|2026|Supply Chain Vulnerability and Regional Logistics in the East African Fuel Sector
+108|2018|Security of Energy Supply and Gas Diversification in Poland
+111|2011|The IEA Model of Short-Term Energy Security (MOSES)
+113|2013|Central Asian Trade Relations in the Post-Soviet Era
+114|2008|Panel Session How the Power Industry is Adapting to Climate Change
+115|2017|Efficiency and market analysis of bioenergy industry in EU28 region
+116|2025|The impact of grain seasonality in dry bulk freight rates
+117|2011|Dispatches
+118|2021|Methods for Mid-Term Forecasting of Crop Export and Production
+119|2023|Oil Demand Forecasting in Importing and Exporting Countries: AI-Based Analysis of Endogenous an
+120|2021|Forecasting and Assessment of the Energy Security Risk in Fuzzy Environment
+121|2026|Impact of Geopolitical Risks on Global Supply Chains: Vulnerabilities, Disruptions, and Resilie
+123|2023|Nowcasting trade in value added indicators
+124|2026|Import Dependency and National Economic Security
+125|2025|On the retraining frequency of global models in retail demand forecasting
+126|2018|Evaluating Power Reliability Dedicated for Sudden Disruptions: Its Application to Determine Cap
+127|2024|Supply chain resilience strategies for oil industry under uncertainty:Case study on the Egyptia
+129|2026|The Impact of China's Environmental Goods Trade on Global Supply Chain Resilience: Evidence fro
+131|2025|Do Global Forecasting Models Require Frequent Retraining?
+132|2026|How Much Do Global Geopolitical Conflicts Cost India? Evidence from Crude Oil Imports Using Cou
+133|2026|External Price Shock Vulnerability in Import-Dependent Economies: The Case of the Republic of M
+137|2017|Application of artificial neural networks for prediction of solar radiation for Botswana
+138|2026|Nowcasting World Trade With Machine Learning: A Three‐Step Approach
+144|2026|Bangladesh National Power Generation, System Demand, and Fuel-Mix Master Database (2024-2026)
+148|2025|Forecasting a set of energy security indicators using neural networks
+149|2025|Energy Markets, Geopolitical Risks, and Global Trade: A High‐Stakes Tug of War
+150|2026|Geopolitical shocks and global energy market dynamics: An economic analysis of sanctions, strat
+152|2026|Forecasting trade flows under geopolitical uncertainty: A hybrid econometric–LSTM approach
+154|2026|Geopolitical Risk and International Trade: Examining the Economic Consequences of Strategic Riv
+157|2026|Global sunflower oil trade under COVID-19 and the Russia–Ukraine conflict: a complex network an
+161|2025|Anchoring security in uncertainty: The dynamic responses of China's energy imports to geopoliti
+164|2026|This Study Applies Artificial Intelligence To Optimize Solar Energy Systems In Pakistan, Improv
+165|2024|Application of Artificial Intelligence Techniques to Enhance the Solar Power Generation: Case S
+166|2024|AI-Driven Predictive Analytics for Forecasting Global Trade Flows
+167|2026|Global Renewable Energy Consumption Forecasting: A Comparative Benchmarking Study of Statistica
+168|2025|The Short-Term Wind Power Forecasting by Utilizing Machine Learning and Hybrid Deep Learning Fr
+169|2025|Parallel boosting neural network with mutual information for day-ahead solar irradiance forecas
+170|2017|Forecasting of Chinese Primary Energy Consumption in 2021 with GRU Artificial Neural Network
+171|2025|Exposure of stock sector returns to petroleum price shocks: The case of petroleum exporters and
+172|2026|Machine Learning for Reliable Energy Demand Forecasting in U.S. Energy Infrastructure
+173|2026|Supply Chain Resilience and Competitive Advantage of Petroleum Marketing Firms in a Deregulated
+174|2020|Optimal Energy Management Strategy Considering Forecast Uncertainty Based on LSTM-Quantile Regr
+175|2024|Research on the Impact of Geopolitical Instability on Russian Trade
+177|2024|Using Machine Learning Lead Time Forecasting and Monte Carlo Cash Flow Simulation to Value the 
+179|2025|Mitigating Transport-Based CO2 Emissions in Landlocked Countries: The Role of Economic Growth, 
+180|2012|Misurata free zone port development can serve south of Libya and neighbour landlocked countries
+181|2023|Petroleum dependence in developing countries with an emphasis on Nepal and potential keys
+182|2022|ENERGY COOPERATION OF RUSSIA WITH CENTRAL ASIAN COUNTRIES
+185|2018|THE ROLE OF CENTRAL ASIAN COUNTRIES IN THE FUEL AND ENERGY COMPLEX OF KYRGYZSTAN: THE STATE, PR
+188|2025|RENEWABLE ENERGY – RUSSIA-KYRGYZSTAN: POTENTIAL, CHALLENGES, AND PROSPECTS
+189|2023|An Econometric Analysis of Imported Petroleum Products of Nepal
+192|2018|Experimental parameter uncertainty in PEM fuel cell modeling. Part II: Sensitivity analysis and
+196|2026|A Shock-Aware Spatio-Temporal Graph Neural Network with Uncertainty Modeling for Global Trade E
+197|2026|Decoding Crude Oil Trade Link Dynamics: Evidence from Machine Learning and Deep Learning Models
+198|2019|Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecas
+199|1981|Petroleum Source Beds: Environment of Deposition and Stratigraphy: ABSTRACT
+200|2013|Impact of Climate Change on Thermal Power Plants. Case study of thermal power plants in France
+201|2023|Grain Transportation Report, June 29, 2023
+202|2025|Hybrid AI–Econometric Model for Rice Yield Forecasting Under Climate Change in Malaysia
+203|2026|CASH FLOW OPTIMIZATION ALGORITHM FOR AN INVESTMENT AND CONSTRUCTION PROJECT UNDER UNCERTAINTY B
+204|2026|An Artificial Intelligence-Driven Predictive Framework for Residential Energy Demand Forecastin
+205|2026|Optimisation and Forecasting in Islanded Microgrids: Operations Research and Machine Learning A
+206|2025|A study on forecasting system marginal price using a hybrid model based on UMAP dimensionality 
+209|2022|Energy Security of Hydropower Producing Countries—The Cases of Tajikistan and Kyrgyzstan
+210|2007|Forecasting the Increase of Petroleum Consumption in China based on the ARIMA Model
+212|2023|FORECASTING THE VALUE OF INDONESIA'S OIL AND GAS IMPORTS USING SEASONAL AUTOREGRESSIVE INTEGRAT
+213|1997|The Demand for Oil Products in Developing Countries
+214|2019|Forecasting the Export and Import Volume of Crude Oil, Oil Products and Gas Using ANN
+217|2021|Does Geopolitics Have an Impact on Energy Trade? Empirical Research on Emerging Countries
+218|2020|Factoring Central Asia in the Russia-India Energy Trade
+219|2026|Transformation in Global Energy Trade: The China–Russia–Central Asia Corridor as a New Energy L
+222|2025|Daily Forecasting for Annual Time Series Datasets Using Similarity-Based Machine Learning Metho
+223|2006|Ensuring Energy Security
+224|2024|Forecasting Crude Oil and Petroleum Oil and Lubricants Production and Imports Using ARIMA Model
+225|2023|A METHODICAL APPROACH TO FORECASTING THE CONSUMPTION OF PETROLEUM PRODUCTS BY THEIR MAIN TYPES
+229|2019|PATTERN PREDICTION OF CRUDE OIL USING REGRESSION MODERATED WITH MARKOV SWITCHING MODEL
+231|2022|A Comprehensive Big Data Framework for Energy Markets: Oil and Gas Demand Forecasting
+232|2020|Oil product market trends and forecasts
+233|1978|HISTORIC AND FORECASTED ENERGY PRICES BY U.S. DEPARTMENT OF ENERGY REGION AND FUEL TYPE FOR THR
+234|2016|Analysis of energy security, environmental emission and fuel import costs under energy import r
+235|2024|A Study on Energy Import Dependency in India
+236|2024|Material footprint and import dependency in EU27: Past trends and future challenges
+237|2026|Fossil Fuel Imports (Oil & LNG) Industry in Pakistan
+240|2022|RETRACTED: Energy stability and decarbonization in developing countries: Random Forest approach
+241|2013|Externalities of Transportation Fuels: Assessing Trade-offs Between Petroleum and Alternatives
+242|2011|China’s Oil Import Forecast and its Impact on Tanker Fleet Composition
+243|1982|Demand, imports to sink again, but production to rise
+244|1984|U.S. Gasoline Demand: What Next?
+246|2017|Forecasting the consumption of gasoline in transport sector in pakistan based on ARIMA model
+247|2017|Short-term forecasts of fuels consumption in the analysis of energy security
+248|2023|Forecast of Fossil Fuel Demand Based On Low Carbon Emissions from the Perspective of Energy Sec
+249|2000|Energy balance as a basis for economic analysis and forecast of national energy security
+251|2026|Uncertainty-aware probabilistic energy forecasting for low-carbon industrial energy management 
+252|2022|Graph Deep Factors for Probabilistic Time-series Forecasting
+253|2020|Probabilistic Time Series Forecasting with Structured Shape and Temporal Diversity
+261|2006|Strategy guidelines for the Croatian petroleum industry based on geopolitical risk assessment
+262|2025|Impact of green policies, geopolitical risks, and imports on green production: formulating the 
+264|2025|The Heterogeneous Impact of EU-US Sanctions on China-Russia Petroleum Import and Export
+265|2024|OBOR, Iran-China Trade Relations: Sanctions and Cooperation
+266|2025|Russian oil trade in the face of economic sanctions
+268|2020|Has the global expansion of energy markets truly improved energy security?
+269|2019|The multi-speed energy transition in Europe: Opportunities and challenges for EU energy securit
+270|2026|The weaponization of interdependence: energy security and the geopolitics of the green transiti
+271|2011|Energy security in a developing world
+272|2012|Geographic Concentration of Korean Oil Imports and the Implications
+274|2008|The European Union’s Energy Security Challenges
+276|2024|The Importance of Multivector Energy Strategy for Kazakhstan
+277|2022|Energy Security in Mongolia: Current Trajectory and Future Prospects
+278|2020|Energy security and Chinese influence in Kazakhstan
+279|2025|Trade Structure and Energy Performance: How Import Diversification Shapes Efficiency in Central
+280|2026|Critical Evaluation of India’s Energy Policy in the Context of Petroleum Dependency
+281|2018|The geopolitics of Central Asian energy
+284|2023|Xinjiang on the New Silk Road: Kyrgyzstan's Energy and China's Manufacturing Foreign Trade
+285|2018|Quantitative Analysis of Central Asian Countries' Energy Security and Its Political Influence F
+286|2021|Sustainable energy transition in Central Asia: status and challenges
+287|2006|International gas trade in Central Asia: Turkmenistan, Iran, Russia, and Afghanistan
+288|2026|The Strategic Energy Landscape of Central Asia
+289|2022|Cross-border trade in energy resources: Features of the Central Asian region
+290|2012|Central Asian Factors in Energy Relationship between China and Russia
+291|2002|Managing Asia Pacific's energy dependence on the Middle East : is there a role for Central Asia
+293|2012|Essays in real-time forecasting
+294|2021|The Energy Transition and Shifts in Fossil Fuel Use: The Study of International Energy Trade an
+298|2007|Scoring Probabilistic Forecasts: The Importance of Being Proper
+300|2026|Forecasting Turkish Exports: A Comparative Study of Statistical, Machine Learning, and Deep Lea
+301|2025|Baku's Gas Laundromat: Strategic Diversification or Energy Security Illusion for the EU?
+302|2026|Forecasting Moroccan Electricity Imports Using Time Series Models: A Comparative Study of SARIM
+305|2022|Forecasting the production of Distillate Fuel Oil Refinery and Propane Blender net production b
+311|2025|The Hybrid Renewable Energy Forecasting and Trading Competition 2024
+315|2010|Energy Security and Climate Change
+316|2021|Post‐COVID ‐19 and globalization of oil and natural gas trade: Challenges, opportunities, lesso
+318|2011|SUSTAINABLE DEVELOPMENT AND ENERGY SECURITY LEVEL AFTER IGNALINA NPP SHUTDOWN
+319|2026|Forecasting global trade networks under partial disruption: a network-attack framework and mach
+320|2017|Analysis of the Kyrgyz Republic's Energy Sector
+321|2006|Central Asia: Mapping Future Prospects
+322|2026|Application of Satellite Data for Monitoring the Condition of the Caspian Sea Water Areas in Po
+323|2025|Forecasting Energy Efficiency in Manufacturing: Impact of Technological Progress in Productive 
+324|2013|Achieving a Net Zero Energy Retrofit - In a humid, temperate climate: Lessons from the Universi
+325|2018|Optimizing and Implementing a Renewable Micro-Grid for a Remote Alaskan Village
+326|2025|Hybrid deep learning based load forecasting and AI-driven energy management for grid-connected 
+327|2026|A Decision Focused Learning Framework for Operation of Energy Communities with Electric Vehicle
+328|2025|Editorial: Modeling and application of computational intelligence in sustainable energy systems
+329|2019|Application of Machine Learning in Forecasting International Trade Trends
+330|2012|Demand Forecast of Petroleum Product Consumption in the Chinese Transportation Industry
+331|2024|Mitigating imported fuel dependency in agricultural production: Case study of an island nation'
+333|2018|Improvement of energy forecasting model to safeguard energy security in India
+335|2024|STRENGTHENING MUTUAL TRADE BETWEEN RUSSIA AND INDIA IN THE FACE OF GEOPOLITICAL UNCERTAINTY
+336|2017|Dynamics of the Global Wheat Trade Network and Resilience to Shocks
+337|2009|Energy Security, Poverty and Vulnerability in Central Asia and the Wider European Neighbourhood
+338|2005|Reducing California's Petroleum Dependency: Towards a Clean and Reliable Fuel Supply
+339|2023|Financial Profitability Evaluation and Forecasting Using the Deep Learning: A Case of the Chine
+340|2024|Forecasting retail fuel demand in Chinese gasoline stations: a structural (double) damped trend
+342|2025|The Role of IT Flexibility in Enhancing Supply Chain Resilience in the Oil Products Distributio
+346|1970|Canadian Oil Security And the Impact of Supply Disruptions
+352|2023|Ensemble Machine Learning Approaches for Prediction of Türkiye’s Energy Demand
+354|2020|Analysis of Oil Import Risk and Strategic Petroleum Reserve: The Case of China
+355|2019|The impact of global trade disruptions on world oil markets
+358|2025|Energy Security and Economic Resilience of RA in the Context of Current Geopolitical Developmen
+359|2020|Energy Security and Renewable Energy: A Geopolitical Perspective
+360|2026|A Study on Strategies for Enhancing Supply Chain Resilience in Australian Enterprises Amid Glob
+365|2014|From Fuel Poverty to Energy Vulnerability: The Importance of Services, Needs and Practices.
+369|2026|Where Does the Strait of Hormuz Crisis Lead? Forecasting the Future of Middle East Energy Secur
+370|2026|Time–Frequency Nexus of Geopolitical Tension, Economic Uncertainty and Trade Flows: Wavelet Coh
+372|2026|Feed Import Continuity and Supplier Concentration in Iran Under Sanctions
+373|2026|Trade shocks and direct shipping connections: causal insights into network adaptability and sup
+374|1999|Trade Shock, Oil Boom and the Nigerian Economy, 1973-83
+375|2018|Managing Energy Supply Security and Gas Diversification in Hungary: Putting Theory into Practic
+376|2026|Integrated application of ARIMA and Ridge Regression methods for forecasting hard coal producti
+385|2026|Text-Based Policy Signal Analysis of Crude Petroleum Export Revenue Movements Across APEC Econo
+386|2020|COVID-19 and the Maritime and Logistics Sector in Africa
+387|2026|Integrating Data-Driven Technologies for End-to-End Supply Chain Transformation
+388|2025|Analysis of Factors Affecting Electricity Prices and Electricity Price Forecast for Türkiye
+389|2014|Assessing energy security: An overview of commonly used methodologies
+390|2024|Resilience of international oil trade networks under extreme event shock-recovery simulations
+391|2026|Series-wise Cross-validation for Global Time Series Forecasting
+394|1978|Higher imports of oil, gas forecast by Shell
+395|2022|Assessing the Vulnerability of Energy Supply Chains: Influencing Factors and Countermeasures
+396|2021|Assessing the performance of deep learning models for multivariate probabilistic energy forecas
+397|2015|Variogram-Based Proper Scoring Rules for Probabilistic Forecasts of Multivariate Quantities*
+399|2026|The transformation of eu energy imports: implications for energy security and geopolitical risk
+400|2025|Risk across the spectrum: Unpacking the nexus of global oil uncertainty, geopolitical tensions,
+401|2025|TİCARET POLİTİKA BELİRSİZLİĞİ, JEOPOLİTİK RİSKLER VE ENERJİ PİYASASI: TRADE POLICY UNCERTAINTY,
+402|2020|Oil price drivers, geopolitical uncertainty and oil exporters' currencies
+403|2024|Energy security in the European Union – Main Determinants
+404||Forecasting trade creation: a hybrid structural gravity and machine-learning evaluation of Indi
+405|2024|The Impact of Oil Prices on Import Demand in an Oil-Rich Country: A Multisectoral Bayesian Appr
+407|2025|Geopolitical Risk, Variability of Oil Price, and the Global Trade Uncertainty
+409|2014|Measuring external oil supply risk: A modified diversification index with country risk and pote
+410|2019|The long-term forecast of energy demand and uncertainty evaluation with limited data for energy
+413|2013|Misuse of domestic resources increases import dependency
+414|2026|Generative data augmentation in multi-step time-series forecasting of full-field petroleum prod
+415|2024|Probabilistic weather forecasting with machine learning
+416|2021|Digital Twin-Enabled Supply Chain Simulation for Improving, Renewable Energy Supply Chain Resil
+418|2025|Optimizing Supply Chain Resilience in Kuwait Oil Industry
+421|2016|Assessment of Political Vulnerabilities on Security of Energy Supply in the Baltic States
+422|2017|Climate change vulnerability in the food, energy, and water nexus: concerns for agricultural pr
+427|2017|Quantifying Forecast Uncertainty in the Energy Domain
+429|2025|Quantifying the Uncertainty in the Weather Research and Forecasting Model under Sea Breeze and 
+434|2023|TRADE AND ENERGY COOPERATION BETWEEN RUSSIA AND THE REPUBLIC OF KOREA AMID GEOPOLITICAL UNCERTA
+436|2023|Relationships among geopolitical risk, trade policy uncertainty, and crude oil import prices: E
+437|2025|Assessing the impact of geopolitical risk, energy import dependence, and economic policy uncert
+439|2026|Geopolitical risk exposure and resilience of energy support-chain trade: A multilayer network d
+442|2014|The Economics of Energy Security
+443|2024|Sourcing renewable energy components: building resilient supply chains, reducing dependence on 
+444|2026|Multi-objective supply chain optimization of renewable energy carrier imports for Europe
+446|2026|Measuring U.S. strategic import vulnerability to China: Theory and evidence from batteries and 
+447|2025|India’s trade dynamics and dependencies with China, U.S. and Russia
+449|2025|Adaptive strategies to enhance resilience in the global oil trade network
+451|2026|The structure and resilience of traditional energy trade networks in countries along the belt a
+452|2025|Strengthening the Resilience of China's Natural Gas Trade Network Security
+453|2025|Research on the role of cross-border trade in the economic growth of border regions of Central 
+454|2024|Energy import dependence, renewable energy deployment, and carbon emissions in G20 countries
+456|2021|Energy security index of Pakistan (ESIOP)
+457|2018|A Geopolitical Review of Definitions, Dimensions and Indicators of Energy Security
+460|2025|How do economic policy uncertainty and geopolitical risk affect oil imports? Evidence from Chin
+461|2026|Trade Wars, Geopolitical Risk, and Volatility Dynamics in Green and Brown Energy ETFs: The mode
+462|2026|Geopolitical Risk Versus Supply- and Demand-Induced Oil Shocks
+464|2026|Structural Oil Shocks, Geopolitical Risk, and Energy Security: Evidence from Oil-Importing and 
+468|2025|On the Importance of Clearsky Model in Short-Term Solar Radiation Forecasting
+469|2025|Enhanced Renewable Energy Forecasting and Operations through Probabilistic Forecast Aggregation
+476|2026|Forecasting in the Fog: Real-Time versus Revised-Data Evidence on Machine Learning's Edge over 
+477|2020|The Effectiveness of Discretization in Forecasting: An Empirical Study on Neural Time Series Mo
+478|2025|Energy security and resilience: Revisiting concepts and advancing planning perspectives for tra
+480|2004|Diversification and Energy Security Risks: The Japanese Case
+482|2024|Managing Economic Uncertainty: Fuzzy Computational Models in International Oil Economy Forecast
+486|2009|Cost analyses and predictions for a fuel ethanol plant in a rural and landlocked African countr
+487|2015|Intra‐industry trade: A Krugman–Ricardo Model and Data
+488|2025|Machine Learning and Econometric Approaches to FDI: FDI impact on Economic Growth in Georgia (1
+489|2024|Application of Deep Learning Initiatives for CO2 Emissions Forecasting
+490|2024|Probabilistic Energy Forecasting Through Quantile Regression in Reproducing Kernel Hilbert Spac
+492|2023|Multiple Production Time Series Forecasting Using Deepar and Probabilistic Forecasting
+493|2026|Forecasting global agricultural trade imbalances using a hybrid deep learning and gradient boos
+495|2025|Solar and Wind Power Forecasting: A Comparative Review of LSTM, Random Forest, and XGBoost Mode
+496|2021|Deep Learning based Forecasting of Consumption of Petroleum Products in India
+497|2026|Study on a multi-model framework for refined oil product sales forecasting
+499|2019|Evaluating Probabilistic Forecasts with scoringRules
+500|2026|Intermittent time series forecasting: local vs global models
+503|2023|Performance Analysis of Machine Learning Models in Solar Energy Forecasting
+504|2023|The Eurasian Roundabout: Trade Flows Into Russia Through the Caucasus and Central Asia
+506|2026|Administrative Law and Fiscal Governance of Petroleum Imports: Indonesia–Singapore Comparison
+507|2024|Forecasting Petroleum Products Consumption in the Chadian Road Transport Sector using Optimised
+508|2005|A new biodegradation prediction model specific to petroleum hydrocarbons
+509|2006|Status Quo and Forecast of Gasoline Supply and Demand in China
+510|2008|Data mining studies on open pit unit diesel oil consumption
+512|2025|An Early Warning System for Renewable Energy Supply Shortfalls in Europe Using Integrated Machi
+513|2025|Transformer-Based Models for Probabilistic Time Series Forecasting with Explanatory Variables
+514|2025|Prediction Interval in Renewable Energy Forecasting: A Comprehensive Review of Uncertainty Quan
+515|2024|Probabilistic Explainable Forecast of Intermittent Demand
+519|2025|Forecasting Green Energy Production in Latin American Countries and Canada via Temporal Fusion 
+521|2023|Day-Ahead Energy Power Forecasting under Carbon Neutrality Based on XGBoost
+527|2022|The Effect of Sanctions on EU-Russia Trade: The Study for 2015 – 2019
+534|2026|MACHINE LEARNING FORECASTS OF BILATERAL TRADE FLOWS: OUT-OF-TIME EVIDENCE FROM A GLOBAL DYAD PA
+539|2014|Trade costs and agricultural trade in Central Asia
+542||Towards Resilient Energy Systems - Probabilistic Deep Learning for Forecasting and Control unde
+546|2026|Trade Facilitation Measures and Supply Chain Resilience: A Panel Analysis of Developing Economi
+552|2023|Data-driven methods for diffusivity prediction in nuclear fuels
+555|2025|Comparative Analysis of Global and Local Probabilistic Time Series Forecasting for Contiguous S
+559|2025|T-food-ELA: A Time-Based Ensemble Learning Approach for Link Prediction in the Global Food Trad
+560|2026|GeoTransGNN: A Hybrid Temporal Transformer-Graph Attention Network with Geopolitical Gating for
+561|2025|TÜRKİYE'NİN IRAK'A AYLIK TAVUK ETİ İHRACATININ TAHMİNİ İÇİN ZAMAN SERİSİ MODELLERİ İLE YAPAY Sİ
+562|2025|International Trade Demand Forecasting Model Based on Transformer-XGBoost-LightGBM
+563|2026|Wheat Yield Prediction Using a Hybrid CNN-LSTM Deep Learning Framework with Tabular Agricultura
+564|2025|Integrating Econometric and Machine Learning Approaches to Assess the Global Economic Impact of
+565|2026|Data-Driven Pharmaceutical Sales Analysis and Prediction in the Healthcare Industry
+566|2026|A Comprehensive Retail Market Price Dataset for Wheat Flour and Macroeconomic Indicators in Ban
+567|2026|A Consistency-Aware Multimodal Sensing Framework for Short-Term Cross-Border Prediction Under D
+568|2022|Energy Generation Forecasting Based on Seasonality Using Deep Learning
+569|2026|Hybrid LSTM-XGBoost model for energy management optimization of hydrogen-integrated renewable e
+570|2020|Predictive Analysis of Traditional, Deep Learning and Ensemble Learning Approach for short-term
+571|2023|Fuel Consumption Prediction and Optimization Model for Pure Car/Truck Transport Ships
+572|2026|AI-Based Energy Consumption Forecasting and Carbon Emission Optimization for Beverage Manufactu
+573|2022|Forecasting of solar radiation for a cleaner environment using robust machine learning techniqu
+574|2023|Electrical Power Generation Forecasting from Renewable Energy Systems Using Artificial Intellig
+575|2025|Hybrid ML/DL Approach to Optimize Mid-Term Electrical Load Forecasting for Smart Buildings
+576|2025|Mutual Information-Driven Graph Neural Network for Distributed Photovoltaic Power Forecasting
+577|2025|AI–Big Data Analytics Platform for Energy Forecasting in Modern Power Systems
+578|2022|A Hybrid Tree-Based Ensemble Learning Model for Day-Ahead Peak Load Forecasting
+579|2025|Predictive Models for Renewable Energy Generation and Demand in Smart Cities: A Spatio-Temporal
+580|2026|Hybrid AI-based Forecasting and Optimization of Power Sector Carbon Emissions: Case of Tunisia
+582|2021|Principles and algorithms for forecasting groups of time series: Locality and globality
+584|2001|Forecasting with a Real-Time Data Set for Macroeconomists
+585|2025|Trade Forecasting with AI: Integrating Machine Learning, Deep Learning, and Explain Ability for
+588|2024|Application of Neural Networks for Forecasting Energy Security Indicators
+592|2026|A hybrid XGBoost-RF residual learning model for energy consumption forecasting
+594|2025|Forecasting Thermal Energy Demand: A Multimodal Approach Using Random Forest and SARIMA Models
+596|2015|Trade Policymaking in a Resource‐rich Landlocked Country: The WTO Review of Mongolia
+598|2017|THE COOPERATION OF KYRGYZSTAN AND RUSSIA IN THE FUEL AND ENERGY SECTOR: STATE, PROBLEMS AND PRO
+599|2002|Implications of Real-Time Data for Forecasting and Model Expectations
+603|2025|Price Forecasting of Crude Oil Using Hybrid Machine Learning Models
+604|2025|PV Energy Forecasting Applying Machine Learning Methods Targeting Energy Trading Systems
+607|2014|Hybrid Soft Computing Schemes for the Prediction of Import Demand of Crude Oil in Taiwan
+608|2024|Forecasting Model of Export and Import Value of Oil and Gas Using Gated Recurrent Unit Method
+610|2025|Realizing Optimal Regulation, Carbon Neutrality, and Resilience during Geopolitical Turmoil: An
+613|2021|Predictive modelling of fuel shortages during hurricane evacuation: An epidemiological approach
+614|2025|REAL-TIME MONITORING AND EARLY WARNING SYSTEM FOR UNMANNED AERIAL VEHICLE INTEGRATED WITH PIPEL
+616|2026|RDFT: A Resilience-Aware Deep Learning Framework for Probabilistic Demand Forecasting in Supply
+619|2026|A Comparative Analysis of BiLSTM-GRU and RNN Models for Smart Home Energy Consumption Forecasti
+623|2024|Interpretable Forecasting of Traction Energy Consumption Based on Nbeats and Temporal Fusion Tr
+625|2020|Deformation Prediction of Unstable Slopes Based on Real-Time Monitoring and DeepAR Model
+627|2025|Explainable AI Framework Using XGBoost With SHAP and LIME for Multi-Scale Household Energy Fore
+628|2023|Prosumers Energy Consumption Forecasting: Leveraging LSTM and XGBOOST with Spatial and Weather 
+630|2025|Deep Learning vs. Gradient Boosting: Optimizing Transport Energy Forecasts in Thailand Through 
+640|2017|Problems of fuel and energy cooperation between Kyrgyzstan and Kazakhstan in the Eurasian space
+643|2019|Transitions from dirty to clean energy in low-income countries: insights from Kyrgyzstan
+645|2015|Vintage errors: do real-time economic data improve election forecasts?
+648|2017|Fuel exports, aid and terrorism
+650|2025|Retraction: Energy stability and decarbonization in developing countries: random forest approac
+652|2024|Deep Learning-based Multi-Scenario Forecasting of Beijing's Energy Footprints
+654|2026|Long-Horizon Dissolved Oxygen Forecasting: A Deep Learning Framework with Uncertainty Quantific
+655|2025|Forecasting Hydrological Time-Series with Uncertainty: An N-BEATS Approach for Low-Cost Sensor 
+659|1997|United States Trade Balance Announcements: The Nature of its Data Revisions
+663|2026|Forecasting Energy Availability in Local Energy Communities via LSTM Federated Learning
+680|2020|Identifying markets and developing export promotion strategy for woolen textiles from India
+681|2026|Forecasting and Optimization in Low‐Carbon Microgrids: A Hybrid LLM–Based Approach With Synthet
+682|2021|Does Energy Diversification Cause an Economic Slowdown? Evidence from a Newly Constructed Energ
+684|2020|Probabilistic energy forecasting using the nearest neighbors quantile filter and quantile regre
+685|2026|A Novel Trustworthy Machine Learning Framework for Sector-Wise Energy Forecasting in Developing
+686|2026|Forecasting Australian pulse export trade flows and uncovering key trade determinants using mac
+687|1980|Potential Displacement of Petroleum Imports by Solar Energy Technologies
+690|2024|Combining probabilistic forecasts of intermittent demand
+691|2022|Constructing fan charts from the ragged edge of SPF forecasts
+692|2026|Linking Price and Import Demand Volatility of Crude Oil in India: A Comparative Analysis of Cru
+693|2015|Petroleum Reserves and Oil Import Policy
+694|2012|International trade of crude petroleum (principal importers and exporters); 2006 and 2007
+697|2007|Status of China's Refined Oil Products Consumption and Forecast on Demand During the"11th Five-
+698|2024|Optimization of Logistics Routes and Forecasting Trade Flows between China and Turkmenistan
+701|2020|Probabilistic forecasting of operational demand in Australia
+702|2026|An Interval-Score ROC Curve for Assessment, Calibration and Ensembling of Probabilistic Forecas
+703|2026|Enforcing tail calibration when training probabilistic forecast models
+704|2021|The Future of Forecasting Competitions: Design Attributes and Principles
+707|2025|Hybrid Forecasting for Energy Consumption in South Africa: LSTM and XGBoost Approach
+709|2026|Assessing India’s Import Concentration and Regional Shift, 2019–2024: Evidence from the Herfind
+712|2023|Nowcasting services trade for the <scp>G7</scp> economies
+713||Without Sea, Can Landlocked Countries Hope Economic Security?
+714|2025|Energy trade, emissions and import dependence in Southeast Asia
+715|2026|Discrepancies in Trade Statistics in 2003–2024: The Impact of Sanctions
+716|2020|Estimating the Price and Income Elasticities of Crude Oil Import Demand for Turkey
+717|2023|The macroeconomic impact of oil price volatility and import volumes
+718|1975|Energy consumption and consumer cost effects of the $2 crude petroleum import fee, the $. 60 re
+719|1991|Oil and gas forecasting. Reflections of a petroleum geologist
+721|2024|Long-Term Forecasting Models of Oil Demand Emerging from the Global Petrochemical Sector
+723|2010|Measuring the energy security implications of fossil fuel resource concentration
+724|2021|RECOWNs: Probabilistic Circuits for Trustworthy Time Series Forecasting
+725|2020|Forecasts with Bayesian vector autoregressions under real time conditions
+726|1978|Energy demand and imports of crude petroleum: some results for Turkey
+727|2023|Analysis and Prediction of the Supply and Demand of China's Petroleum Products
+728|2020|Forecasting crude oil and refined products volatilities and correlations: New evidence from fra
+733|2004|Supply,Demand and Forecast of Main Oil Products in China
+734|2005|Search for method of forecasting demand : retail of edible oil products
+735|2023|A new hybrid multivariate grey model based on genetic algorithms optimization and its applicati
+736|2020|Demand forecasting for crude palm oil (CPO) using the time series method
+737|2021|Forecasting the Demand of Oil in Ghana: A Statistical Approach
+738|1973|Strong oil demand forecast for 1974
+739|2017|Forecasting China's Role in World Oil Demand
+740|2018|Global Trade Pattern of Crude Oil and Petroleum Products: Analysis Based on Complex Network
+741|2021|How does Financial Development and Petroleum Price cause Trade Openness in Pakistan?
+742|2013|The road to independence : a study of reducing fossil fuel import dependency for private land t
+743|2005|Breaking the Poverty-Energy Nexus : Perspectives and Problems of Renewable Energies in Developi
+744|2026|To What Extent Does The Exploitation Of Fossil Fuel Reserves In The Liguasan Marsh Threaten Loc
+745|2007|Bioenergy expansion in the EU: Cost-effective climate change mitigation, employment creation an
+746|1977|POLICY IMPLICATIONS OF NEW ENGLAND IMPORT DEPENDENCY OF FUEL CHOICES FOR ELECTRIC POWER GENERAT
+747|2025|LOCALIZING SOY FIBER PRODUCTION FROM TOFU DREGS TO REDUCE IMPORT DEPENDENCY: A PILOT STUDY USIN
+749|2021|Dependency of domestic food sectors on imported inputs with Finland as a case study
+750|1979|An aggregate model of petroleum production capacity and supply forecasting
+751|2014|Energy cargoes trade flows
+755|1981|SHORT-TERM FORECASTING OF GASOLINE DEMAND
+758|1983|FORECAST OF CAR FUEL CONSUMPTION
+760|2012|Energy and fuel consumption forecast by retrofitting absorption cooling in Malaysia from 2012 t
+761|2025|Application of Machine Learning for Fuel Consumption and Emission Prediction in a Marine Diesel
+763|2026|New Energy Vehicle Closed-Loop Supply Chain Optimization Considering Carbon Footprint and Suppl
+767|2024|Research on Petroleum Industry Supply Chain in China: Performance and Predictive Analysis of Si
+768|2011|Early Warning Indicators of Economic Crises: Evidence from a Panel of 40 Developed Countries
+769|2022|Evaluating the Effectiveness of Early Warning Indicators: An Application of Receiver Operating 
+770|2023|Temporal Decomposition Transformer for Probabilistic Energy Forecasting
+771|2026|Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting
+772|2023|Probabilistic time series forecasts with autoregressive transformation models
+773|2025|Quantifying Uncertainty in Energy Demand Forecasts: A Probabilistic Modeling Approach
+775|2026|Forecasting or Contemporaneous Estimation? A Leakage-Aware Industrial Energy Audit with Uncerta
+778|2026|Interval Forecasting of Multi-Energy Loads in Integrated Energy Systems Based on a Composite Qu
+781|2023|Modeling and scoring dynamic probabilistic forecasts
+782|2025|Proper Scoring Rules for Estimation and Forecast Evaluation
+794|2025|Forecasting Household Demand-Side Flexibility Using XGBoost for Smart Energy Management
+799|1979|International Trade and Investment Sanctions
+800|2023|Trade sanctions and informal employment
+801|2025|IRAN IN GLOBAL TRADE AND SANCTION RESEARCH
+803|2026|Supply chain security and global dependencies in the trade of phosphorus-related products
+806|2016|Vulnerability to shocks in the global seafood trade network
+807|2026|Evolution and structural resilience assessment of the frozen meat trade network
+808|2025|Machine Learning for Predicting and Optimizing Global Trade Flows: Enhancing Efficiency in Cros
+810|2026|Energy Insecurity, Digital Transformation, and Institutional Quality: A Systems Perspective on 
+811|2019|What motivates developing countries to diversify sources of renewable energy
+812|2004|Future Impacts of Chinese and Asian Dependency upon Energy from the Middle East and Central Asi
+813|2012|Central-Asia energy geoeconomics and geopolitics : Central Asia’s pursuit of sovereignty and pr
+816|2025|CURRENT ISSUES OF ALTERNATIVE ENERGY IN KYRGYZSTAN
+819|2025|The Geopolitical Role of Central Asia in China’s Energy Supply Security Axis
+821|2016|The Governance deficit in Central Asia and the threat to China’s Central Asian energy strategy
+822|2006|Energy, Wealth and Governance in the Caucasus and Central Asia
+824|2004|Energy Services in International Trade: Implications for a Developing Country like India
+825|2005|Liberalisation of Trade in Renewable-Energy Products and Associated Goods
+828|2025|Energy Rents, Remittances and Regional Trade Cooperation in Central Asia
+829|2022|New Great Game: Russian - Chinese Energy dynamics in Central Asia
+832|2019|Crude oil import elasticity of demand in India: an empirical analysis 1987-2016
+833|2014|Petroleum’s Price Transmission and Imported Demand for Crude Oil in Thailand
+834|2017|Impact of Petroleum Products Subsidization to Energy Demand in Thailand
+835|2016|The demand for imported oil: New Zealand's post-deregulation experience
+836|2026|Rollcast: Proper-Score Gated Rolling Anchors for Adaptive Probabilistic Time-Series Forecasting
+837|2022|LEVERAGING ON ENERGY SECURITY TO ALLEVIATE POVERTY IN ASIAN ECONOMIES
+838|2025|The Relationship between Primary Energy Consumption, Energy Security Index, Share of Renewable 
+839|1966|Import Policy and Shale Oil
+840|2026|A Data-Driven Trade Forecasting Framework for Industrial Chemical Imports: Evidence from Vietna
+841|2011|International trade of crude petroleum (principal importers and exporters); 2007 and 2008
+842|2014|International trade of crude petroleum
+843|2005|Prediction of Asphaltene Precipitation in an Iranian South Oil Field
+844|1997|An Economic Analysis of Import Demand for Canola Oil in the United States
+845|2026|A dynamic two-phase approach for biodiesel supply chain design under uncertainty and disruption
+848|2023|Probabilistic fuzzy set and particle swarm optimization based computational method for fuzzy ti
+850|2017|Proper scoring rules for interval probabilistic forecasts
+852|2025|Interconnectedness of Geopolitical Risk, Trade Policy Uncertainty, and Federal Interest Rate
+853|2025|Strategic Foreign Direct Investment under Trade Policy Uncertainty and Geopolitical Risk
+854|2026|Trade Uncertainty Under Geopolitical Risks: A Cross-Country Analysis of Mechanisms and Heteroge
+855|2025|A Comparative Study on the Impact of Economic Sanctions on Global Trade Flows and Economic Deve
+857|2026|Transatlantic Trade, the Trump Disruption and the World Trade Organization
+858|2026|Analysis Of The Trend Of Deglobalisation And Disruption In International Trade
+860|2026|Analysis of the Global Tungsten Supply Chain Trade Network: Does Sino–US Trade Friction Affect 
+861|2025|Beware Diworsification: A Firm- and Supply-Chain Approach to Trade Resilience
+862|2026|Artificial intelligence adoption and maritime supply chain resilience among MSME exporters in t
+863|2026|Export Instability, Market Concentration and Resilience in Indian Small Cardamom Trade under Gl
+864|2026|Resilience to Market Loss amid Trade Decoupling Shocks
+866||New Market Information Applications in East Africa: Three Essays on Mapping Trade Flows, Identi
+867|2007|Information Combination and Forecast (St)Ability Evidence from Vintages of Time-Series Data
+868|2026|Valid Prediction Intervals for Factor-MIDAS Nowcasting with Ragged-Edge Data
+869|2026|Analysis of import demand elasticity for crustacean aquatic products in China
+871|2018|Fuel Diversification and Future Energy Security in Bangladesh
+872|2019|ENERGY COOPERATION AND INTERDEPENDENCE IN THE CENTRAL ASIAN AND CASPIAN REGION FOR IMPROVING EN
+873|2024|A Time Series Forecasting Approach Based on Meta-Learning for Petroleum Production under Few-Sh
+875|2024|Energy Imports and Infrastructure in a Carbon-Neutral European Energy System
+881|2023|Probabilistic Traffic Forecasting with Dynamic Regression
+885|2026|Multi-objective probabilistic forecast combination for inventory demand
+886|2026|Evaluation Choices Decide the Forecasting Leaderboard: Evidence from a Production Marketplace P
+887|2023|A User-Focused Approach to Evaluating Probabilistic and Categorical Forecasts
+896|2026|Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting
+898|2026|Navigating the Safety-Fidelity Trade-off: Massive-Variate Time Series Forecasting for Power Sys
+899|2026|The balance between compactness and forecast accuracy of data-driven latent-space reduced-order
+902|2024|Intersecting reinforcement learning and deep factor methods for optimizing locality and globali
+903|2023|Europe's energy crisis: Are geopolitical risks in source countries of fossil fuels accelerating
+905|2008|The Delusions of “Energy Independence”
+906|2008|A Declaration of Energy Independence: How Freedom from Foreign Oil Can Improve National Securit
+907|2024|Climate Change and Energy Security: A Comparative Analysis of the Role of Energy Policies in Ad
+909|2007|The EU's Policies of Security of Energy Supply Towards the Middle East and Caspian Region: Majo
+910|2010|Competing Dimensions of Energy Security: An International Perspective
+913|2009|The effects of petroleum dependency on agricultural trade in Nigeria: An error correlation mode
+914|2026|IoT and deep learning powered intelligent early warning algorithm for international trade risks
+919|2025|Pakistan-Tajikistan Relations and Prospects for Energy Collaboration through CASA-1000
+921|2026|Forecasting Oman’s Blue Economy Trade: A Sector-Disaggregated Comparison of Five Small-Sample F
+922|2026|Benchmark Dataset for Blockchain-based Maritime Supply Chain Management System: Cargo Dispute P
+923|2025|Tracing Trade Trends A Decade-Long Analysis of Cocoa Bean Exports from India
+924|2019|LNG import diversification and energy security in Asia
+925|2025|A seasonal grey model for forecasting energy imports demand from information differences perspe
+926|2026|Oil Import Demand Forecasting Based on Machine Learning Technology Under Energy Transformation 
+927|2008|Modeling and forecasting energy consumption in China: Implications for Chinese energy demand an
+928|2011|Measuring Energy Security: Trends in the Diversification of Oil and Natural Gas Supplies
+930|2020|FORECASTING GASOLINE DEMAND IN INDONESIA USING TIME SERIES
+931|2023|Supply Chain Disruption Risk and Market Performance in Nigeria: A Case of Oil and Gas Marketing
+932|2019|Energy Security Forecasting
+933|2021|A framework for evaluating energy security in China: Empirical analysis of forecasting and asse
+934|2009|Estimation of the Energy Security Level and Definition of the Criteria for Damage Forecasts
+935|2012|The importance of scale to energy security
+939|2020|The Importance of Renewable Energy Sources in Poland’s Energy Mix
+940|2007|The import market forecasting model of substitute energy vehicle with BPN and GM(1,1)
+941|2025|Enhancing Energy Policy Planning in Thailand Through AI-Based Forecasting of Crude Oil Imports
+943|1973|Europe’s Energy Imports
+945|2025|Deep learning models for forecasting sour gas generation in a petroleum refinery
+946|2016|A New Meta-Heuristic Framework For Forecasting Oil Demand In Iran
+947|2017|Forecasting export and import of herbs and herbal products in Malaysia
+948|2021|Increasing Vegetable Oil Demand in China: Impacts on the International Soybean Market
+949|1987|An Analysis of Supply and Demand for Crude Oil
+950|2009|A Multi-level Artificial Neural Network for Gasoline Demand Forecasting of Iran
+951|2002|Cross Entropy Error Function in Neural Networks: Forecasting Gasoline Demand
+952|2014|THE EFFICIENT COMBINATORIAL FORECASTERS FOR SUPPLY AND DEMAND OF GASOLINE IN IRAN: COMBINATION 
+953|2022|Modeling of consumption of Gasoline (MS) and Diesel (HSD) in India using SARIMA and Neural Netw
+954|2008|Performance Evaluation and Forecast of Combustion System of Diesel Locomotive
+958|2022|Economic impact of crude oil supply disruption on social welfare losses and strategic petroleum
+959|2017|Oil Supply Resilience in ASEAN
+961|2024|Contemporary EU energy security: forecast of changes in energy security for the medium term, ta
+962|2024|Goals and Methods of Estimating Energy Security Indicator Thresholds in Forecasts
+963|2022|The trend forecast model in the achievement of energy security of the countries and regional co
+964|2020|A Forecast Model of Energy Security Level in The System of Managing Energy Efficiency at Enterp
+965|2022|Regional energy forecasting and risk assessment for energy security: New evidence from the Yang
+966|2010|Forecasting energy security impacts of biofuels using regional climate models
+967|2024|Impact of the energy security on the national security of the Republic of Bulgaria: situation a
+968|2021|Supplying Energy to Vulnerable Segments of the Population: Macro-Financial Risks and Public Wel
+969|2025|demand_forecasting_simulator.py — Probabilistic Demand Forecasting with Damped Trend
+970|2026|A Calibration-Aware Reference Architecture for Resilient Supply Chain Planning: Integrating Con
+974|2023|Predictive Analytics and Machine Learning for Real-Time Supply Chain Risk Mitigation and Agilit
+975|2025|The survival of global energy imports and the impact of geopolitical risks
+976|2024|How Can Energy-Importing Countries Guard Against Geopolitical Risks - Take Japan as an Example
+977|2021|Geopolitical risk and forecastability of tail risk in the oil market: Evidence from over a cent
+978|2025|Are geopolitical risks reshaping the global energy trade networks? A global perspective
+979|2025|THE IMPACT OF GEOPOLITICAL RISK, TRADE OPENNESS, AND ENERGY CONSUMPTION ON CARBON EMISSIONS: TH
+981|2023|Energy Supply Security in Baltic States
+983|2010|A Note on EU Gas Dependency: The Herfindahl-Hirschman Index as a Concentration Measure for Euro
+984|2024|The diversification of energy resources and equipment imports in the European Union
+985|2009|Modeling on Oil-Importing Risk under Risk Correlation
+991|2015|Nowcasting OECD indicators of carbon emissions embodied in international trade
+992|2020|World Seaborne Trade in Real Time: A Proof of Concept for Building AIS-based Nowcasts from Scra
+993|2023|Overcoming the constraints of landlocked-ness through sustainable connectivity in North and Cen
+994|2009|Azerbaijan's Foreign policy and Challenges for Energy Security
+995|2022|Comprehensive analysis of the energy legislative framework of Kyrgyzstan: Investigation to deve
+998|2026|Trade openness, energy dependence, and the carbon emissions gap in developing economies: a CS-A
+1000|2021|Determinants of the Russia and Asia–Pacific energy trade
+1003|2023|Energy Diversification and Security in the EU: Comparative Assessment in Different EU Regions
+1004|2020|Global Energy Security Index and Its Application on National Level
+1006|2025|The Role of Energy Security In Supporting Indonesia's National Security: A Strategic Approach
+1010|2002|CO Flooding Performance Prediction for Alberta Oil Pools
+1012|2026|DynG-Diff: A State-Aware Dynamic Guidance Diffusion Framework for Probabilistic Time Series For
+1013|2014|Quantile Regression for Peak Demand Forecasting
+1014|2025|Future prediction on the remaining useful life of proton exchange membrane fuel using temporal 
+1015|2014|Geopolitical Market Concentration (GMC) Risk of Turkish Crude Oil and Natural Gas Imports
+1016|2026|Venezuela: How Sanctions Redraw Oil Trade Flows (2022-2025)
+1017|2023|Economic Security, Sanctions and Reorientation of Russian Foreign Trade Flows
+1018|2009|Trade Uncertainty and Trade Disruption
+1019|2026|Middle East Geopolitical Risk and China’s Crude-Oil Import Security: Divergent Responses of Sup
+1020|2025|Supply chain resilience in the face of uncertainty: a study of wheat trade and supply chain opt
+1021|2015|Retailer's optimal replenishment policy in a supply chain under partial trade credits and proba
+1024|2020|Energy Security and Portfolio Diversification: The Exporter’s Perspective
+1027|2018|On the Energy Consumption Forecasting of Data Centers Based on Weather Conditions: Remote Sensi
+1028|2016|On the importance and feasibility of forecasting data in sensors
+1035|2020|Evolving efficiency and robustness of global oil trade networks
+1042|2018|Evaluation of Sustainable Energy Security and an Empirical Analysis of China
+1044|2016|A new approach for forecasting OPEC petroleum consumption based on neural network train by usin
+1046|2012|Policy networks in European–Russian gas relations: Function and dysfunction from a perspective 
+1047|2014|International Energy Security Indicators and Turkey s Energy Security Risk Score
+1048|2008|The Canaries: an important biogeographical meeting place
+1049|2024|Machine learning‐based multivariate forecasting of electric vehicle charging station demand
+1050|2021|An amalgamation of YOLOv4 and XGBoost for next-gen smart traffic management system
+1051|2026|Textile Intelligence Stack: A Multi-Model AI Framework for Trend Prediction, Demand Forecasting
+1052|2025|Advanced time series forecasting for vehicle maintenance scheduling
+1053|2026|Leveraging Statistical Analysis and Interactive Dashboards for Diesel Consumption Monitoring in
+1054|2019|Analyzing the Impact of Renewable Generation on the Locational Marginal Price (LMP) Forecast fo
+1055|2026|Pattern Recognition of Gold and Mercury Supply Chain in Global Trade Data
+1059|2021|Global models for time series forecasting: A Simulation study
+1061|2026|Forecasting Morocco–Africa trade flows with hybrid predictive and generative machine learning m
+1062|2026|Training-Free Probabilistic Time-Series Forecasting with Conformal Seasonal Pools
+1063|2008|Oil vulnerability index of oil-importing countries
+1064|2021|International agricultural trade forecasting using machine learning
+1065|2021|Energy system resilience – A review
+1066|2013|Thailand’s Security of Energy Supply: Import Dependency Vulnerability Assessment
+1067|2015|A methodology to improve the assessment of vulnerability on the maritime supply chain of energy
+1068|2016|Probabilistic energy forecasting: Global Energy Forecasting Competition 2014 and beyond
+1069|2023|Denoising Diffusion Probabilistic Models for Probabilistic Energy Forecasting
+1071|2012|Probabilistic forecasting of the wave energy flux
+1072|2019|Probabilistic Energy Forecasting using Quantile Regressions based on a new Nearest Neighbors Qu
+1075|2007|Probabilistic Forecasts, Calibration and Sharpness
+1078|2022|A Machine Learning Approach to Forecast International Trade: The Case of Croatia
+1079|2025|High-accuracy prediction of international raw material trade flows using temporal fusion transf
+1080|2022|Evolution of Global Crude Oil Trade Network Structure and Resilience
+1081|2025|A Machine Learning–Augmented Gravity Model for Predicting Bilateral Trade Flows
+1082|2020|Oil price shocks and renewable energy transition: Empirical evidence from net oil-importing Sou
+1083|2026|Kyrgyzstan faces hard choices on a half-empty fuel tank
+1085|2025|Forecasting Indonesian Goods and Services Imports Using Machine Learning: A Comparative Evaluat
+1086|2020|A Machine Learning Approach to Forecasting Carry Trade Returns
+1087|2025|Macroeconomic Regime Change and the Size of Supply Chain Disruption and Energy Supply Shocks
+1088|2025|Contract selection decision of hybrid energy power supply chain under cap-and-trade: From the p
+1089|2023|Contract Selection Decision of Hybrid Energy Power Supply Chain Under Cap-and-Trade: Perspectiv
+1094|2025|Energy supply chain resilience under geopolitical disruption: Assessing global and Red Sea oil 
+1098|2023|A Global Modeling Framework for Load Forecasting in Distribution Networks
+1099|2020|LSTM-MSNet: Leveraging Forecasts on Sets of Related Time Series With Multiple Seasonal Patterns
+1101|2021|Meta-Learning Framework with Applications to Zero-Shot Time-Series Forecasting
+1105|2021|Proximal Disruption of Brain Energy Supply Raises Systemic Blood Glucose: A Systematic Review
+1107|2025|Disruption in International Oil Supply Chains
+1108|2014|The resilience of energy supply chains: a multiple case study approach on oil and gas supply ch
+1110|2019|Meteorological conditions leading to extreme low variable renewable energy production and extre
+1113|1981|Oil supply diversification: a panacea for energy vulnerabilities?
+1114|2024|From emissions to resources: mitigating the critical raw material supply chain vulnerability of
+1115|2026|Unpacking oil market shocks: The asymmetric impact of sanctions and OPEC on the tanker shipping
+1118|2024|TADNet: Temporal Attention Decomposition Networks for Probabilistic Energy Forecasting
+1119|2018|Probabilistic Energy Forecasting Based on Self-organizing Inductive Modeling
+1120|2026|SPECTRA: State-Space Exogenous Context and Temporal-Frequency Resolution Architecture for Proba
+1121|2026|Reproducibility Package for Reliable Probabilistic Energy Forecasting for Unseen Buildings thro
+1128|2017|On the use of probabilistic forecasts in scheduling of renewable energy sources coupled to stor
+1130|2021|Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecastin
+1131|2021|ScoreGrad: Multivariate Probabilistic Time Series Forecasting with Continuous Energy-based Gene
+1132|1985|Quantifying uncertainty in energy model forecasts
+1133|2024|Solidifying Capacity Credit of Renewable Energy Cluster by Forecast Uncertainty Quantification
+1134|2022|On forecasting non-renewable energy production with uncertainty quantification: A case study of
+1135|2020|Uncertainty quantification of European energy forecast: Learning from past errors
+1136|2026|Progressive Uncertainty Quantification From Deterministic to Ensemble Probabilistic Forecasting
+1137|2022|Quantifying the role of weather forecast error on the uncertainty of greenhouse energy predicti
+1140|2018|On the creation of quantile regression based scenario and parametric probabilistic forecasts in
+1143|2019|Forecasting energy consumption in Anhui province of China through two Box-Cox transformation qu
+1146|2024|Applications of Probabilistic Forecasting in Demand Response
+1149|2019|Multivariate Forecasting Evaluation: On Sensitive and Strictly Proper Scoring Rules
+1160|2025|Forecasting Agricultural Trade Based on TCN-LightGBM Models: A Data-Driven Decision
+1170|2023|Accurate prediction of international trade flows: Leveraging knowledge graphs and their embeddi
+1171|2007|The art of managing energy security risks
+1175|2023|Geopolitical risk management. Is it possible to protect against geopolitical risk by investing 
+1177|2025|Multilayer Resilience Assessment of Oil Tanker Networks Under Geopolitical Shocks
+1178|2020|Assessment of the Resilience of a Complex Network for Crude Oil Transportation on the Maritime 
+1179|2026|How trade networks shape green innovation resilience: Evidence from the U.S. energy shock
+1181|2023|Islamic Finance as an Alternative of Infrastructure Financing for Asian Landlocked Developing C
+1182|2024|Economic policy and energy security of Southeast European countries
+1183|2018|Identifying energy inefficient industries vulnerable to trade dependence of energy sources
+1184|2010|Mystery at Manas: Strategic Blind Spots in the Department of Defense's Fuel Contracts in Kyrgyz
+1186|2025|Elasticities of Food Import Demand in Arab Countries: Implications for Food Security and Policy
+1188|2004|Impact of Forecasting Accuracy on Predictive Optimal Control of Active and Passive Building The
+1190|2026|Forecasting European insurance technical performance with global machine learning: rolling-orig
+1191|2015|The time varying effect of oil price shocks on euro-area exports
+1192|2016|The oil price shocks impact on stock market returns in developed oil-exporting and oil-importin
+1194|2019|Do Crude Oil Prices Drive the Relationship between Stock Markets of Oil-Importing and Oil-Expor
+1197|2009|Oil Price Shock and Structural Changes in CMEA Trade
+1200|2017|Energy security and potential supply disruption: A case study in Japan
+1201|2026|Diversifying power: Impact of political gender diversity on renewable energy supply chain vulne
+1203|2024|On Probabilistic Forecasting of Transition Towards Sustainable Energy Production
+1206|2026|Development of an Indonesian Trade Forecasting Information System Based on Statistical Models a
+1208||Machine Learning Pipeline for Wastewater Effluent Quality Forecasting: Gradient Boosting-Based 
+1209|2026|CRITICAL METALS IN THE ENERGY TRANSITION: SUPPLY CHAIN CONCENTRATION, GEOPOLITICAL RISK, AND ST
+1210|2026|TROOPER: Trade Route Optimizer for Energy Resilience: A Graph-Theoretic Supply Chain Resilience
+1213|2024|Transmissions of Structural Oil Shocks to Korea’s Terms of Trade
+1214|2023|Resilience Assessment and Risk Evolution of Global Crude Oil Trade Network
+1215|2011|Not all demand oil shocks are alike: disentangling demand oil shocks in the crude oil market
+1216|2019|The Impact Of Oil Import Price Shocks On Domestic Prices
+1222|2026|Technical Report on Resilient and Secure Large-Scale Energy Internet Systems
+1227|2022|Bidding and Scheduling in Energy Markets: Which Probabilistic Forecast Do We Need?
+1231|2026|Chronos-2: A foundation model for multivariate time series forecasting
+1237|2020|An Accurate and Fully-Automated Ensemble Model for Weekly Time Series Forecasting
+1242|2026|Competition-Aware CPC Forecasting with Near-Market Coverage
+1244|2026|How Good Are Time-Series Foundation Models for Pedestrian Crowd Count Forecasting? A Cross-Data
+1245|2024|Local vs. Global Models for Hierarchical Forecasting
+1255|2026|A graph-augmented dual-task forecasting framework using GAT-XGBoost for global ICT goods trade 
+1256|2026|Forecasting Indonesian Shrimp Exports for Business Strategy and Sustainable Blue Economy Policy
+1257|2026|A GNN-based approach for accurate trade balance forecasting and interpretable analysis
+1260|2018|Deep Learning-Based Multivariate Probabilistic Forecasting for Short-Term Scheduling in Power M
+1261|2009|Energy security policies in EU-25—The expected cost of oil supply disruptions
+1262|2026|Behavioral State Space Analysis of HS4 Trade Goods Using UN Comtrade
+1263|2026|Research on forecasting model of international trade flow based on GNN-SOM algorithm
+1264|2022|A Comparison Of Feed Forward Neural Network Models And Time Series Models For Forecasting Turke
+1265|2025|Graph Neural Network Approach for HS6-Level Bilateral Trade Flow Prediction
+1266|2026|Dynamic Risk Prediction in Supply Chain Procurement: A Spatio-Temporal Graph Neural Network App
+1267|2025|A Neural Network Approach for Predicting Crop Import Prices: A Case Study of Qatar
+1268|2025|Hybrid Supply Chain Model for Wheat Market
+1269|2024|Türkiye's Egg Export to Iraq: Performance Comparison of Seasonal ARIMA and Artificial Neural Ne
+1270|2026|Forecasting South Africa’s Consumer Price Index Using Seasonal ARIMA, LSTM, Support Vector Regr
+1271|2024|FORECASTING THE EURO EXCHANGE RATE USING DEEP LEARNING ALGORITHMS AND MACHINE LEARNING ALGORITH
+1272|2024|PERFORMANCE COMPARISON OF MACHINE AND DEEP LEARNING METHODS IN USD/TRY EXCHANGE RATE FORECASTIN
+1273|2025|Exchange Rate Volatility Forecasting Using Hybrid Models
+1274|2021|Estimation and Machine Learning Prediction of Imports of Goods in European Countries in the Per
+1275|2025|Research on Tobacco Sales Forecasting Based on Integrated Learning Models
+1276|2025|Comparing Statistical and Machine Learning Models for Forecasting Milk Consumption in Ireland
+1277|2025|Multi-model forecasting framework for agricultural nutrient dynamics in India: a comparative an
+1278|2025|Data-driven analysis and machine learning-based forecasting for big onion production in Sri Lan
+1279|2026|Cloud-Based Machine Learning with Sensor Data for Soil Moisture Forecasting and Intelligent Irr
+1280|2020|Analyzing the Impact of Multiple Stock Indices in Prediction of US Dollar Index
+1281|2025|Demand Modeling and Logistics Capacity Planning in Wine Distribution Considering Seasonal Fluct
+1282|2025|How Macroeconomic Indicators Effect Consumer Spending Trends : ML Based Approach
+1283|2020|DeepAR: Probabilistic forecasting with autoregressive recurrent networks
+1284|2021|Landlocked developing countries and trade bottlenecks
+1285|2021|Trade profiles of landlocked developing countries
+1286|2021|Building trade capacity in landlocked developing countries
+1287|2017|A Multi-Horizon Quantile Recurrent Forecaster
+1288|2024|Probabilistic Demand Forecasting with Graph Neural Networks
+1289|1996|Forecast and analysis of demand for petroleum products in India
+1290|2023|Conformal PID Control for Time Series Prediction
+1291|2024|Transformer Conformal Prediction for Time Series
+1293|2020|Probabilistic forecasting with temporal convolutional neural network
+1295|2023|Probabilistic hierarchical forecasting with deep Poisson mixtures
+1296|2026|Jet Fuel Consumption Forecasting Using Hybrid Deep Learning Models: A Multivariate Analysis of 
+1297|2022|Trend- and Periodicity-Trait-Driven Gasoline Demand Forecasting
+1298|1980|A Model for Forecasting Passenger Car Gasoline Demand
+1299|2013|Demand forecast for road transportation fuels including gasoline, diesel, LPG, bioethanol and b
+1300|2022|Forecasting automobile gasoline demand in Australia using machine learning-based regression
+1301|1984|Forecasting the demand for highway use of gasoline: Econometric, univariate and multiple time-s
+1302|1992|Using stochastic simulation to test the effect of seasonal adjustment on forecast standard erro
+1303|2023|Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting
+1304|2021|Probabilistic Time Series Forecasting with Implicit Quantile Networks
+1306|2025|Conformal prediction for out-of-distribution time-series classification
+1307|2026|Conformal Prediction for Time Series with Deep Sequence Models
+1308|2024|Transformer-Based Probabilistic Demand Forecasting with Adaptive Online Learning
+1309|2026|ZILN-Net: Zero-Inflated Lognormal deep learning for probabilistic demand forecasting
+1310|2025|Valid Prediction Intervals for Weather Forecasting with Conformal Prediction
+1314|2024|The impact of data set similarity and diversity on transfer learning success in time series for
+1317|2024|Predicting Construction Costs under Uncertain Market Conditions: Probabilistic Forecasting Usin
+1319|2025|A DeepAR-Based Modeling Framework for Probabilistic Mid-Long Term Streamflow Prediction
+1320|2023|On the use of Probabilistic Forecasting for Network Analysis in Open RAN
+1323|2018|Freight transport in least developed landlocked countries: a case study of Laos PDR
+1325|2018|Mirror Statistics on Foreign Trade of Kyrgyzstan with China
+1327|2025|Determinants of petroleum product import demand in Tanzania: a time series analysis using ARDL 
+1328|1976|Determination of refined petroleum product import fees
+1329|2026|Refined Petroleum Entrepôt Trade and Import Dynamics on Economic Growth in Kenya
+1332|2006|Production, trade and consumption of gas-diesel oils
+1333|2026|TEMPER: Temporal Encoder-Masked Probabilistic Ensemble Regressor for Time-Series Forecasting
+1335|2026|RL-ConFormer: Reinforcement Learning-Enhanced Conformal Prediction with Transformer-Based Hybri
+1336|2022|M5 competition uncertainty: Overdispersion, distributional forecasting, GAMLSS, and beyond
+1338|2021|Easing Trade Bottlenecks of Landlocked Developing Countries
+1339||Figure 2.16 Trade costs in manufacturing, 1996 and 2010, by landlocked versus other developing 
+1340||Figure 2.9 Trade costs in manufacturing, 1996 and 2010, by landlocked versus other developing c
+1341|2022|Parameter-efficient deep probabilistic forecasting
+1343|2019|Probabilistic Forecasting with Spline Quantile Function RNNs
+1345|2019|Deep Factors for Forecasting
+1346|2018|Deep State Space Models for Time Series Forecasting
+1347|2007|FORECASTS OF PETROLEUM DEMAND
+1348|2020|The Determinants and Forecasting of Petroleum Supply in Pakistan
+1349|2013|Forecasting Demand for Petroleum Products in Ghana using Time Series Models
+1350|2021|Evolution of global fossil fuel trade dependencies
+1351|2025|Biomass self-sufficiency and import dependency in the European Union countries
+1354|1982|Towards a forecasting model of gasoline demand in Nigeria: a spatial approach
+1355|2010|An adaptive intelligent algorithm for forecasting long term gasoline demand estimation: The cas
+1356|1963|Trend of Supply and Demand of Motor Gasoline and Forecast of Octane Number
+1357|1994|AN ECONOMETRIC FORECASTING MODEL OF HIGHWAY TRAVEL AND GASOLINE DEMAND IN NEW YORK STATE.
+1358|2026|Global Gasoline Consumption Trend: Forecasting Future Demand and Discussing Environmental Impli
+1359|2020|Using Social and Economic Indicators for Modeling, Sensitivity Analysis and Forecasting the Gas
+1360|2011|Diesel Engine Characteristics Simulating Curve and Fuel Consumption Forecasting Based on GMDH N
+1361|2020|Forecasting diesel consumption in Sri Lanka using multivariate time series models
+1362|2024|Short-term forecasting for ship fuel consumption based on deep learning
+1365|2019|Learning Interpretable Deep State Space Model for Probabilistic Time Series Forecasting
+1366|2022|Probabilistic time series forecasting with deep non‐linear state space models
+1367|2024|Latent Diffusion Transformer for Probabilistic Time Series Forecasting
+1368|2024|Multivariate Probabilistic Time Series Forecasting with Correlated Errors
+1369|2023|Better Batch for Deep Probabilistic Time Series Forecasting
+1370|2026|T-STAR: A context-aware transformer framework for short-term probabilistic demand forecasting i
+1377|2021|Probabilistic Forecasting with Generative Networks via Scoring Rule Minimization
+1379|2024|Probabilistic Forecasting With Modified N-BEATS Networks
+1382|2022|Probabilistic Forecasting for Demand of a Bike-Sharing Service Using a Deep-Learning Approach
+1386|2024|Gradient Boosting Machines for Weather Forecasting: A Huber- Quantile Perspective
+1390|2018|Evaluating the effect of intra-industry trade on the bilateral trade productivity for petroleum
+1391|2020|Put over a barrel? “Smart” sanctions, petroleum and statecraft in Russia
+1392|2025|The Machine Learning-Enhanced DCF Model and Probabilistic Cash Flow Forecasting
+1393|2021|Role of financial development in the export performance of a landlocked developing country: The
+1395|2023|Dependency on Imported Intermediates in Turkey: Two Different IO Approach
+1399|2023|The Impact of Trade Openness on Economic Growth in Landlocked Developing Countries
+1400|2022|Laos: the dilemma of being a landlocked country
+1401|2018|Assessment of transit transport corridor efficiency of landlocked African countries using data 
+1402|2023|Trade policy in a ‘double‐landlocked’ transition economy: Kyrgyzstan
+1403|2015|Challenges of transporting retail goods into a landlocked country : the case of importing into 
+1405|2026|The Agreement on Fisheries Subsidies and Implications for Central Asian WTO Members as Landlock
+1407|2026|Landlocked: A Boon or Bane for EU Member States’ Agricultural Trade Competitiveness?
+1408|2014|Armenia as a landlocked state: transit opportunities
+1409|2026|Geography of trade: Investigating the differential impact of Export performance on Economic gro
+1410|2025|Conflicts of Interest in Carrying Out Trade and Implementation of Rights Between the Landlocked
+1413|2026|ANALYSIS OF "MIRROR" STATISTICS OF BILATERAL TRADE BETWEEN THE KYRGYZ REPUBLIC AND THE PEOPLE'S
+1416|2012|Price and Income Elasticities of Disaggregated Import Demand: Bounds Test Results for the Domin
+1417|2008|Importer and Producer Petroleum Taxation
+1418|2026|Time-Varying Elasticities in Brazil's Petroleum Trade: The Pre-Salt Paradox and Its Policy Impl
+1420|2013|Analysis of Turkey’s Export and Import Demand Functions within the Context of Foreign Trade wit
+1423|1946|Petroleum Import Policy of the United States
+1425||Flash Points of Hydrocarbons and Petroleum Products: Prediction and Evaluation of Methods
+1427||Does Petroleum Procurement and Trade Matter?
+1432|2025|xpect: Probabilistic Time Series Forecasting with XGBoost and Conformal Inference
+1433|2026|Report the Floor: A Training-Free Conformal Interval Is a Mandatory Baseline for Probabilistic 
+1436|2026|Probabilistic Bike-Sharing Demand Forecasting under Changing Weather and Seasonal Regimes with 
+1439|2026|A Hybrid Deep Learning Approach: Constructing prediction intervals for Streamflow forecasting
+1440|2026|Robust Prediction Intervals for Time Series Forecasting: A Bootstrap and Bayesian Approach
+1444|2022|A solution for M5 Forecasting - Uncertainty: Hybrid gradient boosting and autoregressive recurr
+1446|2026|Managing geopolitical risk in petroleum markets
+1447|1981|A review of requirements for petroleum imports information
+1448||D26 AFRICA: IMPORTS AND EXPORTS OF PETROLEUM BY MAIN TRADING COUNTRIES
+1449||D26 OCEANIA: IMPORTS AND EXPORTS OF PETROLEUM BY MAIN TRADING COUNTRIES
+1450||D26 ASIA: IMPORTS AND EXPORTS OF PETROLEUM BY MAIN TRADING COUNTRIES
+1451||D24 NORTH AMERICA: IMPORTS AND EXPORTS OF PETROLEUM BY MAIN TRADING COUNTRIES
+1452||D24 SOUTH AMERICA: IMPORTS AND EXPORTS OF PETROLEUM BY MAIN TRADING COUNTRIES
+1453||D12 EUROPE: IMPORTS AND EXPORTS OF PETROLEUM BY MAIN SURPLUS AND DEFICIENT COUNTRIES
+1455|2014|Challenges for economic diversification in Asian landlocked developing countries
+1462|2016|Including landlocked developing countries: Trade facilitation potential of existing Asian trans
+1463|2019|Trade Facilitation in South Asia: Landlocked Countries’ Perspective
+1464|2019|Introduction: Trade Logistics in Asian Countries That Are Landlocked and Resource Cursed
+1465|2026|Trade Costs, Regional Integration, and Bilateral Exports in Asian Landlocked Developing Countri
+1466|2017|Customs Union of Belarus, Kazakhstan and Russia: Trade Creation and Trade Diversion in Central 
+1467|2019|Income, Trade and Pollution in Central Asia, Russia and China: An Econometric Analysis
+1468|2024|The Evolution of Central Asian Trade with Russia and the Impact of the Russian Invasion of Ukra
+1469||Slavery and Trade in Central Asia and Russia
+1470|2006|The importance of good neighbors: regional trade in Central Asia
+1471|2022|Trade and Environment in the Region of the Caucasus and Central Asia: The Case of Hazardous Was
+1472|2022|Private Trade Disputes in State Courts in the Region of the Caucasus and Central Asia – Issues 
+1473|2023|Trade of Central Asian Countries and Its Significances
+1476|2016|Mirror trade statistics between China and Latin America
+1477|2019|Influence of petroleum and gas trade on EU economies from the reduced Google matrix analysis of
+1479|2026|Trump speculates on diesel fuel export ban as high prices ripple across US economy
+1480|2025|Gasoline Illegal Trade: An Application of Unsupervised Anomaly Detection Algorithms
+1481|2010|Prediction of Petroleum Demand Based on SVM Optimized by PSO
+1488|2021|A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification
+1490|2021|From Photometric Redshifts to Improved Weather Forecasts: machine learning and proper scoring r
+1491|2024|Enhancing Cloud-Native Resource Allocation with Probabilistic Forecasting Techniques in O-RAN
+1492|2026|Goal-oriented probabilistic forecasting for dynamic PRB allocation in 5G networks
+1493|2022|Probabilistic AutoRegressive Neural Networks for Accurate Long-range Forecasting
+1494|2026|DeRegiME: Deep Regime Mixtures for Probabilistic Forecasting under Distribution Shift
+1506|2016|The roles of countries in the international fossil fuel trade: An emergy and network analysis
+1512|2018|A New Hybrid Method for China’s Energy Supply Security Forecasting Based on ARIMA and XGBoost
+1513|2022|Deep Learning for Time Series Forecasting: Tutorial and Literature Survey
+1515|2026|PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction
+1516|2026|Трансформация внешней торговли России в условиях санкционных ограничений: изменение торговых по
+1517|2021|Investigating the accuracy of cross-learning time series forecasting methods
+1521|2021|Textual data and transfer learning for time series forecasting
+1523|2026|MACROCAST: A Vintage-Consistent Time Series Foundation Model for Real-Time Macroeconomic Foreca
+1524|2011|Identifying an Appropriate Forecasting Model for Forecasting Total Import of Bangladesh
+1527|2010|Forecasting international trade
+1529|2018|Analysis of Bilateral Trade Flow and Machine Learning Algorithms for GDP Forecasting
+1530|2025|Research on the resilience of petroleum industry chain and supply chain network from the perspe
+1533|2022|LoMEF: A framework to produce local explanations for global model time series forecasts
+1539|2025|Hybrid Deep Learning for Smarter Homes: Forecasting Energy Consumption with LSTM, RNN and GRU
+1541|2024|Using Temporal Fusion Transformer Predictions to Maximise Use of Renewable Energy Sources
+1542|2023|Intelligent Forecasting of Energy Consumption using Temporal Fusion Transformer model
+1543|2024|An Approach to Predicting Energy Demand Within Automobile Production Using the Temporal Fusion 
+1545|2025|Advanced forecasting of building energy loads with XGBoost and metaheuristic algorithms integra
+1547|2026|Forecasting Energy Consumption Using a Hybrid LSTM-XGBoost Model
+1551|2026|LIGHTGBM VS CATBOOST FOR SMART BUILDING ENERGY FORECASTING: A TIME-SERIES CROSS-VALIDATION APPR
+1552|2024|Machine learning and economic forecasting: The role of international trade networks
+1555|2026|Observability of a prediction model post-deployment data drift: the case of international trade
+1557|2019|Big Data on Vessel Traffic: Nowcasting Trade Flows in Real Time
+1560|2000|A Real-Time Data Set for Macroeconomists: Does Data Vintage Matter for Forecasting?
+1561|2013|Forecasting data vintages
+1563|2014|Can Mirror Data Help To Capture Informal International Trade
+1564|2026|Internet Penetration, Institutional Quality and Bilateral Trade between Nigeria and China
+1565|2018|Forecasting Imports with Information from Abroad
+1566|2026|Adaptive Trade Dynamics Forecasting Network for International Trade Development Prediction
+1567|2024|Thinking outside the container: A sparse partial least squares approach to forecasting trade fl
+1568|1986|BUILDING MULTIPLE TIME SERIES FORECASTING MODELS
+1570|2023|Economic Sanctions and Trade Flows in the Neighbourhood
+1571|2025|High-Priority Battlefield Items and Television Sets – How Sectoral Sanctions Refigured Trade Fl
+1572|2014|Explaining the EU’s Rejection of Inter-State Trade Sanctions and Trade Remedies
+1574|2026|Nowcasting World Trade with a Multi-Region Factor Model
+1575|1986|Forecasting with an econometric model: The ‘ragged edge’ problem
+1576|2016|Factor-Midas for Now- and Forecasting with Ragged-Edge Data: A Model Comparison for German GDP
+1577|2025|LAD-BNet: Lag-Aware Dual-Branch Networks for Real-Time Energy Forecasting on Edge Devices
+1579|2021|Monash Time Series Forecasting Archive
+1581|2026|FETS Benchmark: Foundation Models Enable Scalable and Generalizable Energy Time Series Forecast
+1583|2012|Forecasting natural gas supply in China: Production peak and import trends
+1585|2020|The role of UK container trade flow forecasts in the maritime industry
+1586|2012|U.S. International Trade: Trends and Forecasts
+1587|2003|U.S. International Trade: Data and Forecasts
+1588|2021|Indonesian Trade Deficit with China: Background and Grey Forecasting
+1590|2005|Development of a Heavy-Duty Diesel Modal Emissions and Fuel Consumption Model
+1592|2018|RISK TRANSFER STRATEGIES AND SUPPLY CHAIN RESILIENCE IN THE PETROLEUM INDUSTRY IN KENYA
+1593|2024|The Mediating Role of Cyber Resilience in the Impact of Innovation Capabilities on Supply Chain
+1594|2021|A resilient drop-in biofuel supply chain integrated with existing petroleum infrastructure: Tow
+1595|2024|CENTRAL AFRICA: Fuel Shortages
+1597|2020|Fuel shortages during hurricanes: Epidemiological modeling and optimal control
+1602|2025|Localized global models using autoencoder-based clustering to forecast related time series
+1607|2023|How to Leverage Data for Time Series Forecasting with Artificial Intelligence Models: Illustrat
+1609|2026|Smart-Home Sensor Placement Decision Support via Hybrid Model with GRU Energy Forecasting
+1610|2026|Kiky-41/energy-consumption-forecasting-gru: Initial release: GRU-based energy consumption forec
+1613|2022|A GRU-Based Short-Term Multi-energy Loads Forecast Approach for Integrated Energy System
+1615|2024|Gated Recurrent Unit (GRU) for Forecasting Hourly Energy Fluctuations
+1617|2026|GRU: A Robust Sequential Learning Model for Appliance Energy Forecasting
+1619|2025|Multilayer Forecasting via Swarm Intelligence: Enhancing Energy Engineering Decisions with PSO 
+1620|2023|Intelligent Model Hotel Energy Demand Forecasting by Means of LSTM and GRU Neural Networks
+1621|2026|IoT-based home energy management using machine learning and BiLSTM–GRU forecasting
+1630|2026|Intelligent Energy Demand Forecasting Using Temporal Convolutional Networks and Hybrid Machine 
+1638|2026|Temporal Fusion Transformers for Energy Generation Forecasting in Energy Communities
+1639|2023|Interpretable building energy consumption forecasting using spectral clustering algorithm and t
+1640|2024|Forecast of Energy Demand Using Temporal Fusion Transformer
+1641|2025|Residual-Refined Temporal Fusion Transformer for Occupancy-Aware Day-Ahead Energy Forecasting
+1643|2026|Temporal Fusion Transformers for Commercial Building Energy Forecasting: A UK Half-Hourly Settl
+1644|2025|Predicting household energy consumption using temporal fusion transformer and CNN-LSTM with att
+1645|2026|Light-SustainFormer: A Lightweight Temporal Fusion Transformer-Based CNN–BiGRU Framework for Su
+1646|2026|Physically Constrained Temporal Fusion Transformer with LLM-Assisted Hyperparameter Optimizatio
+1647|2026|Leveraging weather parameters to predict household energy consumption: a study from northeast m
+1648|2026|Dynamic Temporal Fusion Transformer with Multilevel Variational Mode Decomposition and Shannon 
+1649|2021|Deep LSTM-Based Transfer Learning Approach for Coherent Forecasts in Hierarchical Time Series
+1650|2024|The M6 forecasting competition: Bridging the gap between forecasting and investment decisions
+1651|2023|Long-Term Energy and Peak Power Demand Forecasting Based on Sequential-XGBoost
+1652|2024|Time Series Forecasting For Energy Consumption Using XGBoost and LSTM
+1653|2025|Hybrid Deep Learning and XGBoost Models for Enhanced Energy Forecasting: A Comparative Analysis
+1654|2025|Forecasting of nuclear energy trends in Romania using XGBoost
+1655|2025|Comparative Analysis of ARIMA, LSTM, Prophet, and XGBoost for Energy Consumption Forecasting
+1656|2023|A novel XGBoost-based featurization approach to forecast renewable energy consumption with deep
+1657|2024|Energy Consumption of a Building Using the XGBoost Algorithm: A Forecasting Study
+1658|2026|NetZeroML: Hybrid PCA-XGBoost Framework for Global Decarbonization and Renewable Energy Forecas
+1661|2023|Energy Consumption Forecasts by Gradient Boosting Regression Trees
+1663|2022|Energy Consumption Forecasting in Korea Using Machine Learning Algorithms
+1664|2020|Energy Demand Forecasting for an Office Building Based on Random Forests
+1666|2020|Machine Learning Based Hybrid System for Imputation and Efficient Energy Demand Forecasting
+1669|2024|Machine Learning-based Energy Demand Forecasting
+1672|2021|A Computational Intelligence Approach to Predict Energy Demand Using Random Forest in a Clouder
+1673|2019|Predicting supply chain risks using machine learning: The trade-off between performance and int
+1674|2025|On the heterogeneous effects of sanctions on trade
+1675|2022|Estimating the economic effects of sanctions on Russia: An Allied trade embargo
+1676|2014|Fighting Iran with Trade Sanctions
+1677|2017|Escaping Sanctions by Trade Diverting
+1678|2015|TURKISH TRADE: THE PARTERSHIPS AND SANCTIONS
+1679|2017|New Protectionism, Sanctions and EU Disintegration: Challenges for Baltic Trade
+1680|2016|In search for a definition of sanctions in the context of strategic trade control
+1681|2022|Iran's Trade with Neighbors: Sanctions’ Impact and the Alternatives
+1682|2023|Trade sanctions and international market integration: Evidence from the sanctions on Iranian me
+1684|1999|Sleeping with the Enemy: The Impact of War on Trade
+1690|2016|Nowcasting the Czech Trade Balance
+1692|1998|Data vintages and measuring forecast model performance
+1693|2006|Short-Term Forecasts of Euro Area Real GDP Growth: An Assessment of Real-Time Performance Based
+1694|2006|Forecasting with Real-Time Macroeconomic Data
+1695|2002|Comments on ‘Forecasting with a real-time data set for macroeconomists’
+1696|1999|DOES DATA VINTAGE MATTER FOR FORECASTING?
+1699|2021|Evaluating heterogeneous forecasts for vintages of macroeconomic variables
+1701|2009|Do forecasters inform or reassure?: Evaluation of the German real-time data
+1702|2025|Macroeconomic nowcasting (st)ability: Evidence from vintages of time-series data
+1704|2026|nowcast: Economic Nowcasting with Bridge Equations and Real-Time Evaluation
+1706|2014|The Importance of Updating: Evidence from a Brazilian Nowcasting Model
+1707|2009|Improving the Predictive Accuracy of Hurricane Power Outage Forecasts Using Generalized Additiv
+1708|2003|Export Diversification in Low-Income Countries
+1710|2001|Export diversification in Uganda : developments in non-traditional agricultural exports
+1711|2022|Predicting Trade Mispricing: A Gaussian Multivariate Anomaly Detection Model
+1713|2024|A Comparison of Advanced Machine Learning Models for Food Import Forecasting
+1714|2010|Seasonal regression forecasting in the U.S. beer import market
+1715|2013|Forecasting Research on the Total Volume of Import and Export Trade of Ningbo Port by Gray Fore
+1716|2014|A Comparison of Seasonal Regression Forecasting Models for the U.S. Beer Import Market
+1717|2025|Forecasting of Rice Import Data: An Application of ARIMA Model
+1718|2025|Potential Effect of Increasing Natural Gas Import from Russia on China: A Forecasting Analysis
+1719|1987|Forecasting USSR grain imports
+1720|2005|Forecasting Germany's Printing and Writing Paper Imports
+1721|1967|Forecasting Exports and Imports: Introduction
+1722|1976|A world model of international trade: Forecasting market shares and trade flows
+1723|2010|Predictable Trade Flows and Returns of Trade-Linked Countries
+1725|2020|A Machine Learning Based Approach for Energy Consumption Forecasting in K-12 Schools
+1726|2026|Forecasting the Import Demand for Cassava Starch in South Africa Using the Box-Jenkins Approach
+1728|2026|&lt;p&gt;Corrscore: Matrix-Aware Proper Scoring Rules and Significance Testing for Correlation 
+1730|2026|Global Persistence, Local Residual Structure: Forecasting Heterogeneous Investment Panels
+1731|2026|Adaptive Hybrid LSTM–GRU–Autoencoder Framework with Attention-Gated Feature Fusion for Optimizi
+1732|2023|Research on Power Forecasting Model of Wave Energy Generation Based on GRU Neural Network
+1734|2026|Hybrid Deep Learning and Ensemble Approach for HVAC Energy Forecasting: A GRU + Random Forest F
+1739|2025|Comparative Energy Consumption Forecasting Using XGBoost,
+LightGBM,LSTM ,and ARIMAX with IoT-Ba
+1740|2026|A Two-Stage CNN-BiLSTM-Attention and XGBoost Framework for Household Energy Demand Forecasting
+1742|2024|Theorizing Trade Network Linkages and Sanctions
+1743|2020|6. Assessing Which Third-Party States Become Trade-Based Sanctions Busters
+1744|2024|International trade sanctions and bilateral agreements
+1745|2024|Special purpose vehicles and international trade sanctions
+1746|2021|Trade preference suspensions as economic sanctions
+1747|1989|4 An Analysis of Trade Sanctions
+1748|2001|Rethinking WTO Trade Sanctions
+1749|2017|Extraterritoriality In United States Trade Sanctions
+1750|2026|Trade Sanctions
+1751|2021|A Study on the Prediction Model for International Trade Payment Using Logistic Regression
+1753||Figure 7.2. Herfindahl Hirschman index of product concentration index of exports, 1995-2017
+1755|2021|Nowcasting aggregate services trade
+1756|2025|Watching Trade from Space: Nowcasting and Spatial Extrapolation of Port-Level Maritime Trade Us
+1757||IMF Working Paper: Big Data on Vessel Traffic: Nowcasting Trade Flows in Real Time
+1758||Nowcasting Country-Level Trade Estimates Using IMF PortWatch
+1759||Nowcasting Global Trade from Space
+1760|2021|Nowcasting global trade in goods and services
+1763|2018|Trade dependence, liberalization, and exports diversification in developing countries☆
+1764|2012|Forecasting with Real-Time Data Vintages
+1765|2008|Real-time squared: A real-time data set for real-time GDP forecasting
+1767|2007|Forecasting real‐time data allowing for data revisions
+1769|2011|Multivariate singular spectrum analysis for forecasting revisions to real-time data
+1770|2009|GDP nowcasting with ragged‐edge data: a semi‐parametric modeling
+1771|2010|Import Demand Elasticity and Exporter Responses to Anti-Dumping Duties
+1772|2016|Estimating Elasticity Function of Jordanian Aggregate Import Demand
+1788|2026|XGBoost "is all you need": the case of forecasting transmitted heat energy in District Heating 
+1796|2025|Performance-Carbon Trade-Offs across Architectural Biases in Shear Flow Forecasting
+1798|2026|Zero-Shot Forecasting of In-Situ Soil Moisture and Temperature with a Time-Series Foundation Mo
+1800|2024|The Capacity and Robustness Trade-Off: Revisiting the Channel Independent Strategy for Multivar
+1802|2024|Deep learning for prediction of energy consumption: an applied use case in an office building
+1805|2022|Towards understanding the importance of time-series features in automated algorithm performance
+1808|2007|Russian and European gas interdependence: Could contractual trade channel geopolitics?
+1810|2022|A Combined Approach of Systematic Error Reduction with Smoothing Series and Optimal Parameter S
+1814|2026|Trade Network Analysis and Economic Stability Forecasting Using Graph Attention Networks
+1815|2004|Fitness-Dependent Topological Properties of the World Trade Web
+1822|2021|On the selection of forecasting accuracy measures
+1827|2026|Data and R Code for Forecasting Oman's Blue Economy Trade: A Sector-Disaggregated Comparison of
+1828|2024|Determinants and Forecasting of Indonesian Coffee Export Trends to the United States
+1829|2024|AGRICULTURAL EXPORTS FROM UKRAINE TO THE EU: FORECASTS, LIMITATIONS AND CHALLENGES
+1830|2024|Indonesian coffee in a world market perspective: Export forecasting and influencing factors
+1831|2019|Forecasting of Indonesia Seaweed Export: A Comparison of Fuzzy Time Series with and without Mar
+1832|2026|Replication package for The incremental forecasting value of trade connections in the China ASE
+1833|2019|Forecasting U.S. Textile Comparative Advantage Using Autoregressive Integrated Moving Average M
+1834|2026|Use of Trade Data to Estimate Environmental Implications of Household Refrigeration Equipment D
+1835|2018|Statistical Analysis of Trends of Foreign Economic Activity of Ukraine: ICT Sector
+1836|2023|APPLICATION OF ARCH/GARCH MODELS IN ANALYSIS OF PRICE VOLATILITIES LOCAL, IMPORTS (USA), AND WO
+1837|2023|The different structure of economic ecosystems at the scales of companies and countries
+1838|2008|Unpicking the Textiles Trade – The Impact of Liberalization on the Global Textiles Sector
+1839|2025|Optimized Design and Forecasting of Solar Pv Systems Via a Gui Platform Integrating Machine Lea
+1840|2025|Forecasting daily freight flow in cold regions of China using the hybrid Prophet model consider
+1841|2024|Forecasting WTI & Brent Crude Oil Price Using LSTM, Prophet and XGBoost – Comparative Analysis
+1842|2026|Intermittent demand forecasting for spare parts using classification/regression models of machi
+1843|2026|An Explainable Ensemble Deep Learning Framework for Sales Productivity Forecasting in Palm Oil 
+1844|2025|AI Meets Energy: Forecasting The Future Of Country-Level Energy Consumption
+1845|2024|A New Method of Using Production Data to Predict the Effect of Oil Well Liquid Lifting Based on
+1846|2026|Sustainable forecasting of crude oil prices using explainable AutoML and ESG-driven market sign
+1847|2026|Store Sales – Time Series Forecasting
+1848|2026|Correction: Deep learning neural networks-based traffic predictors for V2X communication networ
+1849|2022|The M5 uncertainty competition: Results, findings and conclusions
+1850|2023|Conformal Prediction for Time Series
+1851|2019|The M4 Competition: 100,000 time series and 61 forecasting methods
+1854|2023|Conformal Prediction for Time Series with Modern Hopfield Networks
+1855|2025|Conformal Prediction for Time-series Forecasting with Change Points
+1856|2019|The M4 Forecasting Competition Prediction Intervals
+1857||Probabilistic time series forecasting and anomaly detection using deep learning with uncertaint
+1859|2022|ngboostForecast: Probabilistic Time Series Forecasting
+1860|2025|Relational Conformal Prediction for Correlated Time Series
+1861|2026|Retrieval-Corrected Conformal Prediction for Time Series
+1862|2023|Conformal prediction bands for two-dimensional functional time series
+1863|2025|Flow-based Conformal Prediction for Multi-dimensional Time Series
+1864|2002|Probabilistic Methods for Air Traffic Demand Forecasting
+1865|2011|Beyond point forecasting: Evaluation of alternative prediction intervals for tourist arrivals
+1866|2021|Forecast evaluation of quantiles, prediction intervals, and other set-valued functionals
+1867|2026|QuantSightBench: Evaluating LLM Quantitative Forecasting with Prediction Intervals
+1868|2021|Evaluating epidemic forecasts in an interval format
+1869|2026|Proper Scoring Rule-based Diffusion for Probabilistic Weather Forecasting
+1870|2024|Tail calibration of probabilistic forecasts
+1871|2024|Scoring Rules and Calibration for Imprecise Probabilities
+1872|2018|Calibration Scoring Rules for Practical Prediction Training
+1873|2025|Proper scoring rules for multivariate probabilistic forecasts based on aggregation and transfor
+1874|2026|An intuitive rearranging of the Yates covariance decomposition for probabilistic verification o
+1875|2026|Minimal counterexamples separating accuracy, proper scoring rules, and calibration error in pro
+1876|2025|Event-Aware Multimodal Time-Series Forecasting via Symmetry-Preserving Graph-Based Cross-Region
+1877|2021|The M5 competition: Background, organization, and implementation
+1881|2023|Digital disruption: artificial intelligence and international trade policy
+1882|2025|Assessing Trade Concentration, Dependency, and Resilience in Korea’s Semiconductor Supply Chain
+1885|1979|Estimation and projections of demand for crude petroleum and refined petroleum products
+1886|2014|Vulnerability to terrorist attacks in European electricity decarbonisation scenarios: Comparing
+1889|2020|Probabilistic forecasting of heterogeneous consumer transaction–sales time series
+1890|2005|Collateral Damage: Trade Disruption and the Economic Impact of War
+1891|2025|Trade Credit and Supply Chain Resilience: Evidence from China's A-share listed companies
+1892|2024|Trade Efficiency for Resilience? The Effects of the U.S. Supply Chain Reshaping Policies
+1893|2026|fable.intermittent: benchmarking probabilistic forecasting methods for intermittent time series
+1902|2026|Petroleum Subsidy, Renewable Energy Usage, and the Consumption of Petroleum Products in Nigeria
+1903|2014|Modeling Petroleum Product Demand in Nigeria Using Structural Time Series Model (STSM) Approach
+1904|2009|Modelling demand for crude oil products in Spain
+1909|2012|Diesel Consumption of Agriculture in China
+1932|2022|Robust Probabilistic Time Series Forecasting
+1933|2023|AutoGluon-TimeSeries: AutoML for Probabilistic Time Series Forecasting
+1934|2022|Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting
+1935|2020|Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows
+1936|2023|Multi-Scale Attention Flow for Probabilistic Time Series Forecasting
+1938|2025|Non-stationary Diffusion For Probabilistic Time Series Forecasting
+1939|2023|pTSE: A Multi-model Ensemble Method for Probabilistic Time Series Forecasting
+1940|2023|Learning to Forecast: The Probabilistic Time Series Forecasting Challenge
+1941|2026|Quantile-Guided Diffusion for Probabilistic Time-Series Forecasting
+1943|2022|Comparing R-Vine Copulas and Quantile Regression Forests for Reliability Forecasting of Renewab
+1944|2010|Quantiles as optimal point forecasts
+1946|2022|Adaptive Conformal Predictions for Time Series
+1947|2020|Conformal prediction interval for dynamic time-series
+1948|2025|Topics of conformal prediction in time series
+1949|2022|Conformal prediction set for time-series
+1950|2020|Conformal prediction for dynamic time-series.
+1951|2022|Copula Conformal Prediction for Multi-step Time Series Forecasting
+1952|2024|Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series
+1953|2024|Conformal Prediction Regions for Time Series Using Linear Complementarity Programming
+1954|2024|Conformal prediction for multi-dimensional time series by ellipsoidal sets
+1956|2024|Kernel-based Optimally Weighted Conformal Time-Series Prediction
+1957|2026|Hybrid Time Series Diffusion Model and Conformal Prediction for Incomplete Time Series
+1958|2022|Applying regression conformal prediction with nearest neighbors to time series data
+1959|2017|Probabilistic demand forecasting at scale
+1960|2014|Probabilistic demand forecasting to minimize overtaking the transmission contract
+1961|2018|Sample path generation for probabilistic demand forecasting
+1962|2007|Untruthful probabilistic demand forecasts in vendor‐managed revenue‐sharing contracts: Coordina
+1967|2026|Integrating Probabilistic Demand Forecasting and Inventory Decisions: Evaluating Machine Learni
+1969|1985|Performance of Bayesian feedback to forecast lidocaine serum concentration: Evaluation of the p
+1971|2018|Application of Prediction Intervals to Probabilistic Reliability Evaluation of Unit Commitment 
+1972|2009|Empirical Prediction Intervals for County Population Forecasts
+1974|2017|An ensemble prediction intervals approach for short-term PV power forecasting
+1975|2020|Evaluating quantile-bounded and expectile-bounded interval forecasts
+1976|2014|Probabilistic Forecasting
+1977|2017|Cross-calibration of probabilistic forecasts
+1978|2026|How Proper Scoring Rules Shape LLM Forecasting
+1995|2026|PharmaTRACE: A Harmonized Longitudinal Dataset of Canadian Pharmaceutical Trade Flows for Study
+1996|2025|The Neglected Nexus: Trade-Offs and Overlaps Between Resilience and Working Capital in Supply C
+1997|2026|Trade-Offs and Synergies: Integrating Resilience and Sustainability Metrics in Agrifood Supply 
+1998|2024|Is Cash King? Trade-Offs and Overlaps between Working Capital and Resilience in Supply Chains
+2000|2013|Assessing the trade-off between lean and resilience through supply chain risk management
+2001|2024|Topological perturbations on resilience of the world trade competition network
+2002|2024|DARTS: Evolving Resilience of the Global Food System to Production and Trade Shocks
+2006|2014|Neomercantilism and great-power energy competition in Central Asia and the Caspian.
+2007|2020|Central Asia in China’s Energy Strategy
+2008|2024|Renewable energy sources in Kyrgyzstan and energy supply to rural consumers
+2010|2026|Central Asia's energy transition: Strategic shift away from binary choices
+2014|2021|Central Asia: A Testing Ground of Sino-Russian Energy Partnership
+2015|2019|Analysis of usage of the renewable energy in Kyrgyzstan
+2019|2014|Comparing the accuracy of multivariate density forecasts in selected regions of the copula supp
+2021|2026|Rolling-Origin Conformal Prediction under Local Stationarity and Weak Dependence
+2026|2017|THE IMPACT OF HYBRID ENGINES ON FUEL CONSUMPTION AND EMISSIONS OF HEAVY-DUTY TRUCKS
+2036||Heavy Duty Diesel Exhaust Particles during Engine Motoring Formed by Lube Oil Consumption
+2042|2013|Trade Disruption Insurance: An Effective Form of Risk Management in Supply-Chain Security?
+2050|1990|2.5. Probabilistic forecasting
+2057|2025|Fuzzy-Probabilistic Time Series Forecasting Combining Bayesian Network and Fuzzy Time Series Mo
+2058|2025|organik: Multi-Horizon Probabilistic Ensemble with Copulas for Time Series Forecasting
+2059|2025|Probabilistic forecasting with VAR-VAE: Advancing time series forecasting under uncertainty
+2060|2025|Time-Series Forecasting with Deep Learning and Stochastic Models for Probabilistic Prediction i
+2061|2020|Joint Bottom-Up Method for Probabilistic Forecasting of Hierarchical Time Series
+2062|2026|HIFS and Probabilistic Similarity Measure-based Intuitionistic Fuzzy Time Series Forecasting Me
+2063|2025|Probabilistic Time Series Forecasting via Diffusion Models under Multi-Scale Guidance
+2064|2026|Probabilistic and Generative Approaches to Continuous Time Series Forecasting
+2068|2025|Conformal Time Series Forecasting with Uncertainty Quantification for Anomaly Detection
+2069||Daily Forecasting of New Cases for Regional Epidemics of Coronavirus Disease 2019 with Bayesian
+2073|2025|Bayesian Deep Learning for Uncertainty Quantification in Financial Stress Testing and Risk Fore
+2075||Forecasting Economic Variables Using Markov Quantile Regression Approach
+2077|2025|Mixed-frequency Quantile Regression Forests for Value-at-Risk forecasting
+2079|2024|Forecasting Tail Risk Exposure with Panel Quantile Functional-Coefficient Regression
+2083|2025|A note on adaptive conformal prediction for time series with structural breaks
+2084|2025|conformalForecast: Conformal Prediction Methods for Multistep-Ahead Time Series Forecasting
+2085||Conformal Prediction for Time Series_supp1-3272339.pdf
+2086|2026|Conformal Pointwise Prediction Bands for Functional Time Series via CNNs
+2087|2026|Time-aware conformal uncertainty quantification with physics-consistent projection for fusion b
+2088|2026|Conformal prediction for functional time series: application to age-specific mortality rates
+2089|2024|Time-Series Deep Learning and Conformal Prediction for Improved Sepsis Diagnosis in Non-ICU Hos
+2090|2026|Uncertainty-Aware Anomaly Prediction Using Conformal Multivariate Time Series Clustering
+2091||Uncertainty-Aware Real-Time Visual Anomaly Detection With Conformal Prediction in Dynamic Indoo
+2092||Forecasting Demand Using Probabilistic Multidimensional Data Model
+2093|2026|HIPSF: A Human-Inspired Probabilistic Sparse Forecasting Framework for Post-Launch Retail Deman
+2094|2025|Probabilistic-Robust Loss with Uncertainty-Aware Learning for Diverse Demand Forecasting Patter
+2096|2026|From Adoption Diffusion to Dimensioning: Probabilistic Forecasting of 5G/NB-IoT Demand via Mont
+2098|2025|Probabilistic Power Demand Forecasting Using Bayesian Additive Regression Trees in Residential 
+2100|1990|Bootstrap prediction intervals for autoregressions
+2101|1991|Multiple prediction intervals for time series: Comparison of simultaneous and marginal interval
+2102|2008|BootPR: Bootstrap Prediction Intervals and Bias-Corrected Forecasting
+2103|1990|Prediction intervals for the Holt-Winters forecasting procedure
+2104|2011|Bootstrap prediction intervals for SETAR models
+2105|2014|Empirical prediction intervals revisited
+2106|1998|Bootstrap prediction intervals for autoregressions: some alternatives
+2107|2005|Bootstrap prediction intervals for ARCH models
+2108|1995|Prediction intervals for growth curve forecasts
+2109|1991|Prediction intervals for multiplicative Holt-Winters
+2110|2001|Bootstrapping prediction intervals for autoregressive models
+2111|2001|Prediction Intervals for Time-Series Forecasting
+2112|2001|Guaranteed‐content prediction intervals for non‐linear autoregressions
+2113|2013|Evaluation of Probabilistic Forecasts: Proper Scoring Rules and Moments
+2114|2021|Ranking earthquake forecasts: On the use of proper scoring rules to discriminate forecasts
+2115|2025|Proper Scoring Rules - Probabilistic forecasting examples
+2116|2025|Proper Scoring Rules - Multivariate Probabilistic Forecasting
+2118|1983|Effective Scoring Rules for Probabilistic Forecasts
+2119|1970|Probabilistic Forecasts and Reproducing Scoring Systems
+2125|2017|The digital disruption of international trade has already begun
+2126|2019|War and international trade: Impact of trade disruption on international trade patterns and eco
+2127|2021|From Trade War to Global Disruption
+2128|2023|Butterfly effects in global trade: International borders, disputes, and trade disruption and di
+2129|2026|Rethinking trade rules in an age of disruption
+2133|2025|Study on the Impact Mechanism of Digital Trade on the Resilience of Supply Chain and Industrial
+2134|2023|Japan’s New Trade Strategy Focuses on Supply Chain Resilience and Trade Liberalization
+2135|2026|Digital Trade, Supply Chain Resilience and Sustainability: Impact of Fintech‑enabled Supply‑Cha
+2136|2026|Enhancing global supply chain resilience under trade uncertainties
+2137|2025|The Security and Trade Agreement for Resilience
+2138|2022|Why the World Trade Organization is Critical for Vaccine Supply Chain Resilience During a Pande
+2139|2026|Climate Shocks, Trade Credit, and Firm Resilience in Chile
+2140|2019|Author Correction: Dynamics of the Global Wheat Trade Network and Resilience to Shocks
+2141|2019|Trade Shocks, Growth and Resilience: Eastern Europe’s Adjustment Tale
+2142|2026|What Builds Resilience to Trade Shocks?
+2143|2026|Green Banking Resilience: Trade-offs under Shocks
+2144|2019|The effects of network topology, climate variability and shocks on the evolution and resilience
+2145|2003|An Energy Overview of the Republic of Kyrgyzstan
+2146||China, Russia, and Central Asia: Triangular Energy Politics
+2147|2020|Energy in Central Asia: Competition and Cooperation Between China and Russia
+2148|1996|96/00130 Oil and gas resources of the Fergana Basin (Uzbekistan, Tadzhikistan, and Kyrgyzstan)
+2149|2016|uncertainty evaluation in real-time flood forecasting
+2150|2026|Misinformation Spread: Forecasting, Intervention, and Real-time Evaluation (MISFIRE)
+2156|2023|Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Foreca
+2158|2022|Sequential Predictive Conformal Inference for Time Series
+2159|2025|A Novel Hybrid Approach to Contraceptive Demand Forecasting: Integrating Point Predictions with
+2162|2025|Towards Trustworthy Vital Sign Forecasting: Leveraging Uncertainty for Prediction Intervals
+2163|2022|Prediction Intervals in the Beta Autoregressive Moving Average Model
+2164|2019|Evaluating probabilistic forecasts of extremes using continuous ranked probability score distri
+2165|2024|Quasi-average predictions and regression to the trend: an application the M6 financial forecast
+2168|2020|A Novel Approach to Predictive Accuracy Testing in Nested Environments
+2170|2026|Crossing-Free Probabilistic K-Line Forecasts Without Retraining
+2171|2026|conformalForecast: An R package for sequential conformal prediction in time series
+2189|2021|Product sales probabilistic forecasting: An empirical evaluation using the M5 competition data
+2190|2019|GluonTS: Probabilistic Time Series Models in Python
+2191|2022|Coherent Probabilistic Forecasts for Hierarchical Time Series
+2193|2011|The three perspectives on energy security: intellectual history, disciplinary roots and the pot
+2194|2013|Energy security and improvements in the function of diversity indices—Taiwan energy supply stru
+2195|2017|Modeling systemic risk of crude oil imports: Case of China’s global oil supply chain
+2197|2025|PRODUCT DEMAND FORECASTING: A SOLUTION TO DETERMINE RAW MATERIAL NEEDS FOR COCONUT OIL AGROINDU
+2200|2011|Forecasting future oil demand in Iran using GSA (Gravitational Search Algorithm)
+2203|2023|Energy Security: A Conceptual Overview
+2205|2022|Misinvoicing in Benin's International Trade: An Analysis from Mirror Statistics
+2206|2009|Import demand of crude oil and economic growth: Evidence from India
+2207||2.19 Net energy imports and CO2 intensity of primary energy
+2208|2021|The Impact of Chinese Energy OFDI on Energy Imports Trade
+2209|1975|Energy consumption and consumer cost effects of the additional $1 fee on crude oil imports and 
+2210|2009|Security of China’s Energy Imports
+2211|1992|Recent oil imports into Japan
+2212|2008|A new energy security paradigm for the twenty-first century
+2213||Prediction of Intramolecular Reorganization Energy Using Machine Learning
+2214|2023|Do geopolitical risks always harm energy security? Their non-linear effects and mechanism
+2215|2016|Energy security measurement – A sustainable approach
+2216|2013|An evaluation framework for oil import security based on the supply chain with a case study foc
+2217|2017|Measuring energy security performance within China: Toward an inter-provincial prospective
+2218|2020|Evolution of European Union's energy security in gas supply during Russia–Ukraine gas crises (2
+2219|2012|An assessment of Taiwan’s energy policy using multi-dimensional energy security indicators
+2220|2009|Indicators of energy security in industrialised countries
+2221|2017|Historical energy security performance in EU countries
+2222|2019|Using a new aggregated indicator to evaluate China's energy security
+2223|2008|Measuring Energy Security - A Conceptual Note
+2224|2012|Conceptualizing energy security
+2225|2011|Conceptualizing and measuring energy security: A synthesized approach
+2226|2010|Research of Product Oil Demand Forecast Based on the Combination Forecast Method
+2227|1983|OPEC domestic oil demand: product forecasts for 1985 and 1990
+2228|2021|Application of the artificial intelligence GANNATS model in forecasting crude oil demand for Sa
+2229|1989|Modeling and Forecasting the World Demand for Oil
+2233|2007|Determinants of China's energy imports: An empirical analysis
+2238|2014|Import Dependency of Food Production
+2242|2025|FORECASTING THE NEW ENERGY INDEX TRADING AMOUNT IN CHINA MAINLAND: A MACHINE LEARNING FRAMEWORK
+2245|2026|Energy Forecasting and Time Series Analysis Using Machine Learning
+2248|2021|Oil for Pakistan: What are the main factors affecting the oil import?
+2264|2019|Classification of Turkey among European Countries by Years in Terms of Energy Efficiency, Total
+2274|2025|How do supply chain and geopolitical risks threaten energy security? A time and frequency analy
+2275|2023|Energy security analysis in a geopolitically volatile world: A causal study
+2278|2017|National energy security assessment in a geopolitical perspective
+2280|2021|MEASURING SUPPLY CONCENTRATION ON THE SERBIAN OIL AND OIL DERIVATES MARKET BY HERFINDAHL-HIRSCH
+2282|2026|Hydrogen exports relocate energy dependency: buyer and supply-chain concentration in Türkiye
+2286|2024|The impacts of geopolitical risks on gold, oil and financial reserve management
+2287|2020|OIL RENT, GEOPOLITICAL RISK AND BANKING SECTOR PERFORMANCE
+2289|2024|The dynamic evolution mechanism of structural dependence characteristics in the global oil trad
+2290|2022|Robustness of the international oil trade network under targeted attacks to economies
+2291|2008|Energy Security:, Security for Whom?
+2293|2024|Assessment of energy security in West Africa: A case study of three countries
+2294|2015|Assessing Energy Security Using Indicator-Based Analysis: The Case of ASEAN Member Countries
+2295|2021|Renewable Energy Consumption, Trade Openness, and Environmental Degradation: A Panel Data Analy
+2296|2025|Dynamic effect of green financing, economic development, renewable energy and trade facilitatio
+2297|2021|Detecting the control and dependence relationships within the global embodied energy trade netw
+2300|2025|Understanding energy security in geopolitical contexts: Insights from decomposing energy divers
+2301|2020|An analysis of energy diversification and transition trends in Africa
+2303|2022|International Energy Security Risk Index and Energy Diplomacy
+2304|2021|A Review of Energy Security Index Dimensions and Organization
+2305|2021|Environmental energy security in the MENA region – an aggregated composite index
+2306|2023|Energy Diversification Trends and Convergence in this Diversification
+2307|2026|Energy Security in the World Energy Trilemma Index: Directions for Improving Azerbaijan’s Posit
+2308|2023|Energy Diversification in Africa
+2311|1996|The impacts on U.S. energy markets and the economy of reducing oil imports. Service report
+2312|1980|The effects of restricted energy imports
+2313|1979|Limiting oil imports
+2314|2024|Figure 4.3 Ultra-processed food imports as share in all food imports (based on energy content),
+2315|2023|Accelerating the Demand for and International Trade in Low-Carbon Hydrogen
+2319|2025|Machine Learning and Energy Forecasting
+2320||Modeling novel data-driven machine learning approaches for traffic congestion &amp; energy fore
+2321|2025|A Review of Machine Learning Applications for Energy Consumption Forecasting in Schools
+2322|2026|Machine learning drift geometry in energy forecasting systems under harmonic stress
+2323|2026|Machine learning for renewable energy forecasting: advances, challenges, and future directions
+2324||Machine learning based forecasting and optimization of a building energy comfort management sys
+2325|1958|Long-Range Oil Import Plan Offered
+2326|2024|Import Demand of Palm Oil From Indonesia in The Indian Market
+2327|2013|Assessing dynamics of crude oil import demand in Korea
+2328|2018|Understanding crude oil import demand behaviour in Africa: The Ghana case
+2330|2022|Palm Oil Import Demand in North America Countries
+2334|2024|Comprehensive analysis of energy security indicators and measurement of their integrity
+2335|2022|Appropriate technology and energy security: From the perspective of biased technological change
+2338|2026|Proper Scoring Rules for Correlation Matrix Forecasts on the SPD Manifold: Theory and Empirical
+2339|2026|Proper Scoring Rules for Path-Valued Forecasts on the SPD Manifold: Propriety via Riemannian De
+2341||Deep Learning for Selective Time-Series Forecasting with Applications in Energy Flexibility
+2342|2026|Pooling Beats Structure on Short Annual Panels: Parameter Sharing and the Forecast Accuracy of 
+2343|2023|Traditional Machine Learning Models for Building Energy Performance Prediction: A Comparative R
+2345|2023|Modelling the geopolitical impact on risk assessment of energy supply system: The case of Itali
+2349|2023|Transmission Mechanisms of Geopolitical Risks to the Crude Oil Market——A Pioneering Two-Stage G
+2353|1981|REGIONAL OIL DEPENDENCY: RISING OIL IMPORT BILLS, THE EXTERNAL ACCOUNTS, AND NOILDC DEVELOPMENT
+2354|2022|Regulation of International Trade in Energy Resources
+2355||The Diversification Dimension of Energy Security
+2357|2022|Nexus between FDI and globalization-led energy diversification in BRICS: Fresh evidence from a 
+2358|2013|Securing energy supply II: diversification of energy sources and carriers
+2359|2019|REGULATORY AND POLICY CHALLENGES FOR ASEAN ENERGY SECURITY AND INTEGRATION
+2360|2019|Energy Security as a Foreign Policy Priority: India's Diversification of Energy Acquisition Sou
+2361|2005|Diversification and localization of energy systems for sustainable development and energy secur
+2362|2019|ADDRESSING CLIMATE CHANGE AND ENERGY SECURITY THROUGH ENERGY COOPERATION: CHALLENGES AND OPPORT
+2363|2019|ASSESSING ENERGY SECURITY IN THE CASPIAN REGION: THE GEOPOLITICAL IMPLICATIONS TO EUROPEAN ENER
+2364|2019|TOWARD ENERGY SECURITY IN ASEAN: IMPACT OF REGIONAL INTEGRATION, RENEWABLES, AND ENERGY EFFICIE
+2365||Crude oil import price
+2366|1973|United States Oil Import Quotas and the Price of Foreign Oil
+2385|2023|Crude oil security in a turbulent world: China's geopolitical dilemmas and opportunities
+2395|2022|Energy Security and Energy Poverty in Emerging Economies: A Step Towards Sustainable Energy Eff
+2396|2018|The impact of OPEC on East Asian oil import security: A multidimensional analysis
+2397|2020|A functional index model for dynamically evaluating China's energy security
+2398|2021|Multi-criteria decision analysis of China’s energy security from 2008 to 2017 based on Fuzzy BW
+2399|2009|Analysis of impacts of climate change policies on energy security. Final Report
+2400|2009|Energy security—concepts and indicators
+2401|2015|Energy security matters in the EU Energy Roadmap
+2402|2020|Analysis of energy security level in the Baltic States based on indicator approach
+2403|2014|Assessment of energy security in China based on ecological network analysis: A perspective from
+2404|2022|Green energy security assessment in Morocco: green finance as a step toward sustainable energy 
+2405|2020|Geopolitical risk and crude oil security: A Chinese perspective
+2406|2016|Energy security and renewable energy deployment in the EU: Liaisons Dangereuses or Virtuous Cir
+2408|2020|Analysis of energy security indicators and CO2 emissions. A case from a developing economy
+2409|2022|Geopolitical risk and China's oil security
+2410|2015|A framework for evaluating Singapore’s energy security
+2411|2019|The Impact of Urbanization and Industrialization on Energy Security: A Case Study of China
+2412|2009|Conceptualising energy security and making explicit its polysemic nature
+2413|2011|The uniqueness of the energy security, justice, and governance problem
+2414|2010|Evaluating energy security in the Asia pacific: Towards a more comprehensive approach
+2415|2013|Energy security under de-carbonization scenarios: An assessment framework and evaluation under 
+2416|2013|An international assessment of energy security performance
+2417|2013|RES and risk: Renewable energy's contribution to energy security. A portfolio-based approach
+2418|2014|China׳s energy security: Oil and gas
+2419|2013|Understanding attitudes toward energy security: Results of a cross-national survey
+2420|2009|The four ‘R's of energy security
+2421|2011|Climate protection and China’s energy security: Win–win or tradeoff
+2422|2014|China׳s energy security and its challenges towards 2035
+2423|2011|Energy security level assessment technology
+2424|2014|Energy security and the diversity of energy flows in an energy system
+2425|2013|Methodology for quantitatively assessing the energy security of Malaysia and other southeast As
+2426|2011|Crude oil import policy of Turkey: Historical analysis of determinants and implications since 1
+2427|2012|Assessing energy security performance in the Asia Pacific, 1990–2010
+2428|2013|China's Sovereign Wealth Fund Investments in overseas energy: The energy security perspective
+2429|2006|Linking consumer energy efficiency with security of supply
+2431|2012|Study on the development of an energy security index and an assessment of energy security for E
+2433|2007|International Relations and Security of Energy Supply : Risks to Continuity and Geopolitical Ri
+2434|2009|Indicators for energy security
+2435|2010|Evaluating energy security in the Asia-Pacific region: A novel methodological approach
+2436|2011|Evaluating energy security performance from 1990 to 2010 for eighteen countries
+2437|2012|Japan’s energy security predicament post-Fukushima
+2438|2014|Energy security in China: A quantitative analysis and policy implications
+2439|2002|Energy security: is the wolf at the door?
+2440|2011|China's energy security: Perception and reality
+2441|2007|Energy Security and Climate Policy - Assessing Interactions
+2442|2013|Energy security and co-benefits of energy efficiency improvement in three Asian countries
+2443|2011|A generic framework for the description and analysis of energy security in an energy system
+2444|2012|Thailand's energy security indicators
+2445|2008|Security of supply and regulation of energy networks
+2446|2011|Interactions between energy security and climate change: A focus on developing countries
+2447|2013|Exploring public perceptions of energy security risks in the UK
+2448|2014|Focus on bioenergy industry development and energy security in China
+2449|2013|Quantifying the risk to crude oil imports in China: An improved portfolio approach
+2450|2005|Energy security as a rationale for governmental action
+2451|2013|Obstacles in energy security: An analysis of congressional and presidential framing in the Unit
+2453|2008|Energy security and sustainable development in Asia and the Pacific
+2456|2018|China's dependency on foreign oil will exceed 80% by 2030: Developing a novel NMGM-ARIMA to for
+2457|2016|Research on the interaction patterns among the global crude oil import dependency countries: A 
+2459|2019|India's dependence on foreign oil will exceed 90% around 2025 - The forecasting results based o
+2460|2015|Measuring global oil trade dependencies: An application of the point-wise mutual information me
+2461|2016|An estimation of crude oil import demand in Turkey: Evidence from time-varying parameters appro
+2463|1982|Reducing dependence on oil imports
+2465|2015|Features and evolution of international fossil energy trade relationships: A weighted multilaye
+2467|2014|Energy security: Definitions, dimensions and indexes
+2468|2014|Quantifying, measuring, and strategizing energy security: Determining the most meaningful dimen
+2469|2014|Forty years of energy security trends: A comparative assessment of 22 industrialized countries
+2471|2013|Energy Security as a Subset of National Security
+2472|2014|From Energy Security to the Security of Energy Services: Shortcomings of Traditional Supply-Ori
+2473|2026|Oil-price Exposure in Albania: Input-Output Accounting and Conditional Evidence on Inflation an
+2474|2021|Artificial intelligence-based prediction and analysis of the oversupply of wind and solar energ
+2475|2025|Optimizing Electric Vehicle Charging Station Solar Energy Forecasting using Deep Learning and W
+2476|2019|N-BEATS: Neural basis expansion analysis for interpretable time series forecasting
+2477|2020|Kaggle forecasting competitions: An overlooked learning opportunity
+2483|2024|Modelling and assessing dynamic energy supply resilience to disruption events: An oil supply di
+2485|2019|A hybrid method of exponential smoothing and recurrent neural networks for time series forecast
+2487|2020|Oil supply risk and affecting parameters associated with oil supplementation and disruption
+2490|2026|Transfer Learning Based on N-BEATS in Forecasting Univariate Time Series
+2492|2020|Recurrent Neural Networks for Time Series Forecasting: Current status and future directions
+2493|2019|Forecasting across time series databases using recurrent neural networks on groups of similar s
+2496|2014|Assessment of energy supply vulnerability between China and USA
+2497|2023|Does climate vulnerability promote green investment under energy supply restriction?
+2498|2024|Impact of artificial intelligence on renewable energy supply chain vulnerability: Evidence from
+2500|2021|Improving the accuracy of global forecasting models using time series data augmentation
+2507|2022|Performance of Deep Learning models with transfer learning for multiple-step-ahead forecasts in
+2508|2021|Time series forecasting with missing data using neural network and meta-transfer learning
+2509|2021|Forecasting with trees
+2533|1982|Energy modeling IV--planning for energy disruptions
+2534|2022|Critical Raw Materials and Supply Chain Disruption in the Energy Transition
+2535|2021|COVID-19: Government subsidy models for sustainable energy supply with disruption risks
+2536|2022|Assessing financial factors for oil supply disruptions and its impact on oil supply security an
+2537|2019|A systemic approach for disruption risk assessment in oil and gas supply chains
+2538|2013|Modelling oil and gas supply disruption risks using extreme-value theory and copula
+2539|2021|Optimizing profit and reliability using a bi-objective mathematical model for oil and gas suppl
+2540|2018|An updated assessment of oil market disruption risks
+2542|2012|Disruptions in tightly coupled supply chain networks: the case of the US offshore oil industry
+2543|2021|Disruptions in the Upstream Palm Oil Supply Chain
+2546|2006|Addressing Energy Supply Vulnerabilities
+2547|2018|Vulnerability Analysis of Energy Supply in China
+2548|2026|Supply Chain, Energy, and AI Nexus: Evaluating AI Energy Supply Chain Vulnerabilities
+2549|2018|Vulnerability of European intermittent renewable energy supply to climate change and climate va
+2550|2006|Monitoring the Vulnerability of Energy supply system
+2551|2011|Vulnerability Analysis - ENERGY SUPPLY SYSTEM
+2552|2023|Supply Chain Vulnerabilities of the Energy Transition
+2553|2010|A Simulation Model and a Vulnerability Assessment of the Worldwide Energy Supply
+2554|2023|Exploring the risk and economic vulnerability of global energy supply chain interruption in the
+2555|2024|Renewable energy supply chains between China and the Gulf states: Resilient or vulnerable?
+2556|2010|Security of Energy Supply - Indicators for Measuring Vulnerability and Risk
+2557|2016|A multi-agent system to assess the vulnerability on the maritime supply chain of energy
+2558|2012|Early warning indicators for process failure due to organic overloading by rapeseed oil in one-
+2566|2024|A Survey of Deep Learning and Foundation Models for Time Series Forecasting
+2567|2018|Cross-domain Meta-learning for Time-series Forecasting
+2580|2023|Transformers in Time Series Forecasting: A Brief Transfer Learning Performance Analysis
+2581|2021|An Enterprise Time Series Forecasting System for Cloud Applications Using Transfer Learning
+2582|2025|Transfer Learning with Foundational Models for Time Series Forecasting using Low-Rank Adaptatio
+2583|2025|Transfer Learning for Time-series Forecasting of Greenhouse Microclimate
+2584|2023|Transformers in Time Series Forecasting: A brief Analysis of the Autoformer Transfer Learning P
+2585|2025|Efficient Transfer Learning for Time-Series Forecasting Using Wi-Fi Data •
+2586|2025|Demand Characteristics & Hyperparameters for Higher DL Forecast Accuracy
+2603|2022|On Machine Learning-Based Techniques for Future Sustainable and Resilient Energy Systems
+2617|2026|Evaluating the Robustness of Time-Series Foundation Models in Network Traffic Forecasting
+2621|2014|The differential effects of oil demand and supply shocks on the global economy
+2627|2025|Impact of decarbonization enablers, energy supply between transition and disruption, on renewab
+2630|2019|Energy, Ideology, and Shortfall
+2631|2025|From Vulnerability to Resilience: International Cooperation in Renewable Energy Component Suppl
+2632|1983|Policies to reduce OECD vulnerability to oil-supply disruptions
+2633|2009|Configure vulnerability assessment based on potential energy model
+2634|2010|Vulnerability of the economy to the potential disturbances of energy supply: A logic-based mode
+2722|2026|Pretrained Time-Series Foundation Models for Financial Return Forecasting
+2735|2011|Advances in forecasting with neural networks? Empirical evidence from the NN3 competition on ti
+2747|2016|Principles and criteria for assessing urban energy resilience: A literature review
+2748|2016|Measuring resilience in energy systems: Insights from a range of disciplines
+2749|2008|Assessing the energy vulnerability: Case of industrialised countries
+2760|2023|Are Transformers Effective for Time Series Forecasting?
+2761|2021|Temporal Fusion Transformers for interpretable multi-horizon time series forecasting
+2776|2015|Diesel Fuel Consumption during Field Operations
+2781|2021|Productive capacities in landlocked developing countries
+2783|1983|An aggregate petroleum consumption model
+2790|2009|Cointegration and the demand for gasoline
+2791|1997|Pooled estimators vs. their heterogeneous counterparts in the context of dynamic demand for gas
+2792|1990|On the variable elasticity of the demand for gasoline
+2801|2018|Political and economic challenges of petroleum dependency in Timor-Leste
+2811|2003|Short-run, long-run and cross elasticities of gasoline demand in Brazil
+2817|1999|Petroleum Product Demand
+2818|1993|The demand for gasoline: a two stage approach
+2819|2000|Gasoline demand and car choice: estimating gasoline demand using household information
+2821|2005|Long-run demand elasticities for gasoline
+2822||Octane-On-Demand: Onboard Separation of Oxygenates from Gasoline
+2823||Figure 5.10. Change in diesel consumption by trucks, 2017-2050
+2824||Figure 5.8. Petrol and diesel consumption for passenger cars, 2017-2050
+2825|2015|Diesel Fuel Consumption during Tractor Operations
+2826|2014|Diesel Fuel Consumption During Chisel Plowing
+2827|1980|World's first small low cost Diesel Emulsifier — reduces fuel consumption of diesel‐engined veh
+2828||Figure 3.6. Support to fossil fuel consumption: Tax expenditure increased with diesel taxes
+2831|2025|Planning aquaculture in Landlocked Developing Countries
+2832|2024|Demographic outlook for the landlocked developing countries
+2833||Aid to small island states and landlocked developing countries
+2834|2019|The Determinants of FDI in Landlocked Developing Countries in Central Asia
+2835|2021|Structural transformation and poverty reduction in Asia’s Landlocked Developing Countries
+2841||Petroleum-dependency and household account: Norway
+2888|2020|Introduction: Paths to Witnessing, Ethics of Speaking Out
+2890|2020|FIGURE 26. Cereal import dependency by region
+2892|1994|Comparing Predictive Accuracy
+2893|2022|M5 accuracy competition: Results, findings, and conclusions
+2894|2011|TESTS OF EQUAL FORECAST ACCURACY FOR OVERLAPPING MODELS
+2897|2021|Implementing transfer learning across different datasets for time series forecasting
+2898|2020|The M4 forecasting competition – A practitioner’s view
+2903|2021|Ensembles of localised models for time series forecasting
+2905|2017|A note on the validity of cross-validation for evaluating autoregressive time series prediction
+2909|2006|Another look at measures of forecast accuracy
+2913|2023|SETAR-Tree: a novel and accurate tree algorithm for global time series forecasting
+2914|2025|Time series clustering based on prediction accuracy of global forecasting models
+2915|2024|Cross‐Learning With Panel Data Modeling for Stacking and Forecast Time Series Employment in Eur
+2916|2010|Meta-learning for time series forecasting and forecast combination
+2918|2018|A novel transfer learning framework for time series forecasting
+2919|2022|A relationship-aligned transfer learning algorithm for time series forecasting
+2921|2020|Multi-source Transfer Learning with Ensemble for Financial Time Series Forecasting
+2922|2021|Predicting/hypothesizing the findings of the M5 competition
+2923|2022|Introduction to the M5 forecasting competition Special Issue
+2927|2016|Nowcasting Czech GDP in real time
+2929|2006|Chapter 17 Forecasting with Real-Time Macroeconomic Data
+2930|2010|Factor MIDAS for Nowcasting and Forecasting with Ragged-Edge Data: A Model Comparison for Germa
+2933|2020|Analysis of discrepancies in mirror data relating to the weight of goods in intra-EU trade stat
+2934|2020|Discrepancies between mirror data on intra-Community trade: the case of Poland
+2936|2025|Reflections of Global Supply Chains in Mirror Trade Data
+2939|2015|A Kolmogorov-Smirnov Based Test for Comparing the Predictive Accuracy of Two Sets of Forecasts
+2940|2023|Hassani.Silva: A Test for Comparing the Predictive Accuracy of Two Sets of Forecasts
+2941|2021|Testing the Predictive Accuracy of COVID-19 Forecasts
+2943||Import dependency from Japanese intermediates, 2009
+2944|2020|MAP 26. Cereal import dependency (2015–2017 average)
+2945|2021|MAP 26: Cereal import dependency (2016–2018 average)
+2948|2015|Import Demand and the WorId Price
+2961|2020|A combination-based forecasting method for the M4-competition
+2962|2025|The Impact of the US-China Trade War on US Imports from China: Heterogeneity from Causal Machin
+2968|2018|Magic Mirror in My Hand…. How Trade Mirror Statistics Can Help Us Detect Illegal Financial Flow
+2969|2013|Distribution Capital and the Short- and Long-Run Import Demand Elasticity
+2970|2017|The Income Elasticity of Import Demand:  Micro Evidence and An Application
+2971|1995|Comparing the predictive accuracy of models using a simple randomization test
+2972|2026|ForeComp: An R Package for Comparing Predictive Accuracy Using Fixed-Smoothing Asymptotics
+2974|2022|Statistical, machine learning and deep learning forecasting methods: Comparisons and ways forwa
+2975|2012|A review and comparison of strategies for multi-step ahead time series forecasting based on the
+2979|2000|Out-of-sample tests of forecasting accuracy: an analysis and review
+2982|2019|A brief history of forecasting competitions
+2983|2019|Are forecasting competitions data representative of the reality?
+2992|2013|Measuring forecasting accuracy: The case of judgmental adjustments to SKU-level demand forecast
+2995|2004|Import Competition, Product Differentiation and Mark-Ups - Microeconomic evidence from Swedish 
+3010|1993|Parameter instability in aggregate US import demand functions
+3015|1998|The role of population size in the determination and prediction of population forecast errors: 
+3032|2015|A New Global Forecasting Model to Produce High-Resolution Stream Forecasts
+3041|2026|Preference Guided Meta-Learning for Cross Domain Time Series Forecasting
+3045|2024|K-Fold Cross-Validation: An Effective Hyperparameter Tuning Technique in Machine Learning on GN
+3046|2014|Temporal Validated Meta-Learning for Long-Term Forecasting of Chaotic Time Series Using Monte C
+3047|2019|Transfer Learning for Financial Time Series Forecasting
+3048|2023|Neuroevolutionary Transfer Learning for Time Series Forecasting
+3050|2024|A Metadata-Augmented Technique for Time Series Forecasting and Transfer Learning
+3051|2021|A Transfer Learning Scheme for Time Series Forecasting Using Facebook Prophet
+3052|2020|A novel active multi-source transfer learning algorithm for time series forecasting
+3053|2023|A Boxplot Metadata Configuration Impact on Time Series Forecasting and Transfer Learning
+3054|2023|A Proposal of Transfer Learning for Monthly Macroeconomic Time Series Forecast
+3055|2021|The M5 Competition and the Future of Human Expertise in Forecasting
+3057|2021|Exploration of Machine Learning Forecasting Methods in M4 Competition
+3058|2021|A study on Ensemble Learning for Time Series Forecasting and the need for Meta-Learning
+3059|2022|Fathoming empirical forecasting competitions’ winners
+3061|2025|Environmental Cost Function for Time Series Models: The M4 Competition
+3080|2025|Trade dependency and technological specialization in the ICT supply chain: Structural dynamics 
+3089|2014|Pakistan’s Dependency on Imports and Regional Integration
+3115|2024|Real-time Nowcasting Growth-at-Risk using the Survey of Professional Forecasters
+3116|2020|Nowcasting GDP of Bosnia and Herzegovina: A Comparison of Forecast Accuracy Models
+3118|2020|Departure months and discrepancy in mirror trade data
+3119|2015|Assessing China's Merchandise Trade Data Using Mirror Statistics
+3120|2022|Detecting Illegal Intercountry Trade of Mercury Using Discrepancies in Mirrored Trade Data
+3121|2011|Utilizing the Multiple Mirror Technique to Assess the Quality of Cambodian Trade Statistics
+3122|2020|Applying ‘Mirror Statistics’ in Cross-Border Trade Administration: Case of General Department o
+3123|2018|Mirror Study of Vietnam's International Merchandise Trade: Findings and Implications on Cross-B
+3126|2021|Mirror data asymmetry in international trade by commodity group: the case of intra-Community tr
+3133|2007|Part 2 : Chapter 4 - Formulation of Trade Indices based on UN COMTRADE for SITC Revisions
+3139|2021|Import demand elasticities revisited
+3140|2010|Export supply and import demand elasticities
+3141|1970|A Study of Demand Elasticities for Irish Imports
+3142|2015|Trade Liberalization and Disaggregated Import Demand in Uganda
+3143|1986|Export Supply and Import Demand Functions: A Production Theory Approach
+3144|2009|Is the Armington Elasticity Really Constant across Importers
+3145|2001|Tests of equal forecast accuracy and encompassing for nested models
+3146|2012|Comparing forecast accuracy: A Monte Carlo investigation
+3147|2015|A new approach to testing forecast predictive accuracy
+3148|2011|On the forecasting accuracy of multivariate GARCH models
+3149|2006|Approximately normal tests for equal predictive accuracy in nested models
+3150|2017|Testing for Differences in Path Forecast Accuracy: Forecast-Error Dynamics Matter
+3151|2015|Comparing Predictive Accuracy, Twenty Years Later: A Personal Perspective on the Use and Abuse 
+3152|1998|Testing forecast accuracy
+3161|2026|Do Pretrained Models Improve Financial Time Series Forecasting?
+3175|2019|Prospects of free trade with China: development of domestic export and risks of import dependen
+3176|2010|Effect of Import Tariff Implementation Policy on Refined Sugar Products Competitiveness in Indo
+3177|2010|Effects of import tariff implementation policy of refined sugar products on its competitiveness
+3189|2024|Multi-Level Transfer Learning for Optimal Features Prediction
+3192|2021|FIGURE 51: Cereal import dependency ratio, top countries (2016–2018)
+3193|2020|FIGURE 51. Cereal import dependency ratio, top countries (2015–2017)
+3194|2025|VAT in the Western Balkans: Import dependency, informality, and fiscal management&amp;nbsp;
+3195|2022|MAP 26: Cereal import dependency (2017–2019 average)
+3196|2025|MAP 26: Cereal import dependency (2021–2023 average)
+3197|2023|MAP 26: Cereal import dependency (2018–2020 average)
+3198|2024|MAP 26: Cereal import dependency (2020–2022 average)
+3199|2022|FIGURE B3: Wheat import dependency, top net importers (2021)
+3200|2025|Counter Strategies for Solving Import Dependency and Developing India into a Self-Reliant Natio
+3201|2026|The Economic Inefficiency of GLP-1 Weight Loss Drugs: Recurring Consumption and Import Dependen
+3209|1969|Import Demand and Import Substitution in the Philippines, 1953-1963
+3220|2008|Prediction Distributions and Intervals
+3221|2025|Proper Scoring Rules - Locality of scoring rules
+3222|2026|corrscore: Matrix-Aware Proper Scoring Rules and Significance Testing for Correlation and Covar
+3238|2025|On the Stability of Global Forecasting Models
+3249|2026|tscv: Functions and Utilities for Tidy Time Series Forecasting and Time Series Cross-Validation
+3251|2026|Cross-Channel Adaptation Workflow for Pretrained Time-Series Forecasting Backbones
+3255|2022|Meta-Transfer Learning Using Wavelet Decomposition for Multi-Horizon Time Series Forecasting
+3257|2020|Forecasting with high frequency data: M4 competition and beyond
+3258|2020|Forecasting the M4 competition weekly data: Forecast Pro’s winning approach
+3259|2020|Correlation analysis of forecasting methods: The case of the M4 competition
+3297|2022|The Effect of Vietnam Price Policy to Indonesian Import Dependency Ratio for Rice
+3298|2018|Import Dependency of Exports as a Cause of Current Account Deficit
+3309|2004|The ICFTU and Trade Unions in the Developing Countries: Solidarity or Dependence?
+3313|2011|Data-Based Mechanistic Modelling &amp; Real-Time Adaptive Flood Forecasting
+3314||Real-Time Bidirectional Haptic Data Forecasting in Teleoperated Telemedicine Systems_supp1-3604
+3315|2026|Comparative Analysis of Forecasting Methods for 5G Using Real Time Mobile Network Data
+3316|2024|Reply on Real-time flood forecasting with Machine Learning using scarce rainfall-runoff data
+3323|1992|REVISIONS TO THE COMPONENTS OF THE TRADE BALANCE FOR THE UNITED KINGDOM<sup>*</sup>
+3326|2011|Forecasting with real-time macroeconomic data: The ragged-edge problem and revisions
+3339|2012|Mirror Trade Statistics: A Tool to Help Identify Customs Fraud
+3348|2023|Demand elasticity of import nuts in Korea
+3349|2021|The Income Elasticity of Import Demand: A Meta-Survey
+3350|2011|Measuring the Price Elasticity of Import Demand in the Destination Markets of Italian Export
+3351|2017|Estimating elasticity of import demand for gold in India
+3352|1962|The Elasticity of Import Demand for Raw Apparel Wool in the United States
+3353|2022|Export structure, import demand elasticity and export stability
+3354||Import elasticity of price (1970-2006)
+3355||Import Elasticity of Income (1970-2006)
+3356|2024|An empirical analysis on immigrants and price elasticity in the import demand function
+3357|2014|The Demand for Protectionism: Democracy, Import Elasticity, and Trade Barriers
+3358|2011|Measuring the price elasticity of import demand in the destination markets of italian exports
+3359|2017|Elasticity of import demand for wood pellets by the European Union
+3360|2026|Modelling Fiji’s disaggregated import demand: a commodity-stratified elasticity mapping approac
+3361|1991|Comparing Predictive Accuracy I: An Asymptotic Test
+3362|2024|pEPA: Tests of Equal Predictive Accuracy for Panels of Forecasts
+3364|1964|Predictive Accuracy Test
+3366|2017|Comparing Predictive Accuracy in Small Samples Using Fixed-Smoothing Asymptotics
+3367||Supplemental Information 6: Diebold-Mariano (DM) Test Results Comparing Forecast Accuracy Betwe
+3368|2019|Forecast Accuracy: A Summary
+3369|1999|19. Comparing Predictive Accuracy
+3373|2026|An improved feature-based forecast combination method using rolling origin evaluation
+3388|2020|Scoring Interval Forecasts: Equal-Tailed, Shortest, and Modal Interval
+3393|2021|Learning dynamical systems from data: A simple cross-validation perspective, part III: Irregula
+3413|2026|Heavy Tails and Predictive Ability Testing
+3427|2017|On the results and observations of the time series forecasting competition CIF 2016
+3433|2008|Rule induction for forecasting method selection: Meta-learning the characteristics of univariat
+3443|2012|On the use of cross-validation for time series predictor evaluation
+3445|2014|On the usefulness of cross-validation for directional forecast evaluation
+3449|2019|Criteria for classifying forecasting methods
+3470|2003|Who Secures the Security of Supply? European Perspectives on Security, Competition, and Liabili
+3496|2010|Trade does promote peace: New simultaneous estimates of the reciprocal effects of trade and con
+3499|2020|Nowcasting GDP using machine-learning algorithms: A real-time assessment
+3506|2014|Futility Analysis in the Cross-Validation of Machine Learning Models
+3512|1982|The accuracy of extrapolation (time series) methods: Results of a forecasting competition
+3517|1993|The M2-competition: A real-time judgmentally based forecasting study
+3536|2022|Forecast evaluation for data scientists: common pitfalls and best practices
+3545|2026|Effects of U.S. LNG Exports on Gas Prices and Emission Levels
+3546|1984|The World Trade Model: Revised Estimates (Modele de commerce mondial: estimations revisees) (El
+3547|2026|Intelligent Classification and Omission Detection of Relay Protection COMTRADE Records for Peri
+3548|2025|Eksplorasi Model Exponential Smoothing State Space (ETS) dan Moving Average Untuk Memprediksi E
+3549|2024|Techno-economic feasibility of utilizing electrical load forecasting in microgrid optimization 
+3550|2026|Enhancing forecast accuracy in the paper scrap sector: a comparative study of ensemble and mach
+3551|2023|Evaluating and Comparing the Performance of Statistical and Artificial Intelligence Algorithms 
+3584|2013|Contrasting probabilistic scoring rules
+3667|2013|Likelihood-ratio calibration using prior-weighted proper scoring rules
+3686|2017|Energy supply security in the EU: Benchmarking diversity and dependence of primary energy
+3687|2009|Measuring the security of external energy supply in the European Union
+3688|2005|Security of energy supply: Comparing scenarios from a European perspective
+3691|2018|Assessing oil supply security of South Asia
+3700|2025|Worldwide concentration of forest products for energy
+3707|2010|Oil demand by product
+3708|2017|Oil demand by product for non-OECD countries
+3709|2019|Oil demand by product for non-OECD countries (Edition 2018)
+3710|2017|Oil demand by product for non-OECD countries (Edition 2016)
+3711|2017|Oil demand by product for non-OECD countries (Edition 2015)
+3712|2021|Oil demand by product for non-OECD countries (Edition 2020)
+3725|2007|10 Energy Inter-dependence in East Asia: Russia’s Contribution to Energy/Gas Cooperation in Eas
+3732|2009|The Elusive Quest for Energy Independence
+3733|2013|Multi-perspective analysis of China's energy supply security
+3741|2005|Long-term security of energy supply and climate change
+3749|2010|Security of energy supply in Turkey: Challenges and solutions
+3750|2009|Assessment of Lithuanian power supply security depending on nuclear energy
+3753|2007|XIX. The EU’s policies of security of energy supply towards the Middle East and Caspian Region:
+3756|2010|Application of PSO (particle swarm optimization) and GA (genetic algorithm) techniques on deman
+3825|2022|The M5 competition: Conclusions
+3826|2018|The M4 Competition: Results, findings, conclusion and way forward
+3832|2020|Performance measurement in the M4 Competition: Possible future research
+3833|2020|The M4 competition: Conclusions
+3834|2020|Comments on M4 competition
+3835|2021|Exploring the representativeness of the M5 competition data
+3838|2020|GROEC: Combination method via Generalized Rolling Origin Evaluation
+3842|2020|The M4 competition: Bigger. Stronger. Better
+3849|2000|The M3-Competition: results, conclusions and implications
+3855|2021|Exploring the social influence of the Kaggle virtual community on the M5 competition
+3903|2013|scoring: Proper Scoring Rules
+3904|2025|Proper Scoring Rules - Scoring rules characterization
+3913|2020|M4 competition: What’s next?
+3914|2020|Foreword to the M4 Competition
+3956|2025|An aggregated metrics framework for multicriteria model validation using rolling origin evaluat
+4065|2004|The M3 competition: Statistical tests of the results
+4085|2008|Global warming
+4086|2018|Witness the fitness
+4087|2026|From Data to Decisions: An AI/IT Intelligence Architecture for Asset-Light International Tradin

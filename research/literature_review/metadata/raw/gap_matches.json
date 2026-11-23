@@ -1,0 +1,1913 @@
+{
+ "A_global_landlocked": {
+  "crossref_query": "landlocked oil petroleum fuel import forecasting",
+  "boolean": "landlocked AND (oil|petroleum|fuel|gasoline|diesel|refined product) AND (forecast|predict)",
+  "n_matches": 11,
+  "matches": [
+   {
+    "title": "Infrastructure, Finance, and Economic Transformation in Africa: Contributions to the Debate",
+    "year": "2021",
+    "venue": "Journal of African Development",
+    "doi": "10.5325/jafrideve.22.1.0001",
+    "src": "pool"
+   },
+   {
+    "title": "Caspian Sea: Offshore Exploration, Discoveries, And Strategy",
+    "year": "2002",
+    "venue": "Journal of Canadian Petroleum Technology",
+    "doi": "10.2118/02-08-04",
+    "src": "pool"
+   },
+   {
+    "title": "Energy; Alkahest of The Third Millennium",
+    "year": "2021",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "doi": "10.5281/zenodo.6113699",
+    "src": "pool"
+   },
+   {
+    "title": "Central Asian Trade Relations in the Post-Soviet Era",
+    "year": "2013",
+    "venue": "RePEc: Research Papers in Economics",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Application of artificial neural networks for prediction of solar radiation for Botswana",
+    "year": "2017",
+    "venue": "International Conference on Energy, Communication, Data Analytics and Soft Computing (ICECDS)",
+    "doi": "10.1109/icecds.2017.8390110",
+    "src": "pool"
+   },
+   {
+    "title": "Petroleum Source Beds: Environment of Deposition and Stratigraphy: ABSTRACT",
+    "year": "1981",
+    "venue": "AAPG Bulletin",
+    "doi": "10.1306/03b599d1-16d1-11d7-8645000102c1865d",
+    "src": "pool"
+   },
+   {
+    "title": "Impact of Climate Change on Thermal Power Plants. Case study of thermal power plants in France",
+    "year": "2013",
+    "venue": "Skemman",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Central Asia: Mapping Future Prospects",
+    "year": "2006",
+    "venue": "RePEc: Research Papers in Economics",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Application of Satellite Data for Monitoring the Condition of the Caspian Sea Water Areas in Port Zones",
+    "year": "2026",
+    "venue": "IEEE International Conference on Smart Information Systems and Technologies (SIST)",
+    "doi": "10.1109/sist61674.2026.11596445",
+    "src": "pool"
+   },
+   {
+    "title": "COVID-19 and the Maritime and Logistics Sector in Africa",
+    "year": "2020",
+    "venue": "World Bank, Washington, DC eBooks",
+    "doi": "10.1596/34080",
+    "src": "pool"
+   },
+   {
+    "title": "Cost analyses and predictions for a fuel ethanol plant in a rural and landlocked African country: Lang factor approach",
+    "year": "2009",
+    "venue": "International Journal of Production Economics",
+    "doi": "10.1016/j.ijpe.2009.02.006",
+    "src": "pool"
+   }
+  ]
+ },
+ "A2_cross_country_fuel_import_forecast": {
+  "crossref_query": "cross-country panel petroleum fuel import forecasting",
+  "boolean": "(petroleum|oil product|refined|gasoline|diesel|fuel) AND import AND (forecast|predict) AND (panel|cross-country|countries|global model|pooled)",
+  "n_matches": 41,
+  "matches": [
+   {
+    "title": "Impact of Oil Price Volatility on Oil Importing and Exporting Countries: A Case of Asian Countries",
+    "year": "2026",
+    "venue": "Journal of Business Insight and Innovation",
+    "doi": "10.63544/jbii.v5i8.152",
+    "src": "pool"
+   },
+   {
+    "title": "Brain Drain, Financial Development and Economic Growth in Pakistan: The Moderating Role of Political Stability",
+    "year": "2026",
+    "venue": "Journal of Business Insight and Innovation",
+    "doi": "10.63544/jbii.v5i4.155",
+    "src": "pool"
+   },
+   {
+    "title": "Data supporting \"Solar and Wind Expansion and Uneven Fossil-Generation Displacement Across 29 Emerging and Developing Economies\"",
+    "year": "2026",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "doi": "10.5281/zenodo.21522412",
+    "src": "pool"
+   },
+   {
+    "title": "Commentary: Going beyond frontiers in household energy transition in Poland—a perspective",
+    "year": "2026",
+    "venue": "Frontiers in Energy Research",
+    "doi": "10.3389/fenrg.2026.1783641",
+    "src": "pool"
+   },
+   {
+    "title": "Infrastructure, Finance, and Economic Transformation in Africa: Contributions to the Debate",
+    "year": "2021",
+    "venue": "Journal of African Development",
+    "doi": "10.5325/jafrideve.22.1.0001",
+    "src": "pool"
+   },
+   {
+    "title": "ECONOMIC RECESSIONS: TRIGGERS, TRANSMISSION MECHANISMS, AND STRATEGY FRAMEWORKS OF RESILIENT RECOVERY",
+    "year": "2026",
+    "venue": "Journal of Tianjin University Science and Technology",
+    "doi": "10.5281/zenodo.20372761",
+    "src": "pool"
+   },
+   {
+    "title": "Do Oil Price Shocks Affect Exchange Rates in Oil-importing Countries: A Case of the Zambian Economy using the SVAR Approach",
+    "year": "2022",
+    "venue": "International Journal For Multidisciplinary Research",
+    "doi": "10.36948/ijfmr.2022.v04i05.023",
+    "src": "pool"
+   },
+   {
+    "title": "Early Warning Systems for World Energy Crises",
+    "year": "2024",
+    "venue": "Sustainability",
+    "doi": "10.3390/su16062284",
+    "src": "pool"
+   },
+   {
+    "title": "Revisions In United Nations Energy Statistics Data: Can Changes To The Past Improve Our Understanding Of The Present?",
+    "year": "2021",
+    "venue": "NC Digital Online Collection of Knowledge and Scholarship (The University of North Carolina at Greensboro)",
+    "doi": "10.71889/5fylantbak.29865743",
+    "src": "pool"
+   },
+   {
+    "title": "Time Series Modelling and Forecasting of Oil and Gas Prices in South Africa: Assessing the Impact of the COVID‐19 Pandemic",
+    "year": "2026",
+    "venue": "International Journal of Energy Research",
+    "doi": "10.1155/er/8836152",
+    "src": "pool"
+   },
+   {
+    "title": "The effect of renewable energy consumption on price stability in developing countries",
+    "year": "2026",
+    "venue": "Discover Sustainability",
+    "doi": "10.1007/s43621-026-03698-5",
+    "src": "pool"
+   },
+   {
+    "title": "Strategic Decision-Making and SME Development under Monetary Policy Shocks: Evidence from Azerbaijan",
+    "year": "2025",
+    "venue": "EKONOMISTI",
+    "doi": "10.52340/ekonomisti.2025.03.10",
+    "src": "pool"
+   },
+   {
+    "title": "Renewables and the future of energy meteorology",
+    "year": "2013",
+    "venue": "Weather",
+    "doi": "10.1002/wea.2066",
+    "src": "pool"
+   },
+   {
+    "title": "European Public Health News",
+    "year": "2017",
+    "venue": "European Journal of Public Health",
+    "doi": "10.1093/eurpub/ckx190",
+    "src": "pool"
+   },
+   {
+    "title": "From the Editors",
+    "year": "2014",
+    "venue": "Risk Analysis",
+    "doi": "10.1111/risa.12257",
+    "src": "pool"
+   },
+   {
+    "title": "Caspian Sea: Offshore Exploration, Discoveries, And Strategy",
+    "year": "2002",
+    "venue": "Journal of Canadian Petroleum Technology",
+    "doi": "10.2118/02-08-04",
+    "src": "pool"
+   },
+   {
+    "title": "Inga Heiland discussion of: trade sanctions on Russia",
+    "year": "2024",
+    "venue": "Economic Policy",
+    "doi": "10.1093/epolic/eiae015",
+    "src": "pool"
+   },
+   {
+    "title": "Energy; Alkahest of The Third Millennium",
+    "year": "2021",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "doi": "10.5281/zenodo.6113699",
+    "src": "pool"
+   },
+   {
+    "title": "Cargo Revenue Prediction in Nigeria Using Machine Learning: An Ensemble Regression Approach",
+    "year": "2026",
+    "venue": "Iconic Research and Engineering Journals",
+    "doi": "10.64388/irev9i9-1715723",
+    "src": "pool"
+   },
+   {
+    "title": "Essays on the volatility and spillover effects of oil and food price shocks",
+    "year": "2012",
+    "venue": "Lincoln University Research Archive (Lincoln University)",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Study of Best Practices of Green Energy Development in the EU Countries Based on Correlation and Bagatofactor Autoregressive Forecasting",
+    "year": "2023",
+    "venue": "Economics",
+    "doi": "10.2478/eoik-2023-0029",
+    "src": "pool"
+   },
+   {
+    "title": "Threats and prospects for the development of operators in the market of light petroleum products of Ukraine",
+    "year": "2021",
+    "venue": "Management and Entrepreneurship in Ukraine the stages of formation and problems of development",
+    "doi": "10.23939/smeu2021.02.193",
+    "src": "pool"
+   },
+   {
+    "title": "Peak Oil and the Evolving Strategies of Oil Importing and Exporting Countries",
+    "year": "2007",
+    "venue": "OECD/ITF Joint Transport Research Centre discussion papers",
+    "doi": "10.1787/234555604622",
+    "src": "pool"
+   },
+   {
+    "title": "Pendekatan Early Warning Signals untuk Krisis Mata Uang Indonesia: Periode 1996 -2009",
+    "year": "2014",
+    "venue": "Universitas Kristen Satya Wacana Institutional Repository (Universitas Kristen Satya Wacana)",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Panel Session How the Power Industry is Adapting to Climate Change",
+    "year": "2008",
+    "venue": "",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Efficiency and market analysis of bioenergy industry in EU28 region",
+    "year": "2017",
+    "venue": "Universiti Putra Malaysia Institutional Repository (Universiti Putra Malaysia)",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "The impact of grain seasonality in dry bulk freight rates",
+    "year": "2025",
+    "venue": "Athens University of Economics & Business",
+    "doi": "10.26219/heal.aueb.9656",
+    "src": "pool"
+   },
+   {
+    "title": "Dispatches",
+    "year": "2011",
+    "venue": "Frontiers in Ecology and the Environment",
+    "doi": "10.1890/1540-9295-9.8.424",
+    "src": "pool"
+   },
+   {
+    "title": "Hydrogen and Japan’s Energy Transition: A Blueprint for Carbon Neutrality",
+    "year": "2025",
+    "venue": "Hydrogen",
+    "doi": "10.3390/hydrogen6030061",
+    "src": "pool"
+   },
+   {
+    "title": "This Study Applies Artificial Intelligence To Optimize Solar Energy Systems In Pakistan, Improving Efficiency, Forecasting Accuracy, And Sustainable Power Generation.",
+    "year": "2026",
+    "venue": "Annual Methodological Archive Research Review",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Application of Artificial Intelligence Techniques to Enhance the Solar Power Generation: Case Study in Sri Lanka",
+    "year": "2024",
+    "venue": "IEEE Industrial Electronics and Applications Conference (IEACon)",
+    "doi": "10.1109/ieacon61321.2024.10797353",
+    "src": "pool"
+   },
+   {
+    "title": "Grain Transportation Report, June 29, 2023",
+    "year": "2023",
+    "venue": "",
+    "doi": "10.9752/ts056.06-29-2023",
+    "src": "pool"
+   },
+   {
+    "title": "Forecasting the Increase of Petroleum Consumption in China based on the ARIMA Model",
+    "year": "2007",
+    "venue": "资源科学",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "The Demand for Oil Products in Developing Countries",
+    "year": "1997",
+    "venue": "World Bank discussion papers",
+    "doi": "10.1596/0-8213-3891-9",
+    "src": "pool"
+   },
+   {
+    "title": "Perspective on Imports Policies",
+    "year": "1971",
+    "venue": "Proceedings of SPE Symposium on Petroleum Economics and Evaluation",
+    "doi": "10.2118/3316-ms",
+    "src": "pool"
+   },
+   {
+    "title": "PATTERN PREDICTION OF CRUDE OIL USING REGRESSION MODERATED WITH MARKOV SWITCHING MODEL",
+    "year": "2019",
+    "venue": "Malaysian Journal of Computer Science",
+    "doi": "10.22452/mjcs.vol32no2.5",
+    "src": "pool"
+   },
+   {
+    "title": "ASEAN Oil Trading - A study on clean petroleum product flows in Southeast Asia",
+    "year": "2007",
+    "venue": "Gothenburg University Publications Electronic Archive (Gothenburg University)",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Forecasting Models for Daily Natural Gas Consumption Considering Periodic Variations and Demand Segregation",
+    "year": "2020",
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2003.13385",
+    "src": "pool"
+   },
+   {
+    "title": "Forecasting Energy Efficiency in Manufacturing: Impact of Technological Progress in Productive Service and Commodity Trades",
+    "year": "2025",
+    "venue": "Journal of Forecasting",
+    "doi": "10.1002/for.3289",
+    "src": "pool"
+   },
+   {
+    "title": "Achieving a Net Zero Energy Retrofit - In a humid, temperate climate: Lessons from the University of Hawai'i at Manoa",
+    "year": "2013",
+    "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+    "doi": "10.2172/1170598",
+    "src": "pool"
+   },
+   {
+    "title": "Optimizing and Implementing a Renewable Micro-Grid for a Remote Alaskan Village",
+    "year": "2018",
+    "venue": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "doi": "",
+    "src": "pool"
+   }
+  ]
+ },
+ "B_dl_vs_gbm": {
+  "crossref_query": "gradient boosting LightGBM XGBoost LSTM deep learning trade import oil forecasting",
+  "boolean": "(lightgbm|xgboost|gradient boost|catboost) AND (lstm|gru|n-beats|deep learning|neural) AND (import|trade|oil|petroleum|fuel) AND (forecast|predict)",
+  "n_matches": 108,
+  "matches": [
+   {
+    "title": "Harnessing AI for smart demand forecasting in renewable-powered grids",
+    "year": "2025",
+    "venue": "International Journal of Scholarly Research in Engineering and Technology",
+    "doi": "10.56781/ijsret..2025.6.1.0029",
+    "src": "pool"
+   },
+   {
+    "title": "GDP Growth Forecasting Using Machine Learning: Global Evidence with a Kazakhstan Case Study",
+    "year": "2026",
+    "venue": "International journal of intelligent engineering and systems",
+    "doi": "10.22266/ijies2026.0630.33",
+    "src": "pool"
+   },
+   {
+    "title": "Time Series Analysis for Commodity Price Forecasting",
+    "year": "2024",
+    "venue": "International Journal of Commerce Finance and Digital Economy",
+    "doi": "10.67228/3071642x/ijcfde-2024pii7k1d",
+    "src": "pool"
+   },
+   {
+    "title": "BENCHMARKING STATISTICAL, MACHINE LEARNING, DEEP LEARNING, AND HYBRID FORECASTING MODELS FOR GLOBAL RENEWABLE ENERGY CONSUMPTION: A WALK-FORWARD CROSS-VALIDATION STUDY WITH STRUCTURAL BREAK ANALYSIS",
+    "year": "2026",
+    "venue": "International Journal of Advanced Research",
+    "doi": "10.21474/ijar01/23124",
+    "src": "pool"
+   },
+   {
+    "title": "Integrating Sentiment Analysis & Historical Data for Predicting Crude Oil Prices",
+    "year": "2025",
+    "venue": "International Conference on Advances in Technology and Computing (ICATC)",
+    "doi": "10.1109/icatc68823.2025.11407766",
+    "src": "pool"
+   },
+   {
+    "title": "Political Risk Forecasting Using lightGBM with CEEMDAN‑Based Time Series Analysis",
+    "year": "2025",
+    "venue": "Digital Technologies Research and Applications",
+    "doi": "10.54963/dtra.v4i3.1812",
+    "src": "pool"
+   },
+   {
+    "title": "Bangladesh National Power Generation, System Demand, and Fuel-Mix Master Database (2024-2026)",
+    "year": "2026",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "doi": "10.5281/zenodo.22543789",
+    "src": "pool"
+   },
+   {
+    "title": "Short-term Petroleum Price Prediction Based on LSTM and LightGBM",
+    "year": "2023",
+    "venue": "Highlights in Business Economics and Management",
+    "doi": "10.54097/hbem.v16i.10546",
+    "src": "pool"
+   },
+   {
+    "title": "Global Renewable Energy Consumption Forecasting: A Comparative Benchmarking Study of Statistical, Machine Learning, and Deep Learning Models",
+    "year": "2026",
+    "venue": "Computer Engineering and Intelligent Systems",
+    "doi": "10.7176/ceis/17-1-05",
+    "src": "pool"
+   },
+   {
+    "title": "The Short-Term Wind Power Forecasting by Utilizing Machine Learning and Hybrid Deep Learning Frameworks",
+    "year": "2025",
+    "venue": "Problems of the Regional Energetics",
+    "doi": "10.52254/1857-0070.2025.1-65.01",
+    "src": "pool"
+   },
+   {
+    "title": "Parallel boosting neural network with mutual information for day-ahead solar irradiance forecasting",
+    "year": "2025",
+    "venue": "Scientific Reports",
+    "doi": "10.1038/s41598-025-95891-1",
+    "src": "pool"
+   },
+   {
+    "title": "Out-of-Sample Hydrocarbon Production Forecasting: Time Series Machine Learning using Productivity Index-Driven Features and Inductive Conformal Prediction",
+    "year": "2025",
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2508.14078",
+    "src": "pool"
+   },
+   {
+    "title": "Hybrid AI–Econometric Model for Rice Yield Forecasting Under Climate Change in Malaysia",
+    "year": "2025",
+    "venue": "IEEE International Conference on System Engineering and Technology (ICSET)",
+    "doi": "10.1109/icset65917.2025.11283757",
+    "src": "pool"
+   },
+   {
+    "title": "CASH FLOW OPTIMIZATION ALGORITHM FOR AN INVESTMENT AND CONSTRUCTION PROJECT UNDER UNCERTAINTY BASED ON MACHINE LEARNING",
+    "year": "2026",
+    "venue": "Bulletin of the Volga State University of Service Series Economy",
+    "doi": "10.65891/2949-1983-2026-22-2-22-28",
+    "src": "pool"
+   },
+   {
+    "title": "An Artificial Intelligence-Driven Predictive Framework for Residential Energy Demand Forecasting in Smart Urban Environments",
+    "year": "2026",
+    "venue": "Cureus Journal of Computer Science.",
+    "doi": "10.7759/s44389-026-00358-7",
+    "src": "pool"
+   },
+   {
+    "title": "Optimisation and Forecasting in Islanded Microgrids: Operations Research and Machine Learning Approaches",
+    "year": "2026",
+    "venue": "Durham e-Theses (Durham University)",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "A study on forecasting system marginal price using a hybrid model based on UMAP dimensionality reduction",
+    "year": "2025",
+    "venue": "Korean Journal of Applied Statistics",
+    "doi": "10.5351/kjas.2025.38.5.623",
+    "src": "pool"
+   },
+   {
+    "title": "Day-Ahead Energy Price Forecasting with Machine Learning: Role of Endogenous Predictors",
+    "year": "2025",
+    "venue": "Forecasting",
+    "doi": "10.3390/forecast7020018",
+    "src": "pool"
+   },
+   {
+    "title": "Forecasting Turkish Exports: A Comparative Study of Statistical, Machine Learning, and Deep Learning Methods",
+    "year": "2026",
+    "venue": "InTraders International Trade Academic Journal",
+    "doi": "10.55065/intraders.1905139",
+    "src": "pool"
+   },
+   {
+    "title": "Hybrid deep learning based load forecasting and AI-driven energy management for grid-connected multi-microgrids",
+    "year": "2025",
+    "venue": "Computers & Electrical Engineering",
+    "doi": "10.1016/j.compeleceng.2025.110915",
+    "src": "pool"
+   },
+   {
+    "title": "A Decision Focused Learning Framework for Operation of Energy Communities with Electric Vehicles under Uncertainty *",
+    "year": "2026",
+    "venue": "International Conference on Smart Energy Systems and Technologies (SEST)",
+    "doi": "10.1109/sest67798.2026.11712451",
+    "src": "pool"
+   },
+   {
+    "title": "Editorial: Modeling and application of computational intelligence in sustainable energy systems",
+    "year": "2025",
+    "venue": "Frontiers in Energy Research",
+    "doi": "10.3389/fenrg.2025.1599372",
+    "src": "pool"
+   },
+   {
+    "title": "Analysis of Factors Affecting Electricity Prices and Electricity Price Forecast for Türkiye",
+    "year": "2025",
+    "venue": "International Conference on Computer Science and Engineering (UBMK)",
+    "doi": "10.1109/ubmk67458.2025.11206868",
+    "src": "pool"
+   },
+   {
+    "title": "Application of Deep Learning Initiatives for CO2 Emissions Forecasting",
+    "year": "2024",
+    "venue": "Climate change reports.",
+    "doi": "10.61356/j.ccr.2024.1209",
+    "src": "pool"
+   },
+   {
+    "title": "Forecasting global agricultural trade imbalances using a hybrid deep learning and gradient boosting framework",
+    "year": "2026",
+    "venue": "Discover Computing",
+    "doi": "10.1007/s10791-026-10367-8",
+    "src": "pool"
+   },
+   {
+    "title": "Solar and Wind Power Forecasting: A Comparative Review of LSTM, Random Forest, and XGBoost Models",
+    "year": "2025",
+    "venue": "arXiv (Cornell University)",
+    "doi": "10.48550/arxiv.2509.24059",
+    "src": "pool"
+   },
+   {
+    "title": "Study on a multi-model framework for refined oil product sales forecasting",
+    "year": "2026",
+    "venue": "IEEE International Conference on Electronics, Energy Systems and Power Engineering (EESPE)",
+    "doi": "10.1109/eespe68405.2026.11649074",
+    "src": "pool"
+   },
+   {
+    "title": "Predicting Thermoelectric Power Plants Diesel/Heavy Fuel Oil Engine Fuel Consumption Using Univariate Forecasting and XGBoost Machine Learning Models",
+    "year": "2023",
+    "venue": "Energies",
+    "doi": "10.3390/en16072942",
+    "src": "pool"
+   },
+   {
+    "title": "Performance Analysis of Machine Learning Models in Solar Energy Forecasting",
+    "year": "2023",
+    "venue": "International Journal of Machine Learning",
+    "doi": "10.18178/ijml.2023.13.3.1140",
+    "src": "pool"
+   },
+   {
+    "title": "Short-Term Electricity Load Forecasting with Machine Learning",
+    "year": "2021",
+    "venue": "Information",
+    "doi": "10.3390/info12020050",
+    "src": "pool"
+   },
+   {
+    "title": "International Trade Demand Forecasting Model Based on Transformer-XGBoost-LightGBM",
+    "year": "2025",
+    "venue": "Artificial Intelligence and Applications",
+    "doi": "10.47852/bonviewaia52027024",
+    "src": "pool"
+   },
+   {
+    "title": "Wheat Yield Prediction Using a Hybrid CNN-LSTM Deep Learning Framework with Tabular Agricultural Data",
+    "year": "2026",
+    "venue": "Physical Education Health and Social Sciences",
+    "doi": "10.63163/jpehss.v4i2.1452",
+    "src": "pool"
+   },
+   {
+    "title": "Integrating Econometric and Machine Learning Approaches to Assess the Global Economic Impact of U.S. Tariff Policies",
+    "year": "2025",
+    "venue": "International Journal of Academic and Industrial Research Innovations(IJAIRI)",
+    "doi": "10.62311/nesx/rp2825",
+    "src": "pool"
+   },
+   {
+    "title": "Data-Driven Pharmaceutical Sales Analysis and Prediction in the Healthcare Industry",
+    "year": "2026",
+    "venue": "International Journal of Emerging Research in Engineering and Technology",
+    "doi": "10.63282/3050-922x.ijeret-v7i2p120",
+    "src": "pool"
+   },
+   {
+    "title": "A Comprehensive Retail Market Price Dataset for Wheat Flour and Macroeconomic Indicators in Bangladesh (2007–2025)",
+    "year": "2026",
+    "venue": "Mendeley Data",
+    "doi": "10.17632/5m4d33mxrs",
+    "src": "pool"
+   },
+   {
+    "title": "A Consistency-Aware Multimodal Sensing Framework for Short-Term Cross-Border Prediction Under Dynamic Trade",
+    "year": "2026",
+    "venue": "Sensors",
+    "doi": "10.3390/s26185806",
+    "src": "pool"
+   },
+   {
+    "title": "Energy Generation Forecasting Based on Seasonality Using Deep Learning",
+    "year": "2022",
+    "venue": "AIJR Proceedings",
+    "doi": "10.21467/proceedings.141.5",
+    "src": "pool"
+   },
+   {
+    "title": "Hybrid LSTM-XGBoost model for energy management optimization of hydrogen-integrated renewable energy system",
+    "year": "2026",
+    "venue": "Unconventional Resources",
+    "doi": "10.1016/j.uncres.2026.100389",
+    "src": "pool"
+   },
+   {
+    "title": "Predictive Analysis of Traditional, Deep Learning and Ensemble Learning Approach for short-term Wind Speed Forecasting",
+    "year": "2020",
+    "venue": "IEEE International Conference on Computing, Power and Communication Technologies (IC2PCT)",
+    "doi": "10.1109/gucon48875.2020.9231081",
+    "src": "pool"
+   },
+   {
+    "title": "Fuel Consumption Prediction and Optimization Model for Pure Car/Truck Transport Ships",
+    "year": "2023",
+    "venue": "Journal of Marine Science and Engineering",
+    "doi": "10.3390/jmse11061231",
+    "src": "pool"
+   },
+   {
+    "title": "AI-Based Energy Consumption Forecasting and Carbon Emission Optimization for Beverage Manufacturing Facilities",
+    "year": "2026",
+    "venue": "International Journal of Research and Applied Innovations",
+    "doi": "10.15662/ijrai.2026.0902018",
+    "src": "pool"
+   },
+   {
+    "title": "Forecasting of solar radiation for a cleaner environment using robust machine learning techniques",
+    "year": "2022",
+    "venue": "Environmental Science and Pollution Research",
+    "doi": "10.1007/s11356-022-24321-w",
+    "src": "pool"
+   },
+   {
+    "title": "Electrical Power Generation Forecasting from Renewable Energy Systems Using Artificial Intelligence Techniques",
+    "year": "2023",
+    "venue": "Energies",
+    "doi": "10.3390/en16186414",
+    "src": "pool"
+   },
+   {
+    "title": "Hybrid ML/DL Approach to Optimize Mid-Term Electrical Load Forecasting for Smart Buildings",
+    "year": "2025",
+    "venue": "Applied Sciences",
+    "doi": "10.3390/app151810066",
+    "src": "pool"
+   },
+   {
+    "title": "Mutual Information-Driven Graph Neural Network for Distributed Photovoltaic Power Forecasting",
+    "year": "2025",
+    "venue": "Conference proceedings/Conference proceedings - IEEE International Conference on Systems, Man, and Cybernetics",
+    "doi": "10.1109/smc58881.2025.11343682",
+    "src": "pool"
+   },
+   {
+    "title": "AI–Big Data Analytics Platform for Energy Forecasting in Modern Power Systems",
+    "year": "2025",
+    "venue": "Big Data and Cognitive Computing",
+    "doi": "10.3390/bdcc9110272",
+    "src": "pool"
+   },
+   {
+    "title": "A Hybrid Tree-Based Ensemble Learning Model for Day-Ahead Peak Load Forecasting",
+    "year": "2022",
+    "venue": "Conference on Human System Interactions",
+    "doi": "10.1109/hsi55341.2022.9869440",
+    "src": "pool"
+   },
+   {
+    "title": "Predictive Models for Renewable Energy Generation and Demand in Smart Cities: A Spatio-Temporal Framework",
+    "year": "2025",
+    "venue": "Energies",
+    "doi": "10.3390/en19010087",
+    "src": "pool"
+   },
+   {
+    "title": "Hybrid AI-based Forecasting and Optimization of Power Sector Carbon Emissions: Case of Tunisia",
+    "year": "2026",
+    "venue": "Global Power, Energy and Communication Conference",
+    "doi": "10.1109/gpecom70462.2026.11578652",
+    "src": "pool"
+   },
+   {
+    "title": "Multivariable sales prediction for filling stations via GA improved BiLSTM",
+    "year": "2022",
+    "venue": "Petroleum Science",
+    "doi": "10.1016/j.petsci.2022.05.005",
+    "src": "pool"
+   },
+   {
+    "title": "On Electric Vehicle Energy Demand Forecasting and the Effect of Federated Learning",
+    "year": "2026",
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2602.20782",
+    "src": "pool"
+   },
+   {
+    "title": "Load forecasting for energy communities: a novel LSTM-XGBoost hybrid model based on smart meter data",
+    "year": "2022",
+    "venue": "Energy Informatics",
+    "doi": "10.1186/s42162-022-00212-9",
+    "src": "pool"
+   },
+   {
+    "title": "Performance Comparison of Simple Regression, Random Forest and XGBoost Algorithms for Forecasting Electricity Demand",
+    "year": "2022",
+    "venue": "2022 3rd International Informatics and Software Engineering Conference (IISEC)",
+    "doi": "10.1109/iisec56263.2022.9998213",
+    "src": "pool"
+   },
+   {
+    "title": "Price Forecasting of Crude Oil Using Hybrid Machine Learning Models",
+    "year": "2025",
+    "venue": "Journal of risk and financial management",
+    "doi": "10.3390/jrfm18070346",
+    "src": "pool"
+   },
+   {
+    "title": "Machine Learning and Deep Learning Models Applied to Photovoltaic Production Forecasting",
+    "year": "2022",
+    "venue": "Applied Sciences",
+    "doi": "10.3390/app12178769",
+    "src": "pool"
+   },
+   {
+    "title": "Forecasting of Electrical Energy Consumption Using Hybrid Models of GRU, CNN, LSTM, And ML Regressors",
+    "year": "2025",
+    "venue": "Journal of Wireless Mobile Networks Ubiquitous Computing and Dependable Applications",
+    "doi": "10.58346/jowua.2025.i1.033",
+    "src": "pool"
+   },
+   {
+    "title": "Prosumers Energy Consumption Forecasting: Leveraging LSTM and XGBOOST with Spatial and Weather Features",
+    "year": "2023",
+    "venue": "IEEE PES Innovative Smart Grid Technologies Europe",
+    "doi": "10.1109/isgteurope56780.2023.10408083",
+    "src": "pool"
+   },
+   {
+    "title": "Deep Learning vs. Gradient Boosting: Optimizing Transport Energy Forecasts in Thailand Through LSTM and XGBoost",
+    "year": "2025",
+    "venue": "Energies",
+    "doi": "10.3390/en18071685",
+    "src": "pool"
+   },
+   {
+    "title": "IISE PG&E Energy Analytics Challenge 2025: Hourly-Binned Regression Models Beat Transformers in Load Forecasting",
+    "year": "2025",
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2505.11390",
+    "src": "pool"
+   },
+   {
+    "title": "Exploring and Analyzing Wildland Fire Data Via Machine Learning Techniques",
+    "year": "2023",
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2311.05128",
+    "src": "pool"
+   },
+   {
+    "title": "Comparison and Explanation of Forecasting Algorithms for Energy Time Series",
+    "year": "2021",
+    "venue": "Mathematics",
+    "doi": "10.3390/math9212794",
+    "src": "pool"
+   },
+   {
+    "title": "Forecasting and Optimization in Low‐Carbon Microgrids: A Hybrid LLM–Based Approach With Synthetic Data and Prophet–XGBoost Baselines",
+    "year": "2026",
+    "venue": "International Transactions on Electrical Energy Systems",
+    "doi": "10.1155/etep/6699358",
+    "src": "pool"
+   },
+   {
+    "title": "An amalgamation of YOLOv4 and XGBoost for next-gen smart traffic management system",
+    "year": "2021",
+    "venue": "PeerJ Computer Science",
+    "doi": "10.7717/peerj-cs.586",
+    "src": "pool"
+   },
+   {
+    "title": "Textile Intelligence Stack: A Multi-Model AI Framework for Trend Prediction, Demand Forecasting and Fabric Recommendation in the Garment Manufacturing Industry",
+    "year": "2026",
+    "venue": "International Journal of Creative and Open Research in Engineering and Management",
+    "doi": "10.55041/ijcope.v2i4.498",
+    "src": "pool"
+   },
+   {
+    "title": "Advanced time series forecasting for vehicle maintenance scheduling",
+    "year": "2025",
+    "venue": "CRC Press eBooks",
+    "doi": "10.1201/9781003685876-47",
+    "src": "pool"
+   },
+   {
+    "title": "Leveraging Statistical Analysis and Interactive Dashboards for Diesel Consumption Monitoring in United Nations Peacekeeping Operations",
+    "year": "2026",
+    "venue": "Repositori UJI (Universitat Jaume I)",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Analyzing the Impact of Renewable Generation on the Locational Marginal Price (LMP) Forecast for California ISO",
+    "year": "2019",
+    "venue": "Arizona State University Library Digital Repository (Arizona State University)",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Retracted: An Economic Forecasting Method Based on the LightGBM‐Optimized LSTM and Time‐Series Model",
+    "year": "2023",
+    "venue": "Computational Intelligence and Neuroscience",
+    "doi": "10.1155/2021/8128879",
+    "src": "pool"
+   },
+   {
+    "title": "A Machine Learning–Augmented Gravity Model for Predicting Bilateral Trade Flows",
+    "year": "2025",
+    "venue": "Information Systems and Economics",
+    "doi": "10.23977/infse.2025.060305",
+    "src": "pool"
+   },
+   {
+    "title": "A Survey of Machine Learning Methods for Time Series Prediction",
+    "year": "2025",
+    "venue": "Applied Sciences",
+    "doi": "10.3390/app15115957",
+    "src": "pool"
+   },
+   {
+    "title": "Forecasting Agricultural Trade Based on TCN-LightGBM Models: A Data-Driven Decision",
+    "year": "2025",
+    "venue": "Research on World Agricultural Economy",
+    "doi": "10.36956/rwae.v6i1.1429",
+    "src": "pool"
+   },
+   {
+    "title": "WHICH MODEL FAMILIES PAY? ECONOMETRIC, GRADIENT BOOSTING AND RECURRENT NEURAL NETWORK VOLATILITY FORECASTS IN ACTIVE TRADING STRATEGIES ON THE RUSSIAN STOCK MARKET",
+    "year": "2026",
+    "venue": "International Journal of Computer Information Systems and Industrial Management Applications",
+    "doi": "10.70917/ijcisim-2026-4759",
+    "src": "pool"
+   },
+   {
+    "title": "Short- to Long-Term Realized Volatility Forecasting using Extreme Gradient Boosting",
+    "year": "2022",
+    "venue": "",
+    "doi": "10.2139/ssrn.4267541",
+    "src": "pool"
+   },
+   {
+    "title": "How Good Are Time-Series Foundation Models for Pedestrian Crowd Count Forecasting? A Cross-Dataset Comparative Study",
+    "year": "2026",
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2609.16415",
+    "src": "pool"
+   },
+   {
+    "title": "Forecasting South Africa’s Consumer Price Index Using Seasonal ARIMA, LSTM, Support Vector Regression, and Gradient Boosting Models",
+    "year": "2026",
+    "venue": "International Journal of Financial Studies",
+    "doi": "10.3390/ijfs14100278",
+    "src": "pool"
+   },
+   {
+    "title": "FORECASTING THE EURO EXCHANGE RATE USING DEEP LEARNING ALGORITHMS AND MACHINE LEARNING ALGORITHMS",
+    "year": "2024",
+    "venue": "İstanbul Ticaret Üniversitesi Sosyal Bilimler Dergisi",
+    "doi": "10.46928/iticusbe.1379268",
+    "src": "pool"
+   },
+   {
+    "title": "PERFORMANCE COMPARISON OF MACHINE AND DEEP LEARNING METHODS IN USD/TRY EXCHANGE RATE FORECASTING",
+    "year": "2024",
+    "venue": "Akademik Yaklaşımlar Dergisi",
+    "doi": "10.54688/ayd.1519303",
+    "src": "pool"
+   },
+   {
+    "title": "Exchange Rate Volatility Forecasting Using Hybrid Models",
+    "year": "2025",
+    "venue": "International Conference on Emerging Technologies",
+    "doi": "10.1109/icet66147.2025.11321402",
+    "src": "pool"
+   },
+   {
+    "title": "Estimation and Machine Learning Prediction of Imports of Goods in European Countries in the Period 2010-2019",
+    "year": "2021",
+    "venue": "Munich Personal RePEc Archive (Ludwig Maximilian University of Munich)",
+    "doi": "10.13140/rg.2.2.24739.37920",
+    "src": "pool"
+   },
+   {
+    "title": "Research on Tobacco Sales Forecasting Based on Integrated Learning Models",
+    "year": "2025",
+    "venue": "IEEE International Conference on Sensors, Electronics and Computer Engineering (ICSECE)",
+    "doi": "10.1109/icsece65727.2025.11257047",
+    "src": "pool"
+   },
+   {
+    "title": "Comparing Statistical and Machine Learning Models for Forecasting Milk Consumption in Ireland",
+    "year": "2025",
+    "venue": "TRAP@NCI (National College of Ireland)",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Multi-model forecasting framework for agricultural nutrient dynamics in India: a comparative analysis of ML and hybrid approaches for NPK consumption",
+    "year": "2025",
+    "venue": "Cogent Food & Agriculture",
+    "doi": "10.1080/23311932.2025.2576632",
+    "src": "pool"
+   },
+   {
+    "title": "Data-driven analysis and machine learning-based forecasting for big onion production in Sri Lanka",
+    "year": "2025",
+    "venue": "Applied Data Science & Artificial Intelligence Symposium",
+    "doi": "10.31705/adscai.2025.18",
+    "src": "pool"
+   },
+   {
+    "title": "Cloud-Based Machine Learning with Sensor Data for Soil Moisture Forecasting and Intelligent Irrigation",
+    "year": "2026",
+    "venue": "Asia Conference on Machine Learning and Computing (ACMLC)",
+    "doi": "10.1109/acmlc70381.2026.11700491",
+    "src": "pool"
+   },
+   {
+    "title": "Analyzing the Impact of Multiple Stock Indices in Prediction of US Dollar Index",
+    "year": "2020",
+    "venue": "NORMA",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Demand Modeling and Logistics Capacity Planning in Wine Distribution Considering Seasonal Fluctuations",
+    "year": "2025",
+    "venue": "Business Inform",
+    "doi": "10.32983/2222-4459-2025-8-233-241",
+    "src": "pool"
+   },
+   {
+    "title": "How Macroeconomic Indicators Effect Consumer Spending Trends : ML Based Approach",
+    "year": "2025",
+    "venue": "World Skills Conference on Universal Data Analytics and Sciences (WorldSUAS)",
+    "doi": "10.1109/worldsuas66815.2025.11199161",
+    "src": "pool"
+   },
+   {
+    "title": "Global trade network prediction based on spatiotemporal graph neural network and gradient boosting model",
+    "year": "2026",
+    "venue": "Scientific Reports",
+    "doi": "10.1038/s41598-026-72209-3",
+    "src": "pool"
+   },
+   {
+    "title": "Forecasting WTI & Brent Crude Oil Price Using LSTM, Prophet and XGBoost – Comparative Analysis",
+    "year": "2024",
+    "venue": "Communications in computer and information science",
+    "doi": "10.1007/978-981-97-5934-7_15",
+    "src": "pool"
+   },
+   {
+    "title": "Intermittent demand forecasting for spare parts using classification/regression models of machine learning and deep learning",
+    "year": "2026",
+    "venue": "Ain Shams Engineering Journal",
+    "doi": "10.1016/j.asej.2026.104445",
+    "src": "pool"
+   },
+   {
+    "title": "An Explainable Ensemble Deep Learning Framework for Sales Productivity Forecasting in Palm Oil Supply Chains",
+    "year": "2026",
+    "venue": "International Journal of Computer Information Systems and Industrial Management Applications",
+    "doi": "10.70917/ijcisim-2026-3453",
+    "src": "pool"
+   },
+   {
+    "title": "AI Meets Energy: Forecasting The Future Of Country-Level Energy Consumption",
+    "year": "2025",
+    "venue": "International Journal of Environmental Sciences",
+    "doi": "10.64252/82sbb174",
+    "src": "pool"
+   },
+   {
+    "title": "A New Method of Using Production Data to Predict the Effect of Oil Well Liquid Lifting Based on Deep Learning",
+    "year": "2024",
+    "venue": "Journal of Physics Conference Series",
+    "doi": "10.1088/1742-6596/2834/1/012012",
+    "src": "pool"
+   },
+   {
+    "title": "Sustainable forecasting of crude oil prices using explainable AutoML and ESG-driven market signals",
+    "year": "2026",
+    "venue": "Management of Environmental Quality An International Journal",
+    "doi": "10.1108/meq-08-2025-0541",
+    "src": "pool"
+   },
+   {
+    "title": "Store Sales – Time Series Forecasting",
+    "year": "2026",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "doi": "10.5281/zenodo.23595536",
+    "src": "pool"
+   },
+   {
+    "title": "Hybrid XGBoost-LSTM model for oil well production forecasting using the volve field dataset",
+    "year": "2026",
+    "venue": "Results in Engineering",
+    "doi": "10.1016/j.rineng.2026.110128",
+    "src": "pool"
+   },
+   {
+    "title": "Ensemble Machine Learning of Gradient Boosting (XGBoost, LightGBM, CatBoost) and Attention-Based CNN-LSTM for Harmful Algal Blooms Forecasting",
+    "year": 2023,
+    "venue": "Toxins",
+    "doi": "10.3390/toxins15100608",
+    "src": "crossref"
+   },
+   {
+    "title": "Crude Oil Shocks and Saudi Stock Returns: An Integrated Granger–LSTM–XGBoost Analysis",
+    "year": 2026,
+    "venue": "Forecasting",
+    "doi": "10.3390/forecast8020019",
+    "src": "crossref"
+   },
+   {
+    "title": "Daily Streamflow Forecasting in Mountainous Catchment Using XGBoost, LightGBM and CatBoost",
+    "year": 2022,
+    "venue": "Hydrology",
+    "doi": "10.3390/hydrology9120226",
+    "src": "crossref"
+   },
+   {
+    "title": "A prediction of construction material price index (CMI) by using extreme gradient boosting (XGBoost)",
+    "year": null,
+    "venue": "",
+    "doi": "10.58837/chula.the.2022.1488",
+    "src": "crossref"
+   },
+   {
+    "title": "Comparative Analysis of LSTM and XGBoost for Crude Oil Price Forecasting Under Market Volatility",
+    "year": 2024,
+    "venue": "Bulletin of Informatics and Data Science",
+    "doi": "10.61944/bids.v3i2.98",
+    "src": "crossref"
+   },
+   {
+    "title": "Short-Term Load Forecasting in the Greek Power Distribution System: A Comparative Study of Gradient Boosting and Deep Learning Models",
+    "year": 2025,
+    "venue": "Energies",
+    "doi": "10.3390/en18195060",
+    "src": "crossref"
+   },
+   {
+    "title": "Performance Analysis of LSTM and XGBoost Models Optimization in Forecasting Crude Palm Oil (CPO) Production at Palm Oil Mill (POM)",
+    "year": 2023,
+    "venue": "International Journal of Computer Applications",
+    "doi": "10.5120/ijca2023922890",
+    "src": "crossref"
+   },
+   {
+    "title": "HYBRID LIGHTGBM-LSTM MACHINE LEARNING MODEL FOR SHORT-TERM WATER LEVEL FORECASTING IN THE MEKONG RIVER BASIN",
+    "year": 2026,
+    "venue": "Vinh University Journal of Science",
+    "doi": "10.56824/vujs.2026016a",
+    "src": "crossref"
+   },
+   {
+    "title": "Benchmarking LSTM, Lightgbm, And Xgboost For Enhanced Cardiac Arrest Predictive Performance",
+    "year": 2026,
+    "venue": "Adolescência e Saúde",
+    "doi": "10.67440/ahj.vi.2355",
+    "src": "crossref"
+   },
+   {
+    "title": "Sequential Structure in Intraday Futures Data: LSTM vs Gradient Boosting on MNQ",
+    "year": 2026,
+    "venue": "",
+    "doi": "10.2139/ssrn.6792161",
+    "src": "crossref"
+   },
+   {
+    "title": "Forecasting Hydrocarbon Production in Unconventional Shale Using Deep Learning and Gradient Boosting",
+    "year": 2026,
+    "venue": "",
+    "doi": "10.2139/ssrn.6619428",
+    "src": "crossref"
+   },
+   {
+    "title": "A Comparative Study On Forecasting Consumer Price Index Of India Amongst XGBoost, Theta, ARIMA, Prophet And LSTM Algorithms.",
+    "year": 2022,
+    "venue": "",
+    "doi": "10.31219/osf.io/hyqsb",
+    "src": "crossref"
+   }
+  ]
+ },
+ "C_probabilistic_fuel": {
+  "crossref_query": "probabilistic quantile prediction interval oil fuel import demand forecasting",
+  "boolean": "(probabilistic|quantile|prediction interval|conformal|density forecast) AND (oil|petroleum|fuel|gasoline|diesel|refined product) AND (import|demand|consumption) AND (forecast|predict)",
+  "n_matches": 15,
+  "matches": [
+   {
+    "title": "Impact of Oil Price Volatility on Oil Importing and Exporting Countries: A Case of Asian Countries",
+    "year": "2026",
+    "venue": "Journal of Business Insight and Innovation",
+    "doi": "10.63544/jbii.v5i8.152",
+    "src": "pool"
+   },
+   {
+    "title": "Brain Drain, Financial Development and Economic Growth in Pakistan: The Moderating Role of Political Stability",
+    "year": "2026",
+    "venue": "Journal of Business Insight and Innovation",
+    "doi": "10.63544/jbii.v5i4.155",
+    "src": "pool"
+   },
+   {
+    "title": "Renewables and the future of energy meteorology",
+    "year": "2013",
+    "venue": "Weather",
+    "doi": "10.1002/wea.2066",
+    "src": "pool"
+   },
+   {
+    "title": "From the Editors",
+    "year": "2014",
+    "venue": "Risk Analysis",
+    "doi": "10.1111/risa.12257",
+    "src": "pool"
+   },
+   {
+    "title": "Application of Probabilistic Graphical Models in Forecasting Crude Oil Price",
+    "year": "2018",
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.1804.10869",
+    "src": "pool"
+   },
+   {
+    "title": "Scenario-Based Stochastic MPC for Energy Hubs with EV Fleets Under Persistent Grid Outages",
+    "year": "2026",
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2604.18268",
+    "src": "pool"
+   },
+   {
+    "title": "Exploring the dynamics of connectedness among cryptocurrency, oil shocks, economic policy uncertainty, geopolitical risk, and the business conditions index",
+    "year": "2025",
+    "venue": "Journal of Applied Economics",
+    "doi": "10.1080/15140326.2025.2583784",
+    "src": "pool"
+   },
+   {
+    "title": "VPI-Mlogs: A web-based machine learning solution for applications in petrophysics",
+    "year": "2024",
+    "venue": "arXiv",
+    "doi": "10.47800/pvj.2022.10-06",
+    "src": "pool"
+   },
+   {
+    "title": "Location based Probabilistic Load Forecasting of EV Charging Sites: Deep Transfer Learning with Multi-Quantile Temporal Convolutional Network",
+    "year": "2024",
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2409.11862",
+    "src": "pool"
+   },
+   {
+    "title": "Demand Forecast of Petroleum Product Consumption in the Chinese Transportation Industry",
+    "year": "2012",
+    "venue": "Energies",
+    "doi": "10.3390/en5030577",
+    "src": "pool"
+   },
+   {
+    "title": "Forecasting retail fuel demand in Chinese gasoline stations: a structural (double) damped trend approach",
+    "year": "2024",
+    "venue": "Journal of the Operational Research Society",
+    "doi": "10.1080/01605682.2024.2333321",
+    "src": "pool"
+   },
+   {
+    "title": "Massively Parallel Implicit Equal-Weights Particle Filter for Ocean Drift Trajectory Forecasting",
+    "year": "2019",
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.1910.01031",
+    "src": "pool"
+   },
+   {
+    "title": "Hybrid SARIMA-XGBoost Framework with Quantile Regression for Aviation Fuel Demand Forecasting and Inventory Planning",
+    "year": 2026,
+    "venue": "",
+    "doi": "10.2139/ssrn.6893382",
+    "src": "crossref"
+   },
+   {
+    "title": "A Multi-Task Learning Framework for Probabilistic Interval Prediction of Ship Fuel Consumption Using CNN-LSTM Networks",
+    "year": 2025,
+    "venue": "",
+    "doi": "10.2139/ssrn.5420411",
+    "src": "crossref"
+   },
+   {
+    "title": "A Multi-Task Learning Framework for Probabilistic Interval Prediction of Ship Fuel Consumption Using Cnn-Lstm Networks",
+    "year": 2025,
+    "venue": "",
+    "doi": "10.2139/ssrn.5342724",
+    "src": "crossref"
+   }
+  ]
+ },
+ "D_publication_lag": {
+  "crossref_query": "real-time data vintages publication lag trade import forecasting",
+  "boolean": "(publication lag|release lag|real-time data|real time data|vintage|data revision|ragged edge|release calendar) AND (trade|import|export|oil|petroleum) AND (forecast|nowcast)",
+  "n_matches": 20,
+  "matches": [
+   {
+    "title": "Harnessing AI for smart demand forecasting in renewable-powered grids",
+    "year": "2025",
+    "venue": "International Journal of Scholarly Research in Engineering and Technology",
+    "doi": "10.56781/ijsret..2025.6.1.0029",
+    "src": "pool"
+   },
+   {
+    "title": "Revisions In United Nations Energy Statistics Data: Can Changes To The Past Improve Our Understanding Of The Present?",
+    "year": "2021",
+    "venue": "NC Digital Online Collection of Knowledge and Scholarship (The University of North Carolina at Greensboro)",
+    "doi": "10.71889/5fylantbak.29865743",
+    "src": "pool"
+   },
+   {
+    "title": "VP-OilEx-STFN: Structural-Gated Mixed-Frequency Nowcasting for Oil Export Prediction in Norway and Thailand",
+    "year": "2026",
+    "venue": "Research Square",
+    "doi": "10.21203/rs.3.rs-9995316/v1",
+    "src": "pool"
+   },
+   {
+    "title": "Nowcasting trade in value added indicators",
+    "year": "2023",
+    "venue": "OECD Statistics Working Papers",
+    "doi": "10.1787/00f8aff7-en",
+    "src": "pool"
+   },
+   {
+    "title": "Nowcasting World Trade With Machine Learning: A Three‐Step Approach",
+    "year": "2026",
+    "venue": "Journal of Forecasting",
+    "doi": "10.1002/for.70165",
+    "src": "pool"
+   },
+   {
+    "title": "Machine Learning Approaches for Improving Supply Chain Efficiency and Demand Prediction",
+    "year": "2025",
+    "venue": "SSRN Electronic Journal",
+    "doi": "10.2139/ssrn.5228503",
+    "src": "pool"
+   },
+   {
+    "title": "A Comprehensive Big Data Framework for Energy Markets: Oil and Gas Demand Forecasting",
+    "year": "2022",
+    "venue": "International Informatics and Software Engineering Conference (IISEC)",
+    "doi": "10.1109/iisec56263.2022.9998216",
+    "src": "pool"
+   },
+   {
+    "title": "Essays in real-time forecasting",
+    "year": "2012",
+    "venue": "Dépôt institutionnel de l'Université libre de Bruxelles (Université Libre de Bruxelles)",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Forecasting in the Fog: Real-Time versus Revised-Data Evidence on Machine Learning's Edge over the Phillips Curve",
+    "year": "2026",
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2608.09033",
+    "src": "pool"
+   },
+   {
+    "title": "Forecasting with a Real-Time Data Set for Macroeconomists",
+    "year": "2001",
+    "venue": "Journal of Macroeconomics",
+    "doi": "10.1016/s0164-0704(02)00062-9",
+    "src": "pool"
+   },
+   {
+    "title": "Implications of Real-Time Data for Forecasting and Model Expectations",
+    "year": "2002",
+    "venue": "SSRN Electronic Journal",
+    "doi": "10.2139/ssrn.305703",
+    "src": "pool"
+   },
+   {
+    "title": "Vintage errors: do real-time economic data improve election forecasts?",
+    "year": "2015",
+    "venue": "Research & Politics",
+    "doi": "10.1177/2053168015589624",
+    "src": "pool"
+   },
+   {
+    "title": "A Real-Time Data Set for Switzerland",
+    "year": "2014",
+    "venue": "Zeitschrift für schweizerische Statistik und Volkswirtschaft/Schweizerische Zeitschrift für Volkswirtschaft und Statistik/Swiss journal of economics and statistics",
+    "doi": "10.1007/bf03399410",
+    "src": "pool"
+   },
+   {
+    "title": "United States Trade Balance Announcements: The Nature of its Data Revisions",
+    "year": "1997",
+    "venue": "Oxford Bulletin of Economics and Statistics",
+    "doi": "10.1111/1468-0084.00071",
+    "src": "pool"
+   },
+   {
+    "title": "The Problem of Data Adequacy in Applied Statistics",
+    "year": "2010",
+    "venue": "DuEPublico (University of Duisburg-Essen)",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Real-Time Forecasts of the Real Price of Oil",
+    "year": "2021",
+    "venue": "",
+    "doi": "10.34989/swp-2011-16",
+    "src": "pool"
+   },
+   {
+    "title": "Time-Varying Pass-Through from Import Prices to Consumer Prices: Evidence from an Event Study with Real-Time Data",
+    "year": 2005,
+    "venue": "",
+    "doi": "10.2139/ssrn.845568",
+    "src": "crossref"
+   },
+   {
+    "title": "Forecasting with a Real-Time Data Set for Macroeconomists",
+    "year": 2001,
+    "venue": "",
+    "doi": "10.2139/ssrn.282592",
+    "src": "crossref"
+   },
+   {
+    "title": "Real-Time Datasets Really Do Make a Difference: Definitional Change, Data Release, and Forecasting",
+    "year": 2009,
+    "venue": "",
+    "doi": "10.2139/ssrn.1494582",
+    "src": "crossref"
+   },
+   {
+    "title": "Ozone Concentration Forecasting Using a Smart Hybridization of Deep Learning Models with Real-time Data",
+    "year": 2025,
+    "venue": "Global NEST Journal",
+    "doi": "10.30955/gnj.07683",
+    "src": "crossref"
+   }
+  ]
+ },
+ "E_supplier_gpr_features": {
+  "crossref_query": "geopolitical risk supplier concentration oil imports forecasting",
+  "boolean": "(geopolitical risk|herfindahl|hhi|supplier concentration|concentration of supply|diversification) AND import AND (forecast|predict)",
+  "n_matches": 29,
+  "matches": [
+   {
+    "title": "Commentary: Going beyond frontiers in household energy transition in Poland—a perspective",
+    "year": "2026",
+    "venue": "Frontiers in Energy Research",
+    "doi": "10.3389/fenrg.2026.1783641",
+    "src": "pool"
+   },
+   {
+    "title": "Infrastructure, Finance, and Economic Transformation in Africa: Contributions to the Debate",
+    "year": "2021",
+    "venue": "Journal of African Development",
+    "doi": "10.5325/jafrideve.22.1.0001",
+    "src": "pool"
+   },
+   {
+    "title": "ECONOMIC RECESSIONS: TRIGGERS, TRANSMISSION MECHANISMS, AND STRATEGY FRAMEWORKS OF RESILIENT RECOVERY",
+    "year": "2026",
+    "venue": "Journal of Tianjin University Science and Technology",
+    "doi": "10.5281/zenodo.20372761",
+    "src": "pool"
+   },
+   {
+    "title": "Early Warning Systems for World Energy Crises",
+    "year": "2024",
+    "venue": "Sustainability",
+    "doi": "10.3390/su16062284",
+    "src": "pool"
+   },
+   {
+    "title": "The effect of renewable energy consumption on price stability in developing countries",
+    "year": "2026",
+    "venue": "Discover Sustainability",
+    "doi": "10.1007/s43621-026-03698-5",
+    "src": "pool"
+   },
+   {
+    "title": "Strategic Decision-Making and SME Development under Monetary Policy Shocks: Evidence from Azerbaijan",
+    "year": "2025",
+    "venue": "EKONOMISTI",
+    "doi": "10.52340/ekonomisti.2025.03.10",
+    "src": "pool"
+   },
+   {
+    "title": "GLOBAL TRADE IN DRINKING WATERS (HS 2201) AND BEVERAGES DERIVED THEREFROM: MARKET CONCENTRATION, UNIT VALUES, AND ARMENIA’S EXPORT PROSPECTS THROUGH 2031",
+    "year": "2026",
+    "venue": "BULLETIN OF HIGH TECHNOLOGY",
+    "doi": "10.56243/18294898-2026.3-28",
+    "src": "pool"
+   },
+   {
+    "title": "An Econometric Analysis of Import and Export Performance of the Indian Petroleum Industry",
+    "year": "2025",
+    "venue": "International Journal of Social Science and Economic Research",
+    "doi": "10.46609/ijsser.2025.v10i10.043",
+    "src": "pool"
+   },
+   {
+    "title": "An Approximate Feasibility Assessment of Electric Vehicles Adoption in Nigeria: Forecast 2030",
+    "year": "2023",
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2305.17844",
+    "src": "pool"
+   },
+   {
+    "title": "Threats and prospects for the development of operators in the market of light petroleum products of Ukraine",
+    "year": "2021",
+    "venue": "Management and Entrepreneurship in Ukraine the stages of formation and problems of development",
+    "doi": "10.23939/smeu2021.02.193",
+    "src": "pool"
+   },
+   {
+    "title": "Integrating Sentiment Analysis & Historical Data for Predicting Crude Oil Prices",
+    "year": "2025",
+    "venue": "International Conference on Advances in Technology and Computing (ICATC)",
+    "doi": "10.1109/icatc68823.2025.11407766",
+    "src": "pool"
+   },
+   {
+    "title": "Oil Shocks, Global Geopolitical Risk, and Market Efficiency: The Case of the Straits Times Index",
+    "year": "2025",
+    "venue": "2025 6th International Conference on Data Analytics for Business and Industry (ICDABI)",
+    "doi": "10.1109/icdabi67967.2025.11547625",
+    "src": "pool"
+   },
+   {
+    "title": "Import Dependency and National Economic Security",
+    "year": "2026",
+    "venue": "",
+    "doi": "10.62311/nesx/rb1m-30052026",
+    "src": "pool"
+   },
+   {
+    "title": "The Impact of China's Environmental Goods Trade on Global Supply Chain Resilience: Evidence from Emerging Market and Developing Economies (2013-2025)",
+    "year": "2026",
+    "venue": "Journal of Business Insight and Innovation",
+    "doi": "10.63544/jbii.v5i5.201",
+    "src": "pool"
+   },
+   {
+    "title": "How Much Do Global Geopolitical Conflicts Cost India? Evidence from Crude Oil Imports Using Counterfactual Time Series Analysis",
+    "year": "2026",
+    "venue": "",
+    "doi": "10.2139/ssrn.7271359",
+    "src": "pool"
+   },
+   {
+    "title": "External Price Shock Vulnerability in Import-Dependent Economies: The Case of the Republic of Moldova and a Commodity Import Price Index",
+    "year": "2026",
+    "venue": "Economies",
+    "doi": "10.3390/economies14060207",
+    "src": "pool"
+   },
+   {
+    "title": "Hydrogen and Japan’s Energy Transition: A Blueprint for Carbon Neutrality",
+    "year": "2025",
+    "venue": "Hydrogen",
+    "doi": "10.3390/hydrogen6030061",
+    "src": "pool"
+   },
+   {
+    "title": "Safety and Security Dynamics in Gulf Cooperation Council (GCC) Countries: A Machine Learning Approach to Forecasting Security Trends",
+    "year": "2024",
+    "venue": "arXiv",
+    "doi": "10.48550/arxiv.2410.21511",
+    "src": "pool"
+   },
+   {
+    "title": "Probabilistic Time Series Forecasting with Structured Shape and Temporal Diversity",
+    "year": "2020",
+    "venue": "arXiv (Cornell University)",
+    "doi": "10.48550/arxiv.2010.07349",
+    "src": "pool"
+   },
+   {
+    "title": "Integrated application of ARIMA and Ridge Regression methods for forecasting hard coal production, imports, and exports under conditions of economic instability",
+    "year": "2026",
+    "venue": "Acta Montanistica Slovaca",
+    "doi": "10.46544/ams.v31i1.22",
+    "src": "pool"
+   },
+   {
+    "title": "Sales forecasting for retail business using xgboost algorithm and timesfm",
+    "year": "",
+    "venue": "",
+    "doi": "10.58837/chula.the.2024.294",
+    "src": "pool"
+   },
+   {
+    "title": "Supplier Concentration and Analyst Forecast Bias",
+    "year": "2023",
+    "venue": "",
+    "doi": "10.2139/ssrn.4468578",
+    "src": "pool"
+   },
+   {
+    "title": "The Impact of Climate and Geopolitical Risk Indices on Tail-Risk Forecasting",
+    "year": 2026,
+    "venue": "",
+    "doi": "10.2139/ssrn.6314678",
+    "src": "crossref"
+   },
+   {
+    "title": "The Impact of Climate and Geopolitical Risk Indices on Tail-Risk Forecasting",
+    "year": 2026,
+    "venue": "",
+    "doi": "10.2139/ssrn.6560636",
+    "src": "crossref"
+   },
+   {
+    "title": "Do Supply-Chain Stress and Geopolitical Risk Predict Strategic Commodity and Clean Energy Market Returns? Evidence from Explainable Machine Learning",
+    "year": 2026,
+    "venue": "Forecasting",
+    "doi": "10.3390/forecast8040059",
+    "src": "crossref"
+   },
+   {
+    "title": "Navigating Crude Oil Volatility Forecasts: Assessing the Contribution of Geopolitical Risk",
+    "year": 2024,
+    "venue": "",
+    "doi": "10.2139/ssrn.4928276",
+    "src": "crossref"
+   },
+   {
+    "title": "Oil, Uncertainty, and the Stock Market: How Geopolitical Risk Shapes an Oil-Dependent Economy",
+    "year": 2025,
+    "venue": "Reviews of Management Sciences",
+    "doi": "10.53909/rms.07.02.0322",
+    "src": "crossref"
+   },
+   {
+    "title": "Does geopolitical risk improve the directional predictability from oil to stock returns? Evidence from oil-exporting and oil-importing countries",
+    "year": 2021,
+    "venue": "Resources Policy",
+    "doi": "10.1016/j.resourpol.2021.102253",
+    "src": "crossref"
+   },
+   {
+    "title": "Geopolitical Risk and Energy Price Crash Risk",
+    "year": 2025,
+    "venue": "",
+    "doi": "10.2139/ssrn.5018089",
+    "src": "crossref"
+   }
+  ]
+ },
+ "F_early_warning": {
+  "crossref_query": "early warning fuel oil supply shortage disruption",
+  "boolean": "(early warning|alarm|alert) AND (fuel|oil|petroleum|energy|import) AND (supply|shortage|disruption|security)",
+  "n_matches": 21,
+  "matches": [
+   {
+    "title": "Dynamic trade flow indicators outperform import concentration in supply disruption early warning for a maritime-dependent economy",
+    "year": "2026",
+    "venue": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.1956773",
+    "src": "pool"
+   },
+   {
+    "title": "Early Warning Systems for World Energy Crises",
+    "year": "2024",
+    "venue": "Sustainability",
+    "doi": "10.3390/su16062284",
+    "src": "pool"
+   },
+   {
+    "title": "The impact of COVID‐19 on African economies: An introduction",
+    "year": "2021",
+    "venue": "African Development Review",
+    "doi": "10.1111/1467-8268.12531",
+    "src": "pool"
+   },
+   {
+    "title": "Essays in Empirical Macroeconomics: Identification in Vector Autoregressive Models and Robust Inference in Early Warning Systems",
+    "year": "2019",
+    "venue": "",
+    "doi": "10.17169/refubium-2801",
+    "src": "pool"
+   },
+   {
+    "title": "An Early Warning System for Oil Security in China",
+    "year": "2018",
+    "venue": "Sustainability",
+    "doi": "10.3390/su10010283",
+    "src": "pool"
+   },
+   {
+    "title": "Energy Security Forecast in ISO New England",
+    "year": "2023",
+    "venue": "IEEE Power Engineering Society General Meeting",
+    "doi": "10.1109/pesgm52003.2023.10253395",
+    "src": "pool"
+   },
+   {
+    "title": "Pendekatan Early Warning Signals untuk Krisis Mata Uang Indonesia: Periode 1996 -2009",
+    "year": "2014",
+    "venue": "Universitas Kristen Satya Wacana Institutional Repository (Universitas Kristen Satya Wacana)",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Dispatches",
+    "year": "2011",
+    "venue": "Frontiers in Ecology and the Environment",
+    "doi": "10.1890/1540-9295-9.8.424",
+    "src": "pool"
+   },
+   {
+    "title": "Analysis of the Lagged Transmission Structure of Global Supply Chain Shocks",
+    "year": "2025",
+    "venue": "Korea International Trade Research Institute",
+    "doi": "10.16980/jitc.21.4.202508.219",
+    "src": "pool"
+   },
+   {
+    "title": "Iran's Crude Oil Price Reaction to Geopolitical Uncertainty and Economic Policy Uncertainty",
+    "year": "2024",
+    "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+    "doi": "10.22054/jiee.2025.80912.2106",
+    "src": "pool"
+   },
+   {
+    "title": "An Early Warning System for Renewable Energy Supply Shortfalls in Europe Using Integrated Machine Learning and Spatiotemporal Energy Data",
+    "year": "2025",
+    "venue": "International Conference on Renewable Energy Research and Applications (ICRERA)",
+    "doi": "10.1109/icrera66237.2025.11283745",
+    "src": "pool"
+   },
+   {
+    "title": "Geopolitical disruptions in the middle east and global supply chain resilience: implications and mitigation strategies",
+    "year": "2026",
+    "venue": "Maritime Economics & Logistics",
+    "doi": "10.1057/s41278-026-00366-3",
+    "src": "pool"
+   },
+   {
+    "title": "Anticipating Balance of Payments Crises--The Role of Early Warning Systems",
+    "year": "2000",
+    "venue": "International Monetary Fund eBooks",
+    "doi": "10.5089/9781557758286.084",
+    "src": "pool"
+   },
+   {
+    "title": "Forecasting patient flows with pandemic induced concept drift using explainable machine learning",
+    "year": "2023",
+    "venue": "EPJ Data Science",
+    "doi": "10.1140/epjds/s13688-023-00387-5",
+    "src": "pool"
+   },
+   {
+    "title": "IoT and deep learning powered intelligent early warning algorithm for international trade risks",
+    "year": "2026",
+    "venue": "Discover Internet of Things",
+    "doi": "10.1007/s43926-026-00419-2",
+    "src": "pool"
+   },
+   {
+    "title": "Unraveling exogenous shocks, financial stress and US economic performance",
+    "year": "2024",
+    "venue": "Studies in Economics and Finance",
+    "doi": "10.1108/sef-04-2024-0255",
+    "src": "pool"
+   },
+   {
+    "title": "The Tanzania crop monitoring and early warning systems project",
+    "year": "1991",
+    "venue": "OpenDocs (Institute of Development Studies)",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Financial Risk Early Warning System for Coal Mining Company in Facing Disruption of Supply Chain",
+    "year": 2023,
+    "venue": "Asian Journal of Research in Business and Management",
+    "doi": "10.55057/ajrbm.2022.4.4.8",
+    "src": "crossref"
+   },
+   {
+    "title": "Human-aligned AI for supply chain risk detection: validation and calibration of LLM-based early-warning assessments",
+    "year": 2026,
+    "venue": "Logistics Research",
+    "doi": "10.1108/lore-12-2025-0184",
+    "src": "crossref"
+   },
+   {
+    "title": "Increase supply chain resilience by applying early warning signals within big-data analysis",
+    "year": 2022,
+    "venue": "Ekonomski vjesnik",
+    "doi": "10.51680/ev.35.2.17",
+    "src": "crossref"
+   },
+   {
+    "title": "Book Review - Hubbert's Peak: The Impending World Oil Shortage",
+    "year": 2009,
+    "venue": "",
+    "doi": "10.2139/ssrn.1525614",
+    "src": "crossref"
+   }
+  ]
+ },
+ "G_landlocked_energy": {
+  "crossref_query": "landlocked countries energy security fuel imports",
+  "boolean": "landlocked AND (energy|fuel|oil|petroleum) AND (import|security|dependen)",
+  "n_matches": 20,
+  "matches": [
+   {
+    "title": "Infrastructure, Finance, and Economic Transformation in Africa: Contributions to the Debate",
+    "year": "2021",
+    "venue": "Journal of African Development",
+    "doi": "10.5325/jafrideve.22.1.0001",
+    "src": "pool"
+   },
+   {
+    "title": "The Development of Biofuel Capacities - Strengthining the Position of African Countries through Increased Energy Security",
+    "year": "2011",
+    "venue": "",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Caspian Sea: Offshore Exploration, Discoveries, And Strategy",
+    "year": "2002",
+    "venue": "Journal of Canadian Petroleum Technology",
+    "doi": "10.2118/02-08-04",
+    "src": "pool"
+   },
+   {
+    "title": "Energy; Alkahest of The Third Millennium",
+    "year": "2021",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "doi": "10.5281/zenodo.6113699",
+    "src": "pool"
+   },
+   {
+    "title": "Central Asian Trade Relations in the Post-Soviet Era",
+    "year": "2013",
+    "venue": "RePEc: Research Papers in Economics",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Misurata free zone port development can serve south of Libya and neighbour landlocked countries",
+    "year": "2012",
+    "venue": "Journées Nationales Génie Côtier – Génie Civil (JNGCGC)",
+    "doi": "10.5150/jngcgc.2012.078-e",
+    "src": "pool"
+   },
+   {
+    "title": "Petroleum Source Beds: Environment of Deposition and Stratigraphy: ABSTRACT",
+    "year": "1981",
+    "venue": "AAPG Bulletin",
+    "doi": "10.1306/03b599d1-16d1-11d7-8645000102c1865d",
+    "src": "pool"
+   },
+   {
+    "title": "Impact of Climate Change on Thermal Power Plants. Case study of thermal power plants in France",
+    "year": "2013",
+    "venue": "Skemman",
+    "doi": "",
+    "src": "pool"
+   },
+   {
+    "title": "Enabling Water-Energy–Food Nexus: A New Approach for Sustainable Agriculture and Food Security in Mountainous Landlocked Countries",
+    "year": "2016",
+    "venue": "Journal of Nepal Agricultural Research Council",
+    "doi": "10.3126/jnarc.v2i0.16121",
+    "src": "pool"
+   },
+   {
+    "title": "Kurdistan Regional Government–Turkish energy relations: a complex partnership",
+    "year": "2014",
+    "venue": "Eurasian Geography and Economics",
+    "doi": "10.1080/15387216.2014.942339",
+    "src": "pool"
+   },
+   {
+    "title": "The Importance of Multivector Energy Strategy for Kazakhstan",
+    "year": "2024",
+    "venue": "Routledge eBooks",
+    "doi": "10.4324/9781003454540-11",
+    "src": "pool"
+   },
+   {
+    "title": "Energy Security in Mongolia: Current Trajectory and Future Prospects",
+    "year": "2022",
+    "venue": "The Indonesian Journal of Social Studies",
+    "doi": "10.26740/ijss.v4n2.p40-48",
+    "src": "pool"
+   },
+   {
+    "title": "International gas trade in Central Asia: Turkmenistan, Iran, Russia, and Afghanistan",
+    "year": "2006",
+    "venue": "Cambridge University Press eBooks",
+    "doi": "10.1017/cbo9780511493492.008",
+    "src": "pool"
+   },
+   {
+    "title": "Application of Satellite Data for Monitoring the Condition of the Caspian Sea Water Areas in Port Zones",
+    "year": "2026",
+    "venue": "IEEE International Conference on Smart Information Systems and Technologies (SIST)",
+    "doi": "10.1109/sist61674.2026.11596445",
+    "src": "pool"
+   },
+   {
+    "title": "COVID-19 and the Maritime and Logistics Sector in Africa",
+    "year": "2020",
+    "venue": "World Bank, Washington, DC eBooks",
+    "doi": "10.1596/34080",
+    "src": "pool"
+   },
+   {
+    "title": "Without Sea, Can Landlocked Countries Hope Economic Security?",
+    "year": "",
+    "venue": "Institutional Repositories DataBase (IRDB)",
+    "doi": "10.34382/00004671",
+    "src": "pool"
+   },
+   {
+    "title": "Energy Insecurity, Digital Transformation, and Institutional Quality: A Systems Perspective on the Core Dimensions of Sustainable Development in Landlocked Developing Countries",
+    "year": "2026",
+    "venue": "Sustainable Development",
+    "doi": "10.1002/sd.71609",
+    "src": "pool"
+   },
+   {
+    "title": "Central Asia’s Emerging Role in the Global Critical Mineral Supply Chain",
+    "year": "2026",
+    "venue": "ENERPO Journal",
+    "doi": "10.33280/eusp.org.2026.49.88.001",
+    "src": "pool"
+   },
+   {
+    "title": "Trade facilitation to integrate Africa into the world economy",
+    "year": "2006",
+    "venue": "Economic report on Africa",
+    "doi": "10.18356/c467fe84-en",
+    "src": "pool"
+   },
+   {
+    "title": "Overcoming the constraints of landlocked-ness through sustainable connectivity in North and Central Asia",
+    "year": "2023",
+    "venue": "Asia-Pacific sustainable development journal",
+    "doi": "10.18356/26178419-30-2-2",
+    "src": "pool"
+   }
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+﻿id,study,doi,basis,target_type,frequency,scope,models,global,probabilistic,validation,real_time,naive_baseline,significance_test,metrics
+P136,Wanto et al. (2019),10.1088/1742-6596/1255/1/012016,Full text,"Physical volume (crude, products, gas)",Annual,Single,ANN,No,No,Single holdout,No,No,No,"Accuracy %, MSE"
+P124,Saputra et al. (2024),10.34148/teknika.v13i2.861,Abstract only,Import value,Monthly,Single,GRU,No,No,NR,No,NR,NR,MAPE
+P129,Santi et al. (2023),10.30598/barekengvol17iss4pp2047-2058,Full text,Import value,Monthly,Single,SARIMA,No,No,Single holdout (4 months),No,No,No,MAPE
+P141,Shao et al. (2014),10.1155/2014/257947,Abstract only,Import demand (crude),NR,Single,"MLR, SVR, ANN, ELM, hybrids",No,No,NR,No,NR,NR,"MAPE, RMSE, MAD"
+P125,Babu et al. (2024),10.1007/978-981-97-8031-0_81,Abstract only,"Production and imports (crude, POL)",Annual,Single,ARIMA,No,No,NR,No,NR,NR,NR
+P115,Qin et al. (2026),10.1007/s10553-026-02011-4,Abstract only,Oil import demand,Annual,Single,Grey relational + ML,No,No,NR,No,NR,NR,NR
+P121,Romprasert et al. (2025),10.1007/978-3-032-09945-7_39,Abstract only,Crude import demand,NR,Single,"Multiple regression, elasticities",No,No,In-sample,No,NR,NR,Elasticities
+P138,Wang et al. (2018),10.1016/j.energy.2018.08.127,Abstract only,Import dependence ratio,Annual,Single,NMGM-ARIMA (grey + ARIMA),No,No,NR,No,NR,NR,MAE
+P137,Li & Wang (2019),10.1016/j.jclepro.2019.05.314,Abstract only,Import dependence ratio,Annual,Single,Grey-type hybrid (per title),No,No,NR,No,NR,NR,NR
+P135,Yang et al. (2022),10.1016/j.knosys.2022.108687,Metadata only,Import dependence ratio,NR,Single,Fuzzy time series + multi-objective optimisation,No,NR,NR,No,NR,NR,NR
+P122,Sizza et al. (2025),10.1007/s11135-025-02268-7,Abstract only,Product import demand,Annual,Single,"ARDL, ECM, structural breaks",No,No,In-sample,No,NR,NR,Elasticities
+P130,Pradhan et al. (2023),10.3126/jsdpj.v1i1.52602,Abstract only,Product imports,NR,Single,Linear trend,No,No,None,No,No,No,NR
+P131,Zhu (2023),10.3390/su151813592,Full text,Oil demand,Annual,Multi (30),ML,Yes (panel),No,NR,No,NR,NR,NR
+P126,Sharma et al. (2024),10.32479/ijeep.15572,Full text,Diesel demand,Monthly,Single,"MLP, ELM, NNAR vs ARIMA-type",No,No,Single holdout,No,NR,No,RMSE and others
+P132,Murthy (2022),10.21203/rs.3.rs-2257631/v1,Full text,Gasoline and diesel consumption,NR,Single,"SARIMA, NN",No,No,NR,No,NR,NR,MAPE
+P128,Khajoui et al. (2024),10.48550/arxiv.2402.01648,Full text,Total imports (value),Annual interpolated,Multi,LSTM,NR,No,75/25 split,No,No,No,Accuracy %
+P118,Shahab et al. (2026),10.5281/zenodo.18467170,Abstract only,Bilateral trade value,Annual,Global dyads,"Ridge, RF, CatBoost",Yes,No,Temporal split (train/val/test),Partly (pre-forecast information only),NR,NR,RMSE
+P119,Chinn et al. (2026),10.1002/for.70165,Abstract only,World trade,Monthly,World aggregate,"RF, GB, macro RF, linear GB, OLS, MS, QR, DFM, EN",n/a,No,"Real-time datasets, multiple horizons",Yes,Yes (benchmarks),Yes,NR
+P123,Arrar et al. (2025),10.1007/s41060-025-00781-4,Abstract only,Raw-material trade flows,NR,Multi,"TFT vs RF, GAT",Yes,Partly (TFT quantiles),NR,No,No,NR,R2
+P120,Singh & Singh Patel (2026),10.1080/01605682.2026.2757161,Abstract only,Bilateral trade value/volume,NR,Multi,Network model vs ML,Yes,No,NR,No,NR,NR,Accuracy %
+P044,Álvarez-Salas et al. (2026),10.29105/trendinomics.v2i2.19,Abstract only,Trade flows,Monthly,Multi,PCA/LASSO + LSTM,Yes,No,Multiple horizons,No,No,Yes (panel DM),NR
+P116,Intarasat et al. (2026),10.21203/rs.3.rs-9995316/v1,Full text,Oil export value,Monthly,Multi (2),"Patch-based DL fusion network vs SARIMA(X), VAR/VECM, MIDAS, DFM",Partly (country gates),No (point branch),Rolling end-of-month,Yes (release-calendar masking),Yes (seasonal naive),Yes (paired loss),"MAE, RMSE, MAPE, log-RMSE"
+P014,Kwon & Jeong (2026),10.3389/fmars.2026.1956773,Full text,Disruption onset (quantity shortfall + unit value),Monthly,"Single country (5,925 products)","GBM ensembles, logistic vs concentration",Yes (product panel),Partly (risk scores),Walk-forward with label embargo,Partly (label confirmation lag),"Yes (concentration, base rate)","Yes (paired, block bootstrap)","Watchlist precision, capture, lead time"
+P016,Yokuş (2024),10.3390/su16062284,Full text,Energy-crisis month,Monthly,World,Logit,n/a,Yes (probability),In-sample only,No,No,No,"Fit, classification accuracy"
+P015,Khan & Wyrwa (2025),10.1109/icrera66237.2025.11283745,Abstract only,Renewable shortfall event,Hourly,Multi (5),GBM + probabilistic classifier,No (country-specific),Yes,Blocked CV,No,NR,NR,"MAE, RMSE, MAPE, PR-AUC, Brier"
+P001,Champahom et al. (2025),10.3390/en18071685,Abstract only,Transport energy consumption,Annual,Single,"LSTM, XGBoost",No,No,Train/test split,No,No,No,R2 and others
+P022,Li & Zhang (2018),10.3390/en11071687,Abstract only,Composite supply-security score,Annual,Single,ARIMA-XGBoost,No,No,NR,No,NR,NR,NR
+P065,Laborda et al. (2023),10.3390/math11122625,Abstract only,GDP growth,Quarterly,Multi (25),TFT vs regressions,Yes,Yes (quantiles),NR,No,NR,NR,NR
+P064,Agyekum & Obese (2026),10.48550/arxiv.2608.09033,Full text,Inflation,Monthly,Single,"RW, AR, Phillips, ADL vs RF, GB, EN, SVR",No,No,"Recursive, vintage-consistent",Yes,Yes,NR,NR
+P052,Baumeister & Kilian (2011),10.34989/swp-2011-16,Abstract only,Real oil price,Monthly,World,"VAR, AR, ARMA, futures, no-change",n/a,No,Recursive real-time,Yes,Yes (no-change),NR,MSPE
+P142,Baltagi & Griffin (1997),10.1016/s0304-4076(96)01802-7,Abstract only,Gasoline demand,NR,Multi,Pooled vs heterogeneous estimators,Yes (pooled),NR,NR,NR,NR,NR,NR
+P133,Li et al. (2022),10.1016/j.energy.2021.122312,Abstract only,Gasoline demand,NR,Single,ML regression,No,NR,NR,No,NR,NR,NR
+P148,Boukar et al. (2026),10.32479/ijeep.23912,Full text,Petroleum product demand,Annual,"Single (Chad, landlocked)",Grey-ANN hybrid,No,No,Holdout 2020-2023 + sliding-window CV,No,NR,NR,NR
+P063,Yolusever (2026),10.3390/forecast8050089,Full text,Compositional shares,Annual,Multi (Eurostat panels),"Replicator, Dirichlet, log-ratio, pooled ML","Compared (local, pooled, shrunk)",No,Expanding-window rolling origin,No,"Yes (random walk, no-change)","Yes (clustered tests, MCS)",MASE

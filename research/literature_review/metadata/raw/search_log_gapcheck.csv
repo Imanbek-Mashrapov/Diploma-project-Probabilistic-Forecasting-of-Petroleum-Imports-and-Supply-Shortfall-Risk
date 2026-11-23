@@ -1,0 +1,17 @@
+database,theme,query,search_date,total_hits,retrieved,status
+openalex_gapcheck,A_global_landlocked,landlocked AND (oil OR petroleum OR fuel) AND (forecast OR forecasting OR prediction),2026-11-07,,0,failed
+openalex_gapcheck,A_global_landlocked,"(petroleum OR ""oil products"" OR ""refined products"" OR gasoline OR diesel OR fuel) AND (import OR imports) AND (forecast OR forecasting) AND (""cross-country"" OR panel OR ""global model"" OR ""multiple countries"")",2026-11-07,,0,failed
+openalex_gapcheck,A_global_landlocked,(Comtrade) AND (forecast OR forecasting OR prediction),2026-11-07,,0,failed
+openalex_gapcheck,B_dl_vs_gbm,"(LightGBM OR XGBoost OR ""gradient boosting"") AND (LSTM OR GRU OR ""N-BEATS"" OR ""deep learning"") AND (import OR imports OR ""international trade"") AND (forecast OR forecasting)",2026-11-07,,0,failed
+openalex_gapcheck,B_dl_vs_gbm,"(LightGBM OR XGBoost OR ""gradient boosting"") AND (LSTM OR GRU OR ""deep learning"") AND (oil OR petroleum OR fuel OR gasoline) AND (demand OR consumption OR import) AND forecasting",2026-11-07,,0,failed
+openalex_gapcheck,C_probabilistic_imports,"(probabilistic OR quantile OR ""prediction interval"" OR ""prediction intervals"" OR conformal OR ""density forecast"") AND (oil OR petroleum OR fuel OR gasoline OR diesel) AND (import OR imports OR demand OR consumption) AND forecasting",2026-11-07,,0,failed
+openalex_gapcheck,C_probabilistic_imports,"(probabilistic OR quantile OR ""prediction interval"" OR conformal) AND (import OR imports OR ""trade flows"") AND forecasting",2026-11-07,,0,failed
+openalex_gapcheck,D_publication_lag,"(""publication lag"" OR ""publication delay"" OR ""release lag"" OR ""real-time data"" OR ""data vintages"" OR ""data revisions"" OR ""ragged edge"") AND (trade OR imports OR exports) AND (forecast OR forecasting OR nowcasting)",2026-11-07,,0,failed
+openalex_gapcheck,D_publication_lag,"(""publication lag"" OR ""release lag"" OR ""real-time"" OR vintage) AND (oil OR petroleum OR energy) AND (forecast OR forecasting OR nowcasting)",2026-11-07,,0,failed
+openalex_gapcheck,E_supplier_gpr_features,"""geopolitical risk"" AND (import OR imports OR trade) AND (forecast OR forecasting OR prediction)",2026-11-07,,0,failed
+openalex_gapcheck,E_supplier_gpr_features,"(""supplier concentration"" OR Herfindahl OR HHI OR ""supplier diversification"") AND (oil OR petroleum OR fuel OR energy) AND (import OR imports)",2026-11-07,,0,failed
+openalex_gapcheck,E_supplier_gpr_features,"""geopolitical risk"" AND (oil OR petroleum) AND (import OR imports)",2026-11-07,,0,failed
+openalex_gapcheck,F_early_warning,"""early warning"" AND (fuel OR oil OR petroleum OR energy) AND (supply OR shortage OR disruption OR security)",2026-11-07,,0,failed
+openalex_gapcheck,F_early_warning,"(shortage OR shortfall OR ""supply disruption"") AND (fuel OR petroleum OR ""oil products"") AND (prediction OR forecasting OR ""early warning"")",2026-11-07,,0,failed
+openalex_gapcheck,G_landlocked_group,"landlocked AND (""energy security"" OR ""oil import"" OR ""fuel import"" OR ""petroleum import"" OR ""energy import"")",2026-11-07,,0,failed
+openalex_gapcheck,G_landlocked_group,"(Kyrgyzstan OR Kyrgyz OR ""Central Asia"") AND (fuel OR petroleum OR ""oil products"" OR gasoline) AND (import OR imports OR supply)",2026-11-07,,0,failed
