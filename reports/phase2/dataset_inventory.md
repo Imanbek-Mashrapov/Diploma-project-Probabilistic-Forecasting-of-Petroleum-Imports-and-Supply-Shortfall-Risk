@@ -1,0 +1,22 @@
+# Dataset inventory
+
+Built by scanning the disk. Snapshot `2026-11-02`.
+
+| location | contents | files | size_mb | use |
+|---|---|---|---|---|
+| data/raw/un_comtrade/*/bilateral | UN Comtrade monthly partner-level JSON | 651 | 526.5 | Integrated |
+| data/raw/un_comtrade/*/world_audit | UN Comtrade monthly World rows, all 43 candidates | 204 | 17.4 | Integrated |
+| data/raw/un_comtrade/*/mirror_russia | Russian exports to candidates, 2015-2021 | 8 | 4.5 | Validation only |
+| data/raw/un_comtrade/*/annual_world | Annual World rows, 2015-2025 | 11 | 2.7 | Validation only |
+| data/raw/un_comtrade/*/kgz_all_goods | Kyrgyz all-goods monthly totals, 2023-2026 | 4 | 0.0 | Validation only |
+| data/raw/un_comtrade/*/availability | Comtrade publication listings with release dates | 43 | 3.6 | Integrated |
+| data/raw/reference | Comtrade reporter, partner, unit and HS reference files | 7 | 6.1 | Integrated |
+| data/raw/oil_prices | EIA Brent and WTI monthly history | 2 | 0.1 | Integrated |
+| data/raw/gpr | Caldara-Iacoviello Geopolitical Risk data | 1 | 2.7 | Integrated |
+| data/raw/fx | BIS monthly exchange rates | 1 | 9.7 | Integrated |
+| data/raw/macroeconomic | IMF CPI and World Bank annual indicators | 49 | 24.4 | Integrated |
+| data/raw/energy_balance | Kyrgyz Fuel and Energy Balance, 2024 edition | 1 | 0.1 | Validation only |
+| data/raw/official_kg | NSC annual import values and monthly express reports | 23 | 2.9 | Validation only |
+| data/analytical | Phase 1 datasets A-D | 7 | 18.5 | Derived |
+| data/research | Phase 2 research datasets | 9 | 6.4 | Derived |
+| ../pilot_evidence | 1 Nov 2026 pilot downloads and scripts | 334 | 20.5 | Superseded; reproduction check only |
