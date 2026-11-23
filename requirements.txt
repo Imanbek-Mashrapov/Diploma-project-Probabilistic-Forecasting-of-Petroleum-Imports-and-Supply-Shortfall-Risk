@@ -14,3 +14,5 @@ ruptures>=1.1
 matplotlib>=3.8
 pytest>=8
 pgserver>=0.1  # optional: embedded PostgreSQL for tests/db_smoke.py
+ipykernel>=6      # notebooks/01_eda.ipynb
+nbconvert>=7

@@ -86,6 +86,12 @@ To take a new data vintage, change `snapshot_id` in `config/settings.yaml`. Olde
 
 Notebooks from the original plan were replaced by `run.py` stages and generated reports, which rerun without manual steps.
 
+The exception is [notebooks/01_eda.ipynb](notebooks/01_eda.ipynb), an exploratory data analysis of `data/research/` with written observations and modelling implications. It is saved with its outputs; an HTML copy and its figures are in `reports/eda_notebook/`. To rerun it:
+
+```bash
+.venv/Scripts/python -m jupyter nbconvert --to notebook --execute --inplace notebooks/01_eda.ipynb
+```
+
 ## Outputs
 
 | File in `data/analytical/` | Grain |
