@@ -1,0 +1,19 @@
+series,scope,frequency,countries,first,last,pct_window_covered
+GPR,global,M,all,201001,202609,100.0
+GPRA,global,M,all,201001,202609,100.0
+GPRC_CHN,global,M,all,201001,202609,100.0
+GPRC_RUS,global,M,all,201001,202609,100.0
+GPRC_TUR,global,M,all,201001,202609,100.0
+GPRC_UKR,global,M,all,201001,202609,100.0
+GPRT,global,M,all,201001,202609,100.0
+brent_usd_bbl,global,M,all,201001,202609,100.0
+wti_usd_bbl,global,M,all,201001,202609,100.0
+fx_lcu_per_usd_avg,country,M,27 of 28,201001,202609,93.39285714285714
+cpi_index,country,M,27 of 28,201001,202610,93.18877551020408
+gpr_country,country,M,2 of 28,201001,202609,7.142857142857143
+cpi_inflation_pct,country,A,27 of 28,2010,2025,125.5952380952381
+fx_official_lcu_per_usd,country,A,28 of 28,2010,2025,125.5952380952381
+gdp_current_usd,country,A,28 of 28,2010,2025,133.33333333333334
+gdp_per_capita_usd,country,A,28 of 28,2010,2025,133.33333333333334
+industry_share_gdp,country,A,28 of 28,2010,2025,132.4404761904762
+population,country,A,28 of 28,2010,2025,133.33333333333334

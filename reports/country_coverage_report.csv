@@ -1,0 +1,44 @@
+country,iso3,landlocked_lldc,group,importer_type_provisional,any_monthly_first,any_monthly_last,published_months_in_window,gasoline_months,gasoline_first,gasoline_last,gasoline_mass_share,gasoline_median_t,gasoline_max_gap,middle_heavy_months,middle_heavy_first,middle_heavy_last,middle_heavy_mass_share,middle_heavy_median_t,middle_heavy_max_gap,product_split_suspect,tier,tier_basis_product,exclusion_reason,tier_final,tier_changed
+Andorra,AND,0,europe,strict_importer,200601.0,202605.0,137,137,201501.0,202605.0,1.0,1851.2,0.0,137,201501.0,202605.0,1.0,8499.2,0.0,False,Tier 1,gasoline,,Tier 1,False
+Armenia,ARM,1,caucasus,strict_importer,201001.0,202608.0,139,137,201501.0,202608.0,0.986,15183.3,2.0,139,201501.0,202608.0,1.0,19360.6,1.0,False,Tier 1,gasoline,,Tier 1,False
+Azerbaijan,AZE,1,caucasus,producer,201301.0,202608.0,140,130,201501.0,202608.0,0.935,9275.0,2.0,139,201501.0,202608.0,0.993,12287.9,1.0,False,Tier 1,middle_heavy,,Tier 1,False
+Burkina Faso,BFA,1,africa,strict_importer,200501.0,202412.0,120,120,201501.0,202412.0,1.0,36102.8,0.0,120,201501.0,202412.0,1.0,81107.0,0.0,False,Tier 1,gasoline,,Tier 1,False
+Bolivia,BOL,1,south_america,producer,200001.0,202608.0,140,139,201501.0,202608.0,1.0,56359.8,1.0,140,201501.0,202608.0,1.0,63488.1,0.0,False,Tier 1,gasoline,,Tier 1,False
+Switzerland,CHE,0,europe,refiner,200001.0,202608.0,140,140,201501.0,202608.0,1.0,127458.3,0.0,117,201501.0,202608.0,0.836,412794.9,7.0,False,Tier 1,gasoline,,Tier 1,False
+Hungary,HUN,0,europe,refiner,201001.0,202608.0,140,137,201501.0,202608.0,0.979,68819.9,1.0,125,201505.0,202608.0,0.893,60043.8,4.0,False,Tier 1,gasoline,,Tier 1,False
+Kyrgyzstan,KGZ,1,focus,strict_importer,201101.0,202608.0,136,136,201501.0,202608.0,1.0,42434.7,2.0,134,201501.0,202608.0,0.985,59813.0,2.0,False,Tier 1,gasoline,,Tier 1,False
+Luxembourg,LUX,0,europe,strict_importer,201001.0,202607.0,137,94,201601.0,202607.0,0.686,39888.9,10.0,135,201501.0,202607.0,0.985,116684.5,2.0,False,Tier 1,middle_heavy,,Tier 1,False
+Moldova,MDA,1,europe,strict_importer,201001.0,202606.0,138,136,201501.0,202606.0,0.986,16288.3,1.0,132,201505.0,202606.0,0.957,58672.7,1.0,False,Tier 1,gasoline,,Tier 1,False
+North Macedonia,MKD,1,europe,strict_importer,200001.0,202608.0,140,137,201501.0,202608.0,0.979,8539.4,1.0,140,201501.0,202608.0,1.0,71317.3,0.0,False,Tier 1,gasoline,,Tier 1,False
+Paraguay,PRY,1,south_america,strict_importer,200001.0,202603.0,135,135,201501.0,202603.0,1.0,51987.9,0.0,135,201501.0,202603.0,1.0,120648.1,0.0,False,Tier 1,gasoline,,Tier 1,False
+Burundi,BDI,1,africa,strict_importer,201001.0,202504.0,102,101,201501.0,202504.0,1.0,7736.8,13.0,102,201501.0,202504.0,1.0,10170.7,12.0,False,Tier 2,gasoline,,Tier 2,False
+Belarus,BLR,0,europe,refiner,201101.0,202203.0,87,75,201501.0,202104.0,0.987,24787.7,1.0,72,201501.0,202104.0,0.947,81782.5,2.0,False,Tier 2,gasoline,,Tier 2,False
+Botswana,BWA,1,africa,strict_importer,201001.0,202312.0,96,95,201501.0,202312.0,0.99,92771.7,12.0,84,201701.0,202312.0,1.0,102.7,0.0,True,Tier 2,gasoline,,Tier 2,False
+Kazakhstan,KAZ,1,asia_central,producer,201001.0,202604.0,126,126,201501.0,202604.0,1.0,9176.8,10.0,126,201501.0,202604.0,1.0,52312.5,10.0,False,Tier 2,gasoline,,Tier 2,False
+Lao PDR,LAO,1,asia_se,strict_importer,201501.0,202312.0,96,96,201501.0,202312.0,1.0,17178.3,12.0,96,201501.0,202312.0,1.0,48869.2,12.0,False,Tier 2,gasoline,,Tier 2,False
+Lesotho,LSO,1,africa,strict_importer,200001.0,202112.0,84,84,201501.0,202112.0,1.0,18494.3,0.0,84,201501.0,202112.0,1.0,65.2,0.0,True,Tier 2,gasoline,,Tier 2,False
+Mongolia,MNG,1,asia_east,strict_importer,201601.0,202112.0,72,72,201601.0,202112.0,1.0,39111.9,0.0,72,201601.0,202112.0,1.0,85460.2,0.0,False,Tier 2,gasoline,,Tier 2,False
+Malawi,MWI,1,africa,strict_importer,200001.0,202402.0,98,98,201501.0,202402.0,1.0,17034.8,12.0,98,201501.0,202402.0,1.0,508.9,12.0,True,Tier 2,gasoline,,Tier 2,False
+Rwanda,RWA,1,africa,strict_importer,201001.0,202212.0,96,96,201501.0,202212.0,1.0,18865.4,0.0,96,201501.0,202212.0,1.0,34857.6,0.0,False,Tier 2,gasoline,,Tier 2,False
+Serbia,SRB,0,europe,refiner,201001.0,202608.0,140,131,201501.0,202608.0,0.936,7042.1,2.0,129,201501.0,202608.0,0.921,51991.2,7.0,False,Tier 2,gasoline,,Tier 1,True
+Slovakia,SVK,0,europe,refiner,201001.0,202605.0,137,101,201501.0,202604.0,0.737,21155.5,3.0,128,201501.0,202605.0,0.934,40488.2,3.0,False,Tier 2,middle_heavy,,Tier 1,True
+Eswatini,SWZ,1,africa,strict_importer,201001.0,201912.0,60,60,201501.0,201912.0,1.0,24257.4,0.0,60,201501.0,201912.0,1.0,23.9,0.0,True,Tier 2,gasoline,,Tier 2,False
+Uzbekistan,UZB,1,asia_central,producer,201901.0,202607.0,90,87,201901.0,202607.0,0.967,35225.0,1.0,86,201901.0,202607.0,0.956,75163.8,1.0,False,Tier 2,gasoline,,Tier 2,False
+Zambia,ZMB,1,africa,refiner,200801.0,202312.0,108,107,201501.0,202312.0,0.991,21712.9,1.0,108,201501.0,202312.0,1.0,48623.7,0.0,False,Tier 2,gasoline,,Tier 2,False
+Zimbabwe,ZWE,1,africa,strict_importer,200001.0,202501.0,119,119,201501.0,202501.0,1.0,32903.5,2.0,119,201501.0,202501.0,1.0,74844.7,2.0,False,Tier 2,gasoline,,Tier 2,False
+Afghanistan,AFG,1,asia_central,strict_importer,,,0,0,,,0.0,0.0,,0,,,0.0,0.0,,False,Tier 3,,No monthly Comtrade data published,Tier 3,False
+Austria,AUT,0,europe,refiner,201001.0,202212.0,43,24,201511.0,202212.0,0.558,76511.5,53.0,13,201610.0,202212.0,0.302,203576.9,62.0,False,Tier 3,,Only 24 usable months in the window,Tier 3,False
+Bhutan,BTN,1,asia_south,strict_importer,202501.0,202512.0,12,12,202501.0,202512.0,1.0,8066.6,0.0,12,202501.0,202512.0,1.0,21421.1,0.0,False,Tier 3,,Only 12 usable months in the window,Tier 3,False
+Central African Republic,CAF,1,africa,strict_importer,201001.0,201112.0,0,0,,,0.0,0.0,,0,,,0.0,0.0,,False,Tier 3,,No monthly Comtrade data published,Tier 3,False
+Czechia,CZE,0,europe,refiner,201001.0,202607.0,138,103,201501.0,202607.0,0.746,62335.3,8.0,100,201603.0,202607.0,0.725,199419.8,18.0,False,Tier 3,,Series too small or mass too incomplete,Tier 1,True
+Ethiopia,ETH,1,africa,strict_importer,200001.0,201812.0,48,48,201501.0,201812.0,1.0,62.7,0.0,48,201501.0,201812.0,1.0,201146.3,0.0,True,Tier 3,,Only 48 usable months in the window,Tier 3,False
+Liechtenstein,LIE,0,europe,strict_importer,,,0,0,,,0.0,0.0,,0,,,0.0,0.0,,False,Tier 3,,Not a Comtrade reporter; reported within Switzerland,Tier 3,False
+Mali,MLI,1,africa,strict_importer,201101.0,201212.0,0,0,,,0.0,0.0,,0,,,0.0,0.0,,False,Tier 3,,No monthly Comtrade data published,Tier 3,False
+Niger,NER,1,africa,producer,201401.0,201603.0,3,2,201601.0,201602.0,1.0,237.1,0.0,3,201601.0,201603.0,1.0,1943.4,0.0,False,Tier 3,,Only 3 usable months in the window,Tier 3,False
+Nepal,NPL,1,asia_south,strict_importer,,,0,0,,,0.0,0.0,,0,,,0.0,0.0,,False,Tier 3,,No monthly Comtrade data published,Tier 3,False
+San Marino,SMR,0,europe,strict_importer,,,0,0,,,0.0,0.0,,0,,,0.0,0.0,,False,Tier 3,,No monthly Comtrade data published,Tier 3,False
+South Sudan,SSD,1,africa,producer,202501.0,202603.0,15,4,202502.0,202510.0,1.0,10.4,4.0,15,202501.0,202603.0,1.0,600.6,0.0,True,Tier 3,,Only 15 usable months in the window,Tier 3,False
+Chad,TCD,1,africa,producer,,,0,0,,,0.0,0.0,,0,,,0.0,0.0,,False,Tier 3,,No monthly Comtrade data published,Tier 3,False
+Tajikistan,TJK,1,asia_central,strict_importer,,,0,0,,,0.0,0.0,,0,,,0.0,0.0,,False,Tier 3,,No monthly Comtrade data published,Tier 3,False
+Turkmenistan,TKM,1,asia_central,producer,,,0,0,,,0.0,0.0,,0,,,0.0,0.0,,False,Tier 3,,No monthly Comtrade data published,Tier 3,False
+Uganda,UGA,1,africa,strict_importer,201501.0,202012.0,51,51,201501.0,202012.0,1.0,52932.1,12.0,51,201501.0,202012.0,1.0,82975.7,12.0,False,Tier 3,,Only 51 usable months in the window,Tier 3,False
