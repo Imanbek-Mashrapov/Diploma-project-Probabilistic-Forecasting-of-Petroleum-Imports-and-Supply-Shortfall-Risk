@@ -56,6 +56,12 @@ Phase 2 follows, and writes only to `data/research/`, `docs/` and `reports/phase
 .venv/Scripts/python run.py phase2
 ```
 
+Then compare the sourced shock-event calendar in `config/shock_events.csv` with the shortfall labels. See [docs/shock_events.md](docs/shock_events.md); results go to `reports/phase2/event_validation.md`:
+
+```bash
+.venv/Scripts/python run.py events
+```
+
 `process` runs before `panel` because the panel reporter list comes from the coverage report. `run.py load` needs `DATABASE_URL` and a database with `sql/schema.sql` applied.
 
 To take a new data vintage, change `snapshot_id` in `config/settings.yaml`. Older snapshots stay untouched.

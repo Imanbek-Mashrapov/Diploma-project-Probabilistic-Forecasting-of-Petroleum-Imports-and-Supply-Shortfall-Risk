@@ -1,6 +1,7 @@
 """Pipeline entry point: python run.py <stage>
 
 Stages, in order: refs, availability, pilot, audit, panel, external, process, reports, load
+Phase 2: validation_pull, phase2, events
 """
 import argparse
 import json
@@ -137,6 +138,10 @@ def main():
     elif stage == "phase2":
         from src.research.pipeline import run
         run(settings)
+    elif stage == "events":
+        from src.research.events import run as run_events
+        from src.utils.config import DATA, REPORTS
+        run_events(pd.read_parquet(DATA / "research" / "petroleum_imports_monthly.parquet"), pd.read_csv(REPORTS / "series_eligibility.csv"))
     elif stage == "load":
         from src.database.load import load_all
         load_all()
