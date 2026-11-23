@@ -1,0 +1,302 @@
+iso3,country,product_group,first_month,last_month,observed_months,missing_months,coverage_pct,longest_gap,reporting_interruptions,rejected_months,value_no_mass_months,no_record_months,outside_span_months,median_t,exports_to_imports,supplier_months,bilateral_available,partner_vs_world_only,fx_months,cpi_months,published_months,classification_flag,annual_mismatch_years,median_lag_days_2021_on,quality_tier,reason_or_limits
+AFG,Afghanistan,biodiesel_blend,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,137,181,0,,,,Tier 3,Country publishes no monthly data
+AND,Andorra,biodiesel_blend,201501.0,202605.0,137,3,97.85714285714286,0.0,0,0,0,0,3,506.3,0.0,0,False,partner,0,0,137,,,349.0,Tier 3,"Context series, not a forecasting target"
+ARM,Armenia,biodiesel_blend,201506.0,202304.0,5,135,3.5714285714285716,45.0,1,0,0,134,0,0.003,0.0,0,False,partner,200,201,139,,,73.0,Tier 3,"Context series, not a forecasting target"
+AUT,Austria,biodiesel_blend,,,0,140,0.0,,53,0,0,43,44,0.0,,0,False,none,201,201,43,,,298.5,Tier 3,No monthly data for this product
+AZE,Azerbaijan,biodiesel_blend,201606.0,202603.0,24,116,17.142857142857142,13.0,0,8,0,108,0,0.0575,0.0,0,False,partner,199,195,140,,,63.0,Tier 3,"Context series, not a forecasting target"
+BDI,Burundi,biodiesel_blend,201610.0,202503.0,5,135,3.5714285714285716,64.0,22,2,0,95,16,0.84,0.00024129435371212312,0,False,partner,199,201,102,,,674.0,Tier 3,"Context series, not a forecasting target"
+BFA,Burkina Faso,biodiesel_blend,201602.0,202411.0,23,117,16.428571428571427,19.0,0,6,0,91,20,5.0,2.9963572856427402e-05,0,False,partner,200,201,120,,,279.5,Tier 3,"Context series, not a forecasting target"
+BLR,Belarus,biodiesel_blend,201507.0,202011.0,9,131,6.428571428571429,20.0,0,2,0,76,53,0.853,0.0,0,False,partner,201,201,87,,,67.0,Tier 3,"Context series, not a forecasting target"
+BOL,Bolivia,biodiesel_blend,202506.0,202506.0,1,139,0.7142857142857143,0.0,0,0,0,139,0,28.220523,0.0,0,False,partner,196,198,140,,,89.0,Tier 3,"Context series, not a forecasting target"
+BTN,Bhutan,biodiesel_blend,,,0,140,0.0,,0,0,0,12,128,0.0,,0,False,none,200,165,12,,,201.0,Tier 3,No monthly data for this product
+BWA,Botswana,biodiesel_blend,201501.0,202311.0,35,105,25.0,27.0,12,21,0,40,32,0.35,1.4194883402812917,0,False,partner,200,200,96,fuel_lines_suspect,,297.0,Tier 3,"Context series, not a forecasting target"
+CAF,Central African Republic,biodiesel_blend,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,196,0,,,,Tier 3,Country publishes no monthly data
+CHE,Switzerland,biodiesel_blend,201502.0,202608.0,113,27,80.71428571428571,4.0,0,10,0,17,0,0.952,0.0039452059458280715,0,False,partner,201,201,140,,,36.0,Tier 3,"Context series, not a forecasting target"
+CZE,Czechia,biodiesel_blend,201501.0,202607.0,138,2,98.57142857142857,1.0,1,0,0,0,1,43705.611702,0.984905442844098,0,False,partner,201,201,138,,,56.0,Tier 3,"Context series, not a forecasting target"
+ETH,Ethiopia,biodiesel_blend,,,0,140,0.0,,0,0,0,48,92,0.0,,0,False,none,189,200,48,fuel_lines_suspect,,,Tier 3,No monthly data for this product
+HUN,Hungary,biodiesel_blend,201501.0,202608.0,139,1,99.28571428571429,1.0,0,0,1,0,0,82885.525,0.409799915647282,0,False,partner,201,201,140,,,84.0,Tier 3,"Context series, not a forecasting target"
+KAZ,Kazakhstan,biodiesel_blend,201504.0,202603.0,41,99,29.285714285714285,17.0,10,19,0,66,4,0.51221,263.75856653740993,0,False,partner,200,201,126,,,492.0,Tier 3,"Context series, not a forecasting target"
+KGZ,Kyrgyzstan,biodiesel_blend,201510.0,202608.0,19,121,13.571428571428571,28.0,4,6,0,111,0,2.0,4.096265470311595,0,False,partner,199,198,136,,,67.5,Tier 3,"Context series, not a forecasting target"
+LAO,Lao PDR,biodiesel_blend,201501.0,202009.0,21,119,15.0,35.0,12,0,0,75,32,62911.707887,0.009106692336323375,0,False,partner,198,202,96,,,825.0,Tier 3,"Context series, not a forecasting target"
+LIE,Liechtenstein,biodiesel_blend,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,0,0,0,,,,Tier 3,Not a Comtrade reporter; reported within Switzerland
+LSO,Lesotho,biodiesel_blend,201503.0,202112.0,69,71,49.285714285714285,3.0,0,15,0,0,56,12.500378000000001,0.00040953978425286084,0,False,partner,200,200,84,fuel_lines_suspect,,617.5,Tier 3,"Context series, not a forecasting target"
+LUX,Luxembourg,biodiesel_blend,201501.0,202607.0,137,3,97.85714285714286,2.0,2,0,0,0,1,53910.493500000004,1.3738350600591187e-06,0,False,partner,201,201,137,,,79.0,Tier 3,"Context series, not a forecasting target"
+MDA,Moldova,biodiesel_blend,201502.0,202606.0,67,73,47.857142857142854,21.0,0,0,0,71,2,355.681,0.0,0,False,partner,200,199,138,,,112.0,Tier 3,"Context series, not a forecasting target"
+MKD,North Macedonia,biodiesel_blend,201511.0,202601.0,10,130,7.142857142857143,42.0,0,4,0,126,0,0.035013,0.0,0,False,partner,201,200,140,,,87.0,Tier 3,"Context series, not a forecasting target"
+MLI,Mali,biodiesel_blend,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,201,0,,,,Tier 3,Country publishes no monthly data
+MNG,Mongolia,biodiesel_blend,201601.0,202110.0,57,83,40.714285714285715,3.0,0,5,0,10,68,9.71824,3.6363773144316146e-07,0,False,partner,200,201,72,,,353.0,Tier 3,"Context series, not a forecasting target"
+MWI,Malawi,biodiesel_blend,201506.0,202401.0,40,100,28.571428571428573,16.0,12,8,0,50,30,0.215,0.0,0,False,partner,177,200,98,fuel_lines_suspect,,455.5,Tier 3,"Context series, not a forecasting target"
+NER,Niger,biodiesel_blend,,,0,140,0.0,,12,0,0,3,125,0.0,,0,False,none,200,201,3,,,,Tier 3,No monthly data for this product
+NPL,Nepal,biodiesel_blend,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,199,195,0,,,,Tier 3,Country publishes no monthly data
+PRY,Paraguay,biodiesel_blend,201501.0,202309.0,31,109,22.142857142857142,9.0,0,0,0,104,5,4.25,0.010718843565324418,0,False,partner,195,201,135,,,39.0,Tier 3,"Context series, not a forecasting target"
+RWA,Rwanda,biodiesel_blend,201601.0,202204.0,10,130,7.142857142857143,26.0,0,6,0,80,44,0.0085,22.46345604440454,0,False,partner,199,201,96,,,216.0,Tier 3,"Context series, not a forecasting target"
+SMR,San Marino,biodiesel_blend,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,192,0,,,,Tier 3,Country publishes no monthly data
+SRB,Serbia,biodiesel_blend,201501.0,202606.0,101,39,72.14285714285714,4.0,0,33,0,6,0,0.17400000000000002,0.25495553763472534,0,False,partner,201,192,140,,,59.5,Tier 3,"Context series, not a forecasting target"
+SSD,South Sudan,biodiesel_blend,,,0,140,0.0,,0,0,0,15,125,0.0,,0,False,none,167,185,15,fuel_lines_suspect,,285.0,Tier 3,No monthly data for this product
+SVK,Slovakia,biodiesel_blend,201501.0,202605.0,137,3,97.85714285714286,0.0,0,0,0,0,3,44180.63,1.4924872412105277,0,False,partner,201,198,137,,,84.0,Tier 3,"Context series, not a forecasting target"
+SWZ,Eswatini,biodiesel_blend,201501.0,201912.0,58,82,41.42857142857143,1.0,0,2,0,0,80,1.7655,1.3476911828097906,0,False,partner,200,129,60,fuel_lines_suspect,,,Tier 3,"Context series, not a forecasting target"
+TCD,Chad,biodiesel_blend,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,200,0,,,,Tier 3,Country publishes no monthly data
+TJK,Tajikistan,biodiesel_blend,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,198,199,0,,,,Tier 3,Country publishes no monthly data
+TKM,Turkmenistan,biodiesel_blend,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,201,0,0,,,,Tier 3,Country publishes no monthly data
+UGA,Uganda,biodiesel_blend,,,0,140,0.0,,21,0,0,51,68,0.0,,0,False,none,197,201,51,,,,Tier 3,No monthly data for this product
+UZB,Uzbekistan,biodiesel_blend,202002.0,202607.0,8,132,5.714285714285714,31.0,1,4,0,78,49,0.1055,0.0,0,False,partner,201,200,90,,,74.0,Tier 3,"Context series, not a forecasting target"
+ZMB,Zambia,biodiesel_blend,201502.0,202311.0,56,84,40.0,4.0,0,34,0,18,32,0.0295,0.08784931571688939,0,False,partner,200,200,108,,,561.5,Tier 3,"Context series, not a forecasting target"
+ZWE,Zimbabwe,biodiesel_blend,201811.0,202501.0,37,103,26.428571428571427,14.0,2,5,0,77,19,7.371,0.0,0,False,partner,59,164,119,,,437.0,Tier 3,"Context series, not a forecasting target"
+AFG,Afghanistan,crude,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,137,181,0,,,,Tier 3,Country publishes no monthly data
+AND,Andorra,crude,201904.0,202511.0,7,133,5.0,21.0,0,2,0,128,3,0.2,0.0010970084579352108,0,False,partner,0,0,137,,,349.0,Tier 3,"Context series, not a forecasting target"
+ARM,Armenia,crude,202309.0,202406.0,5,135,3.5714285714285716,3.0,1,0,0,134,0,68.52,2.37016974515769e-06,0,False,partner,200,201,139,,,73.0,Tier 3,"Context series, not a forecasting target"
+AUT,Austria,crude,,,0,140,0.0,,53,0,0,43,44,0.0,,0,False,none,201,201,43,,,298.5,Tier 3,No monthly data for this product
+AZE,Azerbaijan,crude,201504.0,202608.0,100,40,71.42857142857143,10.0,0,3,1,36,0,37498.9555,32.752285144362126,0,False,partner,199,195,140,,,63.0,Tier 3,"Context series, not a forecasting target"
+BDI,Burundi,crude,201805.0,202111.0,4,136,2.857142857142857,16.0,22,0,1,97,16,0.01225,0.0078010726474890294,0,False,partner,199,201,102,,,674.0,Tier 3,"Context series, not a forecasting target"
+BFA,Burkina Faso,crude,201809.0,202411.0,4,136,2.857142857142857,57.0,0,0,0,116,20,8.702,0.006198187030293638,0,False,partner,200,201,120,,,279.5,Tier 3,"Context series, not a forecasting target"
+BLR,Belarus,crude,201501.0,202104.0,76,64,54.285714285714285,0.0,0,0,0,11,53,1518635.0,0.08681500092298161,0,False,partner,201,201,87,,,67.0,Tier 3,"Context series, not a forecasting target"
+BOL,Bolivia,crude,201504.0,202608.0,47,93,33.57142857142857,21.0,0,3,0,90,0,1323.876724,4.235834668940922,0,False,partner,196,198,140,,,89.0,Tier 3,"Context series, not a forecasting target"
+BTN,Bhutan,crude,,,0,140,0.0,,0,0,0,12,128,0.0,,0,False,none,200,165,12,,,201.0,Tier 3,No monthly data for this product
+BWA,Botswana,crude,201501.0,202312.0,84,56,60.0,12.0,12,8,1,3,32,3.9662249999999997,0.009405254175228923,0,False,partner,200,200,96,fuel_lines_suspect,,297.0,Tier 3,"Context series, not a forecasting target"
+CAF,Central African Republic,crude,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,196,0,,,,Tier 3,Country publishes no monthly data
+CHE,Switzerland,crude,201501.0,202608.0,138,2,98.57142857142857,1.0,0,0,0,2,0,244127.5,1.4928340197430624e-07,0,False,partner,201,201,140,,,36.0,Tier 3,"Context series, not a forecasting target"
+CZE,Czechia,crude,201501.0,202607.0,138,2,98.57142857142857,1.0,1,0,0,0,1,607794.924604,0.0012541157342938164,0,False,partner,201,201,138,,,56.0,Tier 3,"Context series, not a forecasting target"
+ETH,Ethiopia,crude,,,0,140,0.0,,0,0,0,48,92,0.0,,0,False,none,189,200,48,fuel_lines_suspect,,,Tier 3,No monthly data for this product
+HUN,Hungary,crude,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,466273.22900000005,0.03044910757287581,0,False,partner,201,201,140,,,84.0,Tier 3,"Context series, not a forecasting target"
+KAZ,Kazakhstan,crude,201501.0,202512.0,63,77,45.0,18.0,10,2,5,56,4,632.463,3363.770287138964,0,False,partner,200,201,126,,,492.0,Tier 3,"Context series, not a forecasting target"
+KGZ,Kyrgyzstan,crude,201503.0,202608.0,49,91,35.0,17.0,4,0,1,86,0,367.249,2.1880968367706446,0,False,partner,199,198,136,,,67.5,Tier 3,"Context series, not a forecasting target"
+LAO,Lao PDR,crude,201501.0,202312.0,93,47,66.42857142857143,12.0,12,3,0,0,32,208.151363,0.0003250171327697553,0,False,partner,198,202,96,,,825.0,Tier 3,"Context series, not a forecasting target"
+LIE,Liechtenstein,crude,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,0,0,0,,,,Tier 3,Not a Comtrade reporter; reported within Switzerland
+LSO,Lesotho,crude,201501.0,202112.0,60,80,42.857142857142854,3.0,0,14,1,9,56,6.4488835,8.238159086876079e-05,0,False,partner,200,200,84,fuel_lines_suspect,,617.5,Tier 3,"Context series, not a forecasting target"
+LUX,Luxembourg,crude,201501.0,202606.0,97,43,69.28571428571429,7.0,2,33,2,5,1,0.170026,0.003979835927385389,0,False,partner,201,201,137,,,79.0,Tier 3,"Context series, not a forecasting target"
+MDA,Moldova,crude,201502.0,202603.0,28,112,20.0,31.0,0,3,0,107,2,22.1535,12.211774404313175,0,False,partner,200,199,138,,,112.0,Tier 3,"Context series, not a forecasting target"
+MKD,North Macedonia,crude,201610.0,201901.0,2,138,1.4285714285714286,26.0,0,0,0,138,0,0.053709,0.0,0,False,partner,201,200,140,,,87.0,Tier 3,"Context series, not a forecasting target"
+MLI,Mali,crude,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,201,0,,,,Tier 3,Country publishes no monthly data
+MNG,Mongolia,crude,201601.0,201802.0,5,135,3.5714285714285716,19.0,0,0,0,67,68,470.959,1383.7547792676194,0,False,partner,200,201,72,,,353.0,Tier 3,"Context series, not a forecasting target"
+MWI,Malawi,crude,201502.0,202311.0,38,102,27.142857142857142,28.0,12,10,2,48,30,0.13,0.13294821653146113,0,False,partner,177,200,98,fuel_lines_suspect,,455.5,Tier 3,"Context series, not a forecasting target"
+NER,Niger,crude,,,0,140,0.0,,12,0,0,3,125,0.0,,0,False,none,200,201,3,,,,Tier 3,No monthly data for this product
+NPL,Nepal,crude,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,199,195,0,,,,Tier 3,Country publishes no monthly data
+PRY,Paraguay,crude,201501.0,202603.0,39,101,27.857142857142858,14.0,0,16,1,79,5,0.19,0.0,0,False,partner,195,201,135,,,39.0,Tier 3,"Context series, not a forecasting target"
+RWA,Rwanda,crude,201506.0,202112.0,7,133,5.0,26.0,0,5,0,84,44,0.05,1.0250569476082003,0,False,partner,199,201,96,,,216.0,Tier 3,"Context series, not a forecasting target"
+SMR,San Marino,crude,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,192,0,,,,Tier 3,Country publishes no monthly data
+SRB,Serbia,crude,201501.0,202608.0,139,1,99.28571428571429,1.0,0,0,0,1,0,222802.734,0.00010609036478368238,0,False,partner,201,192,140,,,59.5,Tier 3,"Context series, not a forecasting target"
+SSD,South Sudan,crude,,,0,140,0.0,,0,0,0,15,125,0.0,,0,False,none,167,185,15,fuel_lines_suspect,,285.0,Tier 3,No monthly data for this product
+SVK,Slovakia,crude,201501.0,202605.0,137,3,97.85714285714286,0.0,0,0,0,0,3,470924.047,0.003145150278377831,0,False,partner,201,198,137,,,84.0,Tier 3,"Context series, not a forecasting target"
+SWZ,Eswatini,crude,201501.0,201912.0,47,93,33.57142857142857,3.0,0,6,0,7,80,0.4585,0.07397960214815129,0,False,partner,200,129,60,fuel_lines_suspect,,,Tier 3,"Context series, not a forecasting target"
+TCD,Chad,crude,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,200,0,,,,Tier 3,Country publishes no monthly data
+TJK,Tajikistan,crude,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,198,199,0,,,,Tier 3,Country publishes no monthly data
+TKM,Turkmenistan,crude,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,201,0,0,,,,Tier 3,Country publishes no monthly data
+UGA,Uganda,crude,,,0,140,0.0,,21,0,0,51,68,0.0,,0,False,none,197,201,51,,,,Tier 3,No monthly data for this product
+UZB,Uzbekistan,crude,201901.0,202607.0,90,50,64.28571428571429,1.0,1,0,0,0,49,30811.386,5.342817549994799e-05,0,False,partner,201,200,90,,,74.0,Tier 3,"Context series, not a forecasting target"
+ZMB,Zambia,crude,201502.0,202302.0,66,74,47.142857142857146,12.0,0,16,0,26,32,519.0887565,0.126887712104064,0,False,partner,200,200,108,,,561.5,Tier 3,"Context series, not a forecasting target"
+ZWE,Zimbabwe,crude,201501.0,202501.0,74,66,52.857142857142854,6.0,2,13,0,32,19,0.845,0.0001012602268057545,0,False,partner,59,164,119,,,437.0,Tier 3,"Context series, not a forecasting target"
+AND,Andorra,gasoline,201501.0,202605.0,136,4,97.14285714285714,1.0,0,1,0,0,3,1853.4745,1.4499306343404941e-05,137,True,partner,0,0,137,,,349.0,Tier 1,
+ARM,Armenia,gasoline,201501.0,202608.0,139,1,99.28571428571429,1.0,1,0,0,0,0,15075.8671,8.525759727677012e-05,139,True,partner,200,201,139,,,73.0,Tier 1,
+AZE,Azerbaijan,gasoline,201501.0,202608.0,130,10,92.85714285714286,2.0,0,9,0,1,0,11151.115625000002,0.12521441855704266,139,True,partner,199,195,140,,,63.0,Tier 1,
+BOL,Bolivia,gasoline,201501.0,202608.0,139,1,99.28571428571429,1.0,0,0,0,1,0,56359.77134,0.0010115027674062155,139,True,partner,196,198,140,,,89.0,Tier 1,
+CHE,Switzerland,gasoline,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,127458.31349999999,0.0048342801703406294,140,True,partner,201,201,140,,,36.0,Tier 1,
+HUN,Hungary,gasoline,201501.0,202608.0,139,1,99.28571428571429,1.0,0,0,1,0,0,68819.945154,0.38424570621610327,116,True,partner,201,201,140,,,84.0,Tier 1,
+KGZ,Kyrgyzstan,gasoline,201501.0,202608.0,133,7,95.0,2.0,4,3,0,0,0,42269.570999999996,0.04381678770174182,136,True,partner,199,198,136,,,67.5,Tier 1,
+LUX,Luxembourg,gasoline,201501.0,202607.0,137,3,97.85714285714286,2.0,2,0,0,0,1,38878.577374,9.579300641951028e-05,137,True,partner,201,201,137,,2022,79.0,Tier 1,monthly sum off from annual data by over 25% in 2022
+MDA,Moldova,gasoline,201501.0,202606.0,138,2,98.57142857142857,0.0,0,0,0,0,2,16288.273999999998,0.20881211644323772,138,True,partner,200,199,138,,,112.0,Tier 1,
+MKD,North Macedonia,gasoline,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,8630.453000000001,0.05875682004940422,140,True,partner,201,200,140,,,87.0,Tier 1,
+PRY,Paraguay,gasoline,201501.0,202603.0,135,5,96.42857142857143,0.0,0,0,0,0,5,51987.898,0.0014693186226019028,135,True,partner,195,201,135,,,39.0,Tier 1,
+BDI,Burundi,gasoline,201501.0,202504.0,99,41,70.71428571428571,13.0,22,2,0,1,16,7857.209,0.0066219135956202095,101,True,partner,199,201,102,,,674.0,Tier 2,99 months; ends 202504; coverage 71%; gap of 13 months
+BFA,Burkina Faso,gasoline,201501.0,202412.0,120,20,85.71428571428571,0.0,0,0,0,0,20,36102.775,0.003104371926165169,120,True,partner,200,201,120,,,279.5,Tier 2,ends 202412
+CZE,Czechia,gasoline,201501.0,202607.0,138,2,98.57142857142857,1.0,1,0,0,0,1,62398.796537,0.8119426062551303,138,True,partner,201,201,138,,,56.0,Tier 2,exports 0.81 of imports
+KAZ,Kazakhstan,gasoline,201501.0,202604.0,123,17,87.85714285714286,10.0,10,3,0,0,4,10985.33107,0.30391381598096096,126,True,partner,200,201,126,,,492.0,Tier 2,gap of 10 months
+LAO,Lao PDR,gasoline,201501.0,202312.0,96,44,68.57142857142857,12.0,12,0,0,0,32,17178.3425,0.0029078075548622535,96,True,partner,198,202,96,,,825.0,Tier 2,96 months; ends 202312; coverage 69%; gap of 12 months
+RWA,Rwanda,gasoline,201501.0,202212.0,96,44,68.57142857142857,0.0,0,0,0,0,44,18865.429500000002,0.277200140876176,96,True,partner,199,201,96,,,216.0,Tier 2,96 months; ends 202212; coverage 69%
+SRB,Serbia,gasoline,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,7041.824850499999,1.3485692626967127,140,True,partner,201,192,140,,2015,59.5,Tier 2,exports 1.35 of imports; monthly sum off from annual data by over 25% in 2015
+SVK,Slovakia,gasoline,201501.0,202605.0,137,3,97.85714285714286,0.0,0,0,0,0,3,20546.63599999999,3.527255142784311,137,True,partner,201,198,137,,,84.0,Tier 2,exports 3.53 of imports
+UZB,Uzbekistan,gasoline,201901.0,202607.0,89,51,63.57142857142857,1.0,1,1,0,0,49,35225.041667000005,0.3499907453005618,90,True,partner,201,200,90,,,74.0,Tier 2,89 months; coverage 64%
+ZMB,Zambia,gasoline,201501.0,202312.0,107,33,76.42857142857143,1.0,0,1,0,0,32,21293.00084,3.6635305171446494e-05,108,True,partner,200,200,108,,,561.5,Tier 2,107 months; ends 202312; coverage 76%
+ZWE,Zimbabwe,gasoline,201501.0,202501.0,119,21,85.0,2.0,2,0,0,0,19,32903.492,2.325284955196314e-09,119,True,partner,59,164,119,,2020,437.0,Tier 2,119 months; ends 202501; monthly sum off from annual data by over 25% in 2020
+AFG,Afghanistan,gasoline,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,137,181,0,,,,Tier 3,Country publishes no monthly data
+AUT,Austria,gasoline,201511.0,202212.0,24,116,17.142857142857142,53.0,53,0,19,0,44,76511.48999999999,0.0,0,False,world only,201,201,43,,,298.5,Tier 3,Only 24 observed months
+BLR,Belarus,gasoline,201501.0,202104.0,76,64,54.285714285714285,0.0,0,0,0,11,53,24497.936,7.1661104365318025,76,True,partner,201,201,87,,,67.0,Tier 3,Only 76 observed months
+BTN,Bhutan,gasoline,202501.0,202512.0,12,128,8.571428571428571,0.0,0,0,0,0,128,8066.633,0.0,0,False,world only,200,165,12,,,201.0,Tier 3,Only 12 observed months
+BWA,Botswana,gasoline,201501.0,202312.0,95,45,67.85714285714286,12.0,12,1,0,0,32,92641.65965999999,0.0019763157408921837,96,True,partner,200,200,96,fuel_lines_suspect,,297.0,Tier 3,Fuels seem filed under another HS line
+CAF,Central African Republic,gasoline,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,196,0,,,,Tier 3,Country publishes no monthly data
+ETH,Ethiopia,gasoline,201501.0,201812.0,44,96,31.428571428571427,1.0,0,4,0,0,92,62.656895,0.0,0,False,world only,189,200,48,fuel_lines_suspect,,,Tier 3,Fuels seem filed under another HS line
+LIE,Liechtenstein,gasoline,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,0,0,0,,,,Tier 3,Not a Comtrade reporter; reported within Switzerland
+LSO,Lesotho,gasoline,201501.0,202112.0,84,56,60.0,0.0,0,0,0,0,56,18528.453937,0.00016863535888498037,84,True,partner,200,200,84,fuel_lines_suspect,,617.5,Tier 3,Fuels seem filed under another HS line
+MLI,Mali,gasoline,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,201,0,,,,Tier 3,Country publishes no monthly data
+MNG,Mongolia,gasoline,201601.0,202112.0,72,68,51.42857142857143,0.0,0,0,0,0,68,39111.8625,0.0,72,True,partner,200,201,72,,,353.0,Tier 3,Only 72 observed months
+MWI,Malawi,gasoline,201501.0,202402.0,98,42,70.0,12.0,12,0,0,0,30,17034.807050000003,1.7455604154571868e-05,98,True,partner,177,200,98,fuel_lines_suspect,,455.5,Tier 3,Fuels seem filed under another HS line
+NER,Niger,gasoline,201601.0,201602.0,2,138,1.4285714285714286,0.0,12,0,0,1,125,237.1105,0.0,0,False,world only,200,201,3,,,,Tier 3,Only 2 observed months
+NPL,Nepal,gasoline,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,199,195,0,,,,Tier 3,Country publishes no monthly data
+SMR,San Marino,gasoline,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,192,0,,,,Tier 3,Country publishes no monthly data
+SSD,South Sudan,gasoline,202502.0,202510.0,4,136,2.857142857142857,4.0,0,0,0,11,125,10.433,0.0,0,False,world only,167,185,15,fuel_lines_suspect,,285.0,Tier 3,Fuels seem filed under another HS line
+SWZ,Eswatini,gasoline,201501.0,201912.0,60,80,42.857142857142854,0.0,0,0,0,0,80,24257.41543,0.0011152478126428764,60,True,partner,200,129,60,fuel_lines_suspect,,,Tier 3,Fuels seem filed under another HS line
+TCD,Chad,gasoline,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,200,0,,,,Tier 3,Country publishes no monthly data
+TJK,Tajikistan,gasoline,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,198,199,0,,,,Tier 3,Country publishes no monthly data
+TKM,Turkmenistan,gasoline,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,201,0,0,,,,Tier 3,Country publishes no monthly data
+UGA,Uganda,gasoline,201501.0,202012.0,51,89,36.42857142857143,12.0,21,0,0,0,68,52932.125,0.0,0,False,world only,197,201,51,,,,Tier 3,Only 51 observed months
+AND,Andorra,lpg,201501.0,202605.0,137,3,97.85714285714286,0.0,0,0,0,0,3,152.55,0.0,137,True,partner,0,0,137,,,349.0,Tier 2,
+ARM,Armenia,lpg,201501.0,202608.0,139,1,99.28571428571429,1.0,1,0,0,0,0,4178.4035,0.0019556524827544558,139,True,partner,200,201,139,,,73.0,Tier 2,
+BFA,Burkina Faso,lpg,201501.0,202412.0,120,20,85.71428571428571,0.0,0,0,0,0,20,8600.527,4.614815153648942e-06,120,True,partner,200,201,120,,,279.5,Tier 2,ends 202412
+CHE,Switzerland,lpg,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,6581.4974999999995,0.05554169466106807,140,True,partner,201,201,140,,,36.0,Tier 2,
+CZE,Czechia,lpg,201501.0,202607.0,138,2,98.57142857142857,1.0,1,0,0,0,1,11420.059744499998,0.7010100519593411,138,True,partner,201,201,138,,,56.0,Tier 2,exports 0.70 of imports
+HUN,Hungary,lpg,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,21713.665795,0.26010067921644986,116,True,partner,201,201,140,,,84.0,Tier 2,
+KGZ,Kyrgyzstan,lpg,201501.0,202608.0,134,6,95.71428571428571,2.0,4,2,0,0,0,3360.8195,0.006232201548282933,136,True,partner,199,198,136,,,67.5,Tier 2,
+LAO,Lao PDR,lpg,201501.0,202312.0,96,44,68.57142857142857,12.0,12,0,0,0,32,1777.835,0.0,96,True,partner,198,202,96,,,825.0,Tier 2,96 months; ends 202312; coverage 69%; gap of 12 months
+LUX,Luxembourg,lpg,201501.0,202607.0,136,4,97.14285714285714,2.0,2,1,0,0,1,819.4204275,0.06557157831140847,137,True,partner,201,201,137,,,79.0,Tier 2,
+MDA,Moldova,lpg,201501.0,202606.0,138,2,98.57142857142857,0.0,0,0,0,0,2,5331.542,0.037867265167640426,138,True,partner,200,199,138,,,112.0,Tier 2,
+MKD,North Macedonia,lpg,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,5716.159315000001,0.02341776879104259,140,True,partner,201,200,140,,,87.0,Tier 2,
+PRY,Paraguay,lpg,201501.0,202603.0,135,5,96.42857142857143,0.0,0,0,0,0,5,6603.75,0.0,135,True,partner,195,201,135,,,39.0,Tier 2,
+RWA,Rwanda,lpg,201501.0,202212.0,96,44,68.57142857142857,0.0,0,0,0,0,44,983.6465000000001,0.001759782509972695,96,True,partner,199,201,96,,,216.0,Tier 2,96 months; ends 202212; coverage 69%
+SRB,Serbia,lpg,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,7159.031,0.5129454509780581,140,True,partner,201,192,140,,,59.5,Tier 2,exports 0.51 of imports
+SVK,Slovakia,lpg,201501.0,202605.0,137,3,97.85714285714286,0.0,0,0,0,0,3,5277.048744,0.5010641974744195,137,True,partner,201,198,137,,,84.0,Tier 2,exports 0.50 of imports
+ZMB,Zambia,lpg,201501.0,202312.0,108,32,77.14285714285714,0.0,0,0,0,0,32,402.1053675,0.42836094913886275,108,True,partner,200,200,108,,,561.5,Tier 2,108 months; ends 202312; coverage 77%
+ZWE,Zimbabwe,lpg,201501.0,202501.0,119,21,85.0,2.0,2,0,0,0,19,4734.587,0.00016696932426337274,119,True,partner,59,164,119,,,437.0,Tier 2,119 months; ends 202501
+AFG,Afghanistan,lpg,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,137,181,0,,,,Tier 3,Country publishes no monthly data
+AUT,Austria,lpg,,,0,140,0.0,,53,0,0,43,44,0.0,,0,False,none,201,201,43,,,298.5,Tier 3,No monthly data for this product
+AZE,Azerbaijan,lpg,201501.0,202603.0,78,62,55.714285714285715,5.0,0,31,1,30,0,0.069,12.00747463083024,109,True,partner,199,195,140,,,63.0,Tier 3,Only 78 observed months
+BDI,Burundi,lpg,201601.0,202504.0,88,52,62.857142857142854,12.0,22,7,0,7,16,20.567,0.0,95,True,partner,199,201,102,,,674.0,Tier 3,Trivial volume
+BLR,Belarus,lpg,201501.0,202104.0,76,64,54.285714285714285,0.0,0,0,0,11,53,29399.572500000002,1.2014212209149835,76,True,partner,201,201,87,,,67.0,Tier 3,Only 76 observed months
+BOL,Bolivia,lpg,201506.0,202608.0,30,110,21.428571428571427,19.0,0,2,0,108,0,0.5540255000000001,3304.8006103163148,32,True,partner,196,198,140,,,89.0,Tier 3,Only 30 observed months
+BTN,Bhutan,lpg,,,0,140,0.0,,0,0,0,12,128,0.0,,0,False,none,200,165,12,,,201.0,Tier 3,No monthly data for this product
+BWA,Botswana,lpg,201501.0,202312.0,96,44,68.57142857142857,12.0,12,0,0,0,32,1556.821,0.0006924839892648933,96,True,partner,200,200,96,fuel_lines_suspect,,297.0,Tier 3,Fuels seem filed under another HS line
+CAF,Central African Republic,lpg,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,196,0,,,,Tier 3,Country publishes no monthly data
+ETH,Ethiopia,lpg,,,0,140,0.0,,0,0,0,48,92,0.0,,0,False,none,189,200,48,fuel_lines_suspect,,,Tier 3,No monthly data for this product
+KAZ,Kazakhstan,lpg,201501.0,202604.0,98,42,70.0,11.0,10,28,0,0,4,5.67099,5420.699568822242,126,True,partner,200,201,126,,,492.0,Tier 3,Trivial volume
+LIE,Liechtenstein,lpg,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,0,0,0,,,,Tier 3,Not a Comtrade reporter; reported within Switzerland
+LSO,Lesotho,lpg,201501.0,202112.0,84,56,60.0,0.0,0,0,0,0,56,512.5876125,2.471927057118901e-05,84,True,partner,200,200,84,fuel_lines_suspect,,617.5,Tier 3,Fuels seem filed under another HS line
+MLI,Mali,lpg,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,201,0,,,,Tier 3,Country publishes no monthly data
+MNG,Mongolia,lpg,201601.0,202112.0,72,68,51.42857142857143,0.0,0,0,0,0,68,2709.402849,0.0003601697022754127,72,True,partner,200,201,72,,,353.0,Tier 3,Only 72 observed months
+MWI,Malawi,lpg,201501.0,202402.0,97,43,69.28571428571429,12.0,12,1,0,0,30,96.563,5.1940690565760234e-06,98,True,partner,177,200,98,fuel_lines_suspect,,455.5,Tier 3,Fuels seem filed under another HS line
+NER,Niger,lpg,,,0,140,0.0,,12,0,0,3,125,0.0,,0,False,none,200,201,3,,,,Tier 3,No monthly data for this product
+NPL,Nepal,lpg,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,199,195,0,,,,Tier 3,Country publishes no monthly data
+SMR,San Marino,lpg,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,192,0,,,,Tier 3,Country publishes no monthly data
+SSD,South Sudan,lpg,,,0,140,0.0,,0,0,0,15,125,0.0,,0,False,none,167,185,15,fuel_lines_suspect,,285.0,Tier 3,No monthly data for this product
+SWZ,Eswatini,lpg,201501.0,201912.0,60,80,42.857142857142854,0.0,0,0,0,0,80,242.304,0.0028410102072372843,60,True,partner,200,129,60,fuel_lines_suspect,,,Tier 3,Fuels seem filed under another HS line
+TCD,Chad,lpg,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,200,0,,,,Tier 3,Country publishes no monthly data
+TJK,Tajikistan,lpg,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,198,199,0,,,,Tier 3,Country publishes no monthly data
+TKM,Turkmenistan,lpg,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,201,0,0,,,,Tier 3,Country publishes no monthly data
+UGA,Uganda,lpg,,,0,140,0.0,,21,0,0,51,68,0.0,,0,False,none,197,201,51,,,,Tier 3,No monthly data for this product
+UZB,Uzbekistan,lpg,201901.0,202607.0,83,57,59.285714285714285,2.0,1,2,2,3,49,628.983,0.3622312684846034,85,True,partner,201,200,90,,,74.0,Tier 3,Only 83 observed months
+AND,Andorra,middle_heavy,201501.0,202605.0,137,3,97.85714285714286,0.0,0,0,0,0,3,8499.204,4.6465479131596847e-07,137,True,partner,0,0,137,,,349.0,Tier 1,
+ARM,Armenia,middle_heavy,201501.0,202608.0,139,1,99.28571428571429,1.0,1,0,0,0,0,19360.626780000002,0.0007700848125521145,139,True,partner,200,201,139,,,73.0,Tier 1,
+BOL,Bolivia,middle_heavy,201501.0,202608.0,138,2,98.57142857142857,1.0,0,2,0,0,0,64174.27607149999,0.03207571969528359,140,True,partner,196,198,140,,,89.0,Tier 1,
+CHE,Switzerland,middle_heavy,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,406346.699811,0.20024178022021288,140,True,partner,201,201,140,,,36.0,Tier 1,
+KGZ,Kyrgyzstan,middle_heavy,201501.0,202608.0,133,7,95.0,2.0,4,3,0,0,0,59491.64399999999,0.19106488804533497,136,True,partner,199,198,136,,,67.5,Tier 1,
+MDA,Moldova,middle_heavy,201501.0,202606.0,138,2,98.57142857142857,0.0,0,0,0,0,2,58095.174048,0.08965058570970624,138,True,partner,200,199,138,,,112.0,Tier 1,
+MKD,North Macedonia,middle_heavy,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,71317.26550250001,0.11198856496043173,140,True,partner,201,200,140,,,87.0,Tier 1,
+PRY,Paraguay,middle_heavy,201501.0,202603.0,135,5,96.42857142857143,0.0,0,0,0,0,5,120648.11918600001,0.010731433787572754,135,True,partner,195,201,135,,,39.0,Tier 1,
+SRB,Serbia,middle_heavy,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,51209.5139395,0.44573260502614226,140,True,partner,201,192,140,,2015,59.5,Tier 1,monthly sum off from annual data by over 25% in 2015
+AZE,Azerbaijan,middle_heavy,201501.0,202608.0,134,6,95.71428571428571,1.0,0,5,1,0,0,13002.2801835,2.6869098310116146,139,True,partner,199,195,140,,,63.0,Tier 2,exports 2.69 of imports
+BDI,Burundi,middle_heavy,201501.0,202504.0,100,40,71.42857142857143,12.0,22,2,0,0,16,10249.297,0.01691930432177945,102,True,partner,199,201,102,,,674.0,Tier 2,100 months; ends 202504; coverage 71%; gap of 12 months
+BFA,Burkina Faso,middle_heavy,201501.0,202412.0,120,20,85.71428571428571,0.0,0,0,0,0,20,81107.01500000001,0.027623188556518203,120,True,partner,200,201,120,,,279.5,Tier 2,ends 202412
+CZE,Czechia,middle_heavy,201501.0,202607.0,137,3,97.85714285714286,1.0,1,1,0,0,1,192364.727691,0.2116149059656248,138,True,partner,201,201,138,271019_misses_blended_diesel,,56.0,Tier 2,misses blended diesel
+HUN,Hungary,middle_heavy,201505.0,202608.0,125,15,89.28571428571429,4.0,0,0,15,0,0,60043.81999999999,1.625978352432204,116,True,partner,201,201,140,271019_misses_blended_diesel,,84.0,Tier 2,exports 1.63 of imports; misses blended diesel
+KAZ,Kazakhstan,middle_heavy,201501.0,202604.0,126,14,90.0,10.0,10,0,0,0,4,52312.524195,3.608111225305341,126,True,partner,200,201,126,,,492.0,Tier 2,exports 3.61 of imports; gap of 10 months
+LAO,Lao PDR,middle_heavy,201501.0,202312.0,96,44,68.57142857142857,12.0,12,0,0,0,32,48869.230844,0.0007240640431363309,96,True,partner,198,202,96,,"2015,2016",825.0,Tier 2,"96 months; ends 202312; coverage 69%; gap of 12 months; monthly sum off from annual data by over 25% in 2015,2016"
+LUX,Luxembourg,middle_heavy,201501.0,202607.0,137,3,97.85714285714286,2.0,2,0,0,0,1,115920.733165,0.0018217822461582638,137,True,partner,201,201,137,271019_misses_blended_diesel,,79.0,Tier 2,misses blended diesel
+RWA,Rwanda,middle_heavy,201501.0,202212.0,96,44,68.57142857142857,0.0,0,0,0,0,44,34857.61886,0.1716579517946354,96,True,partner,199,201,96,,,216.0,Tier 2,96 months; ends 202212; coverage 69%
+SVK,Slovakia,middle_heavy,201501.0,202605.0,137,3,97.85714285714286,0.0,0,0,0,0,3,40533.25,1.8130624364084833,137,True,partner,201,198,137,271019_misses_blended_diesel,,84.0,Tier 2,exports 1.81 of imports; misses blended diesel
+UZB,Uzbekistan,middle_heavy,201901.0,202607.0,90,50,64.28571428571429,1.0,1,0,0,0,49,76215.520083,0.15832501140359043,90,True,partner,201,200,90,,,74.0,Tier 2,90 months; coverage 64%
+ZMB,Zambia,middle_heavy,201501.0,202312.0,108,32,77.14285714285714,0.0,0,0,0,0,32,48623.66855,0.000786068473644403,108,True,partner,200,200,108,,,561.5,Tier 2,108 months; ends 202312; coverage 77%
+ZWE,Zimbabwe,middle_heavy,201501.0,202501.0,119,21,85.0,2.0,2,0,0,0,19,74844.70204,3.89278618011164e-06,119,True,partner,59,164,119,,2020,437.0,Tier 2,119 months; ends 202501; monthly sum off from annual data by over 25% in 2020
+AFG,Afghanistan,middle_heavy,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,137,181,0,,,,Tier 3,Country publishes no monthly data
+AUT,Austria,middle_heavy,201610.0,202212.0,13,127,9.285714285714286,62.0,53,0,30,0,44,203576.855405,0.0,0,False,world only,201,201,43,,,298.5,Tier 3,Only 13 observed months
+BLR,Belarus,middle_heavy,201501.0,202104.0,76,64,54.285714285714285,0.0,0,0,0,11,53,81782.46586599998,7.686765960602559,76,True,partner,201,201,87,,,67.0,Tier 3,Only 76 observed months
+BTN,Bhutan,middle_heavy,202501.0,202512.0,12,128,8.571428571428571,0.0,0,0,0,0,128,21421.145935,0.0,0,False,world only,200,165,12,,,201.0,Tier 3,Only 12 observed months
+BWA,Botswana,middle_heavy,201701.0,202312.0,79,61,56.42857142857143,1.0,12,5,0,12,32,108.1875,0.01297008292239585,84,True,partner,200,200,96,fuel_lines_suspect,,297.0,Tier 3,Fuels seem filed under another HS line
+CAF,Central African Republic,middle_heavy,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,196,0,,,,Tier 3,Country publishes no monthly data
+ETH,Ethiopia,middle_heavy,201501.0,201812.0,48,92,34.285714285714285,0.0,0,0,0,0,92,201146.256765,0.0,0,False,world only,189,200,48,fuel_lines_suspect,,,Tier 3,Fuels seem filed under another HS line
+LIE,Liechtenstein,middle_heavy,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,0,0,0,,,,Tier 3,Not a Comtrade reporter; reported within Switzerland
+LSO,Lesotho,middle_heavy,201501.0,202112.0,76,64,54.285714285714285,1.0,0,8,0,0,56,64.69445,0.018154779301916397,84,True,partner,200,200,84,fuel_lines_suspect,,617.5,Tier 3,Fuels seem filed under another HS line
+MLI,Mali,middle_heavy,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,201,0,,,,Tier 3,Country publishes no monthly data
+MNG,Mongolia,middle_heavy,201601.0,202112.0,72,68,51.42857142857143,0.0,0,0,0,0,68,85460.16475999999,0.008207440044573324,72,True,partner,200,201,72,,,353.0,Tier 3,Only 72 observed months
+MWI,Malawi,middle_heavy,201501.0,202402.0,98,42,70.0,12.0,12,0,0,0,30,508.85605,0.003446241964806218,98,True,partner,177,200,98,fuel_lines_suspect,,455.5,Tier 3,Fuels seem filed under another HS line
+NER,Niger,middle_heavy,201601.0,201603.0,3,137,2.142857142857143,0.0,12,0,0,0,125,1943.4,0.0,0,False,world only,200,201,3,,,,Tier 3,Only 3 observed months
+NPL,Nepal,middle_heavy,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,199,195,0,,,,Tier 3,Country publishes no monthly data
+SMR,San Marino,middle_heavy,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,192,0,,,,Tier 3,Country publishes no monthly data
+SSD,South Sudan,middle_heavy,202501.0,202603.0,15,125,10.714285714285714,0.0,0,0,0,0,125,600.619321,0.0,0,False,world only,167,185,15,fuel_lines_suspect,,285.0,Tier 3,Fuels seem filed under another HS line
+SWZ,Eswatini,middle_heavy,201501.0,201912.0,53,87,37.857142857142854,1.0,0,7,0,0,80,15.89371,0.0032038576271812254,60,True,partner,200,129,60,fuel_lines_suspect,,,Tier 3,Fuels seem filed under another HS line
+TCD,Chad,middle_heavy,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,200,0,,,,Tier 3,Country publishes no monthly data
+TJK,Tajikistan,middle_heavy,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,198,199,0,,,,Tier 3,Country publishes no monthly data
+TKM,Turkmenistan,middle_heavy,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,201,0,0,,,,Tier 3,Country publishes no monthly data
+UGA,Uganda,middle_heavy,201501.0,202012.0,51,89,36.42857142857143,12.0,21,0,0,0,68,82975.72557,0.0,0,False,world only,197,201,51,,,,Tier 3,Only 51 observed months
+AND,Andorra,middle_incl_blends,201501.0,202605.0,137,3,97.85714285714286,0.0,0,0,0,0,3,9461.811979999999,1.2466583842351436e-06,137,True,partner,0,0,137,,,349.0,Tier 1,
+ARM,Armenia,middle_incl_blends,201501.0,202608.0,139,1,99.28571428571429,1.0,1,0,0,0,0,19360.626780000002,0.0007700847079569299,139,True,partner,200,201,139,,,73.0,Tier 1,
+BOL,Bolivia,middle_incl_blends,201501.0,202608.0,138,2,98.57142857142857,1.0,0,2,0,0,0,64188.386332999995,0.03207562120733984,140,True,partner,196,198,140,,,89.0,Tier 1,
+CHE,Switzerland,middle_incl_blends,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,406347.037811,0.20018840732711987,140,True,partner,201,201,140,,,36.0,Tier 1,
+CZE,Czechia,middle_incl_blends,201501.0,202607.0,138,2,98.57142857142857,1.0,1,0,0,0,1,238490.258418,0.37026198185463316,138,True,partner,201,201,138,,,56.0,Tier 1,
+KGZ,Kyrgyzstan,middle_incl_blends,201501.0,202608.0,133,7,95.0,2.0,4,3,0,0,0,59491.64399999999,0.19134334979493134,136,True,partner,199,198,136,,,67.5,Tier 1,
+LUX,Luxembourg,middle_incl_blends,201501.0,202607.0,137,3,97.85714285714286,2.0,2,0,0,0,1,172280.783,0.0012384809590289263,137,True,partner,201,201,137,,,79.0,Tier 1,
+MDA,Moldova,middle_incl_blends,201501.0,202606.0,138,2,98.57142857142857,0.0,0,0,0,0,2,59154.038221999996,0.08864047219148925,138,True,partner,200,199,138,,,112.0,Tier 1,
+MKD,North Macedonia,middle_incl_blends,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,71317.26550250001,0.11198833775037499,140,True,partner,201,200,140,,,87.0,Tier 1,
+PRY,Paraguay,middle_incl_blends,201501.0,202603.0,135,5,96.42857142857143,0.0,0,0,0,0,5,120652.36918600001,0.010731430670808725,135,True,partner,195,201,135,,,39.0,Tier 1,
+SRB,Serbia,middle_incl_blends,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,51603.492,0.4451435695696462,140,True,partner,201,192,140,,2015,59.5,Tier 1,monthly sum off from annual data by over 25% in 2015
+AZE,Azerbaijan,middle_incl_blends,201501.0,202608.0,134,6,95.71428571428571,1.0,0,5,1,0,0,13002.2801835,2.686875015114714,139,True,partner,199,195,140,,,63.0,Tier 2,exports 2.69 of imports
+BDI,Burundi,middle_incl_blends,201501.0,202504.0,100,40,71.42857142857143,12.0,22,2,0,0,16,10249.297,0.016918398341475606,102,True,partner,199,201,102,,,674.0,Tier 2,100 months; ends 202504; coverage 71%; gap of 12 months
+BFA,Burkina Faso,middle_incl_blends,201501.0,202412.0,120,20,85.71428571428571,0.0,0,0,0,0,20,81107.01500000001,0.02762186205684215,120,True,partner,200,201,120,,,279.5,Tier 2,ends 202412
+HUN,Hungary,middle_incl_blends,201501.0,202608.0,139,1,99.28571428571429,1.0,0,0,1,0,0,135209.53457,0.9309336406068037,116,True,partner,201,201,140,,,84.0,Tier 2,exports 0.93 of imports
+KAZ,Kazakhstan,middle_incl_blends,201501.0,202604.0,126,14,90.0,10.0,10,0,0,0,4,52316.314329999994,3.611066290131204,126,True,partner,200,201,126,,,492.0,Tier 2,exports 3.61 of imports; gap of 10 months
+LAO,Lao PDR,middle_incl_blends,201501.0,202312.0,95,45,67.85714285714286,12.0,12,1,0,0,32,64812.23645,0.0021958804408675515,96,True,partner,198,202,96,,"2015,2016",825.0,Tier 2,"95 months; ends 202312; coverage 68%; gap of 12 months; monthly sum off from annual data by over 25% in 2015,2016"
+RWA,Rwanda,middle_incl_blends,201501.0,202212.0,96,44,68.57142857142857,0.0,0,0,0,0,44,34857.62385999999,0.17184261157004005,96,True,partner,199,201,96,,,216.0,Tier 2,96 months; ends 202212; coverage 69%
+SVK,Slovakia,middle_incl_blends,201501.0,202605.0,137,3,97.85714285714286,0.0,0,0,0,0,3,88420.20400000001,1.637601313422125,137,True,partner,201,198,137,,,84.0,Tier 2,exports 1.64 of imports
+UZB,Uzbekistan,middle_incl_blends,201901.0,202607.0,90,50,64.28571428571429,1.0,1,0,0,0,49,76215.520083,0.15832070397909992,90,True,partner,201,200,90,,,74.0,Tier 2,90 months; coverage 64%
+ZMB,Zambia,middle_incl_blends,201501.0,202312.0,108,32,77.14285714285714,0.0,0,0,0,0,32,48623.93855,0.0007899805007039835,108,True,partner,200,200,108,,,561.5,Tier 2,108 months; ends 202312; coverage 77%
+ZWE,Zimbabwe,middle_incl_blends,201501.0,202501.0,119,21,85.0,2.0,2,0,0,0,19,74844.70204,3.892118217080438e-06,119,True,partner,59,164,119,,2020,437.0,Tier 2,119 months; ends 202501; monthly sum off from annual data by over 25% in 2020
+AFG,Afghanistan,middle_incl_blends,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,137,181,0,,,,Tier 3,Country publishes no monthly data
+AUT,Austria,middle_incl_blends,201610.0,202212.0,13,127,9.285714285714286,62.0,53,0,30,0,44,203576.855405,0.0,0,False,world only,201,201,43,,,298.5,Tier 3,Only 13 observed months
+BLR,Belarus,middle_incl_blends,201501.0,202104.0,76,64,54.285714285714285,0.0,0,0,0,11,53,81782.46586599998,7.685272362762915,76,True,partner,201,201,87,,,67.0,Tier 3,Only 76 observed months
+BTN,Bhutan,middle_incl_blends,202501.0,202512.0,12,128,8.571428571428571,0.0,0,0,0,0,128,21421.145935,0.0,0,False,world only,200,165,12,,,201.0,Tier 3,Only 12 observed months
+BWA,Botswana,middle_incl_blends,201501.0,202312.0,86,54,61.42857142857143,12.0,12,7,0,3,32,97.921775,0.04534995315098409,93,True,partner,200,200,96,fuel_lines_suspect,,297.0,Tier 3,Fuels seem filed under another HS line
+CAF,Central African Republic,middle_incl_blends,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,196,0,,,,Tier 3,Country publishes no monthly data
+ETH,Ethiopia,middle_incl_blends,201501.0,201812.0,48,92,34.285714285714285,0.0,0,0,0,0,92,201146.256765,0.0,0,False,world only,189,200,48,fuel_lines_suspect,,,Tier 3,Fuels seem filed under another HS line
+LIE,Liechtenstein,middle_incl_blends,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,0,0,0,,,,Tier 3,Not a Comtrade reporter; reported within Switzerland
+LSO,Lesotho,middle_incl_blends,201501.0,202112.0,80,60,57.142857142857146,1.0,0,4,0,0,56,103.42455999999999,0.01143031012176453,84,True,partner,200,200,84,fuel_lines_suspect,,617.5,Tier 3,Fuels seem filed under another HS line
+MLI,Mali,middle_incl_blends,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,201,0,,,,Tier 3,Country publishes no monthly data
+MNG,Mongolia,middle_incl_blends,201601.0,202112.0,72,68,51.42857142857143,0.0,0,0,0,0,68,85490.36591,0.008203790785211003,72,True,partner,200,201,72,,,353.0,Tier 3,Only 72 observed months
+MWI,Malawi,middle_incl_blends,201501.0,202402.0,98,42,70.0,12.0,12,0,0,0,30,521.0859399999999,0.0033991291981646916,98,True,partner,177,200,98,fuel_lines_suspect,,455.5,Tier 3,Fuels seem filed under another HS line
+NER,Niger,middle_incl_blends,201601.0,201603.0,3,137,2.142857142857143,0.0,12,0,0,0,125,1943.4,0.0,0,False,world only,200,201,3,,,,Tier 3,Only 3 observed months
+NPL,Nepal,middle_incl_blends,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,199,195,0,,,,Tier 3,Country publishes no monthly data
+SMR,San Marino,middle_incl_blends,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,192,0,,,,Tier 3,Country publishes no monthly data
+SSD,South Sudan,middle_incl_blends,202501.0,202603.0,15,125,10.714285714285714,0.0,0,0,0,0,125,600.619321,0.0,0,False,world only,167,185,15,fuel_lines_suspect,,285.0,Tier 3,Fuels seem filed under another HS line
+SWZ,Eswatini,middle_incl_blends,201501.0,201912.0,53,87,37.857142857142854,1.0,0,7,0,0,80,16.66171,0.15991205676822107,60,True,partner,200,129,60,fuel_lines_suspect,,,Tier 3,Fuels seem filed under another HS line
+TCD,Chad,middle_incl_blends,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,200,0,,,,Tier 3,Country publishes no monthly data
+TJK,Tajikistan,middle_incl_blends,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,198,199,0,,,,Tier 3,Country publishes no monthly data
+TKM,Turkmenistan,middle_incl_blends,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,201,0,0,,,,Tier 3,Country publishes no monthly data
+UGA,Uganda,middle_incl_blends,201501.0,202012.0,51,89,36.42857142857143,12.0,21,0,0,0,68,82975.72557,0.0,0,False,world only,197,201,51,,,,Tier 3,Only 51 observed months
+AFG,Afghanistan,total_2710,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,137,181,0,,,,Tier 3,Country publishes no monthly data
+AND,Andorra,total_2710,201501.0,202605.0,137,3,97.85714285714286,0.0,0,0,0,0,3,11412.51,0.000710009740904194,0,False,partner,0,0,137,,,349.0,Tier 3,"Context series, not a forecasting target"
+ARM,Armenia,total_2710,201501.0,202608.0,139,1,99.28571428571429,1.0,1,0,0,0,0,36584.634194,0.00048206474144152004,0,False,partner,200,201,139,,,73.0,Tier 3,"Context series, not a forecasting target"
+AUT,Austria,total_2710,201610.0,202212.0,13,127,9.285714285714286,62.0,53,0,30,0,44,572122.577861,0.0,0,False,world only,201,201,43,,,298.5,Tier 3,"Context series, not a forecasting target"
+AZE,Azerbaijan,total_2710,201501.0,202608.0,137,3,97.85714285714286,1.0,0,3,0,0,0,29748.705299999994,1.5900609848199938,0,False,partner,199,195,140,,,63.0,Tier 3,"Context series, not a forecasting target"
+BDI,Burundi,total_2710,201501.0,202504.0,100,40,71.42857142857143,12.0,22,2,0,0,16,18668.03555,0.012817504871915549,0,False,partner,199,201,102,,,674.0,Tier 3,"Context series, not a forecasting target"
+BFA,Burkina Faso,total_2710,201501.0,202412.0,120,20,85.71428571428571,0.0,0,0,0,0,20,115343.68,0.020083167467928407,0,False,partner,200,201,120,,,279.5,Tier 3,"Context series, not a forecasting target"
+BLR,Belarus,total_2710,201501.0,202104.0,76,64,54.285714285714285,0.0,0,0,0,11,53,112599.0041595,7.570578246178729,0,False,partner,201,201,87,,,67.0,Tier 3,"Context series, not a forecasting target"
+BOL,Bolivia,total_2710,201501.0,202608.0,139,1,99.28571428571429,1.0,0,1,0,0,0,115552.78794499999,0.01721299429673491,0,False,partner,196,198,140,,,89.0,Tier 3,"Context series, not a forecasting target"
+BTN,Bhutan,total_2710,202501.0,202512.0,12,128,8.571428571428571,0.0,0,0,0,0,128,29243.0356,0.0,0,False,world only,200,165,12,,,201.0,Tier 3,"Context series, not a forecasting target"
+BWA,Botswana,total_2710,201501.0,202312.0,94,46,67.14285714285714,13.0,12,2,0,0,32,90145.89572500001,0.003199083446018833,0,False,partner,200,200,96,fuel_lines_suspect,,297.0,Tier 3,"Context series, not a forecasting target"
+CAF,Central African Republic,total_2710,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,196,0,,,,Tier 3,Country publishes no monthly data
+CHE,Switzerland,total_2710,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,537773.6118659999,0.15511930336361773,0,False,partner,201,201,140,,,36.0,Tier 3,"Context series, not a forecasting target"
+CZE,Czechia,total_2710,201501.0,202607.0,138,2,98.57142857142857,1.0,1,0,0,0,1,295891.0533695,0.4653795935593727,0,False,partner,201,201,138,,,56.0,Tier 3,"Context series, not a forecasting target"
+ETH,Ethiopia,total_2710,201501.0,201806.0,37,103,26.428571428571427,2.0,0,0,11,0,92,217747.0305,0.0,0,False,world only,189,200,48,fuel_lines_suspect,,,Tier 3,"Context series, not a forecasting target"
+HUN,Hungary,total_2710,201505.0,202608.0,120,20,85.71428571428571,5.0,0,4,16,0,0,198402.1108795,0.8121988203038663,0,False,partner,201,201,140,,,84.0,Tier 3,"Context series, not a forecasting target"
+KAZ,Kazakhstan,total_2710,201501.0,202604.0,126,14,90.0,10.0,10,0,0,0,4,82526.66939300002,2.338984055500585,0,False,partner,200,201,126,,,492.0,Tier 3,"Context series, not a forecasting target"
+KGZ,Kyrgyzstan,total_2710,201501.0,202608.0,135,5,96.42857142857143,2.0,4,1,0,0,0,104247.90300000002,0.12492614839283808,0,False,partner,199,198,136,,,67.5,Tier 3,"Context series, not a forecasting target"
+LAO,Lao PDR,total_2710,201501.0,202312.0,96,44,68.57142857142857,12.0,12,0,0,0,32,83129.58935600001,0.00232540361931763,0,False,partner,198,202,96,,,825.0,Tier 3,"Context series, not a forecasting target"
+LIE,Liechtenstein,total_2710,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,0,0,0,,,,Tier 3,Not a Comtrade reporter; reported within Switzerland
+LSO,Lesotho,total_2710,201501.0,202112.0,80,60,57.142857142857146,3.0,0,0,4,0,56,18812.7750875,0.0004960579557140651,0,False,partner,200,200,84,fuel_lines_suspect,,617.5,Tier 3,"Context series, not a forecasting target"
+LUX,Luxembourg,total_2710,201501.0,202607.0,137,3,97.85714285714286,2.0,2,0,0,0,1,201729.039368,0.0015553360777268513,0,False,partner,201,201,137,,,79.0,Tier 3,"Context series, not a forecasting target"
+MDA,Moldova,total_2710,201501.0,202606.0,138,2,98.57142857142857,0.0,0,0,0,0,2,77195.518472,0.11635707850812911,0,False,partner,200,199,138,,,112.0,Tier 3,"Context series, not a forecasting target"
+MKD,North Macedonia,total_2710,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,79572.054588,0.10673243808542723,0,False,partner,201,200,140,,,87.0,Tier 3,"Context series, not a forecasting target"
+MLI,Mali,total_2710,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,201,0,,,,Tier 3,Country publishes no monthly data
+MNG,Mongolia,total_2710,201601.0,202112.0,72,68,51.42857142857143,0.0,0,0,0,0,68,126971.74054,0.005602203086126601,0,False,partner,200,201,72,,,353.0,Tier 3,"Context series, not a forecasting target"
+MWI,Malawi,total_2710,201501.0,202402.0,98,42,70.0,12.0,12,0,0,0,30,17489.112764999998,0.00010393271507126334,0,False,partner,177,200,98,fuel_lines_suspect,,455.5,Tier 3,"Context series, not a forecasting target"
+NER,Niger,total_2710,201601.0,201603.0,3,137,2.142857142857143,0.0,12,0,0,0,125,1981.707,0.0,0,False,world only,200,201,3,,,,Tier 3,"Context series, not a forecasting target"
+NPL,Nepal,total_2710,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,199,195,0,,,,Tier 3,Country publishes no monthly data
+PRY,Paraguay,total_2710,201501.0,202603.0,135,5,96.42857142857143,0.0,0,0,0,0,5,178602.433534,0.007981163076094689,0,False,partner,195,201,135,,,39.0,Tier 3,"Context series, not a forecasting target"
+RWA,Rwanda,total_2710,201501.0,202212.0,96,44,68.57142857142857,0.0,0,0,0,0,44,53422.615875,0.20958647636983188,0,False,partner,199,201,96,,,216.0,Tier 3,"Context series, not a forecasting target"
+SMR,San Marino,total_2710,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,192,0,,,,Tier 3,Country publishes no monthly data
+SRB,Serbia,total_2710,201501.0,202608.0,140,0,100.0,0.0,0,0,0,0,0,58474.699603,0.5662112867765843,0,False,partner,201,192,140,,,59.5,Tier 3,"Context series, not a forecasting target"
+SSD,South Sudan,total_2710,202501.0,202603.0,15,125,10.714285714285714,0.0,0,0,0,0,125,600.619321,0.0,0,False,world only,167,185,15,fuel_lines_suspect,,285.0,Tier 3,"Context series, not a forecasting target"
+SVK,Slovakia,total_2710,201501.0,202605.0,137,3,97.85714285714286,0.0,0,0,0,0,3,110721.66089399999,2.0041485493048357,0,False,partner,201,198,137,,,84.0,Tier 3,"Context series, not a forecasting target"
+SWZ,Eswatini,total_2710,201501.0,201912.0,60,80,42.857142857142854,0.0,0,0,0,0,80,24289.38761,0.0013665712160775704,0,False,partner,200,129,60,fuel_lines_suspect,,,Tier 3,"Context series, not a forecasting target"
+TCD,Chad,total_2710,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,200,200,0,,,,Tier 3,Country publishes no monthly data
+TJK,Tajikistan,total_2710,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,198,199,0,,,,Tier 3,Country publishes no monthly data
+TKM,Turkmenistan,total_2710,,,0,140,0.0,,0,0,0,0,140,0.0,,0,False,none,201,0,0,,,,Tier 3,Country publishes no monthly data
+UGA,Uganda,total_2710,201501.0,202012.0,50,90,35.714285714285715,12.0,21,0,1,0,68,138862.878975,0.0,0,False,world only,197,201,51,,,,Tier 3,"Context series, not a forecasting target"
+UZB,Uzbekistan,total_2710,201901.0,202607.0,88,52,62.857142857142854,1.0,1,2,0,0,49,115414.6072505,0.23655634791189226,0,False,partner,201,200,90,,,74.0,Tier 3,"Context series, not a forecasting target"
+ZMB,Zambia,total_2710,201501.0,202312.0,108,32,77.14285714285714,0.0,0,0,0,0,32,69038.25735,0.0007342554112535148,0,False,partner,200,200,108,,,561.5,Tier 3,"Context series, not a forecasting target"
+ZWE,Zimbabwe,total_2710,201501.0,202501.0,119,21,85.0,2.0,2,0,0,0,19,106999.35774,3.0164720046868564e-06,0,False,partner,59,164,119,,,437.0,Tier 3,"Context series, not a forecasting target"

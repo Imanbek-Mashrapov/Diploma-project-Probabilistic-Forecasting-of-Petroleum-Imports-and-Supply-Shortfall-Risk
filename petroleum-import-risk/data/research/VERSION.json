@@ -1,0 +1,44 @@
+{
+ "dataset_version": "1.0.0",
+ "built_on": "2026-11-02",
+ "comtrade_snapshot": "2026-11-02",
+ "window": {
+  "start": 201501,
+  "end": 202608
+ },
+ "raw_manifest_sha256": "2a5f3478c86c2f56c83b6c65289925e36f7e7c1bf331ca17db13e320ba45844b",
+ "files": {
+  "country_product_coverage.csv": {
+   "bytes": 52313,
+   "sha256": "0f775e50b16f2051896e4c40b0a38525de116e8827df2b6bf806c857a510bce6"
+  },
+  "data_quality_report.csv": {
+   "bytes": 7831,
+   "sha256": "ed89fe7c3c277c142a1979e1349ea54ccc95c88ab8c335b31d52048f1747738a"
+  },
+  "external_indicators_annual.parquet": {
+   "bytes": 39533,
+   "sha256": "8532b2dd9ddff8f243a7a6ee77fea1dbeae588bae705fa4a03a538ddae0ccada"
+  },
+  "external_indicators_monthly.parquet": {
+   "bytes": 152925,
+   "sha256": "d08a4b3331ee7c37de50f131f9b4a04b63ad403d9b580f24850ffb8d945b43f6"
+  },
+  "petroleum_imports_bilateral.parquet": {
+   "bytes": 3813583,
+   "sha256": "f338ec2444b608d54b846ba0c00235630eb0c3e199edae217da0df13f0407a18"
+  },
+  "petroleum_imports_monthly.parquet": {
+   "bytes": 1726375,
+   "sha256": "81cf24e82020d7190437d6aa2e3b4c26f5fefde2f17fc290c18653378e8b7808"
+  },
+  "supplier_concentration_monthly.parquet": {
+   "bytes": 638922,
+   "sha256": "8709a445a84d1b0e8c3b4655f2ed2f0d222216fbbe9d6c609b0a24e47cdf28f7"
+  },
+  "transformation_log.csv": {
+   "bytes": 783,
+   "sha256": "8bb1cb4bb7ac7733054dfb49936b7dbbf51c0f2cb752d3a8143713cb8fa0de95"
+  }
+ }
+}

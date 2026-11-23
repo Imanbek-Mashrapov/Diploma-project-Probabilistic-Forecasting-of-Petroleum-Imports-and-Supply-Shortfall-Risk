@@ -1,0 +1,53 @@
+{
+ "tiers": {
+  "gasoline": {
+   "Tier 1": 11,
+   "Tier 2": 11,
+   "Tier 3": 21
+  },
+  "middle_heavy": {
+   "Tier 1": 9,
+   "Tier 2": 13,
+   "Tier 3": 21
+  },
+  "middle_incl_blends": {
+   "Tier 1": 11,
+   "Tier 2": 11,
+   "Tier 3": 21
+  }
+ },
+ "main_tier1_series": 22,
+ "main_tier1_countries": 13,
+ "main_tier1_obs": 3021,
+ "training_series": 44,
+ "training_countries": 22,
+ "training_obs": 5549,
+ "tier1_gasoline": [
+  "AND",
+  "ARM",
+  "AZE",
+  "BOL",
+  "CHE",
+  "HUN",
+  "KGZ",
+  "LUX",
+  "MDA",
+  "MKD",
+  "PRY"
+ ],
+ "tier1_distillates": [
+  "AND",
+  "ARM",
+  "BOL",
+  "CHE",
+  "CZE",
+  "KGZ",
+  "LUX",
+  "MDA",
+  "MKD",
+  "PRY",
+  "SRB"
+ ],
+ "countries_with_any_mass": 34,
+ "reach_2026_06": 12
+}

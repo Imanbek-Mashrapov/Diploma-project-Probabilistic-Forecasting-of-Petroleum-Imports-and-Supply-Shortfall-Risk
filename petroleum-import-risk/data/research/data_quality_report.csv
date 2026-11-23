@@ -1,0 +1,44 @@
+issue_id,issue,affected_dataset,affected_records,research_impact,recommended_treatment,automatically_correctable,severity
+V01,"Comtrade holds first-release Kyrgyz figures: 12 of 16 months from 2025 match the first national release within 1%, none matches the latest; latest runs 9% higher at the median",Kyrgyz records 2025-2026,16,Recent months are provisional and may understate imports. The 2025 shortfall may partly be under-recording,"Keep as observed, flag as provisional, take new snapshots, and evaluate on first-release data",No,high
+V02,"2025 Comtrade gasoline value is 0.78 of the official value, against 0.95-1.00 in 2022-2024",petroleum_imports_monthly,12,Late-2025 shock depth is uncertain,Recheck when the 2025 energy balance appears,No,high
+V03,Russia reports far more gasoline to Kyrgyzstan than Kyrgyzstan reports importing in 2016-2017 (import/export mass 0.33-0.37); ratio is 0.93-1.02 in 2018 and 2021,mirror_russia vs bilateral,6,Early target level is unreliable,Report results with and without 2015-2017,No,high
+I11,"HS 271019 misses blended diesel in CZE, HUN, LSO, LUX, SVK",middle_heavy series,612,Distillates are not comparable across countries,Use middle_incl_blends for these reporters or exclude them,Yes,high
+I12,"Fuels seem filed under the wrong HS line in BWA, ETH, LSO, MWI, SSD, SWZ",gasoline and distillate series,1134,Series would not mean gasoline or distillates,Exclude from the main experiment; use the 2710 total if needed,No,high
+C02,Series ending before the window ends,"petroleum_imports_monthly, eligible series",30,2026 shock window is thin,Report the countries covering each test period,No,high
+V04,Annual exporter-importer pairs differing by more than 3 times,mirror comparison,26,Bilateral flows are less reliable than country totals,"Use supplier shares as indicators, not exact flows",No,medium
+V05,No Russian mirror data exists after December 2021,mirror_russia,56,Main supplier cannot be cross-checked in the shock period,Treat as a permanent limit,No,medium
+V06,Sum of monthly World values differs from the annual submission by more than 5%,annual_world vs monthly,22,Of 513 reporter-product-years. Annual data seem revised while monthly data are not (Kyrgyz gasoline 2021: monthly 0.87 of annual),Note in the coverage matrix; do not rescale monthly data,No,medium
+I13,Six-digit lines differ from the 2710 heading by more than 1%,raw World rows,49,Mostly HUN; cause not found,"Use lines as reported, keep a flag",No,medium
+U03,Net weight and kg quantity differ by more than 1%,raw_bilateral_records,11337,"Of 406099 rows holding both; concentrated in ['HUN', 'BWA', 'MNG']",Net weight wins,Yes,medium
+U04,Net weight null or zero next to positive value,raw_bilateral_records,11281,Would read as zero imports,Treated as missing; kg quantity used if plausible,Yes,medium
+U06,Physically impossible kg quantity against reported litres,dataset_a_bilateral,3,Would inject false mass,Rejected; volume estimate stored apart,Yes,medium
+U08,Weight flagged as estimated by the reporter,raw_bilateral_records,26740,"Mass is partly modelled, by Comtrade or the reporter","Keep, carry share_estimated",No,medium
+M03,Explicit zero-trade rows,raw_bilateral_records,0,"Comtrade does not report zero flows, so a genuine zero cannot be proved",Absent records stay missing,No,medium
+M04,Month-on-month mass change above 5 times,"petroleum_imports_monthly, eligible series",142,Mixes real lumpy deliveries and recording errors,Keep; test robust losses; never smooth the target,No,medium
+M06,Mass removed: unit value far too low,petroleum_imports_monthly,89,Series gets gaps,Original kept; treated as missing,Yes,medium
+M07,"Unit value far too high, mass kept",petroleum_imports_monthly,330,Value suspect; lagged unit-value features affected,Flag; exclude flagged months from unit-value features,Partly,medium
+C01,Reporting interruptions inside a reporter's span,"petroleum_imports_monthly, eligible series",165,"Series have gaps, some of 10-13 months",Mask; no interpolation of targets,No,medium
+C06,Countries with no monthly reporting at all,country coverage,9,"Afghanistan, Tajikistan, Turkmenistan and others cannot enter",List in the coverage matrix,No,medium
+C07,World row lacks mass although partners carry it,petroleum_imports_monthly,282,World rows understate mass,Totals are rebuilt from partners,Yes,medium
+I01,Exact duplicates on the natural key in raw records,raw_bilateral_records,3830,Would double count; all belong to AND,"Removed in Phase 1, keeping latest retrieval; they arise from keyless and keyed pulls overlapping",Yes,low
+I04,"Partners without a country identity (Other Asia nes, Other Europe nes, Areas nes)",petroleum_imports_bilateral,3625,0.35% of mass; hides true suppliers,Keep as one partner; nes_share is reported per month,Partly,low
+I05,Reporter listed as its own partner,petroleum_imports_bilateral,535,Would overstate suppliers,"Excluded from concentration, kept in the dataset",Yes,low
+I06,Bunkers and special categories as partners,petroleum_imports_bilateral,35,Not suppliers,"Excluded from concentration, kept in the dataset",Yes,low
+I09,Rows filed under an HS edition at least six years old,raw_bilateral_records,12420,Lines may be defined differently from newer editions,Mapping 271011 to 271012 is safe at this level; 271020 cannot be split out under H3,Partly,low
+I10,Breakdown between 271011 (HS2007) and 271012 (HS2012 on),gasoline series,263,"Biodiesel-containing oils left this line in HS2012, so the merged series is not perfectly continuous; negligible for Kyrgyz data from 2015","Merge, documented",Yes,low
+U01,Rows with no quantity unit (N/A),raw_bilateral_records,43743,Quantity cannot be used; net weight still can,Use net weight,Yes,low
+U05,Mass from kg quantity because net weight is empty,petroleum_imports_bilateral,1822,Less certain source,"Kept, recorded in mass_source",Yes,low
+U07,Rows with no usable mass,petroleum_imports_bilateral,541,Small; lowers supplier coverage,Stay missing; value_share_with_mass reports the effect,No,low
+M05,Robust outliers in log mass (|z| > 4),"petroleum_imports_monthly, eligible series",187,"May be shocks, the object of study",Keep and flag,No,low
+C03,Published reporter-month with no product record,"petroleum_imports_monthly, eligible series",3,Could be zero or unreported,Treat as missing,No,low
+C04,Value reported with no mass,"petroleum_imports_monthly, eligible series",19,Mostly Hungary 2015-2016 distillates,Keep missing; never derive mass from value,No,low
+C05,"Months resting on World rows, without partner detail",petroleum_imports_monthly,578,Partner composition unknown,Marked in total_source,No,low
+C08,Partner sum and World value differ by more than 5%,petroleum_imports_monthly,2,Would signal double counting or lost partners,Review listed months,No,low
+C09,Mislabelled official figure: 2025 diesel in NSC table 4.03.00.12 reads USD 48.1 billion,nsc_dynamic_1233,1,An official source can also be wrong,"Excluded from ratios, kept in raw",No,low
+I02,Duplicates left in the research datasets,"petroleum_imports_bilateral, monthly",0,None if zero,Assertion only,Yes,info
+I03,Comtrade reporter identifiers that disagree with config/countries.csv,raw_bilateral_records,0,None if zero,Assertion only,Yes,info
+I07,Periods that disagree with refYear and refMonth,raw_bilateral_records,0,None if zero,Assertion only,Yes,info
+I08,HS codes that do not exist in the stated edition,raw_bilateral_records,0,None if zero,Assertion only,Yes,info
+U02,Positive quantities in a unit other than kg,raw_bilateral_records,0,Must not be mixed with mass,Never converted into mass,Yes,info
+M01,Negative quantities or values,raw_bilateral_records,0,None if zero,Assertion only,Yes,info
+M02,Missing trade value,raw_bilateral_records,0,None if zero,Assertion only,Yes,info

@@ -1,0 +1,593 @@
+{
+ "gas_mape_all_full_years_pct": 4.51702424687354,
+ "gas_mape_2018_on_pct": 3.6953905941122094,
+ "kgz_flagged_outlier_months": {
+  "crude": [
+   201512
+  ],
+  "gasoline": [
+   201108,
+   201206,
+   201209,
+   201210,
+   201212,
+   201305,
+   201306,
+   201307,
+   201309,
+   201310,
+   201311,
+   201312
+  ],
+  "lpg": [
+   201606
+  ],
+  "middle_heavy": [
+   201209,
+   201210,
+   201212,
+   201309,
+   201310,
+   201311,
+   201312
+  ],
+  "middle_incl_blends": [
+   201209,
+   201210,
+   201212,
+   201309,
+   201310,
+   201311,
+   201312
+  ],
+  "total_2710": [
+   201107,
+   201108,
+   201206,
+   201209,
+   201210,
+   201212,
+   201305,
+   201306,
+   201307,
+   201309,
+   201310,
+   201311,
+   201312,
+   201406
+  ]
+ },
+ "kgz_uv_rejected": [
+  {
+   "product_group": "biodiesel_blend",
+   "flow": "M",
+   "period": 201510,
+   "unit_value_usd_t": 3335.748792270532
+  },
+  {
+   "product_group": "biodiesel_blend",
+   "flow": "M",
+   "period": 201608,
+   "unit_value_usd_t": 314.1682242990654
+  },
+  {
+   "product_group": "biodiesel_blend",
+   "flow": "M",
+   "period": 201702,
+   "unit_value_usd_t": 539.1773197669363
+  },
+  {
+   "product_group": "biodiesel_blend",
+   "flow": "M",
+   "period": 201703,
+   "unit_value_usd_t": 2451.111111111111
+  },
+  {
+   "product_group": "biodiesel_blend",
+   "flow": "M",
+   "period": 201706,
+   "unit_value_usd_t": 1958.0
+  },
+  {
+   "product_group": "biodiesel_blend",
+   "flow": "M",
+   "period": 201708,
+   "unit_value_usd_t": 22400.641025641027
+  },
+  {
+   "product_group": "biodiesel_blend",
+   "flow": "M",
+   "period": 201801,
+   "unit_value_usd_t": 108.0
+  },
+  {
+   "product_group": "biodiesel_blend",
+   "flow": "M",
+   "period": 201805,
+   "unit_value_usd_t": 356.9892473118279
+  },
+  {
+   "product_group": "biodiesel_blend",
+   "flow": "M",
+   "period": 201901,
+   "unit_value_usd_t": 98.24873012184192
+  },
+  {
+   "product_group": "biodiesel_blend",
+   "flow": "M",
+   "period": 202002,
+   "unit_value_usd_t": 180250.0
+  },
+  {
+   "product_group": "biodiesel_blend",
+   "flow": "M",
+   "period": 202102,
+   "unit_value_usd_t": 119.27013422818791
+  },
+  {
+   "product_group": "biodiesel_blend",
+   "flow": "M",
+   "period": 202301,
+   "unit_value_usd_t": 5096.275293207887
+  },
+  {
+   "product_group": "biodiesel_blend",
+   "flow": "M",
+   "period": 202312,
+   "unit_value_usd_t": 12000.0
+  },
+  {
+   "product_group": "biodiesel_blend",
+   "flow": "M",
+   "period": 202608,
+   "unit_value_usd_t": 9048.780487804877
+  },
+  {
+   "product_group": "biodiesel_blend",
+   "flow": "X",
+   "period": 202403,
+   "unit_value_usd_t": 108500.0
+  },
+  {
+   "product_group": "crude",
+   "flow": "M",
+   "period": 201512,
+   "unit_value_usd_t": 385861.1111111111
+  },
+  {
+   "product_group": "crude",
+   "flow": "M",
+   "period": 201712,
+   "unit_value_usd_t": 431.8482911827456
+  },
+  {
+   "product_group": "crude",
+   "flow": "M",
+   "period": 201809,
+   "unit_value_usd_t": 500.2452114825939
+  },
+  {
+   "product_group": "crude",
+   "flow": "M",
+   "period": 202005,
+   "unit_value_usd_t": 545.205024384001
+  },
+  {
+   "product_group": "crude",
+   "flow": "X",
+   "period": 202004,
+   "unit_value_usd_t": 270.4138987170944
+  },
+  {
+   "product_group": "gasoline",
+   "flow": "M",
+   "period": 201602,
+   "unit_value_usd_t": 136.94029722794656
+  },
+  {
+   "product_group": "gasoline",
+   "flow": "M",
+   "period": 201710,
+   "unit_value_usd_t": 136982.65219081077
+  },
+  {
+   "product_group": "gasoline",
+   "flow": "M",
+   "period": 201711,
+   "unit_value_usd_t": 58966.96206088993
+  },
+  {
+   "product_group": "gasoline",
+   "flow": "X",
+   "period": 202004,
+   "unit_value_usd_t": 450.0114968958381
+  },
+  {
+   "product_group": "gasoline",
+   "flow": "X",
+   "period": 202210,
+   "unit_value_usd_t": 4228.125
+  },
+  {
+   "product_group": "gasoline",
+   "flow": "X",
+   "period": 202212,
+   "unit_value_usd_t": 7311.627906976744
+  },
+  {
+   "product_group": "gasoline",
+   "flow": "X",
+   "period": 202608,
+   "unit_value_usd_t": 29571.428571428572
+  },
+  {
+   "product_group": "lpg",
+   "flow": "M",
+   "period": 201605,
+   "unit_value_usd_t": 141.43798024149288
+  },
+  {
+   "product_group": "lpg",
+   "flow": "M",
+   "period": 201708,
+   "unit_value_usd_t": 16.826335092685316
+  },
+  {
+   "product_group": "lpg",
+   "flow": "M",
+   "period": 202404,
+   "unit_value_usd_t": 3002.58401630322
+  },
+  {
+   "product_group": "lpg",
+   "flow": "X",
+   "period": 202405,
+   "unit_value_usd_t": 239.99801547926177
+  },
+  {
+   "product_group": "middle_heavy",
+   "flow": "M",
+   "period": 201508,
+   "unit_value_usd_t": 178.61194153184044
+  },
+  {
+   "product_group": "middle_heavy",
+   "flow": "M",
+   "period": 201509,
+   "unit_value_usd_t": 105.22474642238353
+  },
+  {
+   "product_group": "middle_heavy",
+   "flow": "M",
+   "period": 202004,
+   "unit_value_usd_t": 405.7888932770059
+  },
+  {
+   "product_group": "middle_heavy",
+   "flow": "M",
+   "period": 202202,
+   "unit_value_usd_t": 335.02951145638013
+  },
+  {
+   "product_group": "middle_heavy",
+   "flow": "M",
+   "period": 202404,
+   "unit_value_usd_t": 2086.46030042688
+  },
+  {
+   "product_group": "middle_heavy",
+   "flow": "RX",
+   "period": 201103,
+   "unit_value_usd_t": 16352.941176470587
+  },
+  {
+   "product_group": "middle_heavy",
+   "flow": "RX",
+   "period": 201105,
+   "unit_value_usd_t": 16352.941176470587
+  },
+  {
+   "product_group": "middle_heavy",
+   "flow": "RX",
+   "period": 201206,
+   "unit_value_usd_t": 492.818671454219
+  },
+  {
+   "product_group": "middle_heavy",
+   "flow": "RX",
+   "period": 201209,
+   "unit_value_usd_t": 492.818671454219
+  },
+  {
+   "product_group": "middle_heavy",
+   "flow": "RX",
+   "period": 201210,
+   "unit_value_usd_t": 492.818671454219
+  },
+  {
+   "product_group": "middle_heavy",
+   "flow": "RX",
+   "period": 201212,
+   "unit_value_usd_t": 742.4410274589741
+  },
+  {
+   "product_group": "middle_heavy",
+   "flow": "X",
+   "period": 202003,
+   "unit_value_usd_t": 685.0243291353513
+  },
+  {
+   "product_group": "middle_heavy",
+   "flow": "X",
+   "period": 202004,
+   "unit_value_usd_t": 623.0213326367035
+  },
+  {
+   "product_group": "middle_heavy",
+   "flow": "X",
+   "period": 202604,
+   "unit_value_usd_t": 518.554806246459
+  },
+  {
+   "product_group": "middle_incl_blends",
+   "flow": "M",
+   "period": 201508,
+   "unit_value_usd_t": 178.61194153184044
+  },
+  {
+   "product_group": "middle_incl_blends",
+   "flow": "M",
+   "period": 201509,
+   "unit_value_usd_t": 105.22474642238353
+  },
+  {
+   "product_group": "middle_incl_blends",
+   "flow": "M",
+   "period": 202004,
+   "unit_value_usd_t": 405.7888932770059
+  },
+  {
+   "product_group": "middle_incl_blends",
+   "flow": "M",
+   "period": 202202,
+   "unit_value_usd_t": 335.02951145638013
+  },
+  {
+   "product_group": "middle_incl_blends",
+   "flow": "M",
+   "period": 202404,
+   "unit_value_usd_t": 2086.46030042688
+  },
+  {
+   "product_group": "middle_incl_blends",
+   "flow": "RX",
+   "period": 201103,
+   "unit_value_usd_t": 16352.941176470587
+  },
+  {
+   "product_group": "middle_incl_blends",
+   "flow": "RX",
+   "period": 201105,
+   "unit_value_usd_t": 16352.941176470587
+  },
+  {
+   "product_group": "middle_incl_blends",
+   "flow": "RX",
+   "period": 201206,
+   "unit_value_usd_t": 492.818671454219
+  },
+  {
+   "product_group": "middle_incl_blends",
+   "flow": "RX",
+   "period": 201209,
+   "unit_value_usd_t": 492.818671454219
+  },
+  {
+   "product_group": "middle_incl_blends",
+   "flow": "RX",
+   "period": 201210,
+   "unit_value_usd_t": 492.818671454219
+  },
+  {
+   "product_group": "middle_incl_blends",
+   "flow": "RX",
+   "period": 201212,
+   "unit_value_usd_t": 742.4410274589741
+  },
+  {
+   "product_group": "middle_incl_blends",
+   "flow": "X",
+   "period": 202003,
+   "unit_value_usd_t": 685.0243291353513
+  },
+  {
+   "product_group": "middle_incl_blends",
+   "flow": "X",
+   "period": 202004,
+   "unit_value_usd_t": 623.0213326367035
+  },
+  {
+   "product_group": "middle_incl_blends",
+   "flow": "X",
+   "period": 202604,
+   "unit_value_usd_t": 518.554806246459
+  },
+  {
+   "product_group": "total_2710",
+   "flow": "M",
+   "period": 201509,
+   "unit_value_usd_t": 151.02580983361918
+  },
+  {
+   "product_group": "total_2710",
+   "flow": "M",
+   "period": 202004,
+   "unit_value_usd_t": 330.1846087479699
+  },
+  {
+   "product_group": "total_2710",
+   "flow": "RX",
+   "period": 201103,
+   "unit_value_usd_t": 16352.941176470587
+  },
+  {
+   "product_group": "total_2710",
+   "flow": "RX",
+   "period": 201105,
+   "unit_value_usd_t": 16352.941176470587
+  },
+  {
+   "product_group": "total_2710",
+   "flow": "RX",
+   "period": 201206,
+   "unit_value_usd_t": 492.818671454219
+  },
+  {
+   "product_group": "total_2710",
+   "flow": "RX",
+   "period": 201209,
+   "unit_value_usd_t": 935.9679904220997
+  },
+  {
+   "product_group": "total_2710",
+   "flow": "RX",
+   "period": 201210,
+   "unit_value_usd_t": 935.9679904220997
+  },
+  {
+   "product_group": "total_2710",
+   "flow": "RX",
+   "period": 201212,
+   "unit_value_usd_t": 846.3061982739979
+  },
+  {
+   "product_group": "total_2710",
+   "flow": "X",
+   "period": 202003,
+   "unit_value_usd_t": 683.2743680345694
+  },
+  {
+   "product_group": "total_2710",
+   "flow": "X",
+   "period": 202004,
+   "unit_value_usd_t": 621.931976074745
+  },
+  {
+   "product_group": "total_2710",
+   "flow": "X",
+   "period": 202604,
+   "unit_value_usd_t": 618.711269634517
+  },
+  {
+   "product_group": "waste_oil",
+   "flow": "M",
+   "period": 201502,
+   "unit_value_usd_t": 2538.461538461538
+  },
+  {
+   "product_group": "waste_oil",
+   "flow": "M",
+   "period": 201507,
+   "unit_value_usd_t": 963.7369391518132
+  },
+  {
+   "product_group": "waste_oil",
+   "flow": "M",
+   "period": 201508,
+   "unit_value_usd_t": 166.66666666666666
+  },
+  {
+   "product_group": "waste_oil",
+   "flow": "M",
+   "period": 201604,
+   "unit_value_usd_t": 2941.1764705882356
+  },
+  {
+   "product_group": "waste_oil",
+   "flow": "M",
+   "period": 201707,
+   "unit_value_usd_t": 3749.9999999999995
+  },
+  {
+   "product_group": "waste_oil",
+   "flow": "M",
+   "period": 201709,
+   "unit_value_usd_t": 7000.0
+  },
+  {
+   "product_group": "waste_oil",
+   "flow": "M",
+   "period": 201712,
+   "unit_value_usd_t": 13000.0
+  },
+  {
+   "product_group": "waste_oil",
+   "flow": "M",
+   "period": 201802,
+   "unit_value_usd_t": 556.8581237821286
+  },
+  {
+   "product_group": "waste_oil",
+   "flow": "M",
+   "period": 202207,
+   "unit_value_usd_t": 162.24719101123594
+  },
+  {
+   "product_group": "waste_oil",
+   "flow": "M",
+   "period": 202410,
+   "unit_value_usd_t": 2105.263157894737
+  },
+  {
+   "product_group": "waste_oil",
+   "flow": "M",
+   "period": 202411,
+   "unit_value_usd_t": 2047.6190476190475
+  },
+  {
+   "product_group": "waste_oil",
+   "flow": "M",
+   "period": 202512,
+   "unit_value_usd_t": 87500.0
+  },
+  {
+   "product_group": "waste_oil",
+   "flow": "X",
+   "period": 201503,
+   "unit_value_usd_t": 4705.882352941177
+  }
+ ],
+ "usable_obs_by_product": {
+  "biodiesel_blend": 1528,
+  "crude": 1794,
+  "gasoline": 4569,
+  "lpg": 3087,
+  "middle_heavy": 4497,
+  "middle_incl_blends": 4523,
+  "total_2710": 4475,
+  "waste_oil": 1701
+ },
+ "reporters_bilateral": 28,
+ "concentration_rows": 9697,
+ "raw_rows": 462252,
+ "audit_rows": 14779,
+ "overlap_rows_dropped": 13751,
+ "reporters_in_bilateral": 28,
+ "tiers": {
+  "Tier 1": 15,
+  "Tier 3": 15,
+  "Tier 2": 13
+ },
+ "checks": {
+  "raw rows": 462252,
+  "duplicates on natural key": 3830,
+  "negative trade value rows": 0,
+  "negative net weight rows": 0,
+  "rows with zero value": 0,
+  "rows with netWgt null or zero": 11293,
+  "share netWgt and kg qty agree within 1%": 0.9723,
+  "rows with partner2/transport/customs not total": 0,
+  "World rows": 43080,
+  "isAggregate true among partner rows": 366194
+ }
+}

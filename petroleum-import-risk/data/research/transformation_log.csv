@@ -1,0 +1,9 @@
+operation,unit,records,how_original_is_preserved
+Sum partner rows to country total,partner rows,135970,Original rows kept in petroleum_imports_bilateral
+Fall back to World row where no partner rows exist,target series-months,578,Marked total_source = world_row
+Remove mass failing the low unit-value check,target series-months,89,import_mass_t_original keeps the value
+Use kg quantity where net weight is empty,bilateral rows,1822,mass_source records it; original fields kept
+Reject kg quantity that fails the density test,bilateral rows,3,Labelled volume estimate kept apart from mass
+Convert kg to tonnes (kg / 1000),partner rows,135970,Original kg kept in original_net_weight_kg
+Interpolate or impute target values,any,0,Not done
+Replace missing with zero,any,0,Not done
