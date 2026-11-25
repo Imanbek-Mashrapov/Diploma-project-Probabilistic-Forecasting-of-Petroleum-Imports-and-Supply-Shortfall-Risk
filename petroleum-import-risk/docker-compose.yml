@@ -1,0 +1,23 @@
+# docker compose up --build   ->  API on http://localhost:8000/docs, dashboard on http://localhost:8501
+# Needs data/research, data/modeling and reports/phase3 built first (python run.py phase2 / features / backtest / evaluate).
+services:
+  api:
+    build: .
+    command: uvicorn src.monitor.api:app --host 0.0.0.0 --port 8000
+    volumes:
+      - ./data:/app/data:ro
+      - ./reports:/app/reports:ro
+    ports: ["8000:8000"]
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+  dashboard:
+    build: .
+    command: streamlit run src/monitor/dashboard.py --server.address 0.0.0.0 --server.port 8501
+    environment:
+      MONITOR_API_URL: http://api:8000
+    ports: ["8501:8501"]
+    depends_on:
+      api: {condition: service_healthy}

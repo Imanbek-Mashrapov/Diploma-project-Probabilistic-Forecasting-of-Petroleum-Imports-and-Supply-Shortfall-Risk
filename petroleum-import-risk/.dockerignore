@@ -1,0 +1,9 @@
+.venv
+.env
+data
+reports
+logs
+notebooks
+deliverables
+**/__pycache__
+.pytest_cache

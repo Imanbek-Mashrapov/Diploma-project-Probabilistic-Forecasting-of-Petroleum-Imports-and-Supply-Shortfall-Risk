@@ -1,6 +1,6 @@
 # Petroleum import data pipeline
 
-Reproducible collection and validation of monthly refined petroleum import data for Kyrgyzstan and other landlocked economies. This stage covers data only: there are no forecasting models here.
+Reproducible collection and validation of monthly refined petroleum import data for Kyrgyzstan and other landlocked economies. Phases 1-2 collect and validate the data; Phase 3 forecasts imports and shortfall risk and serves the results through the Fuel Import Risk Monitor.
 
 Start with [reports/phase2/research_feasibility_report.md](reports/phase2/research_feasibility_report.md). It supersedes the Phase 1 [data feasibility assessment](reports/data_feasibility_assessment.md), which is kept as a record.
 
@@ -61,6 +61,35 @@ Then compare the sourced shock-event calendar in `config/shock_events.csv` with 
 ```bash
 .venv/Scripts/python run.py events
 ```
+
+Phase 3 builds the as-of feature store, runs the rolling-origin backtest for every model, then calibrates, evaluates and writes
+`reports/phase3/results.md`. Rules are frozen in `config/settings.yaml` (`modeling`) and explained in
+[docs/decision_log.md](docs/decision_log.md). Outputs in `data/modeling/` are git-ignored and regenerable.
+
+```bash
+.venv/Scripts/python run.py features
+```
+```bash
+.venv/Scripts/python run.py backtest
+```
+```bash
+.venv/Scripts/python run.py evaluate
+```
+
+`backtest --only lgbm_global,snaive` reruns selected models and keeps the others in the archive. The full backtest takes
+about 15-30 minutes on 12 cores; SARIMA and the neural models take longest.
+
+### Risk monitor
+
+```bash
+.venv/Scripts/python -m uvicorn src.monitor.api:app --port 8000
+```
+```bash
+.venv/Scripts/python -m streamlit run src/monitor/dashboard.py
+```
+
+The API documents itself at <http://localhost:8000/docs>. `docker compose up --build` runs both services from the same image,
+with `data/` and `reports/` mounted read-only.
 
 `process` runs before `panel` because the panel reporter list comes from the coverage report. `run.py load` needs `DATABASE_URL` and a database with `sql/schema.sql` applied.
 
