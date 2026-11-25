@@ -2,6 +2,7 @@
 
 Stages, in order: refs, availability, pilot, audit, panel, external, process, reports, load
 Phase 2: validation_pull, phase2, events
+Phase 3: features, backtest, evaluate (python run.py backtest --only lgbm_global,snaive reruns some models)
 """
 import argparse
 import json
@@ -119,10 +120,17 @@ def stage_validation_pull(settings):
     run_tasks(client, "kgz_all_goods", totals, "kgz_all_goods")
 
 
+def live_origin(settings):
+    """Last complete month before the snapshot date: the newest origin the data can support."""
+    return (pd.Timestamp(settings["snapshot_id"]).to_period("M") - 1).to_timestamp()
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("stage")
-    stage = parser.parse_args().stage
+    parser.add_argument("--only", help="comma-separated model names for the backtest stage")
+    args = parser.parse_args()
+    stage = args.stage
     settings = load_settings()  # loads .env first, so the log filter knows the keys to mask
     setup_logging(stage)
     stages = {"refs": stage_refs, "availability": stage_availability, "pilot": stage_pilot, "audit": stage_audit, "panel": stage_panel, "validation_pull": stage_validation_pull}
@@ -142,6 +150,15 @@ def main():
         from src.research.events import run as run_events
         from src.utils.config import DATA, REPORTS
         run_events(pd.read_parquet(DATA / "research" / "petroleum_imports_monthly.parquet"), pd.read_csv(REPORTS / "series_eligibility.csv"))
+    elif stage == "features":
+        from src.modeling.features import store
+        store(settings, last_origin=live_origin(settings))
+    elif stage == "backtest":
+        from src.modeling.backtest import run as run_backtest
+        run_backtest(settings, live_origin(settings), set(args.only.split(",")) if args.only else None)
+    elif stage == "evaluate":
+        from src.modeling.evaluate import run as run_evaluate
+        run_evaluate(settings)
     elif stage == "load":
         from src.database.load import load_all
         load_all()
