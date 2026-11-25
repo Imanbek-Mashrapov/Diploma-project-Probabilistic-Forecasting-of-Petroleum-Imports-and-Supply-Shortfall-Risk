@@ -14,6 +14,53 @@ def scaled_pinball(actual, quantiles, scale):
     return loss / scale
 
 
+def quantile_weights(levels=LEVELS):
+    """Integration weights for the stored quantile levels: each level gets the share of (0, 1) closer to it than to any other."""
+    lv = np.asarray(levels, float)
+    edges = np.concatenate([[0.0], (lv[1:] + lv[:-1]) / 2, [1.0]])
+    return np.diff(edges)
+
+
+def crps_from_quantiles(actual, quantiles, levels=LEVELS):
+    """CRPS approximated from stored quantiles: 2 * sum_i w_i * pinball_i (CRPS = 2 * integral of the pinball loss over the level).
+
+    The weights are nearest-level shares of (0, 1), so the tails beyond the outermost levels are
+    carried by those levels. This is an approximation, not an exact CRPS. quantiles: (n, len(levels)).
+    """
+    lv = np.asarray(levels, float)
+    diff = np.asarray(actual, float)[:, None] - np.asarray(quantiles, float)
+    loss = np.maximum(lv * diff, (lv - 1) * diff)
+    return 2 * (loss * quantile_weights(lv)).sum(axis=1)
+
+
+def crossing_rate(quantiles):
+    """Share of rows whose quantiles are not non-decreasing in the level (before any sorting)."""
+    q = np.asarray(quantiles, float)
+    ok = ~np.isnan(q).any(axis=1)
+    return float((np.diff(q[ok], axis=1) < 0).any(axis=1).mean()) if ok.any() else np.nan
+
+
+def quantile_hit_rates(actual, quantiles):
+    """Share of outcomes at or below each stored quantile; should equal the level when calibrated."""
+    a = np.asarray(actual, float)[:, None]
+    q = np.asarray(quantiles, float)
+    ok = ~(np.isnan(a) | np.isnan(q)).any(axis=1)
+    return (a[ok] <= q[ok]).mean(axis=0)
+
+
+def pit_counts(pit, bins=10):
+    """Share of PIT values in `bins` equal-width bins (uniform = 1/bins each)."""
+    p = np.asarray(pit, float)
+    p = p[~np.isnan(p)]
+    return np.histogram(p, bins=bins, range=(0, 1))[0] / max(len(p), 1)
+
+
+def point_errors(actual, point, scale):
+    """Absolute, squared and scaled errors of a point forecast (tonnes), for MAE, RMSE, WAPE and RMSSE."""
+    e = np.asarray(actual, float) - np.asarray(point, float)
+    return {"abs_err": np.abs(e), "sq_err": e ** 2, "sq_scaled": (e / np.asarray(scale, float)) ** 2}
+
+
 def recall_at_budget(y, score, budget):
     """Share of true shortfalls among the top `budget` share of cases ranked by score."""
     y, score = np.asarray(y, bool), np.asarray(score, float)

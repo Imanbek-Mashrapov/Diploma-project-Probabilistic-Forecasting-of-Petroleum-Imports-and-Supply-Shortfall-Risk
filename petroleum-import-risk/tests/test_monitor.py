@@ -56,3 +56,9 @@ def test_suppliers_shares_sum_to_one(client):
 def test_events_for_kyrgyzstan_include_2026_crisis(client):
     ids = {e["event_id"] for e in client.get("/events/KGZ").json()}
     assert "KGZ_2026_SUPPLY_CRISIS" in ids
+
+
+def test_no_user_facing_shortfall_risk_wording():
+    from pathlib import Path
+    for f in (Path(__file__).resolve().parents[1] / "src" / "monitor").glob("*.py"):
+        assert "shortfall risk" not in f.read_text(encoding="utf-8").lower(), f.name

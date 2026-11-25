@@ -12,8 +12,10 @@ from src.monitor import service as svc
 
 log = logging.getLogger("monitor.api")
 app = FastAPI(title="Fuel Import Risk Monitor", version="1.0",
-              description="Probabilistic forecasts of monthly refined-fuel imports and supply-shortfall risk "
-                          "for landlocked economies. Research prototype; data: UN Comtrade and public sources.")
+              description="Probabilistic forecasts of monthly refined-fuel imports and an import-shortfall signal "
+                          "for landlocked economies. The p_shortfall fields are the import-shortfall signal probability "
+                          "(imports below 75% of the seasonal baseline), not a probability of physical shortage; domestic "
+                          "production, stocks and FX are not observed. Research prototype; data: UN Comtrade and public sources.")
 
 ISO3 = Path(..., pattern="^[A-Za-z]{3}$", description="ISO3 country code, e.g. KGZ")
 PRODUCT = Path(..., pattern="^(gasoline|distillates)$")

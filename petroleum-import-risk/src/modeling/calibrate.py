@@ -47,6 +47,7 @@ def conformalise(forecasts, feats, window=24, min_scores=30):
                 f.loc[now, hi + "_c"] = f.loc[now, hi] + q
             f.loc[now, "conformal_ok"] = True
     cc = [c + "_c" for c in QCOLS]
+    f["crossed_c"] = (np.diff(f[cc].to_numpy(), axis=1) < 0).any(axis=1)  # diagnostic: conformal shifts before sorting
     f[cc] = np.sort(f[cc].to_numpy(), axis=1)
     return f.drop(columns=["target", "target_available_on"])
 

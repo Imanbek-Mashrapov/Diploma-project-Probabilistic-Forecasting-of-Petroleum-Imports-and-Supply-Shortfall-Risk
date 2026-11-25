@@ -13,3 +13,4 @@ research/literature_review/papers/**/*.pdf
 petroleum-import-risk/COMMIT_PLAN.md
 .claude/CLAUDE.md
 .claude/spec.md
+.claude

@@ -1,0 +1,4 @@
+stratum,series,cases,positives,base_rate,series_with_positive,episodes
+all,22,861,64,0.0743321718931475,12,28
+import_dominant,14,534,22,0.04119850187265917,6,12
+other,8,327,42,0.12844036697247707,6,16

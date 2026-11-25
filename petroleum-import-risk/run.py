@@ -3,6 +3,7 @@
 Stages, in order: refs, availability, pilot, audit, panel, external, process, reports, load
 Phase 2: validation_pull, phase2, events
 Phase 3: features, backtest, evaluate (python run.py backtest --only lgbm_global,snaive reruns some models)
+Vintage (R3): vintage_pull (raw only, new snapshot), vintage (compare two raw snapshots)
 """
 import argparse
 import json
@@ -159,6 +160,12 @@ def main():
     elif stage == "evaluate":
         from src.modeling.evaluate import run as run_evaluate
         run_evaluate(settings)
+    elif stage == "vintage_pull":
+        from src.research.vintage import pull
+        pull(settings)
+    elif stage == "vintage":
+        from src.research.vintage import run as run_vintage
+        run_vintage(settings)
     elif stage == "load":
         from src.database.load import load_all
         load_all()

@@ -72,19 +72,22 @@ def _block(spec, cols, feats, series, refit, block):
             tr = train[train.series_id == sid]
             if len(tr) < 40:
                 continue
-            q = spec["make"]().fit(tr, cols).predict(part)
-            out.append(_frame(part, q))
+            model = spec["make"]().fit(tr, cols)
+            out.append(_frame(part, model.predict(part), model.crossed))
     else:
         if len(train) < 200:
             return None
-        q = spec["make"]().fit(train, cols).predict(test)
-        out.append(_frame(test, q))
+        model = spec["make"]().fit(train, cols)
+        out.append(_frame(test, model.predict(test), model.crossed))
     return pd.concat(out, ignore_index=True) if out else None
 
 
-def _frame(rows, q):
+def _frame(rows, q, crossed=None):
+    """Forecast rows; `crossed` records whether the learner's raw quantiles crossed before sorting (diagnostic)."""
     f = rows[["origin", "series_id", "task"]].reset_index(drop=True)
     f[QCOLS] = q
+    if crossed is not None:
+        f["crossed_raw"] = np.asarray(crossed, bool)
     return f
 
 

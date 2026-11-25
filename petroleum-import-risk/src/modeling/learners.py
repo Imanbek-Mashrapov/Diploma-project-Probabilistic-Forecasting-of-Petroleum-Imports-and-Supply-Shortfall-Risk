@@ -10,6 +10,12 @@ import pandas as pd
 LEVELS = [0.025, 0.1, 0.5, 0.9, 0.975]
 
 
+def _sorted(learner, raw):
+    """Sort quantiles so they never cross, remembering in `learner.crossed` which rows needed it (diagnostic only)."""
+    learner.crossed = (np.diff(raw, axis=1) < 0).any(axis=1)
+    return np.sort(raw, axis=1)
+
+
 class LightGBMQuantile:
     def __init__(self, params, seed=0, with_id=True):
         self.params, self.seed, self.with_id = params, seed, with_id
@@ -31,7 +37,7 @@ class LightGBMQuantile:
 
     def predict(self, test):
         x = self._x(test)
-        return np.sort(np.column_stack([m.predict(x) for m in self.models]), axis=1)
+        return _sorted(self, np.column_stack([m.predict(x) for m in self.models]))
 
 
 def pinball_torch(pred, y, levels):
@@ -137,4 +143,4 @@ class NeuralQuantile:
         X, ids = self._arrays(test)
         with torch.no_grad():
             preds = np.mean([net(X, ids).numpy() for net in self.nets], axis=0)
-        return np.sort(preds, axis=1)
+        return _sorted(self, preds)

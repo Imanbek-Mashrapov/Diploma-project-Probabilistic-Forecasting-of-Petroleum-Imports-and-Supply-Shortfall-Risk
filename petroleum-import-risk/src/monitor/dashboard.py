@@ -41,13 +41,14 @@ table = table.merge(series[["iso3", "product", "country", "tier"]], on=["iso3", 
 
 left, right = st.columns([2, 3])
 with left:
-    st.subheader("Shortfall risk, next three months")
-    st.caption("Probability that imports fall below 75% of the seasonal baseline, recalibrated on past outcomes. "
-               "Amber ≥ 20%, red ≥ 40%. In backtests the ranking was informative; the level is no more accurate than the base rate, "
-               "so read it as a priority order.")
+    st.subheader("Import-shortfall signal, next three months (watch-list)")
+    st.caption("Signal that imports fall below 75% of the seasonal baseline over the next three months (recalibrated on past outcomes). "
+               "Amber ≥ 20%, red ≥ 40%. The score ranks series by how unusual the forecast import decline is against the seasonal baseline. "
+               "In backtests it beat a supplier-concentration index but was not significantly better than simple forecasts. "
+               "It is not a probability of physical shortage: domestic production, stocks and FX are not observed.")
     show = table[["country", "product", "tier", "p_shortfall", "status", "hhi_12m", "months_since_data"]].copy()
     show["p_shortfall"] = (show.p_shortfall * 100).round(0)
-    st.dataframe(show.rename(columns={"p_shortfall": "risk %", "hhi_12m": "HHI", "months_since_data": "data age (months)"}),
+    st.dataframe(show.rename(columns={"p_shortfall": "signal %", "hhi_12m": "HHI", "months_since_data": "data age (months)"}),
                  hide_index=True, use_container_width=True,
                  column_config={"status": st.column_config.TextColumn("status")})
 
@@ -62,8 +63,11 @@ with right:
     f = pd.DataFrame([x for x in fc["forecasts"] if x["task"] != "sum3"])
     status = pick.status
     st.markdown(f"**Status:** <span style='color:{COLORS[status]};font-weight:600'>{status.upper()}</span> · "
-                f"shortfall probability {pick.p_shortfall:.0%}" if pd.notna(pick.p_shortfall) else "**Status:** unknown",
+                f"import-shortfall signal {pick.p_shortfall:.0%}" if pd.notna(pick.p_shortfall) else "**Status:** unknown",
                 unsafe_allow_html=True)
+    age = pick.get("months_since_data")
+    st.markdown("**Data age:** " + (f"{int(age)} months since the last released data" if pd.notna(age) else "unknown")
+                + " (customs data are released with a lag; the signal reflects data up to that month).")
     fig = go.Figure()
     seen = hist[hist.public_at_origin]
     later = hist[~hist.public_at_origin & hist.mass_t.notna()]

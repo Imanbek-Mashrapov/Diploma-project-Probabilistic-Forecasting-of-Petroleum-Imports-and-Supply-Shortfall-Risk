@@ -80,3 +80,27 @@ changes the scale between origins and lowers the pooled PR-AUC (0.190 to 0.137).
 
 **Monitor:** shows the rolling recalibrated probability, which is calibrated in level and has the same within-month
 ranking. The raw value is kept as `p_shortfall_raw`.
+
+## 2026-11-25: exploratory H4 benchmarks and strata (R1, R2) and a second raw vintage (R3)
+
+**Why:** the supervisor review found that every forecast beats the HHI ranking, so H4 alone does not show that the model adds
+skill; that imports are the dominant source of supply only for some series; and that v1.0 uses the latest vintage, not first
+releases. The student approved R1-R3 on 2026-11-25 (`.claude/research_decisions.md`).
+
+**What (reporting additions only; `rules_version` stays 1.0, H1-H4 and `results.json` are byte-identical to before):**
+- R1 (`src/modeling/h4_extra.py`): on the H4 cases (Tier 1, sum3, flag_75) the LightGBM (global) probability is compared with the
+  shortfall probabilities of naive, seasonal naive, 12-month mean, SARIMA and ETS, and with a persistence rule (score = last visible
+  3-month Q/B at the origin, lower = riskier; `features.persistence_ratio`, built from months released by the end of the origin
+  month, baseline by the `baseline_asof` rule). Each comparison uses the cases both scores cover and the H4 moving-block bootstrap
+  (blocks of 6 origins, 2000 resamples, seed 0). Exploratory: not Holm-adjusted, not primary tests.
+- R2: the same comparison, and H4 against HHI, split by the provisional importer type (`strict_importer` = import-dominant; producer and
+  refiner = other). The type is hand-assigned and unsourced (`reports/phase2/unresolved_issues.md` item 4). The repository holds a supply
+  balance only for Kyrgyzstan (`data/raw/energy_balance`), so no net-import ratio was built for other series. Episode counts and positives are reported per stratum.
+- R3: `run.py vintage_pull` took a second raw snapshot `2026-11-25` (settings `vintage`: the 22 reporters of the modelling panel, HS 271011,
+  271012, 271019, 271020, imports only, 2015-01 to 2026-10, keyed API). `snapshot_id` stays `2026-11-02`; `data/research/`, `data/analytical/`,
+  `data/processed/` and all model outputs were not rebuilt. `run.py vintage` compares the two raw snapshots (`reports/phase3/vintage_comparison.md`).
+  The comparison rebuilds partner-sum masses with the row-level mass rule but without the Phase 2 unit-value cleaning.
+
+**Status:** reporting and data-vintage additions decided after the test results were seen; none changes a forecast, label, tier rule or
+evaluation protocol. Output: section "Exploratory: H4 benchmarks and strata (R1, R2)" in `reports/phase3/results.md`,
+`tables/h4_exploratory_*.csv`, `tables/vintage_comparison_*.csv`.

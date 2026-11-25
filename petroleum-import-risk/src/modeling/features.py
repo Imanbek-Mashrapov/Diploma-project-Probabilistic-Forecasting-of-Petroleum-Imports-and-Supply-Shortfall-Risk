@@ -64,6 +64,24 @@ def _sum3_scale(values):
     return _seasonal_scale(q)
 
 
+def persistence_ratio(mass, avail, months, origin, years):
+    """As-of persistence score: the last complete visible 3-month ratio Q/B at `origin` (exploratory H4 benchmark, R1).
+
+    Q is the mean mass of the latest three consecutive months that were all public by the end of the origin month;
+    B is the baseline of that window (`_baseline`, same rule as `baseline_asof`) built from visible months only. Final or
+    later-released values are never used. NaN if no such window exists or B is not positive. Lower ratio = higher risk.
+    """
+    oi = months.get_loc(origin)
+    end_of = np.datetime64(pn.origin_end(origin))
+    vm = np.where(~np.isnan(mass[:oi + 1]) & (avail[:oi + 1] <= end_of), mass[:oi + 1], np.nan)
+    for e in range(oi, 1, -1):
+        q = _window_mean(vm, e)
+        if not np.isnan(q):
+            b = _baseline(vm, e, years)
+            return q / b if b > 0 else np.nan
+    return np.nan
+
+
 def _external_frame(settings, months):
     wide = pn.external_panel(settings)
     glob = wide[wide.key == "GLOBAL"].set_index("month").reindex(months)

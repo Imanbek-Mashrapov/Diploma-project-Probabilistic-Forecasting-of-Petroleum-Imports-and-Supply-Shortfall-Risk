@@ -59,11 +59,19 @@ modeling:    # Phase 3. Frozen 2026-11-24 as rules v1.0 (see docs/decision_log.m
   conformal: {window: 24, min_scores: 30}
   shortfall: {threshold: 0.75, sensitivity: [0.70, 0.80], baseline_years: 3}
   recalibration: {method: platt, window: 24, min_events: 10}   # post-hoc, added 2026-11-25 (decision log)
+  diagnostics: {pit_bins: 10}   # evaluation-only report additions (CRPS, WAPE/RMSE/MAE, PIT, crossing); no effect on forecasts
   alert_budget: 0.10            # share of series-origins flagged when recall is compared at a fixed budget
   high_dependence_share: 0.70   # largest-supplier share (median before 2023) that defines H3's series
   external_lag_months: {brent_usd_bbl: 1, GPR: 1, GPRC_RUS: 1, fx_lcu_per_usd_avg: 2, cpi_index: 2}
   lightgbm: {n_estimators: 300, learning_rate: 0.05, num_leaves: 15, min_child_samples: 20, subsample: 0.8, subsample_freq: 1, colsample_bytree: 0.8, verbose: -1}
   neural: {hidden: 64, embedding: 8, dropout: 0.1, epochs: 60, batch_size: 256, learning_rate: 0.002, weight_decay: 0.0001}
+
+vintage:     # second raw Comtrade pull for revision measurement (decision log 2026-11-25, R3); never rebuilds data/research
+  snapshot_id: "2026-11-25"
+  reference_snapshot: "2026-11-02"
+  window: {start: 201501, end: 202610}
+  hs_codes: [271011, 271012, 271019, 271020]
+  flows: "M"
 
 monitor:
   model: lgbm_global            # model whose forecasts the monitor shows

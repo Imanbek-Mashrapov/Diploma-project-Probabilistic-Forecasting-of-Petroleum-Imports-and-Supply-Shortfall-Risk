@@ -101,3 +101,70 @@ def test_recalibration_uses_only_released_outcomes_and_keeps_order():
     assert out[out.origin < origins[12]].p_short_75_rcfix.isna().all()
     first = out[out.origin == origins[0]]
     assert first.p_short_75_rc.isna().all()  # no released outcomes yet -> no recalibrated value
+
+
+def test_quantile_weights_sum_to_one_and_crps_matches_gaussian():
+    from scipy.stats import norm
+    w = mt.quantile_weights()
+    assert w.sum() == pytest.approx(1.0) and np.all(w > 0)
+    rng = np.random.default_rng(1)
+    y = rng.normal(0, 1, 4000)
+    q = np.tile(norm.ppf(mt.LEVELS), (len(y), 1))
+    approx = mt.crps_from_quantiles(y, q).mean()
+    exact = (y * (2 * norm.cdf(y) - 1) + 2 * norm.pdf(y) - 1 / np.sqrt(np.pi)).mean()  # closed-form N(0,1) CRPS
+    # five levels leave the tails coarse: the approximation runs about 11% below the exact CRPS (good for ranking models, not for absolute levels)
+    assert 0.85 * exact < approx < exact
+
+
+def test_crps_is_zero_for_a_point_mass_and_grows_with_error():
+    q = np.array([[5.0] * 5, [5.0] * 5])
+    assert mt.crps_from_quantiles(np.array([5.0, 8.0]), q)[0] == 0
+    # point mass at 5, outcome 8: pinball_i = tau_i * 3 at every level, so CRPS = 2 * 3 * sum(w * tau)
+    assert mt.crps_from_quantiles(np.array([8.0]), q[:1])[0] == pytest.approx(2 * 3 * (mt.quantile_weights() * mt.LEVELS).sum())
+
+
+def test_crossing_rate_and_hit_rates():
+    q = np.array([[0, 1, 2, 3, 4], [0, 2, 1, 3, 4], [np.nan] * 5], dtype=float)
+    assert mt.crossing_rate(q) == 0.5
+    hits = mt.quantile_hit_rates(np.array([2.5, 2.5]), np.array([[0, 1, 2, 3, 4], [0, 1, 2, 3, 4]], dtype=float))
+    assert list(hits) == [0, 0, 0, 1, 1]
+
+
+def test_pit_of_calibrated_forecasts_is_roughly_uniform():
+    from scipy.stats import norm
+    rng = np.random.default_rng(2)
+    y = rng.normal(0, 1, 5000)
+    q = np.tile(norm.ppf(mt.LEVELS), (len(y), 1))
+    share = mt.pit_counts(calibrate.cdf(q, y), 10)
+    assert share.sum() == pytest.approx(1.0)
+    assert share[0] + share[-1] == pytest.approx(0.2, abs=0.05)
+    too_narrow = mt.pit_counts(calibrate.cdf(q, 3 * y), 10)  # outcomes spread wider than forecast: U shape
+    assert too_narrow[0] + too_narrow[-1] > 0.3
+
+
+def test_point_errors_and_wape():
+    e = mt.point_errors(np.array([10.0, 20.0]), np.array([8.0, 26.0]), np.array([2.0, 3.0]))
+    assert list(e["abs_err"]) == [2.0, 6.0] and list(e["sq_err"]) == [4.0, 36.0] and list(e["sq_scaled"]) == [1.0, 4.0]
+    assert e["abs_err"].sum() / 30.0 == pytest.approx(8 / 30)
+
+
+def test_learners_record_crossing_before_sorting():
+    from src.modeling.learners import _sorted
+
+    class L:
+        pass
+    raw = np.array([[0, 1, 2, 3, 4], [0, 2, 1, 3, 4]], dtype=float)
+    learner = L()
+    out = _sorted(learner, raw)
+    assert list(learner.crossed) == [False, True] and np.all(np.diff(out, axis=1) >= 0)
+
+
+def test_conformalise_flags_crossing_after_shift():
+    origins = pd.date_range("2021-01-01", periods=30, freq="MS")
+    f = pd.DataFrame([{"model": "m", "task": "m1", "origin": o, "series_id": f"S{k}", "q025": -0.2, "q100": -0.1, "q500": 0.0, "q900": 0.1, "q975": 0.2}
+                      for o in origins for k in range(3)])
+    # outcomes far inside the interval -> negative conformal scores -> the 80% pair shrinks past the median
+    feats = f[["origin", "series_id", "task"]].assign(target=0.0, target_available_on=f.origin)
+    out = calibrate.conformalise(f, feats, window=24, min_scores=30)
+    assert "crossed_c" in out and not out[out.origin == origins[0]].crossed_c.any()
+    assert (np.diff(out[[c + "_c" for c in calibrate.QCOLS]].to_numpy(), axis=1) >= 0).all()

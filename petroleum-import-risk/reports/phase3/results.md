@@ -124,6 +124,190 @@ Brier score (the largest gain is about 0.001): the forecast carries ranking info
 origin, so it keeps each month's ranking (what the monitor shows); refitting changes the scale between origins,
 which lowers the pooled PR-AUC. The monitor shows the rolling recalibrated probability.
 
+## Further scores and calibration checks
+
+Added 2026-11-25; they do not change any number above. Same cases as the accuracy table (every model forecast the case).
+MAE, RMSE (tonnes) and WAPE are pooled over series, so large importers dominate them; MASE and RMSSE are scaled per series.
+CRPS is approximated from the five stored quantiles (2 x weighted pinball loss, scaled like MASE). It runs below the exact CRPS
+(about 11% for a normal forecast) because the tails are coarse, so use it to rank models, not for its absolute level.
+`CRPS_raw` uses the raw (non-conformal) intervals.
+
+### Point and distribution scores, h = 3
+
+| model | MASE | RMSSE | MAE_t | RMSE_t | WAPE | CRPS | CRPS_raw | n |
+|---|---|---|---|---|---|---|---|---|
+| Naive | 1.264 | 1.699 | 23,037 | 33,918 | 0.244 | 2.403 | 1.946 | 738 |
+| Seasonal naive | 1.137 | 1.582 | 22,145 | 34,535 | 0.235 | 3.041 | 2.434 | 738 |
+| 12-month mean | 0.989 | 1.325 | 18,657 | 27,916 | 0.198 | 1.878 | 1.540 | 738 |
+| ETS | 0.983 | 1.342 | 20,122 | 31,734 | 0.213 | 0.872 | 0.856 | 738 |
+| SARIMA | 1.059 | 1.472 | 21,711 | 35,285 | 0.230 | 0.996 | 0.991 | 738 |
+| LightGBM, local | 0.982 | 1.349 | 19,203 | 30,081 | 0.203 | 0.733 | 0.729 | 738 |
+| LightGBM, global | 0.976 | 1.306 | 19,063 | 28,943 | 0.202 | 0.654 | 0.630 | 738 |
+| MLP, global | 1.064 | 1.465 | 20,959 | 32,314 | 0.222 | 0.780 | 0.761 | 738 |
+| GRU, global | 1.092 | 1.513 | 21,587 | 33,051 | 0.229 | 0.816 | 0.774 | 738 |
+
+### Point and distribution scores, h = 1
+
+| model | MASE | RMSSE | MAE_t | RMSE_t | WAPE | CRPS | CRPS_raw | n |
+|---|---|---|---|---|---|---|---|---|
+| Naive | 1.200 | 1.606 | 22,224 | 33,288 | 0.236 | 1.830 | 1.663 | 778 |
+| Seasonal naive | 1.136 | 1.584 | 22,458 | 35,170 | 0.239 | 3.294 | 2.717 | 778 |
+| 12-month mean | 0.947 | 1.282 | 17,939 | 27,450 | 0.191 | 0.987 | 0.879 | 778 |
+| ETS | 0.964 | 1.324 | 19,799 | 31,290 | 0.210 | 0.756 | 0.747 | 778 |
+| SARIMA | 1.007 | 1.389 | 20,565 | 33,033 | 0.219 | 0.851 | 0.847 | 778 |
+| LightGBM, local | 0.974 | 1.308 | 19,036 | 28,932 | 0.202 | 0.699 | 0.709 | 778 |
+| LightGBM, global | 0.929 | 1.238 | 18,336 | 27,967 | 0.195 | 0.619 | 0.606 | 778 |
+| MLP, global | 1.017 | 1.356 | 20,343 | 30,743 | 0.216 | 0.730 | 0.720 | 778 |
+| GRU, global | 1.032 | 1.393 | 20,831 | 31,758 | 0.221 | 0.753 | 0.729 | 778 |
+
+### Point and distribution scores, h = 6
+
+| model | MASE | RMSSE | MAE_t | RMSE_t | WAPE | CRPS | CRPS_raw | n |
+|---|---|---|---|---|---|---|---|---|
+| Naive | 1.297 | 1.761 | 23,631 | 35,820 | 0.250 | 1.929 | 1.627 | 678 |
+| Seasonal naive | 1.148 | 1.576 | 21,594 | 32,348 | 0.228 | 3.688 | 2.773 | 678 |
+| 12-month mean | 1.036 | 1.383 | 19,264 | 28,311 | 0.204 | 3.739 | 2.951 | 678 |
+| ETS | 0.990 | 1.336 | 20,366 | 32,015 | 0.215 | 1.139 | 1.106 | 678 |
+| SARIMA | 1.069 | 1.494 | 22,081 | 35,949 | 0.233 | 1.276 | 1.268 | 678 |
+| LightGBM, local | 1.011 | 1.397 | 19,696 | 31,395 | 0.208 | 0.761 | 0.756 | 678 |
+| LightGBM, global | 1.015 | 1.358 | 19,436 | 29,049 | 0.205 | 0.683 | 0.653 | 678 |
+| MLP, global | 1.121 | 1.522 | 22,133 | 34,944 | 0.234 | 0.844 | 0.796 | 678 |
+| GRU, global | 1.154 | 1.606 | 22,790 | 36,696 | 0.241 | 0.890 | 0.827 | 678 |
+
+### Point and distribution scores, months 1-3 total
+
+| model | MASE | RMSSE | MAE_t | RMSE_t | WAPE | CRPS | CRPS_raw | n |
+|---|---|---|---|---|---|---|---|---|
+| Naive | 1.416 | 1.910 | 19,313 | 28,948 | 0.204 | 2.500 | 2.006 | 732 |
+| Seasonal naive | 1.075 | 1.478 | 16,892 | 26,978 | 0.178 | 3.066 | 2.423 | 732 |
+| 12-month mean | 1.006 | 1.341 | 14,588 | 21,573 | 0.154 | 1.941 | 1.597 | 732 |
+| ETS | 1.148 | 1.677 | 17,001 | 28,000 | 0.179 | 0.965 | 0.940 | 732 |
+| SARIMA | 1.335 | 2.014 | 19,925 | 33,177 | 0.210 | 1.159 | 1.147 | 732 |
+| LightGBM, local | 1.009 | 1.388 | 15,320 | 23,654 | 0.161 | 0.764 | 0.732 | 732 |
+| LightGBM, global | 0.981 | 1.304 | 14,998 | 22,840 | 0.158 | 0.665 | 0.634 | 732 |
+| MLP, global | 1.049 | 1.427 | 16,071 | 25,031 | 0.169 | 0.789 | 0.749 | 732 |
+| GRU, global | 1.072 | 1.482 | 16,539 | 25,021 | 0.174 | 0.832 | 0.766 | 732 |
+
+### Coverage by horizon (nominal 0.80 and 0.95)
+
+`m1`
+
+| model | cover80_raw | cover80 | cover95_raw | cover95 | n |
+|---|---|---|---|---|---|
+| Naive | 0.797 | 0.835 | 0.943 | 0.994 | 778 |
+| Seasonal naive | 0.815 | 0.866 | 0.946 | 0.986 | 778 |
+| 12-month mean | 0.808 | 0.861 | 0.963 | 0.991 | 778 |
+| ETS | 0.851 | 0.842 | 0.954 | 0.967 | 778 |
+| SARIMA | 0.870 | 0.832 | 0.960 | 0.968 | 778 |
+| LightGBM, local | 0.395 | 0.877 | 0.668 | 0.991 | 778 |
+| LightGBM, global | 0.683 | 0.856 | 0.904 | 0.970 | 778 |
+| MLP, global | 0.492 | 0.857 | 0.694 | 0.976 | 778 |
+| GRU, global | 0.509 | 0.875 | 0.695 | 0.979 | 778 |
+
+`m3`
+
+| model | cover80_raw | cover80 | cover95_raw | cover95 | n |
+|---|---|---|---|---|---|
+| Naive | 0.791 | 0.840 | 0.946 | 0.991 | 738 |
+| Seasonal naive | 0.825 | 0.875 | 0.946 | 0.985 | 738 |
+| 12-month mean | 0.805 | 0.864 | 0.962 | 0.992 | 738 |
+| ETS | 0.862 | 0.855 | 0.962 | 0.966 | 738 |
+| SARIMA | 0.885 | 0.848 | 0.959 | 0.972 | 738 |
+| LightGBM, local | 0.371 | 0.892 | 0.641 | 0.981 | 738 |
+| LightGBM, global | 0.672 | 0.864 | 0.897 | 0.978 | 738 |
+| MLP, global | 0.485 | 0.864 | 0.672 | 0.981 | 738 |
+| GRU, global | 0.489 | 0.888 | 0.705 | 0.986 | 738 |
+
+`m6`
+
+| model | cover80_raw | cover80 | cover95_raw | cover95 | n |
+|---|---|---|---|---|---|
+| Naive | 0.805 | 0.863 | 0.947 | 0.996 | 678 |
+| Seasonal naive | 0.845 | 0.882 | 0.947 | 0.991 | 678 |
+| 12-month mean | 0.811 | 0.889 | 0.956 | 0.991 | 678 |
+| ETS | 0.900 | 0.875 | 0.975 | 0.985 | 678 |
+| SARIMA | 0.903 | 0.861 | 0.972 | 0.988 | 678 |
+| LightGBM, local | 0.385 | 0.891 | 0.624 | 0.987 | 678 |
+| LightGBM, global | 0.690 | 0.879 | 0.903 | 0.984 | 678 |
+| MLP, global | 0.497 | 0.885 | 0.667 | 0.991 | 678 |
+| GRU, global | 0.490 | 0.894 | 0.664 | 0.994 | 678 |
+
+`sum3`
+
+| model | cover80_raw | cover80 | cover95_raw | cover95 | n |
+|---|---|---|---|---|---|
+| Naive | 0.805 | 0.865 | 0.939 | 0.993 | 732 |
+| Seasonal naive | 0.851 | 0.893 | 0.926 | 0.985 | 732 |
+| 12-month mean | 0.833 | 0.891 | 0.932 | 0.992 | 732 |
+| ETS | 0.866 | 0.883 | 0.973 | 0.981 | 732 |
+| SARIMA | 0.865 | 0.866 | 0.963 | 0.986 | 732 |
+| LightGBM, local | 0.437 | 0.906 | 0.727 | 0.988 | 732 |
+| LightGBM, global | 0.668 | 0.892 | 0.917 | 0.978 | 732 |
+| MLP, global | 0.488 | 0.892 | 0.680 | 0.984 | 732 |
+| GRU, global | 0.501 | 0.906 | 0.680 | 0.986 | 732 |
+
+Cases overlap across origins and series, so coverage differences of a few points are within noise.
+
+### Quantile calibration, h = 3
+
+Share of outcomes below each conformal quantile; the ideal equals the level.
+
+| model | hit_q025 | hit_q100 | hit_q500 | hit_q900 | hit_q975 |
+|---|---|---|---|---|---|
+| Naive | 0.007 | 0.095 | 0.523 | 0.935 | 0.997 |
+| Seasonal naive | 0.004 | 0.069 | 0.512 | 0.944 | 0.989 |
+| 12-month mean | 0.004 | 0.083 | 0.527 | 0.947 | 0.996 |
+| ETS | 0.014 | 0.073 | 0.472 | 0.928 | 0.980 |
+| SARIMA | 0.016 | 0.088 | 0.514 | 0.936 | 0.988 |
+| LightGBM, local | 0.012 | 0.058 | 0.499 | 0.950 | 0.993 |
+| LightGBM, global | 0.008 | 0.076 | 0.507 | 0.940 | 0.986 |
+| MLP, global | 0.014 | 0.075 | 0.499 | 0.939 | 0.995 |
+| GRU, global | 0.012 | 0.064 | 0.497 | 0.951 | 0.999 |
+
+### PIT, h = 3
+
+Share of PIT values in the two outer deciles (ideal 0.20; above it means outcomes fall outside the forecast distribution too often). With five stored quantiles the PIT is interpolated, so read the tails and the overall shape only. Full histograms: `tables/pit.csv`.
+
+| model | tails | bin1 | bin2 | bin5 | bin6 | bin9 | bin10 | n |
+|---|---|---|---|---|---|---|---|---|
+| Naive | 0.160 | 0.095 | 0.050 | 0.160 | 0.171 | 0.041 | 0.065 | 738 |
+| Seasonal naive | 0.125 | 0.069 | 0.047 | 0.191 | 0.215 | 0.035 | 0.056 | 738 |
+| 12-month mean | 0.136 | 0.083 | 0.058 | 0.159 | 0.201 | 0.039 | 0.053 | 738 |
+| ETS | 0.145 | 0.073 | 0.043 | 0.149 | 0.175 | 0.053 | 0.072 | 738 |
+| SARIMA | 0.152 | 0.088 | 0.037 | 0.165 | 0.176 | 0.045 | 0.064 | 738 |
+| LightGBM, local | 0.108 | 0.058 | 0.041 | 0.187 | 0.213 | 0.033 | 0.050 | 738 |
+| LightGBM, global | 0.136 | 0.076 | 0.047 | 0.157 | 0.154 | 0.050 | 0.060 | 738 |
+| MLP, global | 0.136 | 0.075 | 0.038 | 0.190 | 0.188 | 0.049 | 0.061 | 738 |
+| GRU, global | 0.112 | 0.064 | 0.030 | 0.187 | 0.196 | 0.038 | 0.049 | 738 |
+
+![PIT](figures/fig07_pit_h3.png)
+
+### Quantile crossing
+
+Share of forecast rows whose quantiles were out of order before sorting. `crossed_learner` is the learner's own output (recorded only for forecasts produced after this diagnostic was added; n/a otherwise); `crossed_conformal` is the share after the conformal shift. Sorted quantiles are what every score above uses.
+
+| model | rows | crossed_learner | crossed_conformal |
+|---|---|---|---|
+| abl_from_2018 | 5310 | n/a | 0.0000 |
+| abl_no_external | 5310 | n/a | 0.0004 |
+| abl_no_shock | 5310 | n/a | 0.0015 |
+| abl_no_supplier | 5310 | n/a | 0.0009 |
+| abl_no_uv | 5310 | n/a | 0.0002 |
+| abl_own_history | 5310 | n/a | 0.0004 |
+| abl_strict_importers | 5310 | n/a | 0.0000 |
+| abl_train_to_2021 | 5310 | n/a | 0.0000 |
+| abl_without_kgz | 5310 | n/a | 0.0002 |
+| ETS | 4769 | n/a | 0.0000 |
+| GRU, global | 5310 | n/a | 0.0000 |
+| LightGBM, global | 5310 | n/a | 0.0004 |
+| LightGBM, local | 4842 | n/a | 0.0000 |
+| 12-month mean | 5310 | n/a | 0.0000 |
+| MLP, global | 5310 | n/a | 0.0000 |
+| Naive | 5310 | n/a | 0.0000 |
+| SARIMA | 5310 | n/a | 0.0000 |
+| Seasonal naive | 5310 | n/a | 0.0000 |
+
+
 ## Ablation (LightGBM global, h = 3)
 
 One change at a time. Positive change means the variant is worse than the full model.
@@ -152,9 +336,72 @@ One change at a time. Positive change means the variant is worse than the full m
 
 Per-product accuracy for Kyrgyzstan: `tables/accuracy_kyrgyzstan.csv`.
 
+## Exploratory: H4 benchmarks and strata (R1, R2)
+
+Added 2026-11-25 after the primary results were seen (`docs/decision_log.md`). **Exploratory: these are not Holm-adjusted primary tests,
+and H1-H4 above are unchanged.** Same Tier-1 next-three-month cases and label (`flag_75`) as H4, scored with the LightGBM (global) shortfall
+probability. Each row compares it with one other score on the cases both cover, so case counts differ by row (the local models do not forecast
+every case). Difference is PR-AUC(LightGBM) minus PR-AUC(benchmark), with the same moving-block bootstrap as H4 (blocks of 6 origins, 2000
+resamples); p is one-sided, the share of resamples with a difference at or below zero. The persistence rule scores a case by the last
+visible three-month ratio Q/B at the origin (the latest three consecutive months public by the end of the origin month against their as-of
+seasonal baseline; lower ratio = higher risk), built only from data released by the origin. Recall is at a 10% alert budget on the shared cases.
+
+### R1: secondary benchmarks, all Tier-1 series
+
+| Benchmark | Cases | Positives | PR-AUC LightGBM | PR-AUC benchmark | Difference (95% CI) | p (one-sided) | Recall@10% LightGBM | Recall@10% benchmark |
+|---|---|---|---|---|---|---|---|---|
+| Naive | 861 | 64 | 0.190 | 0.165 | +0.025 (-0.018 to +0.137) | 0.096 | 0.30 | 0.23 |
+| Seasonal naive | 861 | 64 | 0.190 | 0.150 | +0.040 (-0.047 to +0.160) | 0.233 | 0.30 | 0.28 |
+| 12-month mean | 861 | 64 | 0.190 | 0.152 | +0.038 (-0.018 to +0.147) | 0.095 | 0.30 | 0.23 |
+| SARIMA | 861 | 64 | 0.190 | 0.159 | +0.031 (-0.037 to +0.174) | 0.192 | 0.30 | 0.25 |
+| ETS | 796 | 60 | 0.198 | 0.226 | -0.028 (-0.131 to +0.111) | 0.705 | 0.28 | 0.35 |
+| Persistence (last visible Q/B) | 861 | 64 | 0.190 | 0.150 | +0.040 (-0.069 to +0.192) | 0.255 | 0.30 | 0.22 |
+| HHI ranking | 861 | 64 | 0.190 | 0.065 | +0.125 (+0.058 to +0.271) | <0.001 | 0.30 | 0.08 |
+
+### R2: strata by import dominance
+
+**The split uses the provisional importer type, which is hand-assigned and unsourced** (`reports/phase2/unresolved_issues.md` item 4).
+"Import-dominant" = provisional `strict_importer` (imports assumed to be the dominant source of supply); "other" = provisional producer or
+refiner. Only Kyrgyzstan has a supply balance in the data, so dominance is not verified for any other series. Episodes are runs of
+consecutive-origin positives within a series (overlapping three-month windows make positives cluster, so episodes, not positives, show the
+effective number of events).
+
+| Stratum | Series | Cases | Positives | Base rate | Series with a positive | Episodes |
+|---|---|---|---|---|---|---|
+| all | 22 | 861 | 64 | 0.074 | 12 | 28 |
+| import_dominant | 14 | 534 | 22 | 0.041 | 6 | 12 |
+| other | 8 | 327 | 42 | 0.128 | 6 | 16 |
+
+**Import-dominant series (provisional, unsourced)**
+
+| Benchmark | Cases | Positives | PR-AUC LightGBM | PR-AUC benchmark | Difference (95% CI) | p (one-sided) | Recall@10% LightGBM | Recall@10% benchmark |
+|---|---|---|---|---|---|---|---|---|
+| Naive | 534 | 22 | 0.094 | 0.099 | -0.005 (-0.050 to +0.072) | 0.383 | 0.23 | 0.27 |
+| Seasonal naive | 534 | 22 | 0.094 | 0.140 | -0.046 (-0.213 to +0.018) | 0.912 | 0.23 | 0.27 |
+| 12-month mean | 534 | 22 | 0.094 | 0.081 | +0.012 (-0.017 to +0.067) | 0.149 | 0.23 | 0.18 |
+| SARIMA | 534 | 22 | 0.094 | 0.111 | -0.017 (-0.119 to +0.041) | 0.695 | 0.23 | 0.36 |
+| ETS | 491 | 20 | 0.103 | 0.187 | -0.084 (-0.312 to +0.025) | 0.939 | 0.30 | 0.20 |
+| Persistence (last visible Q/B) | 534 | 22 | 0.094 | 0.071 | +0.023 (-0.043 to +0.103) | 0.244 | 0.23 | 0.14 |
+| HHI ranking | 534 | 22 | 0.094 | 0.066 | +0.028 (-0.052 to +0.122) | 0.215 | 0.23 | 0.05 |
+
+**Other series (provisional producer / refiner, unsourced)**
+
+| Benchmark | Cases | Positives | PR-AUC LightGBM | PR-AUC benchmark | Difference (95% CI) | p (one-sided) | Recall@10% LightGBM | Recall@10% benchmark |
+|---|---|---|---|---|---|---|---|---|
+| Naive | 327 | 42 | 0.261 | 0.285 | -0.024 (-0.106 to +0.164) | 0.561 | 0.24 | 0.21 |
+| Seasonal naive | 327 | 42 | 0.261 | 0.171 | +0.090 (-0.011 to +0.286) | 0.053 | 0.24 | 0.12 |
+| 12-month mean | 327 | 42 | 0.261 | 0.213 | +0.048 (-0.031 to +0.224) | 0.163 | 0.24 | 0.17 |
+| SARIMA | 327 | 42 | 0.261 | 0.203 | +0.058 (-0.034 to +0.282) | 0.150 | 0.24 | 0.14 |
+| ETS | 305 | 40 | 0.258 | 0.259 | -0.001 (-0.099 to +0.211) | 0.496 | 0.23 | 0.15 |
+| Persistence (last visible Q/B) | 327 | 42 | 0.261 | 0.234 | +0.027 (-0.135 to +0.282) | 0.352 | 0.24 | 0.24 |
+| HHI ranking | 327 | 42 | 0.261 | 0.108 | +0.153 (+0.067 to +0.378) | <0.001 | 0.24 | 0.00 |
+
+The `HHI ranking` row in each table is H4's own comparison within the stratum. Strata are small and positives are few, so intervals are wide
+and these rows describe, not test.
+
 ## Limits of this run
 
-- One Comtrade snapshot (2026-11-02). Release dates are those of the current record, so older months may carry revised values; revisions cannot be measured until a second snapshot exists.
+- One Comtrade snapshot (2026-11-02). Release dates are those of the current record, so older months may carry revised values; a second raw snapshot (2026-11-25) was pulled only to measure revisions (`vintage_comparison.md`); every result here uses the first.
 - Shortfall labels are descriptive and weak (Phase 2); results for H4 depend on which label is used.
 - Random forest, XGBoost, TCN, N-BEATS proper and the Temporal Fusion Transformer from the proposal were not run; the neural arm is a residual MLP and a GRU of the same size class.
 - Hyperparameters are fixed defaults from `config/settings.yaml`, not tuned.
