@@ -18,3 +18,4 @@ deliverables/*.pdf
 deliverables/**/*.pptx
 .claude/
 ~$*
+data/modeling/

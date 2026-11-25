@@ -41,3 +41,31 @@ quality:
   uv_relative: {low: 0.5, high: 2.0, min_value_share_with_mass: 0.5}
   robust_z_threshold: 4.0
   partner_vs_world_tolerance: 0.05
+
+modeling:    # Phase 3. Frozen 2026-11-24 as rules v1.0 (see docs/decision_log.md); change only with a log entry
+  rules_version: "1.0"
+  products: {gasoline: gasoline, distillates: middle_incl_blends}
+  tiers: {evaluation: ["Tier 1"], training: ["Tier 1", "Tier 2"]}
+  first_origin: 201612          # first origin that produces training examples
+  calibration_start: 202101     # origins 2021-01..2022-12 only feed the conformal step and tuning
+  evaluation_start: 202301      # first evaluated origin (proposal 3.11)
+  horizons: [1, 3, 6]           # months after the origin month; "sum3" = total of months 1-3
+  quantiles: [0.025, 0.1, 0.5, 0.9, 0.975]
+  n_lags: 18                    # own-history window, in calendar months before and including the origin month
+  level_window: 12              # months used for the series level that targets are measured against
+  min_level_obs: 6
+  refit_every: 3                # learned global models are refitted every 3 origins
+  seeds: [0, 1, 2, 3, 4]
+  conformal: {window: 24, min_scores: 30}
+  shortfall: {threshold: 0.75, sensitivity: [0.70, 0.80], baseline_years: 3}
+  recalibration: {method: platt, window: 24, min_events: 10}   # post-hoc, added 2026-11-25 (decision log)
+  alert_budget: 0.10            # share of series-origins flagged when recall is compared at a fixed budget
+  high_dependence_share: 0.70   # largest-supplier share (median before 2023) that defines H3's series
+  external_lag_months: {brent_usd_bbl: 1, GPR: 1, GPRC_RUS: 1, fx_lcu_per_usd_avg: 2, cpi_index: 2}
+  lightgbm: {n_estimators: 300, learning_rate: 0.05, num_leaves: 15, min_child_samples: 20, subsample: 0.8, subsample_freq: 1, colsample_bytree: 0.8, verbose: -1}
+  neural: {hidden: 64, embedding: 8, dropout: 0.1, epochs: 60, batch_size: 256, learning_rate: 0.002, weight_decay: 0.0001}
+
+monitor:
+  model: lgbm_global            # model whose forecasts the monitor shows
+  risk_bands: {amber: 0.20, red: 0.40}   # shortfall probability (threshold 0.75) that turns a series amber / red
+  history_months: 48

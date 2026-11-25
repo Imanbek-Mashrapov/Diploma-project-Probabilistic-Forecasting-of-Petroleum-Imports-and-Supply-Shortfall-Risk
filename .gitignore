@@ -7,15 +7,9 @@ __pycache__/
 
 # Secrets
 .env
-
-# Office lock files
 ~$*
-
-# Claude Code local settings
 .claude/settings.local.json
-
-# Published paper PDFs (copyrighted; metadata and scripts are kept)
 research/literature_review/papers/**/*.pdf
-
-# Local working notes from the analysis repo
 petroleum-import-risk/COMMIT_PLAN.md
+.claude/CLAUDE.md
+.claude/spec.md
